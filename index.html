@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CC News Desk</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f5f0;
+  --surface: #ffffff;
+  --surface-2: #fbfaf6;
+  --border: #e6e2d8;
+  --border-strong: #d6d1c2;
+  --ink: #14181f;
+  --ink-2: #424a55;
+  --ink-3: #7e8694;
+  --accent: #d97706;
+  --accent-2: #b45309;
+  --header-bg: #14181f;
+  --header-fg: #f0eee5;
+  --critical: #b91c1c;
+  --major: #ea580c;
+  --minor: #6b7280;
+  --cat-devaluation: #b91c1c;
+  --cat-offer: #15803d;
+  --cat-launch: #1d4ed8;
+  --cat-social: #7c3aed;
+  --cat-benefit: #0e7490;
+  --shadow-sm: 0 1px 2px rgba(20, 24, 31, 0.04);
+  --shadow-md: 0 2px 8px rgba(20, 24, 31, 0.08);
+  --mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body {
+  background: var(--bg); color: var(--ink);
+  font-family: var(--sans); font-size: 14px; line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+input, select { font-family: inherit; font-size: inherit; color: inherit; }
+a { color: inherit; text-decoration: none; }
+
+.header { background: var(--header-bg); color: var(--header-fg); border-bottom: 3px solid var(--accent); position: sticky; top: 0; z-index: 50; }
+.header-inner { max-width: 1400px; margin: 0 auto; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand-logo { width: 36px; height: 36px; background: var(--accent); color: #fff; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 18px; font-family: var(--mono); letter-spacing: -0.02em; }
+.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.brand-name { font-weight: 700; font-size: 15px; letter-spacing: 0.06em; text-transform: uppercase; }
+.brand-tag { font-size: 11px; color: #9aa0aa; margin-top: 2px; letter-spacing: 0.02em; }
+.header-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.last-updated { font-family: var(--mono); font-size: 11px; color: #9aa0aa; letter-spacing: 0.02em; }
+.last-updated strong { color: var(--header-fg); font-weight: 500; }
+
+.btn { padding: 8px 14px; border-radius: 4px; font-size: 12px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; transition: all 0.12s; display: inline-flex; align-items: center; gap: 6px; }
+.btn-primary { background: var(--accent); color: #fff; }
+.btn-primary:hover { background: var(--accent-2); }
+.btn-primary:disabled { opacity: 0.6; cursor: wait; }
+.btn-ghost { background: transparent; color: var(--header-fg); border: 1px solid #2a2f38; }
+.btn-ghost:hover { background: #1f242d; border-color: #3a4048; }
+.btn .spinner { width: 12px; height: 12px; border: 2px solid rgba(255,255,255,0.4); border-top-color: #fff; border-radius: 50%; animation: spin 0.7s linear infinite; display: none; }
+.btn.loading .spinner { display: inline-block; }
+.btn.loading .btn-label { opacity: 0.6; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.ticker { background: #2a0f0f; color: #fecaca; border-bottom: 1px solid #4a1818; font-family: var(--mono); font-size: 12px; overflow: hidden; position: relative; height: 32px; display: flex; align-items: center; }
+.ticker-label { flex-shrink: 0; background: var(--critical); color: #fff; padding: 5px 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 10px; height: 100%; display: flex; align-items: center; }
+.ticker-track { display: flex; white-space: nowrap; animation: ticker-scroll 60s linear infinite; padding-left: 100%; }
+.ticker-item { display: inline-flex; align-items: center; gap: 8px; padding: 0 32px; }
+.ticker-item .dot { color: var(--critical); font-weight: 700; }
+.ticker-item strong { color: #fef2f2; font-weight: 600; }
+@keyframes ticker-scroll { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+
+.controls { background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 40; }
+.controls-inner { max-width: 1400px; margin: 0 auto; padding: 0 20px; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.tabs { display: flex; gap: 0; overflow-x: auto; }
+.tab { padding: 14px 16px; font-size: 13px; font-weight: 500; color: var(--ink-2); border-bottom: 2px solid transparent; transition: all 0.1s; white-space: nowrap; display: inline-flex; align-items: center; gap: 8px; }
+.tab:hover { color: var(--ink); background: var(--surface-2); }
+.tab.active { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
+.tab .count { background: var(--bg); color: var(--ink-3); padding: 2px 7px; border-radius: 999px; font-size: 11px; font-family: var(--mono); font-weight: 500; }
+.tab.active .count { background: var(--accent); color: #fff; }
+.filters { display: flex; gap: 8px; align-items: center; padding: 8px 0; }
+.filter-input { padding: 7px 10px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); font-size: 13px; width: 200px; transition: border-color 0.1s; }
+.filter-input:focus { outline: none; border-color: var(--accent); }
+.filter-select { padding: 7px 10px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); font-size: 13px; cursor: pointer; }
+
+.main { max-width: 1400px; margin: 0 auto; padding: 20px; position: relative; }
+.banner { background: #fef3c7; border: 1px solid #fde68a; border-radius: 6px; padding: 10px 14px; margin-bottom: 16px; font-size: 13px; color: #78350f; display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+.banner.success { background: #d1fae5; border-color: #a7f3d0; color: #065f46; }
+.banner.error { background: #fee2e2; border-color: #fecaca; color: #991b1b; }
+.banner-text { flex: 1; min-width: 0; }
+.banner-actions { display: flex; gap: 8px; flex-shrink: 0; }
+.banner button { font-size: 12px; text-decoration: underline; color: inherit; }
+
+.dropzone-hint { background: var(--surface); border: 1px dashed var(--border-strong); border-radius: 6px; padding: 16px 14px; margin-bottom: 16px; font-size: 12.5px; color: var(--ink-2); display: flex; align-items: center; gap: 10px; }
+.dropzone-hint .icon { font-size: 16px; }
+.dropzone-hint strong { color: var(--ink); }
+
+.drop-overlay { position: fixed; inset: 0; background: rgba(217, 119, 6, 0.10); border: 4px dashed var(--accent); display: none; align-items: center; justify-content: center; pointer-events: none; z-index: 200; font-family: var(--mono); font-size: 18px; font-weight: 600; color: var(--accent-2); letter-spacing: 0.04em; }
+.drop-overlay.show { display: flex; }
+
+.grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+@media (min-width: 720px) { .grid { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 1080px) { .grid { grid-template-columns: 1fr 1fr 1fr; } }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; box-shadow: var(--shadow-sm); padding: 14px 16px 14px 18px; position: relative; transition: all 0.12s; display: flex; flex-direction: column; gap: 8px; min-height: 0; }
+.card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--cat-color, var(--ink-3)); border-top-left-radius: 6px; border-bottom-left-radius: 6px; }
+.card:hover { box-shadow: var(--shadow-md); border-color: var(--border-strong); }
+.card[data-cat="devaluation"] { --cat-color: var(--cat-devaluation); }
+.card[data-cat="offer"]       { --cat-color: var(--cat-offer); }
+.card[data-cat="launch"]      { --cat-color: var(--cat-launch); }
+.card[data-cat="social"]      { --cat-color: var(--cat-social); }
+.card[data-cat="benefit"]     { --cat-color: var(--cat-benefit); }
+
+.card-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; font-size: 11px; }
+.pill { display: inline-flex; align-items: center; gap: 4px; padding: 2px 7px; border-radius: 3px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; font-size: 10px; }
+.pill-cat { background: var(--cat-color, #f3f4f6); color: #fff; }
+.pill-sev-critical { background: var(--critical); color: #fff; }
+.pill-sev-major    { background: var(--major); color: #fff; }
+.pill-sev-minor    { background: var(--minor); color: #fff; }
+.pill-source { background: var(--surface-2); color: var(--ink-2); border: 1px solid var(--border); text-transform: none; font-weight: 500; letter-spacing: 0; }
+.card-title { font-size: 14.5px; font-weight: 600; line-height: 1.35; color: var(--ink); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.card-title a:hover { color: var(--accent-2); }
+.card-summary { font-size: 13px; color: var(--ink-2); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; flex-grow: 1; }
+.card-footer { display: flex; align-items: center; justify-content: space-between; padding-top: 8px; border-top: 1px dashed var(--border); font-size: 11px; color: var(--ink-3); font-family: var(--mono); letter-spacing: 0.02em; }
+.card-footer .card-card-name { color: var(--ink-2); font-weight: 500; }
+.card-footer .engagement { display: inline-flex; gap: 8px; color: var(--ink-3); }
+
+.empty { grid-column: 1 / -1; text-align: center; padding: 60px 20px; color: var(--ink-3); font-size: 14px; }
+
+.modal-overlay { position: fixed; inset: 0; background: rgba(20, 24, 31, 0.55); display: none; align-items: center; justify-content: center; z-index: 100; padding: 20px; }
+.modal-overlay.show { display: flex; }
+.modal { background: var(--surface); border-radius: 8px; max-width: 600px; width: 100%; max-height: 80vh; overflow: hidden; display: flex; flex-direction: column; }
+.modal-header { padding: 14px 18px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+.modal-header h3 { font-size: 15px; font-weight: 600; }
+.modal-body { padding: 14px 18px; overflow-y: auto; }
+.modal-body p { font-size: 13px; color: var(--ink-2); margin-bottom: 10px; }
+.modal-body textarea { width: 100%; min-height: 220px; font-family: var(--mono); font-size: 12px; border: 1px solid var(--border-strong); border-radius: 4px; padding: 10px; resize: vertical; background: var(--surface-2); }
+.modal-footer { padding: 12px 18px; border-top: 1px solid var(--border); display: flex; gap: 8px; justify-content: flex-end; }
+.btn-secondary { background: var(--surface-2); color: var(--ink); border: 1px solid var(--border-strong); }
+.btn-secondary:hover { background: var(--bg); }
+
+.footer { max-width: 1400px; margin: 30px auto 20px; padding: 0 20px; text-align: center; font-size: 11px; color: var(--ink-3); font-family: var(--mono); }
+.footer a { color: var(--accent-2); }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-logo">₹</div>
+      <div class="brand-text">
+        <span class="brand-name">CC News Desk</span>
+        <span class="brand-tag">India Credit Card Intelligence · Live</span>
+      </div>
+    </div>
+    <div class="header-meta">
+      <div class="last-updated">FEED · <strong id="updated-at">—</strong></div>
+      <button class="btn btn-ghost" id="open-file-btn" title="Pick feed.json from your computer">Open File</button>
+      <button class="btn btn-ghost" id="paste-btn" title="Paste feed.json manually">Paste JSON</button>
+      <button class="btn btn-primary" id="refresh-btn">
+        <span class="spinner"></span>
+        <span class="btn-label">Refresh</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<input type="file" id="file-input" accept=".json,application/json" style="display:none" />
+
+<div class="ticker" id="ticker-bar">
+  <div class="ticker-label">CRITICAL</div>
+  <div class="ticker-track" id="ticker-track"></div>
+</div>
+
+<nav class="controls">
+  <div class="controls-inner">
+    <div class="tabs" id="tabs"></div>
+    <div class="filters">
+      <input class="filter-input" type="search" id="search-input" placeholder="Search title, card, issuer…" />
+      <select class="filter-select" id="time-filter">
+        <option value="all">All time</option>
+        <option value="1">Last 24 hours</option>
+        <option value="7">Last 7 days</option>
+        <option value="30">Last 30 days</option>
+      </select>
+    </div>
+  </div>
+</nav>
+
+<main class="main">
+  <div id="banner-slot"></div>
+  <div class="dropzone-hint" id="drop-hint" style="display:none">
+    <span class="icon">⤓</span>
+    <span><strong>Tip:</strong> drag and drop <code>feed.json</code> anywhere on this dashboard to override the live feed. Or click <strong>Open File</strong>.</span>
+  </div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<div class="drop-overlay" id="drop-overlay">DROP feed.json TO LOAD</div>
+
+<footer class="footer">
+  Dashboard auto-refreshes every 30 minutes. You can also drag &amp; drop or paste <code>feed.json</code> directly.
+</footer>
+
+<div class="modal-overlay" id="paste-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>Paste feed.json</h3>
+      <button id="paste-close" style="font-size: 18px; color: var(--ink-3);">&times;</button>
+    </div>
+    <div class="modal-body">
+      <p>Paste the contents of <code>feed.json</code> here.</p>
+      <textarea id="paste-area" placeholder='{"generated_at": "...", "items": [...]}'></textarea>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" id="paste-cancel">Cancel</button>
+      <button class="btn btn-primary" id="paste-load">Load</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const SEED_FEED = {
+  "generated_at": "2026-04-29T08:15:00+05:30",
+  "items": [
+    {"id":"seed-deval-001","category":"devaluation","severity":"critical","title":"Axis Bank caps Magnus Burgundy Edge Miles transfer at 5L/month","summary":"Effective May 1, 2026, transfers from Edge Miles to partner programs (Marriott, Accor, Singapore Airlines) will be capped at 5,00,000 EM per calendar month. Heavy churners flagged for review.","source":"CardExpert","source_url":"https://cardexpert.in/axis-magnus-burgundy-em-transfer-cap-may-2026/","published_at":"2026-04-25T10:00:00+05:30","card":"Axis Magnus Burgundy","issuer":"Axis Bank","engagement":null},
+    {"id":"seed-deval-002","category":"devaluation","severity":"major","title":"HDFC Diners Black SmartBuy 5x cap reduced from 10K to 5K points/month","summary":"HDFC quietly updated SmartBuy 5x earn cap on Diners Club Black, halving the monthly point ceiling. Confirmed via official T&C update on April 22.","source":"TechnoFino","source_url":"https://www.technofino.in/community/credit-cards/","published_at":"2026-04-22T14:30:00+05:30","card":"HDFC Diners Club Black","issuer":"HDFC Bank","engagement":null},
+    {"id":"seed-deval-003","category":"devaluation","severity":"major","title":"ICICI Emeralde Private removes unlimited golf rounds","summary":"ICICI Emeralde Private Metal cardholders will get 12 complimentary golf rounds per quarter starting June 1, down from unlimited. Lessons remain unchanged.","source":"CardExpert","source_url":"https://cardexpert.in/icici-emeralde-private-golf-revision/","published_at":"2026-04-18T09:00:00+05:30","card":"ICICI Emeralde Private Metal","issuer":"ICICI Bank","engagement":null},
+    {"id":"seed-offer-001","category":"offer","severity":null,"title":"Amazon Pay ICICI: 5% cashback on Amazon Fresh till May 31","summary":"Stacked offer for Prime members: 5% Amazon Fresh + 5% existing Amazon spend cashback = effective 10% on grocery via Fresh. Capped at ₹2,000/month.","source":"Desidime","source_url":"https://www.desidime.com/","published_at":"2026-04-27T18:20:00+05:30","card":"Amazon Pay ICICI","issuer":"ICICI Bank","engagement":{"upvotes":87,"comments":34}},
+    {"id":"seed-offer-002","category":"offer","severity":null,"title":"HDFC Tata Neu Plus: 10% off Tata CLiQ Diwali pre-sale","summary":"Pre-Diwali sale on Tata CLiQ — additional 10% with HDFC Tata Neu Plus/Infinity (max ₹1,500 discount). Live April 29 to May 5.","source":"Desidime","source_url":"https://www.desidime.com/","published_at":"2026-04-29T07:00:00+05:30","card":"HDFC Tata Neu Plus","issuer":"HDFC Bank","engagement":{"upvotes":142,"comments":51}},
+    {"id":"seed-offer-003","category":"offer","severity":null,"title":"AU LIT: 10x rewards on dining, weekends only (May)","summary":"AU Bank's customizable LIT card adds a temporary 10x dining tile for Saturdays and Sundays in May. Stack with Swiggy/Zomato bank offers for big margins.","source":"Twitter/@beondeal","source_url":"#","published_at":"2026-04-26T15:10:00+05:30","card":"AU LIT","issuer":"AU Small Finance Bank","engagement":{"likes":892,"retweets":124}},
+    {"id":"seed-launch-001","category":"launch","severity":null,"title":"Yes Bank launches Reserv — UHNI metal card with ₹1L joining fee","summary":"Yes Bank Reserv targets ₹5Cr+ relationship segment. Unlimited domestic and 12 international lounge visits, 24K gold concierge, 1.5% forex markup. Invite-only.","source":"Google News","source_url":"#","published_at":"2026-04-24T12:00:00+05:30","card":"Yes Bank Reserv","issuer":"Yes Bank","engagement":null},
+    {"id":"seed-launch-002","category":"launch","severity":null,"title":"IndusInd Pinnacle Plus — bundles forex card with main credit card","summary":"Single onboarding flow gives both products. Forex Markup waived on first ₹5L of international spend per FY. Targets frequent travelers.","source":"CardExpert","source_url":"#","published_at":"2026-04-21T09:30:00+05:30","card":"IndusInd Pinnacle Plus","issuer":"IndusInd Bank","engagement":null},
+    {"id":"seed-social-001","category":"social","severity":null,"title":"r/CreditCardsIndia: Is Magnus Burgundy still worth it after the April nerf?","summary":"Active thread (240+ comments) on whether the EM transfer cap kills the Magnus Burgundy proposition. Top comment: 'Still best for ₹50L+ spenders, dead for churners.'","source":"Reddit","source_url":"https://www.reddit.com/r/CreditCardsIndia/","published_at":"2026-04-26T20:00:00+05:30","card":"Axis Magnus Burgundy","issuer":"Axis Bank","engagement":{"upvotes":412,"comments":247}},
+    {"id":"seed-social-002","category":"social","severity":null,"title":"@beondeal: 'Axis just killed Magnus, again'","summary":"Viral X post (2.1K likes) recapping the EM transfer cap. Thread includes screenshots of the official Axis email and a comparison with the Sept 2024 nerf.","source":"Twitter/X","source_url":"#","published_at":"2026-04-25T13:45:00+05:30","card":"Axis Magnus Burgundy","issuer":"Axis Bank","engagement":{"likes":2104,"retweets":318}},
+    {"id":"seed-benefit-001","category":"benefit","severity":null,"title":"DreamFolks: 2 new lounges added in Bengaluru T2 (April)","summary":"Plaza Premium Lounge (T2 East Wing) and 080 Lounge (T2 West Wing) now accept DreamFolks. Total India network now 58 lounges.","source":"DreamFolks Official","source_url":"https://www.dreamfolks.in/","published_at":"2026-04-28T10:00:00+05:30","card":null,"issuer":null,"engagement":null},
+    {"id":"seed-benefit-002","category":"benefit","severity":null,"title":"Priority Pass adds Encalm Privé in Hyderabad RGI Airport","summary":"Premium lounge with private cabanas and runway view now accepting Priority Pass. Useful for HDFC Infinia, Axis Magnus, ICICI Emeralde holders.","source":"Priority Pass","source_url":"https://www.prioritypass.com/","published_at":"2026-04-20T11:15:00+05:30","card":null,"issuer":null,"engagement":null}
+  ]
+};
+
+const STATE = {
+  feed: SEED_FEED,
+  isSeed: true,
+  activeCategory: 'all',
+  search: '',
+  timeFilter: 'all',
+};
+
+const CATEGORIES = [
+  { id: 'all',          label: 'All' },
+  { id: 'devaluation',  label: 'Devaluations' },
+  { id: 'offer',        label: 'Offers' },
+  { id: 'launch',       label: 'Launches' },
+  { id: 'social',       label: 'Social' },
+  { id: 'benefit',      label: 'Benefits' },
+];
+
+function timeAgo(iso) {
+  if (!iso) return '—';
+  const then = new Date(iso).getTime();
+  if (Number.isNaN(then)) return iso;
+  const diff = (Date.now() - then) / 1000;
+  if (diff < 60)        return 'just now';
+  if (diff < 3600)      return Math.floor(diff / 60) + 'm ago';
+  if (diff < 86400)     return Math.floor(diff / 3600) + 'h ago';
+  if (diff < 86400 * 7) return Math.floor(diff / 86400) + 'd ago';
+  if (diff < 86400 * 30) return Math.floor(diff / (86400*7)) + 'w ago';
+  return new Date(iso).toLocaleDateString('en-IN', {day:'numeric', month:'short'});
+}
+function formatGenerated(iso) {
+  if (!iso) return '—';
+  try {
+    return new Date(iso).toLocaleString('en-IN', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit', hour12:false });
+  } catch { return iso; }
+}
+function escapeHTML(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function categoryLabel(cat) {
+  return CATEGORIES.find(c => c.id === cat)?.label || cat;
+}
+function filterItems() {
+  const items = STATE.feed.items || [];
+  const q = STATE.search.trim().toLowerCase();
+  const days = STATE.timeFilter === 'all' ? null : parseInt(STATE.timeFilter, 10);
+  const cutoff = days ? Date.now() - days * 86400 * 1000 : null;
+  return items.filter(item => {
+    if (STATE.activeCategory !== 'all' && item.category !== STATE.activeCategory) return false;
+    if (cutoff && item.published_at) {
+      const t = new Date(item.published_at).getTime();
+      if (Number.isFinite(t) && t < cutoff) return false;
+    }
+    if (q) {
+      const blob = [item.title, item.summary, item.card, item.issuer, item.source].filter(Boolean).join(' ').toLowerCase();
+      if (!blob.includes(q)) return false;
+    }
+    return true;
+  });
+}
+function categoryCounts() {
+  const items = STATE.feed.items || [];
+  const counts = { all: items.length };
+  for (const item of items) counts[item.category] = (counts[item.category] || 0) + 1;
+  return counts;
+}
+function renderTabs() {
+  const counts = categoryCounts();
+  const tabsEl = document.getElementById('tabs');
+  tabsEl.innerHTML = CATEGORIES.map(c => `
+    <button class="tab ${STATE.activeCategory === c.id ? 'active' : ''}" data-cat="${c.id}">
+      ${c.label}<span class="count">${counts[c.id] || 0}</span>
+    </button>`).join('');
+  for (const btn of tabsEl.querySelectorAll('.tab')) {
+    btn.addEventListener('click', () => { STATE.activeCategory = btn.dataset.cat; renderAll(); });
+  }
+}
+function renderTicker() {
+  const critical = (STATE.feed.items || []).filter(i => i.category === 'devaluation' && (i.severity === 'critical' || i.severity === 'major')).slice(0, 8);
+  const track = document.getElementById('ticker-track');
+  if (!critical.length) { document.getElementById('ticker-bar').style.display = 'none'; return; }
+  document.getElementById('ticker-bar').style.display = 'flex';
+  track.innerHTML = critical.concat(critical).map(i => `
+    <span class="ticker-item">
+      <span class="dot">●</span>
+      <strong>${escapeHTML(i.card || i.issuer || 'India CC')}</strong>
+      ${escapeHTML(i.title)}
+    </span>`).join('');
+}
+function renderGrid() {
+  const items = filterItems();
+  const grid = document.getElementById('grid');
+  if (!items.length) { grid.innerHTML = '<div class="empty">No items match the current filters.</div>'; return; }
+  grid.innerHTML = items.map(renderCard).join('');
+}
+function renderCard(item) {
+  const sev = item.severity ? `<span class="pill pill-sev-${item.severity}">${item.severity}</span>` : '';
+  const eng = item.engagement
+    ? '<span class="engagement">' + Object.entries(item.engagement).map(([k,v]) => `${v} ${k}`).join(' · ') + '</span>'
+    : '';
+  return `
+    <article class="card" data-cat="${item.category}">
+      <div class="card-meta">
+        <span class="pill pill-cat">${escapeHTML(categoryLabel(item.category))}</span>
+        ${sev}
+        <span class="pill pill-source">${escapeHTML(item.source || 'Unknown')}</span>
+      </div>
+      <h3 class="card-title"><a href="${escapeHTML(item.source_url || '#')}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a></h3>
+      <p class="card-summary">${escapeHTML(item.summary || '')}</p>
+      <div class="card-footer">
+        <span class="card-card-name">${escapeHTML(item.card || item.issuer || '')}</span>
+        ${eng}
+        <span>${timeAgo(item.published_at)}</span>
+      </div>
+    </article>`;
+}
+function renderHeader() {
+  document.getElementById('updated-at').textContent = formatGenerated(STATE.feed.generated_at);
+}
+function renderBanner(state, message, actionLabel, actionFn) {
+  const slot = document.getElementById('banner-slot');
+  if (!message) { slot.innerHTML = ''; return; }
+  slot.innerHTML = `
+    <div class="banner ${state || ''}">
+      <div class="banner-text">${escapeHTML(message)}</div>
+      <div class="banner-actions">
+        ${actionLabel ? `<button id="banner-action">${escapeHTML(actionLabel)}</button>` : ''}
+      </div>
+    </div>`;
+  if (actionLabel && actionFn) {
+    document.getElementById('banner-action').addEventListener('click', actionFn);
+  }
+}
+function renderAll() { renderHeader(); renderTabs(); renderTicker(); renderGrid(); }
+
+// Find a JSON object inside a noisy string (used by file/paste loaders).
+function extractJSON(text) {
+  if (!text) return null;
+  const s = String(text);
+  const firstBrace = s.indexOf('{');
+  const lastBrace  = s.lastIndexOf('}');
+  if (firstBrace >= 0 && lastBrace > firstBrace) return s.slice(firstBrace, lastBrace + 1);
+  return null;
+}
+
+async function refresh() {
+  const btn = document.getElementById('refresh-btn');
+  btn.classList.add('loading');
+  btn.disabled = true;
+  renderBanner(null);
+
+  try {
+    const res = await fetch('./feed.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const parsed = await res.json();
+    if (!Array.isArray(parsed.items)) throw new Error("missing 'items' array");
+    applyFeed(parsed, 'feed.json');
+  } catch (err) {
+    // Fall back to seed data so the dashboard is never blank
+    if (STATE.isSeed) {
+      renderAll();
+      renderBanner(null,
+        'Showing demo data — live feed.json not available. Once deployed, data updates automatically every 2 hours.',
+        'paste JSON', openPasteModal);
+      document.getElementById('drop-hint').style.display = 'flex';
+    } else {
+      renderBanner('error',
+        `Refresh failed: ${err.message}`,
+        'paste JSON', openPasteModal);
+    }
+  } finally {
+    btn.classList.remove('loading');
+    btn.disabled = false;
+  }
+}
+
+function applyFeed(parsed, sourceLabel) {
+  STATE.feed = parsed;
+  STATE.isSeed = false;
+  renderAll();
+  renderBanner('success',
+    `Loaded ${parsed.items.length} items from ${sourceLabel} (${formatGenerated(parsed.generated_at)})`,
+    'dismiss', () => renderBanner(null));
+  document.getElementById('drop-hint').style.display = 'none';
+}
+
+function loadFromFileBlob(file) {
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const text = String(reader.result || '');
+      const jsonText = extractJSON(text) || text;
+      const parsed = JSON.parse(jsonText);
+      if (!Array.isArray(parsed.items)) throw new Error("Missing 'items' array");
+      applyFeed(parsed, file.name);
+    } catch (err) {
+      renderBanner('error', `Could not parse ${file.name}: ${err.message}`, null, null);
+    }
+  };
+  reader.onerror = () => {
+    renderBanner('error', `Could not read ${file.name}: ${reader.error?.message || 'unknown error'}`, null, null);
+  };
+  reader.readAsText(file);
+}
+
+function setupDropzone() {
+  const overlay = document.getElementById('drop-overlay');
+  let depth = 0;
+  window.addEventListener('dragenter', (e) => {
+    if (!Array.from(e.dataTransfer?.types || []).includes('Files')) return;
+    depth++;
+    overlay.classList.add('show');
+    e.preventDefault();
+  });
+  window.addEventListener('dragover', (e) => { e.preventDefault(); });
+  window.addEventListener('dragleave', () => {
+    depth--;
+    if (depth <= 0) { depth = 0; overlay.classList.remove('show'); }
+  });
+  window.addEventListener('drop', (e) => {
+    e.preventDefault();
+    depth = 0;
+    overlay.classList.remove('show');
+    const file = e.dataTransfer?.files?.[0];
+    if (file) loadFromFileBlob(file);
+  });
+}
+
+function openPasteModal() {
+  document.getElementById('paste-modal').classList.add('show');
+  document.getElementById('paste-area').focus();
+}
+function closePasteModal() {
+  document.getElementById('paste-modal').classList.remove('show');
+  document.getElementById('paste-area').value = '';
+}
+function loadPastedJSON() {
+  const raw = document.getElementById('paste-area').value.trim();
+  if (!raw) return;
+  try {
+    const jsonText = extractJSON(raw) || raw;
+    const parsed = JSON.parse(jsonText);
+    if (!Array.isArray(parsed.items)) throw new Error("Missing 'items' array");
+    applyFeed(parsed, 'pasted JSON');
+    closePasteModal();
+  } catch (err) {
+    alert('Could not parse JSON: ' + err.message);
+  }
+}
+
+function init() {
+  document.getElementById('refresh-btn').addEventListener('click', refresh);
+  document.getElementById('paste-btn').addEventListener('click', openPasteModal);
+  document.getElementById('paste-close').addEventListener('click', closePasteModal);
+  document.getElementById('paste-cancel').addEventListener('click', closePasteModal);
+  document.getElementById('paste-load').addEventListener('click', loadPastedJSON);
+
+  const fileInput = document.getElementById('file-input');
+  document.getElementById('open-file-btn').addEventListener('click', () => fileInput.click());
+  fileInput.addEventListener('change', (e) => {
+    const file = e.target.files?.[0];
+    if (file) loadFromFileBlob(file);
+    fileInput.value = '';
+  });
+
+  document.getElementById('search-input').addEventListener('input', e => {
+    STATE.search = e.target.value; renderGrid();
+  });
+  document.getElementById('time-filter').addEventListener('change', e => {
+    STATE.timeFilter = e.target.value; renderGrid();
+  });
+
+  setupDropzone();
+  renderAll();
+
+  // Auto-load feed on page open, then refresh every 30 minutes.
+  refresh();
+  setInterval(refresh, 30 * 60 * 1000);
+}
+
+init();
+</script>
+</body>
+</html>
