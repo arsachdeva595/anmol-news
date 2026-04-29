@@ -148,6 +148,14 @@ a { color: inherit; text-decoration: none; }
 .form-select { width: 100%; padding: 7px 10px; border: 1px solid var(--border-strong); border-radius: 4px; background: var(--surface); font-size: 13px; cursor: pointer; }
 .snippet-box { width: 100%; min-height: 120px; font-family: var(--mono); font-size: 12px; border: 1px solid var(--border-strong); border-radius: 4px; padding: 10px; resize: vertical; background: var(--surface-2); color: var(--ink); }
 
+.signal { display: inline-flex; gap: 3px; align-items: center; padding: 2px 6px; border-radius: 3px; background: var(--surface-2); border: 1px solid var(--border); }
+.signal-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--border-strong); flex-shrink: 0; }
+.signal-dot.on { background: currentColor; }
+.signal-none { color: var(--border-strong); }
+.signal-low  { color: var(--ink-3); }
+.signal-med  { color: var(--accent); }
+.signal-high { color: #15803d; }
+
 .footer { max-width: 1400px; margin: 30px auto 20px; padding: 0 20px; text-align: center; font-size: 11px; color: var(--ink-3); font-family: var(--mono); }
 .footer a { color: var(--accent-2); }
 </style>
@@ -399,10 +407,25 @@ function renderTicker() {
       ${escapeHTML(i.title)}
     </span>`).join('');
 }
+function computeScore(item) {
+  const pub = item.published || item.published_at;
+  const hoursOld = pub ? Math.max(0, (Date.now() - new Date(pub).getTime()) / 3_600_000) : 9999;
+  const rel = typeof item.relevance_score === 'number' ? item.relevance_score : 0;
+  return (rel + 1) / Math.pow(hoursOld + 2, 1.5);
+}
+function signalBadge(item) {
+  const rel = typeof item.relevance_score === 'number' ? item.relevance_score : 0;
+  const filled = rel >= 4 ? 3 : rel >= 2 ? 2 : rel >= 1 ? 1 : 0;
+  const cls    = rel >= 4 ? 'high' : rel >= 2 ? 'med' : rel >= 1 ? 'low' : 'none';
+  const label  = rel >= 4 ? 'High CC relevance' : rel >= 2 ? 'Medium CC relevance' : rel >= 1 ? 'Low CC relevance' : 'No CC keywords matched';
+  const dots   = [0,1,2].map(i => `<span class="signal-dot${i < filled ? ' on' : ''}"></span>`).join('');
+  return `<span class="signal signal-${cls}" title="${label} (${rel} keyword${rel !== 1 ? 's' : ''} matched)">${dots}</span>`;
+}
 function renderGrid() {
   const items = filterItems();
   const grid = document.getElementById('grid');
   if (!items.length) { grid.innerHTML = '<div class="empty">No items match the current filters.</div>'; return; }
+  items.sort((a, b) => computeScore(b) - computeScore(a));
   grid.innerHTML = items.map(renderCard).join('');
 }
 function renderCard(item) {
@@ -416,6 +439,7 @@ function renderCard(item) {
         <span class="pill pill-cat">${escapeHTML(categoryLabel(item.category))}</span>
         ${sev}
         <span class="pill pill-source">${escapeHTML(item.source || 'Unknown')}</span>
+        ${signalBadge(item)}
       </div>
       <h3 class="card-title"><a href="${escapeHTML(item.url || item.source_url || '#')}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a></h3>
       <p class="card-summary">${escapeHTML(item.summary || '')}</p>
