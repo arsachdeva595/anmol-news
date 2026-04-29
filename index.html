@@ -407,14 +407,29 @@ function renderTicker() {
       ${escapeHTML(i.title)}
     </span>`).join('');
 }
+const CC_KEYWORDS = [
+  'credit card','creditcard','cashback','reward point','reward rate','reward program',
+  'lounge access','airport lounge','annual fee','joining fee','forex markup','fuel surcharge',
+  'milestone benefit','welcome benefit','card launch','card devaluation','card revision',
+  'hdfc card','axis card','icici card','sbi card','amex card',
+  'magnus','atlas','infinia','regalia','tata neu',
+  'hdfc','axis bank','icici','amex','american express','indusind','kotak','idfc','rbl',
+];
+function clientRelevance(item) {
+  const text = [item.title, item.snippet, item.summary, item.card, item.issuer]
+    .filter(Boolean).join(' ').toLowerCase();
+  return CC_KEYWORDS.reduce((n, k) => n + (text.includes(k) ? 1 : 0), 0);
+}
+function getRelevance(item) {
+  return typeof item.relevance_score === 'number' ? item.relevance_score : clientRelevance(item);
+}
 function computeScore(item) {
   const pub = item.published || item.published_at;
   const hoursOld = pub ? Math.max(0, (Date.now() - new Date(pub).getTime()) / 3_600_000) : 9999;
-  const rel = typeof item.relevance_score === 'number' ? item.relevance_score : 0;
-  return (rel + 1) / Math.pow(hoursOld + 2, 1.5);
+  return (getRelevance(item) + 1) / Math.pow(hoursOld + 2, 1.5);
 }
 function signalBadge(item) {
-  const rel = typeof item.relevance_score === 'number' ? item.relevance_score : 0;
+  const rel = getRelevance(item);
   const filled = rel >= 4 ? 3 : rel >= 2 ? 2 : rel >= 1 ? 1 : 0;
   const cls    = rel >= 4 ? 'high' : rel >= 2 ? 'med' : rel >= 1 ? 'low' : 'none';
   const label  = rel >= 4 ? 'High CC relevance' : rel >= 2 ? 'Medium CC relevance' : rel >= 1 ? 'Low CC relevance' : 'No CC keywords matched';
