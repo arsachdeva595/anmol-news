@@ -263,12 +263,6 @@ def uid(url: str, title: str) -> str:
     return hashlib.sha1(raw.encode()).hexdigest()[:12]
 
 
-def is_credit_card_relevant(title: str, snippet: str) -> bool:
-    """Return True only if the item is actually about credit cards."""
-    text = f"{title} {snippet}".lower()
-    return any(k in text for k in CC_RELEVANCE)
-
-
 def detect_issuers(text: str) -> list[str]:
     text_l = text.lower()
     return [issuer for issuer, kws in ISSUERS.items() if any(k in text_l for k in kws)]
@@ -305,11 +299,7 @@ def normalize_dt(entry) -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def make_item(title, url, source, category, published, snippet="", extra=None) -> Optional[dict]:
-    if not title.strip():
-        return None
-    if not is_credit_card_relevant(title, snippet):
-        return None
+def make_item(title, url, source, category, published, snippet="", extra=None) -> dict:
     text = f"{title} {snippet}"
     return {
         "uid":             uid(url, title),
@@ -366,9 +356,7 @@ def fetch_rss(source: dict) -> list[dict]:
                 category=source["default_category"],
                 published=normalize_dt(e),
                 snippet=snippet,
-            )
-            if item:
-                items.append(item)
+            ))
     except Exception as e:
         log.warning("RSS parse error (%s): %s", source["name"], e)
     return items
@@ -427,9 +415,7 @@ def fetch_reddit(sub: str) -> list[dict]:
                 published=pub,
                 snippet=body,
                 extra={"score": d.get("score", 0), "comments": d.get("num_comments", 0)},
-            )
-            if item:
-                items.append(item)
+            ))
     except Exception as e:
         log.warning("Reddit parse error (r/%s): %s", sub, e)
     return items
@@ -462,9 +448,7 @@ def fetch_nitter(handle: str) -> list[dict]:
                     category="social",
                     published=normalize_dt(e),
                     snippet=snippet,
-                )
-                if item:
-                    items.append(item)
+                ))
             break  # success — no need to try next instance
         except Exception as ex:
             log.warning("Nitter parse error (%s @%s): %s", base, handle, ex)
@@ -501,9 +485,7 @@ def fetch_technofino() -> list[dict]:
                     category="social",
                     published=datetime.now(timezone.utc).isoformat(),
                     snippet="",
-                )
-                if item:
-                    items.append(item)
+                ))
         except Exception as e:
             log.warning("TechnoFino scrape error: %s", e)
     return items
