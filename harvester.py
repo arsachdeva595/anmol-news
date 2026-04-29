@@ -204,6 +204,45 @@ CATEGORY_KEYWORDS = {
 }
 
 # -----------------------------------------------------------------------------
+# Relevance filtering
+# -----------------------------------------------------------------------------
+# Terms that strongly signal credit-card content. Used to filter out off-topic
+# articles from broad financial sources (BankBazaar, Paisabazaar, Mint, etc.).
+CC_RELEVANCE_KEYWORDS = [
+    "credit card", "creditcard",
+    "cashback", "reward point", "reward rate", "reward program",
+    "lounge access", "airport lounge",
+    "annual fee", "joining fee",
+    "forex markup", "fuel surcharge",
+    "milestone benefit", "welcome benefit",
+    "card launch", "card devaluation", "card revision",
+    "hdfc card", "axis card", "icici card", "sbi card", "amex card",
+    "magnus", "atlas", "infinia", "regalia", "tata neu",
+]
+
+# RSS source names and Reddit subs that are not CC-specific — filter these.
+BROAD_RSS_SOURCES: set[str] = {
+    "Mint – Credit Card",
+    "BankBazaar Blog",
+    "Paisabazaar Blog",
+}
+BROAD_REDDIT_SUBS: set[str] = {
+    "IndiaInvestments",
+    "personalfinanceindia",
+}
+
+
+def cc_relevance_score(title: str, snippet: str) -> int:
+    """Count how many CC relevance keywords appear in title+snippet."""
+    text = f"{title} {snippet}".lower()
+    return sum(1 for k in CC_RELEVANCE_KEYWORDS if k in text)
+
+
+def is_cc_relevant(title: str, snippet: str) -> bool:
+    """Return True if the item is plausibly about credit cards."""
+    return cc_relevance_score(title, snippet) > 0
+
+# -----------------------------------------------------------------------------
 # Logging
 # -----------------------------------------------------------------------------
 logging.basicConfig(
@@ -263,15 +302,16 @@ def normalize_dt(entry) -> str:
 def make_item(title, url, source, category, published, snippet="", extra=None) -> dict:
     text = f"{title} {snippet}"
     return {
-        "uid":      uid(url, title),
-        "title":    title.strip(),
-        "url":      url.strip(),
-        "source":   source,
-        "category": detect_category(text, category),
-        "issuers":  detect_issuers(text),
-        "severity": detect_severity(text),
-        "published": published,
-        "snippet":  snippet[:300],
+        "uid":             uid(url, title),
+        "title":           title.strip(),
+        "url":             url.strip(),
+        "source":          source,
+        "category":        detect_category(text, category),
+        "issuers":         detect_issuers(text),
+        "severity":        detect_severity(text),
+        "published":       published,
+        "snippet":         snippet[:300],
+        "relevance_score": cc_relevance_score(title, snippet),
         **(extra or {}),
     }
 
@@ -295,6 +335,7 @@ def safe_get(url: str, headers: dict = None, timeout: int = REQUEST_TIMEOUT) -> 
 
 def fetch_rss(source: dict) -> list[dict]:
     log.info("RSS → %s", source["name"])
+    broad = source["name"] in BROAD_RSS_SOURCES
     items = []
     try:
         feed = feedparser.parse(
@@ -306,6 +347,8 @@ def fetch_rss(source: dict) -> list[dict]:
             link    = getattr(e, "link",    "") or ""
             summary = getattr(e, "summary", "") or ""
             snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
+            if broad and not is_cc_relevant(title, snippet):
+                continue
             items.append(make_item(
                 title=title,
                 url=link,
@@ -350,6 +393,7 @@ def fetch_reddit(sub: str) -> list[dict]:
     r = safe_get(url, headers={"User-Agent": f"{USER_AGENT} (reddit scraper)"})
     if not r:
         return items
+    broad = sub in BROAD_REDDIT_SUBS
     try:
         posts = r.json().get("data", {}).get("children", [])
         for p in posts:
@@ -359,6 +403,8 @@ def fetch_reddit(sub: str) -> list[dict]:
             body   = d.get("selftext", "")[:300]
             ts     = d.get("created_utc")
             pub    = datetime.fromtimestamp(ts, tz=timezone.utc).isoformat() if ts else datetime.now(timezone.utc).isoformat()
+            if broad and not is_cc_relevant(title, body):
+                continue
             items.append(make_item(
                 title=title,
                 url=link,
@@ -391,6 +437,8 @@ def fetch_nitter(handle: str) -> list[dict]:
                 link    = getattr(e, "link",    "") or ""
                 summary = getattr(e, "summary", "") or ""
                 snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
+                if not is_cc_relevant(title, snippet):
+                    continue
                 items.append(make_item(
                     title=title,
                     url=link,
@@ -426,6 +474,8 @@ def fetch_technofino() -> list[dict]:
                 title = title_el.get_text(strip=True)
                 href  = title_el.get("href", "")
                 link  = f"https://technofino.in{href}" if href.startswith("/") else href
+                if not is_cc_relevant(title, ""):
+                    continue
                 items.append(make_item(
                     title=title,
                     url=link,
@@ -477,8 +527,8 @@ def run() -> None:
             seen.add(item["uid"])
             deduped.append(item)
 
-    # Sort newest-first
-    deduped.sort(key=lambda x: x.get("published", ""), reverse=True)
+    # Sort newest-first, then by relevance score descending within the same timestamp
+    deduped.sort(key=lambda x: (x.get("published", ""), x.get("relevance_score", 0)), reverse=True)
 
     # Write output
     OUTPUT_PATH.write_text(
