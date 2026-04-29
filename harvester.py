@@ -203,16 +203,6 @@ CATEGORY_KEYWORDS = {
     "social":      [],  # reddit/twitter only
 }
 
-# Keywords that confirm an item is about credit cards.
-# Items from broad sources (ET, Mint, BS) must match at least one of these.
-CC_RELEVANCE = (
-    ["credit card", "creditcard", "debit card", "reward point", "reward points",
-     "joining fee", "annual fee", "forex markup", "lounge access", "airport lounge",
-     "cashback card", "miles card", "travel card", "co-branded card"]
-    + [kw for kws in ISSUERS.values() for kw in kws]
-    + [kw for cat, kws in CATEGORY_KEYWORDS.items() if cat != "offer" for kw in kws]
-)
-
 # -----------------------------------------------------------------------------
 # Relevance filtering
 # -----------------------------------------------------------------------------
@@ -367,6 +357,8 @@ def fetch_rss(source: dict) -> list[dict]:
             link    = getattr(e, "link",    "") or ""
             summary = getattr(e, "summary", "") or ""
             snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
+            if broad and not is_cc_relevant(title, snippet):
+                continue
             items.append(make_item(
                 title=title,
                 url=link,
@@ -425,6 +417,8 @@ def fetch_reddit(sub: str) -> list[dict]:
             body   = d.get("selftext", "")[:300]
             ts     = d.get("created_utc")
             pub    = datetime.fromtimestamp(ts, tz=timezone.utc).isoformat() if ts else datetime.now(timezone.utc).isoformat()
+            if broad and not is_cc_relevant(title, body):
+                continue
             items.append(make_item(
                 title=title,
                 url=link,
@@ -459,6 +453,8 @@ def fetch_nitter(handle: str) -> list[dict]:
                 link    = getattr(e, "link",    "") or ""
                 summary = getattr(e, "summary", "") or ""
                 snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
+                if not is_cc_relevant(title, snippet):
+                    continue
                 items.append(make_item(
                     title=title,
                     url=link,
@@ -496,6 +492,8 @@ def fetch_technofino() -> list[dict]:
                 title = title_el.get_text(strip=True)
                 href  = title_el.get("href", "")
                 link  = f"https://technofino.in{href}" if href.startswith("/") else href
+                if not is_cc_relevant(title, ""):
+                    continue
                 items.append(make_item(
                     title=title,
                     url=link,

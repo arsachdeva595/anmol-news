@@ -561,6 +561,114 @@ function loadPastedJSON() {
   }
 }
 
+// --- Add Source Modal ---
+const AS_TYPE_CONFIG = {
+  rss:     { linkLabel: 'Feed URL (RSS / Atom)',    linkPlaceholder: 'https://example.com/feed/',          showName: true,  showCat: true  },
+  google:  { linkLabel: 'Search query',             linkPlaceholder: '"credit card" India offer',           showName: false, showCat: true  },
+  reddit:  { linkLabel: 'Subreddit name or URL',    linkPlaceholder: 'CreditCardsIndia  or  reddit.com/r/…', showName: false, showCat: false },
+  twitter: { linkLabel: 'Handle or profile URL',    linkPlaceholder: '@TechnoFino  or  twitter.com/…',     showName: false, showCat: false },
+  other:   { linkLabel: 'Source URL or description',linkPlaceholder: 'https://…',                           showName: false, showCat: false },
+};
+
+function asUpdateForm() {
+  const cfg = AS_TYPE_CONFIG[document.getElementById('src-type').value];
+  document.getElementById('src-link-label').textContent = cfg.linkLabel;
+  document.getElementById('src-link').placeholder = cfg.linkPlaceholder;
+  document.getElementById('src-name-group').style.display = cfg.showName ? '' : 'none';
+  document.getElementById('src-cat-group').style.display  = cfg.showCat  ? '' : 'none';
+}
+
+function asDeriveName(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '').split('.')[0]
+      .replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+  } catch { return url; }
+}
+function asExtractSub(input) {
+  const m = input.match(/reddit\.com\/r\/([a-zA-Z0-9_]+)/);
+  return m ? m[1] : input.replace(/^r\//, '').trim();
+}
+function asExtractHandle(input) {
+  const m = input.match(/(?:twitter\.com|x\.com)\/([a-zA-Z0-9_]+)/);
+  return m ? m[1] : input.replace(/^@/, '').trim();
+}
+
+function asShowStep(n) {
+  document.getElementById('as-step1').style.display  = n === 1 ? '' : 'none';
+  document.getElementById('as-step2').style.display  = n === 2 ? '' : 'none';
+  document.getElementById('as-footer1').style.display = n === 1 ? 'flex' : 'none';
+  document.getElementById('as-footer2').style.display = n === 2 ? 'flex' : 'none';
+}
+
+function asGenerate() {
+  const type = document.getElementById('src-type').value;
+  const link = document.getElementById('src-link').value.trim();
+  const name = document.getElementById('src-name').value.trim();
+  const cat  = document.getElementById('src-cat').value;
+
+  if (!link) { document.getElementById('src-link').focus(); return; }
+
+  let snippet = '';
+  switch (type) {
+    case 'rss': {
+      const srcName = name || asDeriveName(link);
+      snippet = `# Add to RSS_SOURCES in harvester.py:\n{\n    "name": "${srcName}",\n    "url":  "${link}",\n    "default_category": "${cat}",\n},`;
+      break;
+    }
+    case 'google':
+      snippet = `# Add to GOOGLE_NEWS_QUERIES in harvester.py:\n("${cat}", ${JSON.stringify(link)}),`;
+      break;
+    case 'reddit':
+      snippet = `# Add to REDDIT_SUBS in harvester.py:\n"${asExtractSub(link)}",`;
+      break;
+    case 'twitter': {
+      const handle = asExtractHandle(link);
+      snippet = `# Add to TWITTER_HANDLES in harvester.py:\n"${handle}",   # @${handle}`;
+      break;
+    }
+    case 'other':
+      snippet = `# Custom source — implement a new fetch function in harvester.py:\n# URL: ${link}\n# See fetch_rss() or fetch_technofino() for examples,\n# then call it inside run().`;
+      break;
+  }
+
+  document.getElementById('src-snippet').value = snippet;
+  asShowStep(2);
+}
+
+function asCopySnippet() {
+  const snippet = document.getElementById('src-snippet').value;
+  navigator.clipboard.writeText(snippet).then(() => {
+    const btn = document.getElementById('as-copy');
+    const orig = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(() => { btn.textContent = orig; }, 2000);
+  });
+}
+
+function openAddSourceModal() {
+  document.getElementById('add-source-modal').classList.add('show');
+  document.getElementById('src-link').value = '';
+  document.getElementById('src-name').value = '';
+  asUpdateForm();
+  asShowStep(1);
+}
+function closeAddSourceModal() {
+  document.getElementById('add-source-modal').classList.remove('show');
+}
+
+function initAddSource() {
+  document.getElementById('add-source-btn').addEventListener('click', openAddSourceModal);
+  document.getElementById('add-source-close').addEventListener('click', closeAddSourceModal);
+  document.getElementById('as-cancel').addEventListener('click', closeAddSourceModal);
+  document.getElementById('as-generate').addEventListener('click', asGenerate);
+  document.getElementById('as-back').addEventListener('click', () => asShowStep(1));
+  document.getElementById('as-copy').addEventListener('click', asCopySnippet);
+  document.getElementById('src-type').addEventListener('change', asUpdateForm);
+  document.getElementById('add-source-modal').addEventListener('click', e => {
+    if (e.target === document.getElementById('add-source-modal')) closeAddSourceModal();
+  });
+}
+
 function init() {
   document.getElementById('refresh-btn').addEventListener('click', refresh);
   document.getElementById('paste-btn').addEventListener('click', openPasteModal);
@@ -583,6 +691,7 @@ function init() {
     STATE.timeFilter = e.target.value; renderGrid();
   });
 
+  initAddSource();
   setupDropzone();
   renderAll();
 
