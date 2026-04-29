@@ -158,6 +158,36 @@ a { color: inherit; text-decoration: none; }
 
 .footer { max-width: 1400px; margin: 30px auto 20px; padding: 0 20px; text-align: center; font-size: 11px; color: var(--ink-3); font-family: var(--mono); }
 .footer a { color: var(--accent-2); }
+
+@media (max-width: 640px) {
+  html { overflow-x: hidden; }
+
+  /* Header — hide secondary buttons, tighten spacing */
+  .header-inner { padding: 10px 14px; gap: 8px; }
+  .brand-tag { display: none; }
+  .header-meta { gap: 6px; }
+  .btn-aux { display: none; }
+
+  /* Controls — stack tabs above filters, both full-width */
+  .controls-inner { flex-direction: column; align-items: stretch; padding: 0; gap: 0; }
+  .tabs { width: 100%; border-bottom: 1px solid var(--border); }
+  .tab { padding: 10px 11px; font-size: 12px; }
+  .tab .count { padding: 1px 5px; }
+  .filters { padding: 8px 12px; width: 100%; box-sizing: border-box; }
+  .filter-input { flex: 1; min-width: 0; width: auto; }
+  .filter-select { flex-shrink: 0; }
+
+  /* Main grid — already 1-col, just reduce padding */
+  .main { padding: 12px; }
+
+  /* Card footer — allow wrapping so items don't bleed off screen */
+  .card-footer { flex-wrap: wrap; gap: 4px; }
+  .card-footer .engagement { order: 3; flex-basis: 100%; }
+
+  /* Modal — slide up from bottom on mobile */
+  .modal-overlay { padding: 0; align-items: flex-end; }
+  .modal { border-radius: 12px 12px 0 0; max-height: 90vh; }
+}
 </style>
 </head>
 <body>
@@ -173,8 +203,8 @@ a { color: inherit; text-decoration: none; }
     </div>
     <div class="header-meta">
       <div class="last-updated">FEED · <strong id="updated-at">—</strong></div>
-      <button class="btn btn-ghost" id="open-file-btn" title="Pick feed.json from your computer">Open File</button>
-      <button class="btn btn-ghost" id="paste-btn" title="Paste feed.json manually">Paste JSON</button>
+      <button class="btn btn-ghost btn-aux" id="open-file-btn" title="Pick feed.json from your computer">Open File</button>
+      <button class="btn btn-ghost btn-aux" id="paste-btn" title="Paste feed.json manually">Paste JSON</button>
       <button class="btn btn-ghost" id="add-source-btn" title="Add a new source to harvester.py">+ Add Source</button>
       <button class="btn btn-primary" id="refresh-btn">
         <span class="spinner"></span>
