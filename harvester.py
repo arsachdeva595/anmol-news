@@ -203,6 +203,16 @@ CATEGORY_KEYWORDS = {
     "social":      [],  # reddit/twitter only
 }
 
+# Keywords that confirm an item is about credit cards.
+# Items from broad sources (ET, Mint, BS) must match at least one of these.
+CC_RELEVANCE = (
+    ["credit card", "creditcard", "debit card", "reward point", "reward points",
+     "joining fee", "annual fee", "forex markup", "lounge access", "airport lounge",
+     "cashback card", "miles card", "travel card", "co-branded card"]
+    + [kw for kws in ISSUERS.values() for kw in kws]
+    + [kw for cat, kws in CATEGORY_KEYWORDS.items() if cat != "offer" for kw in kws]
+)
+
 # -----------------------------------------------------------------------------
 # Logging
 # -----------------------------------------------------------------------------
@@ -222,6 +232,12 @@ def uid(url: str, title: str) -> str:
     """Stable dedup key."""
     raw = (url or title or "").strip().lower()
     return hashlib.sha1(raw.encode()).hexdigest()[:12]
+
+
+def is_credit_card_relevant(title: str, snippet: str) -> bool:
+    """Return True only if the item is actually about credit cards."""
+    text = f"{title} {snippet}".lower()
+    return any(k in text for k in CC_RELEVANCE)
 
 
 def detect_issuers(text: str) -> list[str]:
@@ -260,7 +276,11 @@ def normalize_dt(entry) -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def make_item(title, url, source, category, published, snippet="", extra=None) -> dict:
+def make_item(title, url, source, category, published, snippet="", extra=None) -> Optional[dict]:
+    if not title.strip():
+        return None
+    if not is_credit_card_relevant(title, snippet):
+        return None
     text = f"{title} {snippet}"
     return {
         "uid":      uid(url, title),
@@ -306,14 +326,16 @@ def fetch_rss(source: dict) -> list[dict]:
             link    = getattr(e, "link",    "") or ""
             summary = getattr(e, "summary", "") or ""
             snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
-            items.append(make_item(
+            item = make_item(
                 title=title,
                 url=link,
                 source=source["name"],
                 category=source["default_category"],
                 published=normalize_dt(e),
                 snippet=snippet,
-            ))
+            )
+            if item:
+                items.append(item)
     except Exception as e:
         log.warning("RSS parse error (%s): %s", source["name"], e)
     return items
@@ -330,14 +352,16 @@ def fetch_google_news(label: str, query: str) -> list[dict]:
             link    = getattr(e, "link",    "") or ""
             summary = getattr(e, "summary", "") or ""
             snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
-            items.append(make_item(
+            item = make_item(
                 title=title,
                 url=link,
                 source=f"Google News / {label}",
                 category=label,
                 published=normalize_dt(e),
                 snippet=snippet,
-            ))
+            )
+            if item:
+                items.append(item)
     except Exception as e:
         log.warning("Google News error (%s): %s", query, e)
     return items
@@ -359,7 +383,7 @@ def fetch_reddit(sub: str) -> list[dict]:
             body   = d.get("selftext", "")[:300]
             ts     = d.get("created_utc")
             pub    = datetime.fromtimestamp(ts, tz=timezone.utc).isoformat() if ts else datetime.now(timezone.utc).isoformat()
-            items.append(make_item(
+            item = make_item(
                 title=title,
                 url=link,
                 source=f"Reddit / r/{sub}",
@@ -367,7 +391,9 @@ def fetch_reddit(sub: str) -> list[dict]:
                 published=pub,
                 snippet=body,
                 extra={"score": d.get("score", 0), "comments": d.get("num_comments", 0)},
-            ))
+            )
+            if item:
+                items.append(item)
     except Exception as e:
         log.warning("Reddit parse error (r/%s): %s", sub, e)
     return items
@@ -391,14 +417,16 @@ def fetch_nitter(handle: str) -> list[dict]:
                 link    = getattr(e, "link",    "") or ""
                 summary = getattr(e, "summary", "") or ""
                 snippet = BeautifulSoup(summary, "html.parser").get_text(" ", strip=True)
-                items.append(make_item(
+                item = make_item(
                     title=title,
                     url=link,
                     source=f"Twitter / @{handle}",
                     category="social",
                     published=normalize_dt(e),
                     snippet=snippet,
-                ))
+                )
+                if item:
+                    items.append(item)
             break  # success — no need to try next instance
         except Exception as ex:
             log.warning("Nitter parse error (%s @%s): %s", base, handle, ex)
@@ -426,14 +454,16 @@ def fetch_technofino() -> list[dict]:
                 title = title_el.get_text(strip=True)
                 href  = title_el.get("href", "")
                 link  = f"https://technofino.in{href}" if href.startswith("/") else href
-                items.append(make_item(
+                item = make_item(
                     title=title,
                     url=link,
                     source="TechnoFino Forum",
                     category="social",
                     published=datetime.now(timezone.utc).isoformat(),
                     snippet="",
-                ))
+                )
+                if item:
+                    items.append(item)
         except Exception as e:
             log.warning("TechnoFino scrape error: %s", e)
     return items
