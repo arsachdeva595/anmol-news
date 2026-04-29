@@ -230,6 +230,67 @@ a { color: inherit; text-decoration: none; }
   </div>
 </div>
 
+<div class="modal-overlay" id="add-source-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>Add Source</h3>
+      <button id="add-source-close" style="font-size:18px;color:var(--ink-3);">&times;</button>
+    </div>
+    <div class="modal-body">
+
+      <!-- Step 1: form -->
+      <div id="as-step1">
+        <div class="form-group">
+          <label class="form-label" for="src-type">Source type</label>
+          <select class="form-select" id="src-type">
+            <option value="rss">RSS / Atom feed</option>
+            <option value="google">Google News query</option>
+            <option value="reddit">Reddit subreddit</option>
+            <option value="twitter">Twitter / X handle</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label" id="src-link-label" for="src-link">Feed URL</label>
+          <input class="form-input" id="src-link" type="text" placeholder="https://example.com/feed/" autocomplete="off" />
+        </div>
+        <div class="form-group" id="src-name-group">
+          <label class="form-label" for="src-name">Source name <span style="color:var(--ink-3);font-weight:400;text-transform:none">(optional — auto-derived if blank)</span></label>
+          <input class="form-input" id="src-name" type="text" placeholder="e.g. My Card Blog" autocomplete="off" />
+        </div>
+        <div class="form-group" id="src-cat-group">
+          <label class="form-label" for="src-cat">Default category</label>
+          <select class="form-select" id="src-cat">
+            <option value="offer">Offer</option>
+            <option value="launch">Launch</option>
+            <option value="devaluation">Devaluation</option>
+            <option value="benefit">Benefit</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Step 2: snippet -->
+      <div id="as-step2" style="display:none">
+        <p>Copy this snippet and paste it into <code>harvester.py</code> in the indicated list:</p>
+        <textarea class="snippet-box" id="src-snippet" readonly></textarea>
+      </div>
+
+    </div>
+    <div class="modal-footer">
+      <!-- step 1 footer -->
+      <div id="as-footer1" style="display:flex;gap:8px;justify-content:flex-end;width:100%">
+        <button class="btn btn-secondary" id="as-cancel">Cancel</button>
+        <button class="btn btn-primary" id="as-generate">Generate snippet</button>
+      </div>
+      <!-- step 2 footer -->
+      <div id="as-footer2" style="display:none;gap:8px;justify-content:flex-end;width:100%">
+        <button class="btn btn-secondary" id="as-back">Back</button>
+        <button class="btn btn-primary" id="as-copy">Copy to clipboard</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 const SEED_FEED = {
   "generated_at": "2026-04-29T08:15:00+05:30",
