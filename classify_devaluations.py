@@ -78,11 +78,19 @@ NEGATIVE = [
     r"\bwhat\s+(?:to\s+do|should\s+(?:i|you))\b",
 ]
 
+# Social-account admin/noise posts (channel migrations, pinned links, etc.)
+# sometimes contain "no longer"/"devaluation" incidentally — exclude them.
+NOISE = [
+    r"\btelegram\s+channel\b", r"\bwhatsapp\s+community\b", r"\bsubscribers?\b",
+    r"\btaken\s+over\b", r"\bmasterlink\b", r"\bpinned\b",
+]
+
 CRIT_RE = [re.compile(p, re.I) for p in CRITICAL]
 MAJOR_RE = [re.compile(p, re.I) for p in MAJOR]
 MINOR_RE = [re.compile(p, re.I) for p in MINOR]
 POS_RE = [re.compile(p, re.I) for p in POSITIVE]
 NEG_RE = [re.compile(n, re.I) for n in NEGATIVE]
+NOISE_RE = [re.compile(n, re.I) for n in NOISE]
 
 
 def severity(text: str) -> str:
@@ -94,6 +102,8 @@ def severity(text: str) -> str:
 
 
 def is_devaluation(text: str) -> bool:
+    if any(r.search(text) for r in NOISE_RE):
+        return False
     if not any(r.search(text) for r in POS_RE):
         return False
     if any(r.search(text) for r in NEG_RE):
