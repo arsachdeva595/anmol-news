@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T12:15:02.482139+00:00",
+  "generated_at": "2026-07-29T12:23:55.320534+00:00",
   "count": 21,
   "devaluations": [
     {
@@ -25,18 +25,6 @@
       "severity": "major",
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit"
-    },
-    {
-      "uid": "5af20fd2ff56",
-      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "severity": "critical",
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge"
     },
     {
       "uid": "956bd9fdbb7b",
@@ -71,6 +59,18 @@
       "severity": "major",
       "published": "2026-04-07T07:00:00+00:00",
       "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money"
+    },
+    {
+      "uid": "e1c3c58360dd",
+      "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "severity": "major",
+      "published": "2026-04-06T07:00:00+00:00",
+      "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18"
     },
     {
       "uid": "81b875a9ce39",
