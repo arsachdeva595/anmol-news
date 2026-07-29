@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T12:05:58.412919+00:00",
-  "count": 21,
+  "generated_at": "2026-07-29T12:09:28.201570+00:00",
+  "count": 22,
   "devaluations": [
     {
       "uid": "729f30eafb63",
@@ -205,6 +205,18 @@
       "severity": "major",
       "published": "2024-01-05T08:00:00+00:00",
       "snippet": "ICICI Bank reduces benefits on 21 credit cards, imposes minimum card usage for airport lounge access Moneycontrol.com"
+    },
+    {
+      "uid": "6705aebf986a",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": "critical",
+      "published": "2023-11-29T08:00:00+00:00",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard"
     },
     {
       "uid": "183a196b6a3b",
