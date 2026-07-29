@@ -24,8 +24,17 @@ jobs:
       - name: Run harvester
         run: python harvester.py
 
-      - name: Commit updated feed.json
+      - name: Classify offers
+        run: python classify_offers.py
+
+      - name: Classify devaluations
+        run: python classify_devaluations.py
+
+      - name: Classify launches
+        run: python classify_launches.py
+
+      - name: Commit updated feed.json, deals.json, devaluations.json and launches.json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: update feed.json [skip ci]'
-          file_pattern: feed.json
+          commit_message: 'chore: update feed.json, deals.json, devaluations.json and launches.json [skip ci]'
+          file_pattern: feed.json deals.json devaluations.json launches.json

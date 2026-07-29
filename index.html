@@ -25,8 +25,6 @@
   --cat-devaluation: #b91c1c;
   --cat-offer: #15803d;
   --cat-launch: #1d4ed8;
-  --cat-social: #7c3aed;
-  --cat-benefit: #0e7490;
   --shadow-sm: 0 1px 2px rgba(20, 24, 31, 0.04);
   --shadow-md: 0 2px 8px rgba(20, 24, 31, 0.08);
   --mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
@@ -110,8 +108,6 @@ a { color: inherit; text-decoration: none; }
 .card[data-cat="devaluation"] { --cat-color: var(--cat-devaluation); }
 .card[data-cat="offer"]       { --cat-color: var(--cat-offer); }
 .card[data-cat="launch"]      { --cat-color: var(--cat-launch); }
-.card[data-cat="social"]      { --cat-color: var(--cat-social); }
-.card[data-cat="benefit"]     { --cat-color: var(--cat-benefit); }
 
 .card-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; font-size: 11px; }
 .pill { display: inline-flex; align-items: center; gap: 4px; padding: 2px 7px; border-radius: 3px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; font-size: 10px; }
@@ -302,7 +298,6 @@ a { color: inherit; text-decoration: none; }
             <option value="offer">Offer</option>
             <option value="launch">Launch</option>
             <option value="devaluation">Devaluation</option>
-            <option value="benefit">Benefit</option>
           </select>
         </div>
       </div>
@@ -340,11 +335,7 @@ const SEED_FEED = {
     {"id":"seed-offer-002","category":"offer","severity":null,"title":"HDFC Tata Neu Plus: 10% off Tata CLiQ Diwali pre-sale","summary":"Pre-Diwali sale on Tata CLiQ — additional 10% with HDFC Tata Neu Plus/Infinity (max ₹1,500 discount). Live April 29 to May 5.","source":"Desidime","source_url":"https://www.desidime.com/","published_at":"2026-04-29T07:00:00+05:30","card":"HDFC Tata Neu Plus","issuer":"HDFC Bank","engagement":{"upvotes":142,"comments":51}},
     {"id":"seed-offer-003","category":"offer","severity":null,"title":"AU LIT: 10x rewards on dining, weekends only (May)","summary":"AU Bank's customizable LIT card adds a temporary 10x dining tile for Saturdays and Sundays in May. Stack with Swiggy/Zomato bank offers for big margins.","source":"Twitter/@beondeal","source_url":"#","published_at":"2026-04-26T15:10:00+05:30","card":"AU LIT","issuer":"AU Small Finance Bank","engagement":{"likes":892,"retweets":124}},
     {"id":"seed-launch-001","category":"launch","severity":null,"title":"Yes Bank launches Reserv — UHNI metal card with ₹1L joining fee","summary":"Yes Bank Reserv targets ₹5Cr+ relationship segment. Unlimited domestic and 12 international lounge visits, 24K gold concierge, 1.5% forex markup. Invite-only.","source":"Google News","source_url":"#","published_at":"2026-04-24T12:00:00+05:30","card":"Yes Bank Reserv","issuer":"Yes Bank","engagement":null},
-    {"id":"seed-launch-002","category":"launch","severity":null,"title":"IndusInd Pinnacle Plus — bundles forex card with main credit card","summary":"Single onboarding flow gives both products. Forex Markup waived on first ₹5L of international spend per FY. Targets frequent travelers.","source":"CardExpert","source_url":"#","published_at":"2026-04-21T09:30:00+05:30","card":"IndusInd Pinnacle Plus","issuer":"IndusInd Bank","engagement":null},
-    {"id":"seed-social-001","category":"social","severity":null,"title":"r/CreditCardsIndia: Is Magnus Burgundy still worth it after the April nerf?","summary":"Active thread (240+ comments) on whether the EM transfer cap kills the Magnus Burgundy proposition. Top comment: 'Still best for ₹50L+ spenders, dead for churners.'","source":"Reddit","source_url":"https://www.reddit.com/r/CreditCardsIndia/","published_at":"2026-04-26T20:00:00+05:30","card":"Axis Magnus Burgundy","issuer":"Axis Bank","engagement":{"upvotes":412,"comments":247}},
-    {"id":"seed-social-002","category":"social","severity":null,"title":"@beondeal: 'Axis just killed Magnus, again'","summary":"Viral X post (2.1K likes) recapping the EM transfer cap. Thread includes screenshots of the official Axis email and a comparison with the Sept 2024 nerf.","source":"Twitter/X","source_url":"#","published_at":"2026-04-25T13:45:00+05:30","card":"Axis Magnus Burgundy","issuer":"Axis Bank","engagement":{"likes":2104,"retweets":318}},
-    {"id":"seed-benefit-001","category":"benefit","severity":null,"title":"DreamFolks: 2 new lounges added in Bengaluru T2 (April)","summary":"Plaza Premium Lounge (T2 East Wing) and 080 Lounge (T2 West Wing) now accept DreamFolks. Total India network now 58 lounges.","source":"DreamFolks Official","source_url":"https://www.dreamfolks.in/","published_at":"2026-04-28T10:00:00+05:30","card":null,"issuer":null,"engagement":null},
-    {"id":"seed-benefit-002","category":"benefit","severity":null,"title":"Priority Pass adds Encalm Privé in Hyderabad RGI Airport","summary":"Premium lounge with private cabanas and runway view now accepting Priority Pass. Useful for HDFC Infinia, Axis Magnus, ICICI Emeralde holders.","source":"Priority Pass","source_url":"https://www.prioritypass.com/","published_at":"2026-04-20T11:15:00+05:30","card":null,"issuer":null,"engagement":null}
+    {"id":"seed-launch-002","category":"launch","severity":null,"title":"IndusInd Pinnacle Plus — bundles forex card with main credit card","summary":"Single onboarding flow gives both products. Forex Markup waived on first ₹5L of international spend per FY. Targets frequent travelers.","source":"CardExpert","source_url":"#","published_at":"2026-04-21T09:30:00+05:30","card":"IndusInd Pinnacle Plus","issuer":"IndusInd Bank","engagement":null}
   ]
 };
 
@@ -361,9 +352,11 @@ const CATEGORIES = [
   { id: 'devaluation',  label: 'Devaluations' },
   { id: 'offer',        label: 'Offers' },
   { id: 'launch',       label: 'Launches' },
-  { id: 'social',       label: 'Social' },
-  { id: 'benefit',      label: 'Benefits' },
 ];
+
+// Fixed focus: only these three categories are ever shown, even if a loaded
+// feed.json still contains other categories (e.g. benefit/social items).
+const ALLOWED_CATEGORIES = new Set(['devaluation', 'offer', 'launch']);
 
 function timeAgo(iso) {
   if (!iso) return '—';
@@ -556,11 +549,15 @@ async function refresh() {
 }
 
 function applyFeed(parsed, sourceLabel) {
-  STATE.feed = parsed;
+  const total = parsed.items.length;
+  const items = parsed.items.filter(i => ALLOWED_CATEGORIES.has(i.category));
+  STATE.feed = { ...parsed, items };
   STATE.isSeed = false;
   renderAll();
+  const skipped = total - items.length;
   renderBanner('success',
-    `Loaded ${parsed.items.length} items from ${sourceLabel} (${formatGenerated(parsed.generated_at)})`,
+    `Loaded ${items.length} items from ${sourceLabel} (${formatGenerated(parsed.generated_at)})`
+      + (skipped ? ` — ${skipped} non-offer/devaluation/launch item${skipped === 1 ? '' : 's'} hidden` : ''),
     'dismiss', () => renderBanner(null));
   document.getElementById('drop-hint').style.display = 'none';
 }
