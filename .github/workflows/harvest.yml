@@ -24,14 +24,8 @@ jobs:
       - name: Run harvester
         run: python harvester.py
 
-      - name: Classify offers
-        run: python classify_offers.py
-
-      - name: Classify devaluations
-        run: python classify_devaluations.py
-
-      - name: Classify launches
-        run: python classify_launches.py
+      - name: Classify feeds
+        run: python classify_feeds.py
 
       - name: Commit updated feed.json, deals.json, devaluations.json and launches.json
         uses: stefanzweifel/git-auto-commit-action@v5
