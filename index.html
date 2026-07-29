@@ -517,6 +517,41 @@ function extractJSON(text) {
   return null;
 }
 
+// Live data comes from the three classifier outputs (classify_offers.py,
+// classify_devaluations.py, classify_launches.py), not the raw feed.json —
+// those already gate out comparisons/reviews/guides/noise. feed.json is only
+// their upstream input; Open File / Paste / drag-drop still accept its raw
+// shape as a manual override (see applyFeed).
+const CLASSIFIER_SOURCES = [
+  { file: 'deals.json',        key: 'deals',        category: 'offer' },
+  { file: 'devaluations.json', key: 'devaluations', category: 'devaluation' },
+  { file: 'launches.json',     key: 'launches',      category: 'launch' },
+];
+
+async function fetchJSON(path) {
+  const res = await fetch(`./${path}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${path}`);
+  return res.json();
+}
+
+function normalizeClassifierItem(it, category) {
+  return {
+    uid: it.uid,
+    title: it.title,
+    url: it.url,
+    source: it.source,
+    category,
+    severity: it.severity || null,
+    issuers: it.issuers || [],
+    issuer: (it.issuers && it.issuers[0]) || null,
+    card: null,
+    deal_type: it.deal_type,
+    published_at: it.published,
+    snippet: it.snippet || '',
+    engagement: null,
+  };
+}
+
 async function refresh() {
   const btn = document.getElementById('refresh-btn');
   btn.classList.add('loading');
@@ -524,17 +559,34 @@ async function refresh() {
   renderBanner(null);
 
   try {
-    const res = await fetch('./feed.json?t=' + Date.now());
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const parsed = await res.json();
-    if (!Array.isArray(parsed.items)) throw new Error("missing 'items' array");
-    applyFeed(parsed, 'feed.json');
+    const results = await Promise.allSettled(CLASSIFIER_SOURCES.map(s => fetchJSON(s.file)));
+    const failed = results.filter(r => r.status === 'rejected');
+    if (failed.length === results.length) {
+      throw new Error(failed.map(r => r.reason?.message).join('; '));
+    }
+
+    let items = [];
+    let latestGenerated = null;
+    results.forEach((r, i) => {
+      if (r.status !== 'fulfilled') return;
+      const { key, category } = CLASSIFIER_SOURCES[i];
+      const list = r.value[key] || [];
+      items = items.concat(list.map(it => normalizeClassifierItem(it, category)));
+      if (r.value.generated_at && (!latestGenerated || r.value.generated_at > latestGenerated)) {
+        latestGenerated = r.value.generated_at;
+      }
+    });
+
+    const label = failed.length
+      ? `deals/devaluations/launches (${failed.length} of 3 failed to load)`
+      : 'deals.json, devaluations.json & launches.json';
+    applyFeed({ generated_at: latestGenerated, items }, label);
   } catch (err) {
     // Fall back to seed data so the dashboard is never blank
     if (STATE.isSeed) {
       renderAll();
       renderBanner(null,
-        'Showing demo data — live feed.json not available. Once deployed, data updates automatically every 2 hours.',
+        'Showing demo data — live classifier output not available. Once deployed, data updates automatically every 2 hours.',
         'paste JSON', openPasteModal);
       document.getElementById('drop-hint').style.display = 'flex';
     } else {

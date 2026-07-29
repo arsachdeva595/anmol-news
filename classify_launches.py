@@ -66,6 +66,18 @@ NEGATIVE = [
     # categories mutually exclusive by excluding devaluation core signals here.
     r"\bdevaluat", r"\brevis(?:ed|ion)\b", r"\bcapp?ed\b", r"\bcap\s+reduced\b",
     r"\bdowngrad", r"\bnerf", r"\bdiscontinued\b", r"\bwithdrawn\b", r"\bslash(?:ed|es)?\b",
+    # A bank "launching" a cashback/rewards campaign on an existing card is an
+    # offer, not a new card — keep offers and launches mutually exclusive too.
+    r"\d{1,3}\s*%\s*(?:off|cashback|discount|back|rewards?)\b",
+    r"\bcashback\b",
+    r"\bflat\s*(?:₹|rs\.?\s*)?\d",
+    r"(?:₹|rs\.?\s*)\d[\d,]*\s*(?:off|cashback|back)\b",
+    r"\bno[\s-]*cost\s+emi\b",
+    r"\b(?:coupon|promo)\s*code\b",
+    r"\bextra\s+\d",
+    r"\binstant\s+discount\b",
+    r"\bup\s+to\s+\d+\s*(?:%|x\b|air\s*miles?|points?|rewards?)",
+    r"\b\d+\s*x\s+[a-z]",
 ]
 
 POS_RE = [re.compile(p, re.I) for p in POSITIVE]
