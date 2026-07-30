@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-29T12:33:33.100921+00:00",
-  "count": 21,
+  "generated_at": "2026-07-30T05:24:31.607150+00:00",
+  "count": 22,
   "launches": [
-    {
-      "uid": "3754cb5b9059",
-      "title": "SBI Card, Google Pay launch co-branded Flex credit card - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTRjcFg5OGtSaUFCQnpCd3doSzViajNnUGpvLV9XVkdjcDZOLTBGOTVSTk00eTl6M3hNak9MdnpZUndjOGktcVhrbU9pV1BOZGRlbmx1a1V2REtZcjlURXNVd3VfMlFxeXlqdHI3eTJWcWlQSUVHVWJiZUlWRjZpa1JLNWQzc3JzTERWSWI4dWwwMm1QQW5jWDZLY3MxOVBJbUE4ejRSOHhBYWxmWUJ6Zg?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-07-29T11:07:08+00:00",
-      "snippet": "SBI Card, Google Pay launch co-branded Flex credit card scanx.trade"
-    },
     {
       "uid": "da72de4dcdbd",
       "title": "Samsung launches 'Galaxy Card' credit card - IndiaIPO",
@@ -101,26 +90,46 @@
       "snippet": "CheQ and AU Small Finance Bank Launch India’s First LED-Powered Co-Branded Credit Card Elets BFSI"
     },
     {
+      "uid": "e8329afefcfb",
+      "title": "January 2026 financial changes: How 8th Pay Commission, new credit card, income tax and MF rules affect you - businesstoday.in",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSjNTbFFGUjhVSHFQbHlPWEhTaVZZbVNldUVWam5fYk9Cb2w2bmo0Q2k4bnZGRzRHdWFpSWEzX1dkSVI0TkRwUXgzMVdmNEdKNHgza2ZIb190dHhDbWhMWG95dUIwLTRUcDZDdGVISVJxajQ5UzBJWVNENkdkMHZieXRkbHpFeURwazhnYnNqb0xMZHVEOUZGM0xobTY2S1JZQ1I4cDhCNXdJOE5QcWdmcGowTmVjQ3BqeUJoNXZqcE51ZkduSGhveUhEakZwNFBVMDU2cG1FZmVTNFJvV2swSUZ6M3cxUGNybGFmZlYtYkliRTh3RnFiaGlBWlhRNExGTTJHTHpNZ2stbUHSAZACQVVfeXFMTkd4VktsMXBUSi12eWVWZVNhU0syVW4xQTNxbER0dm9wNmxGbFppc2tHQkV0b2t3VTdzdFNwSzBPX3FmQ1B1a3NjcUZFbmc0ek1FNXFXeWMzQ1pwLXVTUC1OX3FqZ2Yzc1Y3MjZQWmgyX284UmxSZEQ2VTY4TmcyY05Gd0t2SERCVVphQUNrLU9Nc1gyUEFISlJoRlE0UVROQllObk5kMF91Q21NZWdlNU95ZE05dFlyRUY1MGJDSWVNdWZtaWdldnNBVU5LU1JqczV0MHJId081NXhubldlamR6cHVqZVdHWXF5SnhFUXFZc1pPVEk3aEdTb3BnSEoyaDdvZjhDeXRtZnVOU056LUg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-01-01T08:00:00+00:00",
+      "snippet": "January 2026 financial changes: How 8th Pay Commission, new credit card, income tax and MF rules affect you businesstoday.in"
+    },
+    {
       "uid": "462552427e11",
-      "title": "Google Pay Launches UPI-Linked Credit Card with Axis Bank - GK Today",
+      "title": "Google Pay Launches UPI-Linked Credit Card with Axis Bank - gktoday.in",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm5WcV9qXy1hRHVPMTNEODNKYlJzMkFnYzk2dzlZQW0tSTFYMGVVUHJLZTh2RWJKVGhDOF85VUhJY2ZTMVZYMGw2cW1aWWZmUzdBY1FsMUhPQ0w1clBvZkxmY1dDNTRlbXBmWU1LREFJLXRyZERBdGpWVXl5SmpuMHVQT2lvbnZK?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-18T08:00:00+00:00",
-      "snippet": "Google Pay Launches UPI-Linked Credit Card with Axis Bank GK Today"
+      "snippet": "Google Pay Launches UPI-Linked Credit Card with Axis Bank gktoday.in"
     },
     {
       "uid": "aabea69c1d95",
-      "title": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support - The Times of India",
+      "title": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV1FaSEt2SmZXN2prdjhHNDc1UHdTV0dJU1F5dTl1UTZCRVo4Q2U5T1hYQmhmMEVPTTYtYVJzOGxSUnhLalkxNk15Y3ZObUZaMUgwRDFfcC01YUlPODVjWXp3QUo5QzZISlBvNUo3VUM2Q0JDc1Y0UkRDdldCb3MwOXN3cjNBZTRRU0VQclFoVk44N1Z5aHVrRnFqT3NnVENTR0lrY2xPWFFyTG0wbGp1YWhFQkF4NHA5bkpKR1lTSWRuTFpxVGswZGdWQlJ3aHVDMkRKc2FRekItcXE5SGVTVmNsSzB1dTZGOTQ4WmhQeFdQMzZJNmx30gH8AUFVX3lxTE5ERVgyYnpwVUNxTUpHbjlhajE1R3doRUhaR0xPMEVySzg4U2RHX1k0ODd4RlRMeVNUUVF4NXlCaWNBT202Q1FtU1ViRFJQU3BJbWNzQi1YSS1GUVlabTNGY2oxUF9YRnpwZDhmYjBuSm9vSWEwWEFTU3IxSThiRmtZRUNacWRyQVR0aG84TTZFYXpvWDQxUkNUWnpkU0hBSnJrNTFMNDdoQlpfQU5pTEVRZ3BpTzRsRENpRjZYOUtXRzM3ejhGVHE1MlV1ZHNGdm9mUFdEbkVsZHNnTU5tckZOekc2UUVEdFU5Ujc3a1hJV2hMc0dZQUVpQ05pYQ?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-18T08:00:00+00:00",
-      "snippet": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support The Times of India"
+      "snippet": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support timesofindia.indiatimes.com"
+    },
+    {
+      "uid": "0b0c7b4731de",
+      "title": "Axis Bank partners Google Pay to launch UPI credit card - timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzVYWHZEM2k3cno1Wk5jYW9CYi1mdVdqZ3o5MXZER2FyLVkwVkNDY2tVT0tDNkd2UUJDakhvcVprMGM1VnZieElmM2lrZTFSd0FyWkRralo3TTJ1Rlg5MVExUGx0cC1FcU9lUzZiMGVDZWZsd0pGYTdJemplU09qNDd6SDdtOHBySEZJdWdHSmZxWlNiZHFkWGVZZEtIUldXVEdhTDhrNVRUb2NROEtHa21GRmFWZFM4QzNoOWFPaXBQSk5PN0hIRGJJU2VHR25nX0phMHRfYy3SAd4BQVVfeXFMTVY4cWpQLTRVVE5qRUttczJMQ3RvRWNEWWZLZzhzbkl1eUZNVjgxb2pLMkZKQ2NDZHNDbGtNZlB3QTlXWV9tNmNIR0ZXdXhtdGd3UmQ3c1J4WHdzczdFSHoyYTNWajlMaG1qT2VzWXhFVlFOak1QanlLSGpad2N4Zm1JX1pHSGM1TXRmNERnWmdoVk9Ld3ppalVVTEtYb0pXZ01DcEtGOGFhY0tlclhaVWpTODFDMFhhbFZMTGhuTGtOZTdxSU40RVRMOGozRDJqeUp5dURNMThMS2oxN3J3?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-12-17T08:00:00+00:00",
+      "snippet": "Axis Bank partners Google Pay to launch UPI credit card timesofindia.indiatimes.com"
     },
     {
       "uid": "c4e4afb3142d",
@@ -130,17 +139,6 @@
       "issuers": [],
       "published": "2025-12-17T08:00:00+00:00",
       "snippet": "Google Pay Launches Its First Credit Card in India PaymentsJournal"
-    },
-    {
-      "uid": "0b0c7b4731de",
-      "title": "Axis Bank partners Google Pay to launch UPI credit card - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzVYWHZEM2k3cno1Wk5jYW9CYi1mdVdqZ3o5MXZER2FyLVkwVkNDY2tVT0tDNkd2UUJDakhvcVprMGM1VnZieElmM2lrZTFSd0FyWkRralo3TTJ1Rlg5MVExUGx0cC1FcU9lUzZiMGVDZWZsd0pGYTdJemplU09qNDd6SDdtOHBySEZJdWdHSmZxWlNiZHFkWGVZZEtIUldXVEdhTDhrNVRUb2NROEtHa21GRmFWZFM4QzNoOWFPaXBQSk5PN0hIRGJJU2VHR25nX0phMHRfYy3SAd4BQVVfeXFMTVY4cWpQLTRVVE5qRUttczJMQ3RvRWNEWWZLZzhzbkl1eUZNVjgxb2pLMkZKQ2NDZHNDbGtNZlB3QTlXWV9tNmNIR0ZXdXhtdGd3UmQ3c1J4WHdzczdFSHoyYTNWajlMaG1qT2VzWXhFVlFOak1QanlLSGpad2N4Zm1JX1pHSGM1TXRmNERnWmdoVk9Ld3ppalVVTEtYb0pXZ01DcEtGOGFhY0tlclhaVWpTODFDMFhhbFZMTGhuTGtOZTdxSU40RVRMOGozRDJqeUp5dURNMThMS2oxN3J3?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Axis Bank partners Google Pay to launch UPI credit card The Times of India"
     },
     {
       "uid": "958919bef8c1",
@@ -172,6 +170,15 @@
       "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
     },
     {
+      "uid": "36d8c7a77d03",
+      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN0tpMm80NTVpVUY2Qm5lak0zaFJOM3VsbkdpRS1xWHBwUXRKcVQwbDktbVRSc1ZtTGJwSXlYRkQtMXFmYmtFTGhoajVXSElsd2Q0RUJFem5nSmloT0ZneEdIYThiNHFzY25QajF0M3pVSHEtZkpkNU9oV2VCdlptYy1vY3B5SnlQaEJXWEN0aFgtZGhiNE1SMy1RY0l2T3FzVG0xaE11Y0JkZWstWTFCRW9qMjVuUHlhZVRKNGM1Rm1uM2ZjSFA1bm1WVjFhZ1d1ZC16b0ZpeExUSmZkY2JUMEdqbXBETXdZZ2l4d29Fcw?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-12-10T08:00:00+00:00",
+      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card Passionate In Marketing"
+    },
+    {
       "uid": "b353bebf5d96",
       "title": "Scapia and Federal Bank Launch Innovative Add-On Credit Card with Individual Control - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDdnaWZxblU3ejhCdm55Z09qMHBkRjI0anZpYjF3d0pCQ3B6SkFvOWFROGVXSk8tMklWb29BN0hfOWJqRWNURnRMNGhUbDQzVHhkOXRFNjAwSlNlY1pEWFVmaWEwNUJyclZOeUVaLVlBc19ETlpGcnJ1Z21VdkRSYjVGd3F1YktXRDhGNURNNVphR2RTYnFrU2U3MFlmMkZzQnhER2ViTVFLbXhHZUl3VjJQRWxURXFyNkdqalJGYzFpX0NCTkIzekZtTWpmbzlCclpDSA?oc=5",
@@ -181,6 +188,17 @@
       ],
       "published": "2025-11-05T08:00:00+00:00",
       "snippet": "Scapia and Federal Bank Launch Innovative Add-On Credit Card with Individual Control scanx.trade"
+    },
+    {
+      "uid": "bac632543a77",
+      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2025-11-04T08:00:00+00:00",
+      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
     },
     {
       "uid": "96befd6a2945",
@@ -193,25 +211,14 @@
     },
     {
       "uid": "5e7afb7bfa89",
-      "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - The Times of India",
+      "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUXZIN2h3bnZRenhhZjJMWXJsTjdxWE5KX2t2MVN2bzlpckgyRXpUWk14LVdMelBLSEF3NlpiV3RmR2UzeS1PQ0EwOHFmaE1KOFdxVXhCSGZ2QndrWnRIb2NrRTV1eTJXTGRHa296bERzWWZCYi1xYnNIeXNYc0N6Z3BuTnJOSDBhYjZiWXNlZ3hKNTBPNnhubUFob0VURVM5MVQ4TXBCNzVmNTJHVkpnUDA2TG9zTmoyQ2Ffa3hhSmdDZFpfSDNPaENWQ0lvWFg1a0hUeXpkcWt3M2FKWGNqQ21FaTA1M29DR3BuU1ZvM2xQU2xsMVdQdVRB0gH_AUFVX3lxTE1ZeHFsRmxuLUlORkxaQi1zQ1cwMlpOV2FpSXdabHlPN2F5ZFRiakVXSnRmVjRaVnNBUHFEaTZoQlpwbWkwS3c1UTNvMzZWZDdZVG41bHpXYTRkLWY5REJYcVlmSlVhQWNJRXg5SkFaVHZqdjNhcUNoSGpqTVVHVzBpVU5GWWpJZjN2STV2SjZpLWVqZldjWDlkV2pnWHRxRmRKTlRyTEdHZ05famdEQThjY1BtQVplUi1ZMjFXVEhiS1k0V2k4VTZLZ191ZG5vRjJ2WDUzSkJtLVBTdC12UEM0bGstNWUtU1c0ejJoeHdZRkRTUjBjRDlwS2N1TlNvcw?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "SBI Card"
       ],
       "published": "2025-08-18T07:00:00+00:00",
-      "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled The Times of India"
-    },
-    {
-      "uid": "2b0fe3603910",
-      "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2025-07-28T07:00:00+00:00",
-      "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
+      "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled timesofindia.indiatimes.com"
     }
   ]
 }
