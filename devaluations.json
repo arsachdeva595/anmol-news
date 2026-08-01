@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-07-31T05:50:58.949564+00:00",
-  "count": 33,
+  "generated_at": "2026-08-01T05:41:28.280376+00:00",
+  "count": 31,
   "devaluations": [
-    {
-      "uid": "11a306162ade",
-      "title": "Axis Bank Removes EDGE Rewards from Burgundy Debit Card; Lounge & BMS Benefits Now Spend-Based",
-      "url": "https://cardinsider.com/blog/axis-bank-removes-edge-rewards-burgundy-debit-card-lounge-bms-benefits-now-spend-based/",
-      "source": "CardInsider",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-07-30T05:56:18+00:00",
-      "snippet": "Axis Bank has announced a major devaluation of its Burgundy Debit Card, effective 1st September 2026. The Burgundy Account is one of the bank’s flagship premium banking relationships and has gained significant popularity in recent months, especially after lifetime free (LTF) Axis Bank Horizon and Ma",
-      "severity": "critical"
-    },
     {
       "uid": "729f30eafb63",
       "title": "Devaluation but No major blow yet on the Magnus for Burgubdy rewards system 🤞👇👇👇",
@@ -25,18 +13,6 @@
       "published": "2026-07-28T03:20:39+00:00",
       "snippet": "Devaluation but No major blow yet on the Magnus for Burgubdy rewards system 🤞👇👇👇 Akash (@ccg33k) 🚨 Axis Bank MAGNUS for BURGUNDY – Devaluation Axis Bank has announced a few changes to the MAGNUS for BURGUNDY Credit Card, effective 28 August 2026: 💱 DCC Markup Increased from 1.5% → 2% 🎁 Gift Card Spe",
       "severity": "critical"
-    },
-    {
-      "uid": "4a9ee8374f6d",
-      "title": "HDFC SmartBuy Caps Bonus Rewards for GyFTR & Woohoo Vouchers",
-      "url": "https://cardmaven.in/hdfc-smartbuy-gyftr-woohoo-reward-caps/",
-      "source": "CardMaven",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-07-05T16:55:02+00:00",
-      "snippet": "HDFC Bank has introduced a new monthly cap on accelerated (bonus) Reward Points earned from GyFTR and Woohoo brand voucher purchases through SmartBuy. Effective 1 July 2026, premium HDFC credit cardholders can earn a maximum of 3000 bonus Reward Points per calendar month on brand vouchers, even if t",
-      "severity": "major"
     },
     {
       "uid": "c0f0640c91f9",
@@ -63,27 +39,27 @@
       "severity": "major"
     },
     {
-      "uid": "c0a89db48e61",
-      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeUlBWl9MOXRsVjJQNW0xQTFYTDVSOUpMWC10OTRrY2FTY2ZFUzI5ZHFUYllUcHFzY2QzSTNtZklOZ29oMVpadmFtZ2hHb2I5ZVQ3d2YwaWNvLUgta0NGX3VzMVpXR0hQcjNTSkFaSER6bDZzdHVpT0t1TXBYUnU5TW5tdmJJck5UVkQ1TVFJVWpMU0JxRXl3Y2tSdDF2cFl6eTUta1NXdjZmQkNzVFVLcUdTS1ctRmM2SzdYN2pMNDZ6ZVlnMl9jcTRwcC1ubFFGc2dsbEhxOGFNUGpXM2I4eEU5enFZakplY3BjYkJUZjk5RHZ0MTI40gH_AUFVX3lxTE9KTDJzTExzaTF2VE1wWWJqcGpQMkQ1MGFyRzBrdXBjR1paZ2EwQUJtOTUxR0I3eG9CR2FianZSNE5XTG12OE9aVEhRT1ZtcEdKSUQycHJLc0ZzOVNXNlREU0E5ZzN3SEJ4Q3BVX1ZXZjQ0RTBoVTdaYkhxTDhwYXFmS0pCbXVfaEY2d2ZjNUV4RGFPS3BKal9paWxodHhpRFVFTTNuaGVVN2NOeFJ0cGwwLWhDTTkwWlRuREVHd0duV2xteUxoQU9sR3pSZU5JSXdrSkEwUjI1SmhMR0tCaWN4OWF6bkVxWXgxbkNxaGFnaVFjSkFJdkpJdzJycXg2RQ?oc=5",
+      "uid": "ae3287a5bf1f",
+      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - ndtvprofit.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeUlBWl9MOXRsVjJQNW0xQTFYTDVSOUpMWC10OTRrY2FTY2ZFUzI5ZHFUYllUcHFzY2QzSTNtZklOZ29oMVpadmFtZ2hHb2I5ZVQ3d2YwaWNvLUgta0NGX3VzMVpXR0hQcjNTSkFaSER6bDZzdHVpT0t1TXBYUnU5TW5tdmJJck5UVkQ1TVFJVWpMU0JxRXl3Y2tSdDF2cFl6eTUta1NXdjZmQkNzVFVLcUdTS1ctRmM2SzdYN2pMNDZ6ZVlnMl9jcTRwcC1ubFFGc2dsbEhxOGFNUGpXM2I4eEU5enFZakplY3BjYkJUZjk5RHZ0MTI4?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
+      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You ndtvprofit.com",
       "severity": "major"
     },
     {
       "uid": "9552ff847f9f",
-      "title": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained - Business Standard",
+      "title": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained - business-standard.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWdUTWp3WXJLckl5alVOOGNkNzRMY1hkRlMxTUdmRm5FRFdpc0RnN2JnU2M3TjdLRC1SVG9mdlJNSGJKdENGdDdJUnRMWjNjX3NTdzRxX092VTY3WDc5SWVYNEs2SUd1QS04eE1CNDFFZF96MlF0Y1BHMnBlYnE3dlNYb05tT0lWM25vYXVCTlRWN2lwV3NDLUdTZTZZU3dmQWo4TWtXRWJ4VURaeFRFTWlhbVJpUVRVNXFJMnozNnhUYkNWcURDeHp1UW11MDhqb05KV3VIVExrZHNzd2FVYXV4c9IB6AFBVV95cUxQaW5nUkI4cHBZRFZkYVdnYVZaQ09UTVdIeHpEZzlRd2t2MW9QYW9BT2FpZzlKeGRoUnpSVUFKLU1Caks1RjV0UHR3WjFhTEQ5aWtIc00zYmdrbUp3Y0Y1d21yX3BUamdmdlJDNnZxb3NoNnpIcXRGOHJSeENucjVWRDY5SFpUSlN4Ym1pbTltb1Y5RzdTY0dYZGxjSUZrVG9lSzl0NXdLYXNTN1RCSXVFQ3Mxb0o0M1BzVTBkclQ4eDhsRWdFcDBHQWw4SWszeHA4V1pBV0U0YTdCNEp6T01LRzh6WU1TNmZr?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained Business Standard",
+      "snippet": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained business-standard.com",
       "severity": "major"
     },
     {
@@ -98,12 +74,12 @@
     },
     {
       "uid": "8951d125b1e7",
-      "title": "4 things cardholders should do to avoid credit card devaluation risk - Upstox",
+      "title": "4 things cardholders should do to avoid credit card devaluation risk - upstox.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaktYRGhsQ1kzMGFheXdsNlB2cTBSSVhCUWVmNnI3ZFczYWVpUG5talpkVjJmMWdsNGpPQVNaOEZGdzFxRWgtMDVONERRcDJiUm52cTZTbTU5ZFppRTBHNTZXd3k5MDNQRTFjN2liUm5oSXdNQlJrYjU1NUxITUdFb2pQcjFYRjNEcTFiMmNzeHlVaFpwV0dUMnZhRlpScW9OMWl5QnZMZDVxb25hWXNIME44dTVOd2VBYmRoRE51Z19WdW1xYml4WEllVEx2YTJLWm82LXNubw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "4 things cardholders should do to avoid credit card devaluation risk Upstox",
+      "snippet": "4 things cardholders should do to avoid credit card devaluation risk upstox.com",
       "severity": "critical"
     },
     {
@@ -149,16 +125,16 @@
       "severity": "major"
     },
     {
-      "uid": "cab49c17e317",
-      "title": "What to do with Amex Platinum Travel in 2026?",
-      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
-      "source": "CreditCardz",
+      "uid": "5c8bdb1f8200",
+      "title": "HDFC Bank revises Regalia Gold, Diners Privilege credit card benefits from these dates: Reward points, lounge access and other key rule changes - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMExtZW0taDlKbzZDZ3pZYm40d3Y3bTJGUHg2QWF3cmIyR0praG00VTdabzVmQy10ZWo3LWZsRGNlemlUcG1mVkRvc0ZVTkN1dkJPOWU3dExUUjVyaXAycXBtZ3J1eUVlbU95RFF1ZHhHM2gwd2xSdjc4SzU0c0MzRk04X1plUzN3bHR2X09XdmFiRUJxNjRfeVBEWHVkRGZwbW9hUk93cGVvczZzNUQxM2tIVGEwUWlJenN2NE92V1pyYWZ4UzMwcWtYUTI3aTdXMThzaEw3TDgtOG9ZQzFvWVFSeF9CbG0tbFJWcDhQenJHSFhjX3hZUHYyLUdfVU5mYk00djk5bzlqMGJ4cFZVUTg2NzdZeU9RTWhkd2h6cGZndGc?oc=5",
+      "source": "Google News / devaluation",
       "issuers": [
-        "American Express"
+        "HDFC"
       ],
-      "published": "2026-04-15T02:35:39+00:00",
-      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
-      "severity": "critical"
+      "published": "2026-04-08T07:00:00+00:00",
+      "snippet": "HDFC Bank revises Regalia Gold, Diners Privilege credit card benefits from these dates: Reward points, lounge access and other key rule changes The Economic Times",
+      "severity": "major"
     },
     {
       "uid": "ba8476c40031",
@@ -185,16 +161,6 @@
       "severity": "major"
     },
     {
-      "uid": "81b875a9ce39",
-      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
-      "severity": "major"
-    },
-    {
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
@@ -206,14 +172,14 @@
     },
     {
       "uid": "bd3baeb9f1c8",
-      "title": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised - Business Standard",
+      "title": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised - business-standard.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2NHVzVRSDZ6djZqQ2QyVlhjS01LQW1BN0ZxMGNNWDh5eGdDTnl6NHRXTzI2TWNJRDZqOXhrbE5MOVNRRHRGem5ubk9YX1hJOHJfdzVuZlNvS0QtOVBwT3dsWnFidEk1RTM3eWJycGVLemViYVE1RnpRNW1FU2xDZFhETTd1TFJYR1Q3a0VCRHVsWE0xUzZ1THJEMElJSXdPSXV3a2tCam02R0c1dUpWb1N4cEl6V24wVFJXMjNQSmlFVDludElFcXdhQ0h1c1B2c1BXdmJMdTJMcEZwNjY1OU0yd9IB6AFBVV95cUxQRkJBbG5VZEtVV2lVLXRGb1FWVFF0MTBzcEtUc0k4V2tlLVZjbktGbjMtOXBfWDhFSE9zYXBuNTR6RF95UG84YmtzV1R5RVZUUHVXSUhUZ2w2WC1Ec0pEenRiX1JzVzI5RlJRQk9aRWxtODd0SGMwLXV4S1lSM2xCNWtIZGhSaFZFZUhJWWJiME5Cbkh4am5ia09hdlkyc3JTajA4cDBxcXZ0SExFSkRxNTI0MkZ4MWM1cFdrUDhzTnFQamkydVN5V2hNUk1hQVJtem9IZ2Q2QWhZVldHRXN5ajAtdnpUZGxf?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2026-03-11T07:00:00+00:00",
-      "snippet": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised Business Standard",
+      "snippet": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised business-standard.com",
       "severity": "major"
     },
     {
@@ -311,6 +277,18 @@
       "severity": "critical"
     },
     {
+      "uid": "42139014420f",
+      "title": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcEp3eUxlTXNVSkpEUHluT1hOc21XbTVCVjNDOGM3cGw5R0l6dUp0NzhUZGVJc1p1OXJ4eDk0aWV3UmVMbXFhWjFKZGk3SXdneHNBMTZGZUpYVHUySjNOZGhGdVIxLTFsYVRiWG5NVFp6UzRFVnpIVmtnLWpZV3dZTHJyWGdjZm1oRHJ1Q3E1N1dIemJQdkJHUVlSa05LZWlLbEhMOUxQSTh4WXZHYlZiUDNOVVhnc1QxT3EzSzcxLXVzWVMzNmZub2l1d1czMHVqSUN2VUd2R2hVQnRERi04SlZONV93bkoxa0xLOVBLZHE1WUgwLUZxa0NMOXpZZjJFTlZiM1htWVNvbmJKbEHSAZMCQVVfeXFMTjI3NFZzRTd3aHAzQlFIMXBpOThrQWVUcURWYkZ0NDNJZUhKWGxWVEl2LVB2RHdFeDJGanlwUjVfcDJNRU1rZ1FhNU9Db2dlYU5FVDlJSnRVem9NSlVycDJEX3E4b01TZFBaYXBhdVUzNHJOYjlVRFM5VUM5YlRIUHhabi02N0ZqTVJZRmpEbTFaSlk5LTBVaXdkcnkzWEM5T3VoR1poOWRyVGRKVnZUMU1adWxucEc3SFFTSDkxa0Y2TFJCZ1pmUzdDd190Tmc0clBadTVacXc2c3oyN0U4OU82S3JrOHdVbTFyZm9lVkdYeHhQbDQwcGRRNFBrYVBRVlBaOEVZWmE5NVg4N0pwYzFwYzQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-12-19T08:00:00+00:00",
+      "snippet": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates livemint.com",
+      "severity": "major"
+    },
+    {
       "uid": "cf0a8bda3a1c",
       "title": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONTFyT3Z2andpN1hWN3dGTEhyb1NXUUdTNVhubGMwbHItQ2p6SVJEUkJhUzRXazltZWlkSXh4dmxMOHc4OFNuekNqU0xrMHQ1bXMxT2Zyazl6MnQ1NzQ0R096NUZiYm9DOGlYR0trM0o2d0N2dUxSa3N3T3M0UnE1MjZTcF9zclpGSlFnTklmUjdpU2V6emlGRnJROWUzdUVEMVhDWno0YVZHbVJ5Y1IyOTc1LW1SZGk2M19qcG1rNjg0UGZGLVdBSDlIRGhlX0gweTBDYjlydFUxbWlWNWdBVGM4bnVGakZ5UUFFTWw4OENVRVRnTzdiemZZVDlMVnBINFZhLWZrZk_SAY4CQVVfeXFMTURHQUlxR0RsZkZIa0d4Q000dENrWGtJYTMzTnIxQTZ2Tm16N1ZmRXFnME52NkZTN2xXQU5jUHYtWHkwSS1LaF8tZkRlTEVzaGRGM1dQU3dMT1RMbVJkeFllU1puQjd6bEZzY3A3bEJIamFtbDd3MURoRlBxVXdPVGxaMEZfRENBUHhENm1jU3BiS0pZdkpCVkhXVjNqSk1CWUlMRE9ZczRoWmpjNmJQQUdUYTk2NlpmNUpzSFYzaWFubWFOa3lrZkwtWXlkeENaT0wxeEFoNXhSQkpFZlVIN0lPSkVvbGFfbUJKdGUxSUdkQW00blJZUTN0aHhJMTFpNlJiZ0FkNFVPaDRyeUp3?oc=5",
@@ -346,19 +324,19 @@
     },
     {
       "uid": "6705aebf986a",
-      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - business-standard.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2023-11-29T08:00:00+00:00",
-      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued business-standard.com",
       "severity": "critical"
     },
     {
       "uid": "183a196b6a3b",
-      "title": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards - Business Standard",
+      "title": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards - business-standard.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2thSzlkUjRZUUpBd2NPM0tUNmMwY0hQUEVvYjdkVFFfUWFWSFBJcGJSZkpoVmpLSXE0NHFLbHNVZWJuTGQ3Uk4yaVFBNEhpNEc0aTdfb2p1b0ZVMnc2WHdWb1dqNlM0UW11UUFsQUZHTWVEMmtaeWUzSWhIcGhqajFRcnpzT29mcTJGYWZOcnRHTURJNUk2N2RKX2pUN2tna0drWGoycDBNeWk5Nk93YWdodWEzaVJvREM1SFNmVjhXUnZ4Z0pZemZob2h1ODQ0eE5pb3YyejBONmR2cXg0R0VzMGpFUdIB6wFBVV95cUxPSGxoS2huRl8tcTdSS0ptOTFiMnN0TDV4a1JtTm1SRl9Za05DaDRPYmxXNFY5U21Kd3d0YkFmaTZuamZpTHo2N0dxSE9KVFUwLUg1cFloZmN3ajNid0p5MXhrSFdEMzU2MDdUZENLS0p6c3ZlMm5kam5hdG03d3dTNHdLYVN5dGxpS0xCVlJKLWRkUEZ5S3dwcFRwUWNubUFLR2pIMWRnY3dSeThzZzh1aTZSSWlJNURvaTJpNFYzY3ZxV2cyUnFyRDg5VVNuRWdLMWpQaWJGQVNnTURrd09ZMmxGTl9CZTFCTjg4?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
@@ -366,7 +344,7 @@
         "Axis Bank"
       ],
       "published": "2023-11-03T07:00:00+00:00",
-      "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards business-standard.com",
       "severity": "critical"
     },
     {
