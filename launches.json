@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T05:41:28.281020+00:00",
-  "count": 20,
+  "generated_at": "2026-08-02T05:42:03.861137+00:00",
+  "count": 17,
   "launches": [
     {
       "uid": "bd3315320b6f",
@@ -15,14 +15,14 @@
     },
     {
       "uid": "8a3c485de505",
-      "title": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards - business-standard.com",
+      "title": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeW9JdkpadjNIWjdyVm5fdEVLSnFaSFBJTWMyeU5fZ09JU25oai1NMXZDaW5Bdl9VQldWVS1NekJrNlJQQk9BUmpXeGo2V1gxYU9vU2hhbGc0UHRYbXozY3Y3cnNKbUNOc2RuOHJpSTV5ZHdDY2pZbFV5aFFvN2xKU1BGa2N3VjJBdlJkMENoUHBPQ1FRUFZybW1RNGJnRzNRS2lGSk1XVGxmQ3lvLWI5bjdhRUNsWHNLZk8zSFJEUlgwVnNqM0FZdDhNUjZyam84eVBoLWFSRF8yVFdqd0M2U0gwZW55QdIB6wFBVV95cUxOS1IzanAzY01BclNGMGpDNkJJT05RNGlsdDFuRnpvX0toV2NXYjMwVk04bXA2cU50NUxtdWlUNDJ2TFFXemV5S3o5TkY4dURORDZkRE9ZRHMyRW1nbFBNdklRRXgzVGtnYkcxRW5ZUURfV2JPTWZsM3hCbEQ3Z2I4VkxRUEdXdFJMc2R2b3pjQ1JMTFJGMEdSYnE0WTJ5QlBqbE1sWTluWHZSSU1lZVlvQmZtQXdTendCemt3eEpkdTExOXg5a09RMjBsX3ZHNWJWUmRKVzBlLWZEVHZ2VG1FOHNMUUdzMVZpcW1F?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "SBI Card"
       ],
       "published": "2026-07-30T06:03:37+00:00",
-      "snippet": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards business-standard.com"
+      "snippet": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards Business Standard"
     },
     {
       "uid": "ac8ff76d079b",
@@ -34,13 +34,15 @@
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
     },
     {
-      "uid": "da72de4dcdbd",
-      "title": "Samsung launches 'Galaxy Card' credit card - IndiaIPO",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmVHcmQ2bXY3MTdsdzBJRnNhNDZPQVNaMmIxQUhzMXpXOVJuVTAtdXBvTldzRzhIM3pPSGpKNFcxSnlkd3VVaHdOREh0NmVXa0ZJZjlVY1Y2cktUNmN4ZlJHZXVJOXpUWFN4V0RLa1c3ZnZfY29memNHc1FCLWZrMG93?oc=5",
+      "uid": "f2ceeb87f651",
+      "title": "AU Small Finance Bank and Zaggle launch co-branded credit card with Zagg Coins rewards - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVU5wZ0FqclNDR3BmXzBEWGN0Z244aDVPUWJfR2s4X3lLSndPNnl3SkltVThkRnM2NFRjamxLNUF1NnBxUXkwLXRrWGphWlVDcTgwaklHdExrbnhVbnVnaVhadVAyYlJ6UURzWDNuWExDOXZfOS1YODlQY2p2VW1WQjRhQjVRT2FLU04xQWxBdXdiVWwzekZqbGhXQ0dWUWgyMW1ET1dIenFPRERvMzVSNVREWnNjSWM5c3U1eXJJOGNlRVNtUXQ0aGxidWd1OVVWRWg4VFBxRjlzaVBxMGZwOXRyM0U3clJNRml5djgzU1NjeHQxd3BDRkhB0gGAAkFVX3lxTE9FLVhhWUJhTFA1bjBRTGg3eXU4cVFvYWx6NjBrbVlsN2NqRURLUGRSb1pVbi1vS1UwRGFULVYyRlBfNDgxM3hvemFhSWtFSkt1VHQweHJVVXFTQjBMTmJ2QU9iN1BxWUhHLWlmTnZLSnA2WURiVy1YV3hZaUFMa1Q2ZGVjaFRSdjV4SXVUQTRIdEJqNkxhVThjcWUzcTNhbFFJSGhDclZqQ2poMWFtTTUyZV8xZ2JzYlpwVFFFcGxkUFlwT2Qyam9CV1V5TkI1c0pISWZyYUZwTWc5UURJdlZic2VTS1U2WWtvaWYzTUl6dDhlSXpPa1pmZGxUTkItb24?oc=5",
       "source": "Google News / launch",
-      "issuers": [],
-      "published": "2026-07-21T07:00:00+00:00",
-      "snippet": "Samsung launches 'Galaxy Card' credit card IndiaIPO"
+      "issuers": [
+        "AU Small Finance Bank"
+      ],
+      "published": "2026-07-09T07:00:00+00:00",
+      "snippet": "AU Small Finance Bank and Zaggle launch co-branded credit card with Zagg Coins rewards BusinessLine"
     },
     {
       "uid": "e56915399ce8",
@@ -59,6 +61,15 @@
       "issuers": [],
       "published": "2026-06-02T07:00:00+00:00",
       "snippet": "Central Bank Of India To Launch Wealth Management And Credit Card Businesses In H2 FY2027 Hubbis"
+    },
+    {
+      "uid": "e8329afefcfb",
+      "title": "January 2026 financial changes: How 8th Pay Commission, new credit card, income tax and MF rules affect you - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSjNTbFFGUjhVSHFQbHlPWEhTaVZZbVNldUVWam5fYk9Cb2w2bmo0Q2k4bnZGRzRHdWFpSWEzX1dkSVI0TkRwUXgzMVdmNEdKNHgza2ZIb190dHhDbWhMWG95dUIwLTRUcDZDdGVISVJxajQ5UzBJWVNENkdkMHZieXRkbHpFeURwazhnYnNqb0xMZHVEOUZGM0xobTY2S1JZQ1I4cDhCNXdJOE5QcWdmcGowTmVjQ3BqeUJoNXZqcE51ZkduSGhveUhEakZwNFBVMDU2cG1FZmVTNFJvV2swSUZ6M3cxUGNybGFmZlYtYkliRTh3RnFiaGlBWlhRNExGTTJHTHpNZ2stbUHSAZACQVVfeXFMTkd4VktsMXBUSi12eWVWZVNhU0syVW4xQTNxbER0dm9wNmxGbFppc2tHQkV0b2t3VTdzdFNwSzBPX3FmQ1B1a3NjcUZFbmc0ek1FNXFXeWMzQ1pwLXVTUC1OX3FqZ2Yzc1Y3MjZQWmgyX284UmxSZEQ2VTY4TmcyY05Gd0t2SERCVVphQUNrLU9Nc1gyUEFISlJoRlE0UVROQllObk5kMF91Q21NZWdlNU95ZE05dFlyRUY1MGJDSWVNdWZtaWdldnNBVU5LU1JqczV0MHJId081NXhubldlamR6cHVqZVdHWXF5SnhFUXFZc1pPVEk3aEdTb3BnSEoyaDdvZjhDeXRtZnVOU056LUg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-01-01T08:00:00+00:00",
+      "snippet": "January 2026 financial changes: How 8th Pay Commission, new credit card, income tax and MF rules affect you Business Today"
     },
     {
       "uid": "e0aff9f7750f",
@@ -135,63 +146,12 @@
     },
     {
       "uid": "0dae8845d824",
-      "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - business-standard.com",
+      "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3E?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-10T08:00:00+00:00",
-      "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards business-standard.com"
-    },
-    {
-      "uid": "36d8c7a77d03",
-      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN0tpMm80NTVpVUY2Qm5lak0zaFJOM3VsbkdpRS1xWHBwUXRKcVQwbDktbVRSc1ZtTGJwSXlYRkQtMXFmYmtFTGhoajVXSElsd2Q0RUJFem5nSmloT0ZneEdIYThiNHFzY25QajF0M3pVSHEtZkpkNU9oV2VCdlptYy1vY3B5SnlQaEJXWEN0aFgtZGhiNE1SMy1RY0l2T3FzVG0xaE11Y0JkZWstWTFCRW9qMjVuUHlhZVRKNGM1Rm1uM2ZjSFA1bm1WVjFhZ1d1ZC16b0ZpeExUSmZkY2JUMEdqbXBETXdZZ2l4d29Fcw?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-12-10T08:00:00+00:00",
-      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card Passionate In Marketing"
-    },
-    {
-      "uid": "bac632543a77",
-      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - business-standard.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2025-11-04T08:00:00+00:00",
-      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card business-standard.com"
-    },
-    {
-      "uid": "8585cea77ea0",
-      "title": "DCB Bank and Credilio launch Novio Secured Credit Card targeting new users - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORjJzOUlMeGFTdU5fcmIyWWRJcUZwSHpGQ0tSUEZ1eWV4d05jVzdYYVRSUEpTWGJxdHlsNTc4WlN4Ull4QTM1RzZraFZLaHRpcEd3UFlWSkd5T0s2TzJ1OTFySWRRbGxXSEkwOW4wX1NoSGc2ekpuRlFMSzk5cDNnWDRzLVliTE1KVTUyS3pKNUdhaGtMLWpRLWlxT2VKZF9HVjdRRmhpU3BXcHRsUEMyR3U3andZcjVqRElWSVdGaUpWWFhTRS1YStIBzgFBVV95cUxNSHd2NWhoSUNDMTJERGJKOGdXS3k0LW1GWG4xRlp2S0kxVGRDY0JrRDdCVEZzMjNqTEpCMzY4a0FVLUJzWmpNazdDc3liRnBhY2ZuaXZRdkRMRVFXZEx2Y3dLQS1KTHliSllDWlRHWmNJSnRmMEZvWWtjRWVMUWNrVnNpckttOGJsWVJfT2FxQ1RtUHQ4UzlEY3h2M29tdHZ4b2NRLVdMWE9XWDNJSDIxcE1NcFUteXJTOE1JeEkyLUdjaVE5cTh1dm9fQ1dnQQ?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-10-17T07:00:00+00:00",
-      "snippet": "DCB Bank and Credilio launch Novio Secured Credit Card targeting new users CNBC TV18"
-    },
-    {
-      "uid": "18d687637a88",
-      "title": "IndiGo, SBI Card launch new co-branded credit card for customers - business-standard.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHNuRzc4dGtIeFVvbzRaZWNMbVQwTzUyU01HTjZ3OWgyM09SLVY5cDNyNUdZRXZKaUtPRnpXTmctVmc5Mjcycmh5dkM1Y2dwX21UUDdoMlA3VkZjeXp0c01SNWY3RUN4MS1oYUZlRjVkN1hwa3I5TF84cGpINE5WMnJCeVROVExQSWpZWi1URndfRGE4MlpyUXFoUV9JQUJSLUdLZkpKSUwzNE41T1YzdVc5UTFJYkJ4M215ME5rWkJoWl9wbzFOMjNyUGhoX0k5dXpCN2hOOFNIZ9IB3wFBVV95cUxPeWcxdEkwa0ZZZUxDWkxQWlIwY0Y5OE1HTXBsb1BEQ2tMYmVJbzQ1b1dDRFRqNXlkQWZ4WFFkS1BvQnJlZUxsYUZTNXBIYVkyaTMya1JZS2NGc0dHRHdrZDlWbE51NFk3UFhfaHEzb0RlaHVYMEhuYTRRWUFiZXdmbmZ1MTE2WXl0Vm81YS10WDJCcDVrWDZ3VDZ2WjVWd1pIQU9kaEhaVDZHUGVBM2wwR1BlLXhKUUt2VG1OMFRLT21VUHZSQWZkeU0xRXd0Z1BneG5yeGVMWlhCSWhkMjdr?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2025-09-25T07:00:00+00:00",
-      "snippet": "IndiGo, SBI Card launch new co-branded credit card for customers business-standard.com"
-    },
-    {
-      "uid": "9d449e3de0eb",
-      "title": "Kunal Shah's CRED launches 18 carat gold credit card with IndusInd Bank - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2hKZkNwTXJCTVp2YlNZX0laTHpaMW8tZ1lkVWo0VkJNbU8zbWY0VHlZZ21vdnMwYVJoNlFENGFmMGNrYU1vX2w3MWluNmtNSnl5UU1icGI1dEVJLWJSOVp4RTN2anVoQ1BidW1aeU5NZDVIaC1qMEhrLXEzbHVjVVlsSHhNOFlLeWhVOEMyZEdIVVdWTDdMSjFjc1R2Yl9uZjJLdWZxbk9saVVNUFRmOEhuaXB2NV8xM2JuNnJVZFVNdFJELVlmXy1VZnNEbWNH0gHWAUFVX3lxTE1EUnBjc28xTHVpdmowNGdXd0hlT2dReEQ5VHRkNjFjcGE0TXBtejBqYjlIT19JLUc2V2J0NWIwajEyZ3NWaEFoTFI1b0xqZUMwYktJQnFmcWZmUXZSOXhTR1ZBZ3RJbVNDc2lyQ25PLXdqTkVWb2lsM3QtME8tSGVENldXWGp5VjlyWXdWLTRQQVA5Mk9TNk9UZnBiTmIwQTE0RTVzWlF1WHp4TWh4SU5vS1lCZ01qLXE2MHR6SHIxOTVzSUR4VkxNT2hIRHp3Z2szeUVoZlE?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "IndusInd Bank"
-      ],
-      "published": "2025-09-15T07:00:00+00:00",
-      "snippet": "Kunal Shah's CRED launches 18 carat gold credit card with IndusInd Bank Moneycontrol.com"
+      "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
     },
     {
       "uid": "5e7afb7bfa89",
@@ -203,6 +163,17 @@
       ],
       "published": "2025-08-18T07:00:00+00:00",
       "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled The Times of India"
+    },
+    {
+      "uid": "2b0fe3603910",
+      "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2025-07-28T07:00:00+00:00",
+      "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
     }
   ]
 }

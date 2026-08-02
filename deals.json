@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-08-01T05:41:28.281378+00:00",
-  "count": 12,
+  "generated_at": "2026-08-02T05:42:03.861542+00:00",
+  "count": 22,
   "deals": [
     {
-      "uid": "ca79f1a877df",
-      "title": "🚨 Amazon Great Freedom Sale is here! 🇮🇳 🗓️ Starts: 7th August 💳 HDFC Bank Credit Cards & EasyEMI transactions will get 10% Instant Discount during the sale. Don’t have a HDFC bank credit card? Apply here: https://tinyurl.com/58rr3yv7",
-      "url": "https://nitter.net/DoBaniye/status/2083162104882983218#m",
-      "source": "Twitter / @DoBaniye",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-07-31T12:05:23+00:00",
-      "snippet": "🚨 Amazon Great Freedom Sale is here! 🇮🇳 🗓️ Starts: 7th August 💳 HDFC Bank Credit Cards & EasyEMI transactions will get 10% Instant Discount during the sale. Don’t have a HDFC bank credit card? Apply here: tinyurl.com/58rr3yv7",
+      "uid": "4616b2b73ab9",
+      "title": "Get 100% bonus on IHG points purchases",
+      "url": "https://livefromalounge.com/ihg-points-flash-sale/",
+      "source": "LiveFromALounge",
+      "issuers": [],
+      "published": "2026-08-01T20:40:17+00:00",
+      "snippet": "An IHG bonus points purchase promotion has been launched. Here are some examples of how booking hotels on points can save up to 50% on the cost of the stay. The post Get 100% bonus on IHG points purchases appeared first on Live From A Lounge .",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "eab849d5ba9e",
+      "title": "Alaska Airlines Buy Miles with up to 100% Bonus Miles",
+      "url": "https://livefromalounge.com/alaska-airlines-buy-miles-promotion-april-2024/",
+      "source": "LiveFromALounge",
+      "issuers": [],
+      "published": "2026-08-01T17:30:07+00:00",
+      "snippet": "Alaska Airlines has a new Buy Miles Promotion through August 20, 2026. You can get Alaska Miles with up to a 100% bonus to redeem on oneworld member airlines, Singapore Airlines, Cathay Pacific, British Airways and many other airlines at reasonable prices. The post Alaska Airlines Buy Miles with up ",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "6b99500e828f",
+      "title": "Air France KLM Flying Blue Promo Rewards: 25% off on redemptions from and to Mumbai through January 2027",
+      "url": "https://livefromalounge.com/flying-blue-promo-rewards-january-2027/",
+      "source": "LiveFromALounge",
+      "issuers": [],
+      "published": "2026-08-01T13:11:06+00:00",
+      "snippet": "Air France / KLM Flying Blue has an excellent deal going on at the moment, offering you trips between India and Europe 37,500 miles upwards. The post Air France KLM Flying Blue Promo Rewards: 25% off on redemptions from and to Mumbai through January 2027 appeared first on Live From A Lounge .",
       "deal_type": "discount"
     },
     {
@@ -39,14 +57,83 @@
       "deal_type": "discount"
     },
     {
-      "uid": "6f314b1257f8",
-      "title": "🚨Amazon Now Cashback Offer Flat ₹100 Cashback On Min. Order at ₹399 🛍️Offer link: https://link.amazon/B0dJj0JLN Vaild Only On First 5 Orders.",
-      "url": "https://nitter.net/AmazingCreditC/status/2082729085634314315#m",
-      "source": "Twitter / @amazingcreditc",
+      "uid": "f180d6c5958b",
+      "title": "Travel & Spend with Your Visa Card and Earn Up to 20% Rewards Across 11 Countries",
+      "url": "https://cardinsider.com/blog/travel-spend-visa-card-earn-rewards-across-foreign-countries/",
+      "source": "CardInsider",
       "issuers": [],
-      "published": "2026-07-30T07:24:43+00:00",
-      "snippet": "🚨Amazon Now Cashback Offer Flat ₹100 Cashback On Min. Order at ₹399 🛍️Offer link: link.amazon/B0dJj0JLN Vaild Only On First 5 Orders.",
-      "deal_type": "cashback"
+      "published": "2026-07-29T10:30:55+00:00",
+      "snippet": "While many people (including me) were already excited about the free voucher offer on new Visa cards, there have been several other ongoing offers as well, like free eSIMs for travel. However, Visa has now launched an even more rewarding offer for those planning to travel outside India till Septembe",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "6f7d54343ad9",
+      "title": "Get 25% Off on Klook Activities and Attraction Tickets with Mastercard Forex Prepaid Card",
+      "url": "https://cardinsider.com/blog/discount-klook-activities-attraction-tickets-mastercard-forex-prepaid-card/",
+      "source": "CardInsider",
+      "issuers": [],
+      "published": "2026-07-29T08:12:18+00:00",
+      "snippet": "Are you planning a vacation or looking for exciting experiences during your trip? The Klook Mastercard Offer brings a great opportunity to save on your travel bookings. With this offer, Mastercard Forex Prepaid cardholders can enjoy exclusive savings on travel experiences booked through Klook. Users",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "f033cf1afd44",
+      "title": "Get a 10% Discount on Statue of Liberty & Ellis Island Tour Booking with Axis Bank Credit Cards",
+      "url": "https://cardinsider.com/blog/discount-on-statue-of-liberty-ellis-island-tour-booking-axis-credit-cards/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-07-29T07:52:24+00:00",
+      "snippet": "Planning to visit the iconic Statue of Liberty and Ellis Island? Make your trip more rewarding with an exclusive Axis Bank offer on Klook. Eligible Axis Bank Credit Card holders can enjoy a 10% instant discount, up to ₹800, on a minimum transaction of ₹8,000 when making online bookings through Klook",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "d944c74c34e1",
+      "title": "Axis Bank Now Offering Neo Credit Card Lifetime Free",
+      "url": "https://cardinsider.com/blog/axis-bank-now-offering-neo-credit-card-lifetime-free/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-07-28T11:50:05+00:00",
+      "snippet": "Axis Bank has come up with a limited-time offer for availing the Neo Credit Card as Lifetime Free (LTF). You can now apply for the Axis Bank Neo Credit Card without having to incur any joining or renewal charges. Online shoppers would especially find this card attractive as you can get 10% off on My",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "3f957cc44d2b",
+      "title": "Kotak Solitaire Credit Card Offers Up to 10 Air Miles/₹100 on Voucher Purchases via Kotak Unbox",
+      "url": "https://cardinsider.com/blog/kotak-solitaire-credit-card-offers-air-miles-on-voucher-purchases-via-kotak-unbox/",
+      "source": "CardInsider",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-07-28T11:40:49+00:00",
+      "snippet": "Kotak Mahindra Bank has introduced a limited-period accelerated Air Miles offer for Kotak Solitaire Credit Cardholders. Under the offer, cardholders can earn 10 Air Miles for every ₹100 spent on purchasing brand vouchers through Kotak Unbox. The offer is valid from July 1, 2026, to September 30, 202",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "4f4de42d68f8",
+      "title": "RuPay Launches No-Cost EMI Offer on Apple Products with Axis Bank & ICICI Bank RuPay Credit Cards",
+      "url": "https://cardinsider.com/blog/rupay-launches-no-cost-emi-offer-on-apple-products-axis-bank-icici-bank-rupay-credit-cards/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank",
+        "ICICI Bank"
+      ],
+      "published": "2026-07-28T11:26:09+00:00",
+      "snippet": "RuPay has introduced a limited-period No-Cost EMI offer on select Apple products for eligible Axis Bank and ICICI Bank RuPay Credit Card holders. Under this offer, cardholders can purchase eligible Apple devices and convert the transaction into 12, 18, or 24-month No-Cost EMI at participating Apple ",
+      "deal_type": "benefit"
+    },
+    {
+      "uid": "631b426254c7",
+      "title": "IndiGo BluChip Members Can Earn 2X BluChips on Adani Duty Free Pre-Bookings Till 18 August 2026",
+      "url": "https://cardinsider.com/blog/indigo-bluchip-members-earn-bluchips-on-adani-duty-free-pre-bookings/",
+      "source": "CardInsider",
+      "issuers": [],
+      "published": "2026-07-28T10:04:50+00:00",
+      "snippet": "IndiGo has introduced a limited-period bonus offer for its BluChip members in partnership with Adani Duty Free. Under the offer, eligible members can earn 2X IndiGo BluChips when they pre-book their duty-free purchases through the dedicated Adani × IndiGo BluChip partner page. The offer is valid unt",
+      "deal_type": "benefit"
     },
     {
       "uid": "68665f5a49ff",
@@ -57,6 +144,18 @@
       "published": "2026-07-10T09:41:29+00:00",
       "snippet": "Pay Credit Card Bill, Win Free Lounge Access: Paisabazaar Elevates Rewards Program with PB Pass in Association with Collinson International TheWire.in",
       "deal_type": "benefit"
+    },
+    {
+      "uid": "63ffd85e076d",
+      "title": "Smart Shopping: 24K Gold at ~₹14.6K/gm? The 2026 “Double-Dip” Hack",
+      "url": "https://cardmaven.in/amazon-gold-buying-credit-card-strategy/",
+      "source": "CardMaven",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-07-04T19:37:41+00:00",
+      "snippet": "🔥 LIVE DEAL Amazon Gold Deals Are Active STOP SCROLLING! High-value coupon discounts and instant card cuts are live at checkout. Available Benefits Coupon Discounts Available (on eligible accounts) Extra Instant Bank Discount on SBI Card Additional Cashback Offers credited to your balance Grab Yours",
+      "deal_type": "cashback"
     },
     {
       "uid": "7b83bb1e8bb6",
@@ -79,6 +178,18 @@
       ],
       "published": "2026-06-02T07:00:00+00:00",
       "snippet": "IndusInd Bank Tiger Credit Card: The Lifetime Free Lounge Access Credit Card adds 1:1 Air India Maharaja Club Transfers Live From A Lounge",
+      "deal_type": "benefit"
+    },
+    {
+      "uid": "1082b705f920",
+      "title": "HSBC Credit Card holders can now earn 5X-6X Reward Points on Apple purchases through Unicorn - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObEZpVUZZM1NxTmpKcFdEOWZsdUxjNFJUTEFxbGphUnNJYUozRUQ3NnlsMG9ISHd1T1MyUXVUSDA5T1VsaEx4LUE2Q1dzbFBqWTl2LUdJOXZuRW5nRGZkeHFtc3FJeGlkUUhEWnVETS1QUjIweWhCTU1IdmpQWW1qN2NlOFpXWTJ5bDZyTlgyNVBwbHJNa3NoS2dVdm8tRHVtOTdLUjFuQ3hvbjJtV1FTUXBsa1VFWnV4Zk1ZQjNR?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-06-02T07:00:00+00:00",
+      "snippet": "HSBC Credit Card holders can now earn 5X-6X Reward Points on Apple purchases through Unicorn Live From A Lounge",
       "deal_type": "benefit"
     },
     {
