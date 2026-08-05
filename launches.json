@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-04T05:32:15.652121+00:00",
-  "count": 18,
+  "generated_at": "2026-08-05T05:31:27.508764+00:00",
+  "count": 16,
   "launches": [
     {
-      "uid": "bd3315320b6f",
-      "title": "SBI Card and Google Pay Launch 'Google Pay Flex SBI Card' Co-Branded Credit Card in India - Thekanal",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkpUY2pSWXJNWTRuUkRHUUg0Nk85WXVVcGFWVVZiLU9hQWZrM1lpblhHT1BXcEsxNnpleGw5Um1sWUd4S1FBaDI2VExQZ1NXbWw1SHJQd1BGTHpsMkVhV0lzYzNUNlZmc2RGRGg4ay1UWGxORU9zSDlOTllxaDhlMml4VE5iNS14TzVSTENqNi1rZ0h1LWVNcmlnaFNkV3ZZckdIV2g1WnBES2dLU3JNWUYwOEo1c3g0V1V4RWZRbXVQbm5v?oc=5",
-      "source": "Google News / launch",
+      "uid": "f852326bc695",
+      "title": "IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders",
+      "url": "https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/",
+      "source": "CardInsider",
       "issuers": [
-        "SBI Card"
+        "Axis Bank",
+        "IDFC First"
       ],
-      "published": "2026-07-30T15:03:27+00:00",
-      "snippet": "SBI Card and Google Pay Launch 'Google Pay Flex SBI Card' Co-Branded Credit Card in India Thekanal"
+      "published": "2026-08-04T09:20:29+00:00",
+      "snippet": "From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits. July has turned out to be a particularly rewarding month for those looking to apply for an airline co-branded credit card. From the BOBCARD Etihad Guest Credit Cards and IndiG"
     },
     {
       "uid": "8a3c485de505",
@@ -32,17 +33,6 @@
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
-    },
-    {
-      "uid": "f2ceeb87f651",
-      "title": "AU Small Finance Bank and Zaggle launch co-branded credit card with Zagg Coins rewards - thehindubusinessline.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVU5wZ0FqclNDR3BmXzBEWGN0Z244aDVPUWJfR2s4X3lLSndPNnl3SkltVThkRnM2NFRjamxLNUF1NnBxUXkwLXRrWGphWlVDcTgwaklHdExrbnhVbnVnaVhadVAyYlJ6UURzWDNuWExDOXZfOS1YODlQY2p2VW1WQjRhQjVRT2FLU04xQWxBdXdiVWwzekZqbGhXQ0dWUWgyMW1ET1dIenFPRERvMzVSNVREWnNjSWM5c3U1eXJJOGNlRVNtUXQ0aGxidWd1OVVWRWg4VFBxRjlzaVBxMGZwOXRyM0U3clJNRml5djgzU1NjeHQxd3BDRkhB0gGAAkFVX3lxTE9FLVhhWUJhTFA1bjBRTGg3eXU4cVFvYWx6NjBrbVlsN2NqRURLUGRSb1pVbi1vS1UwRGFULVYyRlBfNDgxM3hvemFhSWtFSkt1VHQweHJVVXFTQjBMTmJ2QU9iN1BxWUhHLWlmTnZLSnA2WURiVy1YV3hZaUFMa1Q2ZGVjaFRSdjV4SXVUQTRIdEJqNkxhVThjcWUzcTNhbFFJSGhDclZqQ2poMWFtTTUyZV8xZ2JzYlpwVFFFcGxkUFlwT2Qyam9CV1V5TkI1c0pISWZyYUZwTWc5UURJdlZic2VTS1U2WWtvaWYzTUl6dDhlSXpPa1pmZGxUTkItb24?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "AU Small Finance Bank"
-      ],
-      "published": "2026-07-09T07:00:00+00:00",
-      "snippet": "AU Small Finance Bank and Zaggle launch co-branded credit card with Zagg Coins rewards thehindubusinessline.com"
     },
     {
       "uid": "e56915399ce8",
@@ -75,14 +65,14 @@
     },
     {
       "uid": "462552427e11",
-      "title": "Google Pay Launches UPI-Linked Credit Card with Axis Bank - gktoday.in",
+      "title": "Google Pay Launches UPI-Linked Credit Card with Axis Bank - GK Today",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm5WcV9qXy1hRHVPMTNEODNKYlJzMkFnYzk2dzlZQW0tSTFYMGVVUHJLZTh2RWJKVGhDOF85VUhJY2ZTMVZYMGw2cW1aWWZmUzdBY1FsMUhPQ0w1clBvZkxmY1dDNTRlbXBmWU1LREFJLXRyZERBdGpWVXl5SmpuMHVQT2lvbnZK?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-18T08:00:00+00:00",
-      "snippet": "Google Pay Launches UPI-Linked Credit Card with Axis Bank gktoday.in"
+      "snippet": "Google Pay Launches UPI-Linked Credit Card with Axis Bank GK Today"
     },
     {
       "uid": "aabea69c1d95",
@@ -163,17 +153,6 @@
       ],
       "published": "2025-11-04T08:00:00+00:00",
       "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
-    },
-    {
-      "uid": "18d687637a88",
-      "title": "IndiGo, SBI Card launch new co-branded credit card for customers - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHNuRzc4dGtIeFVvbzRaZWNMbVQwTzUyU01HTjZ3OWgyM09SLVY5cDNyNUdZRXZKaUtPRnpXTmctVmc5Mjcycmh5dkM1Y2dwX21UUDdoMlA3VkZjeXp0c01SNWY3RUN4MS1oYUZlRjVkN1hwa3I5TF84cGpINE5WMnJCeVROVExQSWpZWi1URndfRGE4MlpyUXFoUV9JQUJSLUdLZkpKSUwzNE41T1YzdVc5UTFJYkJ4M215ME5rWkJoWl9wbzFOMjNyUGhoX0k5dXpCN2hOOFNIZ9IB3wFBVV95cUxPeWcxdEkwa0ZZZUxDWkxQWlIwY0Y5OE1HTXBsb1BEQ2tMYmVJbzQ1b1dDRFRqNXlkQWZ4WFFkS1BvQnJlZUxsYUZTNXBIYVkyaTMya1JZS2NGc0dHRHdrZDlWbE51NFk3UFhfaHEzb0RlaHVYMEhuYTRRWUFiZXdmbmZ1MTE2WXl0Vm81YS10WDJCcDVrWDZ3VDZ2WjVWd1pIQU9kaEhaVDZHUGVBM2wwR1BlLXhKUUt2VG1OMFRLT21VUHZSQWZkeU0xRXd0Z1BneG5yeGVMWlhCSWhkMjdr?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2025-09-25T07:00:00+00:00",
-      "snippet": "IndiGo, SBI Card launch new co-branded credit card for customers Business Standard"
     },
     {
       "uid": "5e7afb7bfa89",
