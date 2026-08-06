@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T05:31:27.508314+00:00",
-  "count": 30,
+  "generated_at": "2026-08-06T05:36:28.494925+00:00",
+  "count": 29,
   "devaluations": [
     {
       "uid": "d5926f67fdd0",
@@ -68,16 +68,6 @@
       ],
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? livemint.com",
-      "severity": "major"
-    },
-    {
-      "uid": "f92252942ed3",
-      "title": "Key financial rule changes take effect across India from July 1 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTmgtUnR2OVJvY3loVlBObVBDc3NIenhWZHY4dWx5UmdxSUUtODZlYmJ3Q296d1VZcjdtYzJkV1JLZjl5QWxHcUI1bExpVzBPTUhabUpiNDByeEFPdy1CMTc5WlRZTl9SekMxczBpYm0zVTB2NExOQ0ZtRW1MQTc0UG92TnVHUUEzbmUyOFVrNGRpdkF3N1RTOTBGS3MzSjE4aHVFOExLUm95VUNFcHNLcWJPLWFlSzcxTHB0WWhDZ0o1c2pYQkpSSVZLWG1vNjRXamo1MWFNVEFGVVZqdENwM182c0Q1YTF4bnB0QmJoNTRvejJJMUxLS2Y0NzI2dVB4c0FHak1LT0FESVZyeG9BZk5OSmRFSl82cHVvbXRad29pWFItTGlEaWFhVmw?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-06-29T07:00:00+00:00",
-      "snippet": "Key financial rule changes take effect across India from July 1 MSN",
       "severity": "major"
     },
     {
@@ -161,6 +151,16 @@
       "severity": "major"
     },
     {
+      "uid": "81b875a9ce39",
+      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - caclubindia.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-04-03T07:00:00+00:00",
+      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 caclubindia.com",
+      "severity": "major"
+    },
+    {
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
@@ -229,18 +229,6 @@
       "severity": "major"
     },
     {
-      "uid": "bf737296e316",
-      "title": "No airport lounge access, higher cashback on Myntra from June 20, 2025: Check Axis Bank Credit card change - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMlVsVnJuaDI3T1RwTXRLbHRudkhtS1pzNk5JOFVUZzNJcFBhN3VMMWRRMXlfbUNpckVFbDhfS1VmVFA4aDJoQnllT3Z2azVWZDNLVFFqRW9jV1dfTDBlS3NIdmpfYnJEaUdhQW41NmxJRzVjQURyeDVRQm9iZDNJVDhfU0t4QmU2aEZMQ1NsWXpTNGFUT1dpYnRsZy1Nc3VUUzd0SDFzSjcycWlnS25nOVd3NjJ1RFVqUE42Z0M3M1JtMlJfSGY0ZHhjSmNYUEJyS2VvVDJIcGxSTW0xaUN3OHBoOWhkaFRhZVdCU3d4YUw4cTA0b1hGNWpocDN3Qk4y0gGGAkFVX3lxTE5pc3h1bkxDLXRRcDBQQk83SkJHLV9xYmZ0TlN5M3dvNG1RVW0zclUxb0FBRkh1Q3lPVkNqeUlIazlDS0RHeVQ2VHc5bXZzTjR6YVVkME02QUJzdFA5Q3h6NDBZU2EzZ0YxLTR2aVIzbUNERUlQa1JkMUloYkJWSE1LbUpVMExkRlZrMm9QQ2tFUXdHbDV3enE4YURxODNaZUVOeFVDUUMzazlNOHRnODJhY0hpdGpCcDJBOGZwZFFWaFZTU3JDSmhlVDc3LVZkOWNNdGthZUxmczNGRUxNdnVnSlk2bE5iXzFZTlRoS2tET0pERko5V1JqWklXMHhWbExYTWw5ZHc?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2025-05-29T07:00:00+00:00",
-      "snippet": "No airport lounge access, higher cashback on Myntra from June 20, 2025: Check Axis Bank Credit card change The Economic Times",
-      "severity": "major"
-    },
-    {
       "uid": "9857f803c756",
       "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
@@ -289,18 +277,6 @@
       "severity": "major"
     },
     {
-      "uid": "cf0a8bda3a1c",
-      "title": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONTFyT3Z2andpN1hWN3dGTEhyb1NXUUdTNVhubGMwbHItQ2p6SVJEUkJhUzRXazltZWlkSXh4dmxMOHc4OFNuekNqU0xrMHQ1bXMxT2Zyazl6MnQ1NzQ0R096NUZiYm9DOGlYR0trM0o2d0N2dUxSa3N3T3M0UnE1MjZTcF9zclpGSlFnTklmUjdpU2V6emlGRnJROWUzdUVEMVhDWno0YVZHbVJ5Y1IyOTc1LW1SZGk2M19qcG1rNjg0UGZGLVdBSDlIRGhlX0gweTBDYjlydFUxbWlWNWdBVGM4bnVGakZ5UUFFTWw4OENVRVRnTzdiemZZVDlMVnBINFZhLWZrZk_SAY4CQVVfeXFMTURHQUlxR0RsZkZIa0d4Q000dENrWGtJYTMzTnIxQTZ2Tm16N1ZmRXFnME52NkZTN2xXQU5jUHYtWHkwSS1LaF8tZkRlTEVzaGRGM1dQU3dMT1RMbVJkeFllU1puQjd6bEZzY3A3bEJIamFtbDd3MURoRlBxVXdPVGxaMEZfRENBUHhENm1jU3BiS0pZdkpCVkhXVjNqSk1CWUlMRE9ZczRoWmpjNmJQQUdUYTk2NlpmNUpzSFYzaWFubWFOa3lrZkwtWXlkeENaT0wxeEFoNXhSQkpFZlVIN0lPSkVvbGFfbUJKdGUxSUdkQW00blJZUTN0aHhJMTFpNlJiZ0FkNFVPaDRyeUp3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2024-12-18T08:00:00+00:00",
-      "snippet": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access The Economic Times",
-      "severity": "major"
-    },
-    {
       "uid": "583699af58bf",
       "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - thecore.in",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdrdmRfOC1jTERlc3dOWl9YbUY2NGstZTR1azgxN2piR1ByU19TM0J2UExGc3p1c2ZXamRDWEU3QlRCSmc2c1lXVXJ1R2xPS083ZHdVaTdJS0lsVTlJUUhseWgzbEZqSXBUU1RCMGRXcXQ0cXlaZ25PWms1d2tOTjNfQTNleXlhcDdiUHNZYXNScU9pWWNvWmYwQ2Y2dFg1NktaQlJyaE4?oc=5",
@@ -308,6 +284,18 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
+      "severity": "critical"
+    },
+    {
+      "uid": "da7b1efc463a",
+      "title": "Axis Bank Atlas Credit Card to be devalued effective April 20, 2024 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vTlAzRlgwOWV5M3ZmVE55Vl9ZUnJINUpXc2xWNmw0Q3lTdGxmMWRKSnNEeDVnNTltUExKX1k1TElNNnYwNEo0VDE4WDRNS19DUXBfWTVXLTdrQ256aEY2QVNfd3M2OE1RMzZxVnFwbk93XzY3MF9NanV5X0RzUQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-03-20T07:00:00+00:00",
+      "snippet": "Axis Bank Atlas Credit Card to be devalued effective April 20, 2024 Live From A Lounge",
       "severity": "critical"
     },
     {

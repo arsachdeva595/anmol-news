@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:31:27.508764+00:00",
+  "generated_at": "2026-08-06T05:36:28.495329+00:00",
   "count": 16,
   "launches": [
     {
@@ -33,6 +33,17 @@
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
+    },
+    {
+      "uid": "f2ceeb87f651",
+      "title": "AU Small Finance Bank and Zaggle launch co-branded credit card with Zagg Coins rewards - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVU5wZ0FqclNDR3BmXzBEWGN0Z244aDVPUWJfR2s4X3lLSndPNnl3SkltVThkRnM2NFRjamxLNUF1NnBxUXkwLXRrWGphWlVDcTgwaklHdExrbnhVbnVnaVhadVAyYlJ6UURzWDNuWExDOXZfOS1YODlQY2p2VW1WQjRhQjVRT2FLU04xQWxBdXdiVWwzekZqbGhXQ0dWUWgyMW1ET1dIenFPRERvMzVSNVREWnNjSWM5c3U1eXJJOGNlRVNtUXQ0aGxidWd1OVVWRWg4VFBxRjlzaVBxMGZwOXRyM0U3clJNRml5djgzU1NjeHQxd3BDRkhB0gGAAkFVX3lxTE9FLVhhWUJhTFA1bjBRTGg3eXU4cVFvYWx6NjBrbVlsN2NqRURLUGRSb1pVbi1vS1UwRGFULVYyRlBfNDgxM3hvemFhSWtFSkt1VHQweHJVVXFTQjBMTmJ2QU9iN1BxWUhHLWlmTnZLSnA2WURiVy1YV3hZaUFMa1Q2ZGVjaFRSdjV4SXVUQTRIdEJqNkxhVThjcWUzcTNhbFFJSGhDclZqQ2poMWFtTTUyZV8xZ2JzYlpwVFFFcGxkUFlwT2Qyam9CV1V5TkI1c0pISWZyYUZwTWc5UURJdlZic2VTS1U2WWtvaWYzTUl6dDhlSXpPa1pmZGxUTkItb24?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "AU Small Finance Bank"
+      ],
+      "published": "2026-07-09T07:00:00+00:00",
+      "snippet": "AU Small Finance Bank and Zaggle launch co-branded credit card with Zagg Coins rewards BusinessLine"
     },
     {
       "uid": "e56915399ce8",
@@ -126,33 +137,13 @@
       "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex livemint.com"
     },
     {
-      "uid": "0dae8845d824",
+      "uid": "80d8212a490d",
       "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3HSAeoBQVVfeXFMT2FWaHBFYUs5Q2xHSnJPSEk4TklaY29RTWFrdjVzc0xVTnprTnNhS2txVjRnaUJNRVFFSWRNRm1Wa3hrZXptbHZkc3BDR2JzSjNyQUUzazN0VlB4cEY5dDJsdkFoYXF6TmpuZ1B5UVhfSnc3OVo5M3g5VUZuSGZyOURoUVJBczY1WWZKX2pXRUhzNHdzbnlva1VOVWQ5VC1hOUZ6OFlfNmNWUnY1MEg1cGNydHZtM2dfUUZ2OGFSdHdTMWxscEhHRy1MNncydUN0RW9oUVR6dlJ3WTJIdXRseVhNckZhRXU3N1F3?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-10T08:00:00+00:00",
       "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
-    },
-    {
-      "uid": "36d8c7a77d03",
-      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN0tpMm80NTVpVUY2Qm5lak0zaFJOM3VsbkdpRS1xWHBwUXRKcVQwbDktbVRSc1ZtTGJwSXlYRkQtMXFmYmtFTGhoajVXSElsd2Q0RUJFem5nSmloT0ZneEdIYThiNHFzY25QajF0M3pVSHEtZkpkNU9oV2VCdlptYy1vY3B5SnlQaEJXWEN0aFgtZGhiNE1SMy1RY0l2T3FzVG0xaE11Y0JkZWstWTFCRW9qMjVuUHlhZVRKNGM1Rm1uM2ZjSFA1bm1WVjFhZ1d1ZC16b0ZpeExUSmZkY2JUMEdqbXBETXdZZ2l4d29Fcw?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-12-10T08:00:00+00:00",
-      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card Passionate In Marketing"
-    },
-    {
-      "uid": "bac632543a77",
-      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2025-11-04T08:00:00+00:00",
-      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
     },
     {
       "uid": "5e7afb7bfa89",
@@ -164,6 +155,17 @@
       ],
       "published": "2025-08-18T07:00:00+00:00",
       "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled The Times of India"
+    },
+    {
+      "uid": "2b0fe3603910",
+      "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2025-07-28T07:00:00+00:00",
+      "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
     }
   ]
 }
