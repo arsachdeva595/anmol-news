@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-08-06T05:36:28.495329+00:00",
-  "count": 16,
+  "generated_at": "2026-08-07T04:39:07.414605+00:00",
+  "count": 17,
   "launches": [
-    {
-      "uid": "f852326bc695",
-      "title": "IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders",
-      "url": "https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/",
-      "source": "CardInsider",
-      "issuers": [
-        "Axis Bank",
-        "IDFC First"
-      ],
-      "published": "2026-08-04T09:20:29+00:00",
-      "snippet": "From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits. July has turned out to be a particularly rewarding month for those looking to apply for an airline co-branded credit card. From the BOBCARD Etihad Guest Credit Cards and IndiG"
-    },
     {
       "uid": "8a3c485de505",
       "title": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards - Business Standard",
@@ -33,6 +21,17 @@
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
+    },
+    {
+      "uid": "53f02f558a82",
+      "title": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnFCMkItU01XdGpoeUlGbENLVkszTDhCTjgtUlhNWVdFUjVhUXVmdE83YkkxZXN2V1B0N2hLTXh4MTFvbXEtclo5R18zRVFDeDJTcmxDMkotazBQeGxBWDg3a3prT3g0dUdUMmZYeTlGQ28xaDZLSW1Mb09nUHd3blR4TXptY3dWMTRWdkYxUEdjUWRlZEZzY0Noc3R6REFZTi1sdWt5ekNxbVVyeWNWQWg1aFZxNFU?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "AU Small Finance Bank"
+      ],
+      "published": "2026-07-10T07:00:00+00:00",
+      "snippet": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card Passionate In Marketing"
     },
     {
       "uid": "f2ceeb87f651",
@@ -55,6 +54,15 @@
       "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card TheWire.in"
     },
     {
+      "uid": "2c994e2f9080",
+      "title": "Paisabazaar, SBM Bank India launch FD-backed secured credit card for new-to-credit users - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNUlPaDZrSmQwcWNaRzZKc1BxY2NVN3kxeTQtNEhoODEwLXVJUkw0bV9acHdnNHBvRW8wYmdiYWZYWjNobXJaT1lBYVdhS1dZcE8tWVNmRWFmVHhPMVV3VUNySlM0emMyaXF5dmp5UFNJX01VNFBIMXczRFR4UHZ5Z0Jia2dsemQ5SG94QmJCSHZqNjVMQmxxQXFXZldyS3E2MFBwbGJqS0h1cHBQZ2hlWG9BdF83R3NhUFlvUWZ4UFDSAcYBQVVfeXFMTi1MWUJRWnVsN1VDY29IVjZxWFZPWE9ia0dROHBvbUpUaVZyTkJESk9lTUtzRUp3MGNTdk5DLXRwVFJab3NVTHFLQ0ZrNzhtSko0RmNtR1I2eTNjc0JoUURDV0k5T2dyT1lrT2YzSnV1dUlFMk9lbVF2ZEV4OXYyTHYwNy16ck9JSWtqTnBORmI2RG40b1h2ZXVFd01ROUMtZ1JFQU0tUUpuMkdFd3BEUFRmcGdsQVN4TDdNaHJCQzFZQ21oN3N3?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2026-06-10T07:00:00+00:00",
+      "snippet": "Paisabazaar, SBM Bank India launch FD-backed secured credit card for new-to-credit users CNBC TV18"
+    },
+    {
       "uid": "3b031a3c5a59",
       "title": "Central Bank Of India To Launch Wealth Management And Credit Card Businesses In H2 FY2027 - Hubbis",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbklsSWxUZUR0NUswbDF3dzd1TXR2cTRTcW0za2xKa00teWpDcFExT1FNeDU1M0g0Vm41SkctenY3ejNkRHlaeTE0QW5QdmJONFp0dXBIMDJtU0FlMFpUZTdUVE5reFJxUVJXZGV0R1lfb25aMFhRWU1mQ2g0X1JoRFZaNUlWSmxzX1hKN0t6RjBUWHpjSzlGaTdTNXVLNXJ4ZmRYU2U3MGZoTncyNFdwSHhfU3pQQjlK?oc=5",
@@ -62,17 +70,6 @@
       "issuers": [],
       "published": "2026-06-02T07:00:00+00:00",
       "snippet": "Central Bank Of India To Launch Wealth Management And Credit Card Businesses In H2 FY2027 Hubbis"
-    },
-    {
-      "uid": "e0aff9f7750f",
-      "title": "Google launches credit card in India with Axis Bank - FStech",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXB0NlpwWUZiakh0RVYwSmhnd3RyTXl1Q2NmdzdxeEEtRjNvNjBuWnlOMlZsWGJVMVZpVlkxYThHdGZ0MzUwVGk4Zy1kWERyVHZXZGJNUEZjZkVldHRBRmZIcHpiUV9TWVRyWVpMMVltMUtvcHR5LWU5NW43MVhoZ3duUDN1c05xazdiMg?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2025-12-18T08:00:00+00:00",
-      "snippet": "Google launches credit card in India with Axis Bank FStech"
     },
     {
       "uid": "462552427e11",
@@ -135,6 +132,17 @@
       ],
       "published": "2025-12-17T08:00:00+00:00",
       "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex livemint.com"
+    },
+    {
+      "uid": "9aed79031d2e",
+      "title": "Google Pay launches its first credit card with Axis Bank in India - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUMzbFpsZFAwV2k2TXVWZUVrZGlUb0xXQTducnlJZEhpaHViRlBJWW9GZHFrM1NVRGtUQ1pRcWNxeTk2cml6MkxMaGRrMENBai00dDNld1MxVG9HbFZkTXVGZ3FmUS14d2ZLLUxFclVLc09SV1ptd1FQY2VMcDRpQ0VBNzN0VzVRU3Awbk51RDdBQ3ZCYktvZk9jYw?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-12-17T08:00:00+00:00",
+      "snippet": "Google Pay launches its first credit card with Axis Bank in India YourStory.com"
     },
     {
       "uid": "80d8212a490d",
