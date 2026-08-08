@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T04:39:07.414605+00:00",
-  "count": 17,
+  "generated_at": "2026-08-08T03:51:32.793147+00:00",
+  "count": 19,
   "launches": [
     {
       "uid": "8a3c485de505",
@@ -10,7 +10,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-07-30T06:03:37+00:00",
+      "published": "2026-07-30T07:00:00+00:00",
       "snippet": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards Business Standard"
     },
     {
@@ -70,6 +70,26 @@
       "issuers": [],
       "published": "2026-06-02T07:00:00+00:00",
       "snippet": "Central Bank Of India To Launch Wealth Management And Credit Card Businesses In H2 FY2027 Hubbis"
+    },
+    {
+      "uid": "21c41d8f20da",
+      "title": "Central Bank of India to Launch Wealth Management and Credit Card Business in FY27 - dailypioneer.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejFJZUNqdWN6Qm95MFZ2VmNJOVdnTVlMWlRtOWNXLWx0OUZNM3gwUW4yT1VUNUY1Q3BvQU5rbDhuYUUxaFRfYklfQ3UwWEQ1ZkJERE1FWVh1OWNnTk1aZTdJY1dWcHBGam41bVVENnFfVmp6UUpXQ1pTY2JVbXFKYnp0aEJtaG1TR250dXNhcjhGdEprTEtyS3Z2WmtKeFFHSmc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2026-06-01T07:00:00+00:00",
+      "snippet": "Central Bank of India to Launch Wealth Management and Credit Card Business in FY27 dailypioneer.com"
+    },
+    {
+      "uid": "ec7b3f85404e",
+      "title": "CheQ and AU Small Finance Bank Launch India’s First LED-Powered Co-Branded Credit Card - Elets BFSI",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2hidG9NZjYyVTNyTDkzakk2T0ZjdzdIMi1WMlhFZWM2TnBRQ2VOYTZkRU15dXlyRHR3dENtOU04ZF9OTEpsS0Rhdl9NV3FuSUs2TlVjUENsX0hhTFBoZ3lPTm1rMk5HU0pEa2NSWjNlMlpRTWdfcnJOMm1WazRHYVFhSjR5eWFWNkhfNTZLUHZTeG9femx5dUFNZ3Fyc05hWGRFZnpJTjc1bDd6a3F3MFFmRVo2dw?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "AU Small Finance Bank"
+      ],
+      "published": "2026-04-21T07:00:00+00:00",
+      "snippet": "CheQ and AU Small Finance Bank Launch India’s First LED-Powered Co-Branded Credit Card Elets BFSI"
     },
     {
       "uid": "462552427e11",
