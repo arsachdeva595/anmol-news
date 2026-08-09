@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T03:51:32.792572+00:00",
-  "count": 27,
+  "generated_at": "2026-08-09T04:02:20.269780+00:00",
+  "count": 29,
   "devaluations": [
     {
       "uid": "8ac86a5d2f6b",
@@ -13,42 +13,6 @@
       "published": "2026-08-07T16:34:33+00:00",
       "snippet": "😍Gold cashback coupon is working 5 times per account. Collect the coupon: link.amazon/B0cUT8j88 🛍️All Deals: link.amazon/B0f0mLUeU Best Deals👇 link.amazon/B07xuMTrG link.amazon/B06kdKRDM link.amazon/B05W3s7mW link.amazon/B03iMaflT link.amazon/B0hsiJYhg Grab fast before it’s removed 🔥 Amazing Credit ",
       "severity": "critical"
-    },
-    {
-      "uid": "5632fee19cd9",
-      "title": "🚨 NEW GOLD CASHBACK COUPON ADDED! The earlier coupon was giving ₹1,900 cashback, and now a brand-new coupon offering ₹1,800 cashback has been added. These coupons can be removed anytime, so if you’re planning to buy gold, grab your favourite deal as soon as possible. 🔥",
-      "url": "https://nitter.net/AmazingCreditC/status/2085683376158278025#m",
-      "source": "Twitter / @amazingcreditc",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-08-07T11:04:01+00:00",
-      "snippet": "🚨 NEW GOLD CASHBACK COUPON ADDED! The earlier coupon was giving ₹1,900 cashback, and now a brand-new coupon offering ₹1,800 cashback has been added. These coupons can be removed anytime, so if you’re planning to buy gold, grab your favourite deal as soon as possible. 🔥 Amazing Credit Cards (@Amazing",
-      "severity": "critical"
-    },
-    {
-      "uid": "d48da66b43bf",
-      "title": "🚨⭐️GOLD LOOT: ₹1900 cashback coupon can be availed 5 times per account ✅Collect coupon: https://link.amazon/B0b6zWwN1 Buy: https://link.amazon/B05W3s7mW 🛍️All deals: https://link.amazon/B0iuSQsJV Brand wise 👇 Bhima: https://link.amazon/B05aS8sbg PNG - https://link.amazon/B05W3s7mW BRPL - https://link.amazon/B0bf9MZSb BRPL: https://link.amazon/B07xuMTrG Muthoot - https://link.amazon/B0dP5NQYJ Muthoot - https://link.amazon/B020PADDE Muthoot - https://link.amazon/B020PADDE Kalyan - https://link.amazon/B0cpsyMCP Kalyan - https://link.amazon/B0hFD5tal WHP - https://link.amazon/B06kdKRDM ✅Get upto ₹1900 cashback on min ₹20000 spend + ₹1750 discount using HDFC credit card.",
-      "url": "https://nitter.net/AmazingCreditC/status/2085570159025226047#m",
-      "source": "Twitter / @amazingcreditc",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-08-07T03:34:08+00:00",
-      "snippet": "🚨⭐️GOLD LOOT: ₹1900 cashback coupon can be availed 5 times per account ✅Collect coupon: link.amazon/B0b6zWwN1 Buy: link.amazon/B05W3s7mW 🛍️All deals: link.amazon/B0iuSQsJV Brand wise 👇 Bhima: link.amazon/B05aS8sbg PNG - link.amazon/B05W3s7mW BRPL - link.amazon/B0bf9MZSb BRPL: link.amazon/B07xuMTrG M",
-      "severity": "major"
-    },
-    {
-      "uid": "d5926f67fdd0",
-      "title": "HDFC Bank SmartBuy Credit Card Offers",
-      "url": "https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/",
-      "source": "CardInsider",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-08-04T09:40:46+00:00",
-      "snippet": "HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers. Depending on the card type, users can typically earn accelerated rewards (such as 5X or 10X) on eligible t",
-      "severity": "major"
     },
     {
       "uid": "c0f0640c91f9",
@@ -87,6 +51,18 @@
       "severity": "major"
     },
     {
+      "uid": "9552ff847f9f",
+      "title": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWdUTWp3WXJLckl5alVOOGNkNzRMY1hkRlMxTUdmRm5FRFdpc0RnN2JnU2M3TjdLRC1SVG9mdlJNSGJKdENGdDdJUnRMWjNjX3NTdzRxX092VTY3WDc5SWVYNEs2SUd1QS04eE1CNDFFZF96MlF0Y1BHMnBlYnE3dlNYb05tT0lWM25vYXVCTlRWN2lwV3NDLUdTZTZZU3dmQWo4TWtXRWJ4VURaeFRFTWlhbVJpUVRVNXFJMnozNnhUYkNWcURDeHp1UW11MDhqb05KV3VIVExrZHNzd2FVYXV4c9IB6AFBVV95cUxQaW5nUkI4cHBZRFZkYVdnYVZaQ09UTVdIeHpEZzlRd2t2MW9QYW9BT2FpZzlKeGRoUnpSVUFKLU1Caks1RjV0UHR3WjFhTEQ5aWtIc00zYmdrbUp3Y0Y1d21yX3BUamdmdlJDNnZxb3NoNnpIcXRGOHJSeENucjVWRDY5SFpUSlN4Ym1pbTltb1Y5RzdTY0dYZGxjSUZrVG9lSzl0NXdLYXNTN1RCSXVFQ3Mxb0o0M1BzVTBkclQ4eDhsRWdFcDBHQWw4SWszeHA4V1pBV0U0YTdCNEp6T01LRzh6WU1TNmZr?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained Business Standard",
+      "severity": "major"
+    },
+    {
       "uid": "316a5a06996a",
       "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
@@ -97,6 +73,26 @@
       "published": "2026-06-05T07:00:00+00:00",
       "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
       "severity": "major"
+    },
+    {
+      "uid": "51eb98d6ec3f",
+      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-06-01T07:00:00+00:00",
+      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
+      "severity": "critical"
+    },
+    {
+      "uid": "a25b568788f2",
+      "title": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access - News18",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS21pbndibS1jVlQxRmZCbUUxMnh5ZGEzM01pay1oLTVDcFotc3NxeE9CRTgwY3QtQmkyb2lrRldqRk1KcGhjNjBQaGV2TkRXaGotX3kwaUQ2Q0V0WE9GYk52X0pyWm94SXJId0pSQ1lYVll6TVpYSGNPbC1sTUVtSVRDQzhmMW5KUE1BOEpFdlVqaUU3UnRGTUxIZWFlMmNlQnhvQWdHWHJEU2dDMnZ0a0g5TU5jcllrcUtnRE5LYTlib25lT1NPRW0zbmkyTktzRUEzRzZpdnFQNG5pWFVELTAyei13SndKdjJv0gHwAUFVX3lxTE0xQ2dWVGpBRlg0ZElxMkxmOXE1a2p5a2ptc3NhLXNpZXEwT09fQ3Vfa2lveUpxRHNzRUZqdkhBc0FBNnhZVVdwX1o2aU1VNDMxZWwtcEdzX2d3SFdBZ0ZUNlZlRHYtdWQ2dGszTTdEZUpDV2NCWGJ4VElOakN0WG5yLTNOckhTNlF3VlRfb181RExvdlQ1VlAyaG9DeWhJOEF4cks4SGNWMUdTMmtCWm9EN3FET2tVclJCSkg1c29LUThKYWdqQWpRUjg5TE9fYkJUazQwUUN2V3NPYzlNeTdaREhwRzZXbkpITmdHNzhjSQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [],
+      "published": "2026-05-28T07:00:00+00:00",
+      "snippet": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access News18",
+      "severity": "critical"
     },
     {
       "uid": "960ac5da6062",
@@ -157,6 +153,16 @@
       "severity": "major"
     },
     {
+      "uid": "81b875a9ce39",
+      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-04-03T07:00:00+00:00",
+      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
+      "severity": "major"
+    },
+    {
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
@@ -211,6 +217,18 @@
       "published": "2026-03-02T08:00:00+00:00",
       "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks livemint.com",
       "severity": "critical"
+    },
+    {
+      "uid": "43da3d1eb0eb",
+      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXF3TkI0cUlHejhzSm1iMHVyZEdLS01NTDkwX0EzWmw2dExCWWhHS1lCZ2l0TlNrWDMyQWJqQ2ZWbkZaVXpOTTdkMnVVUENTeTlJb0pNQTJnRWVQaHVZTTNiTmFqOWtKekJUX1lnVUFiblZWVDZHeVgzcGRsemN6S0hmM3ZSVTV2N01xRTJxeEk5WVJQYlV4blNoN3pxZHZOTGloLXNYZEhFVUxJT1QwLVE1Yk00ZnNVRm1SXzRVU0NnaUVzYmNDaUdPdGRKYmpRUERiNmRmWm1nakQ4OWdIMFE0UU9KSm5aQnFiRjRUT3NRVXlxd3hV0gH8AUFVX3lxTFBQX3pQQ1ZCTmFyYS1kWVJlRmZ2MzN6TXd4TW9mSTllSkcwcFZjUU5kdGJOdkJmRm9vUmNkSzVtSDRxWEI0N0dod3VzVkQtMjRSVG1GWTFkWXNyc2MwZkNGWFg3bVBURG5VYm5wQzRVTUVqMFZadlB2UDRNVklMZmZ4WlRyWlZybnE5a0JCYVRBU1FNUDNsRnZ2bFRoVTMxTWtZZWpSR3AzQWN4WkxucU9JUDBFWk1SdG9oQzB3bnJMVkRZbmdMaVhZSVplSVRWN0xnN3hnMGdEa1ZtZW9HME9kX1ZzTWlfc05ZZ1lESFltanVmTFdSS3pLbnVtMg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-02-27T08:00:00+00:00",
+      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
+      "severity": "major"
     },
     {
       "uid": "9857f803c756",
@@ -271,19 +289,6 @@
       "severity": "critical"
     },
     {
-      "uid": "7972da1e6e78",
-      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank",
-        "IDFC First"
-      ],
-      "published": "2024-04-12T07:00:00+00:00",
-      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
-      "severity": "critical"
-    },
-    {
       "uid": "da7b1efc463a",
       "title": "Axis Bank Atlas Credit Card to be devalued effective April 20, 2024 - Live From A Lounge",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vTlAzRlgwOWV5M3ZmVE55Vl9ZUnJINUpXc2xWNmw0Q3lTdGxmMWRKSnNEeDVnNTltUExKX1k1TElNNnYwNEo0VDE4WDRNS19DUXBfWTVXLTdrQ256aEY2QVNfd3M2OE1RMzZxVnFwbk93XzY3MF9NanV5X0RzUQ?oc=5",
@@ -293,6 +298,18 @@
       ],
       "published": "2024-03-20T07:00:00+00:00",
       "snippet": "Axis Bank Atlas Credit Card to be devalued effective April 20, 2024 Live From A Lounge",
+      "severity": "critical"
+    },
+    {
+      "uid": "6705aebf986a",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2023-11-29T08:00:00+00:00",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard",
       "severity": "critical"
     },
     {
