@@ -1,6 +1,2130 @@
 {
-  "generated_at": "2026-08-12T04:25:16.250792+00:00",
+  "generated_at": "2026-08-12T12:53:11.453190+00:00",
   "items": [
+    {
+      "uid": "35bdf2d946a4",
+      "title": "Exclusive offer on Long Weekend Travel bookings",
+      "url": "https://www.axisbank.com/offers/goibibo-offers/exclusive-offer-on-long-weekend-travel-bookings",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Exclusive offer on Long Weekend Travel bookings",
+      "relevance_score": 1,
+      "valid_till": "2026-08-20"
+    },
+    {
+      "uid": "e61ff62c5c86",
+      "title": "Get up to 50% discount in making charges at Senco Gold",
+      "url": "https://www.axisbank.com/offers/senco-gold-offers/50-percent-discount-on-making-charges",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to 50% discount in making charges at Senco Gold (Code: SENADN101)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "11f729dbaf3c",
+      "title": "Exclusive offer on Long Weekend Travel bookings",
+      "url": "https://www.axisbank.com/offers/makemytrip-offers/exclusive-offer-on-long-weekend-travel-bookings",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Exclusive offer on Long Weekend Travel bookings",
+      "relevance_score": 1,
+      "valid_till": "2026-08-20"
+    },
+    {
+      "uid": "11d9cc2202b1",
+      "title": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds",
+      "url": "https://www.axisbank.com/offers/netmeds-offers/flat-12-percent-discount-on-medicines-plus-10-percent-extra-discount-for-new-users",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds (Code: SPANEW)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "362ea3396b25",
+      "title": "Flat  ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze",
+      "url": "https://www.axisbank.com/offers/muscleblaze-offers/flat-inr-150-off-on-a-minimum-purchase-of-inr-1999",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze (Code: MBAD150)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "8f524a0a2fc2",
+      "title": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store",
+      "url": "https://www.axisbank.com/offers/lenovo-offers/additional-inr-5000-off-on-pcs-or-laptops-at-lenovo-online-store",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store (Code: ADNETO5000)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "51104d0c83fd",
+      "title": "Get ₹5,000 discount on shopping of furniture worth ₹24,999 & above on HomeCentre",
+      "url": "https://www.axisbank.com/offers/home-centre-offers/inr-5000-discount-on-shopping-of-furniture-worth-inr-24999-and-above",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹5,000 discount on shopping of furniture worth ₹24,999 & above on HomeCentre (Code: HCFUR5K)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "9fa87f3c8ac1",
+      "title": "Get 5% instant discount up to ₹11,000 on Pepperfry",
+      "url": "https://www.axisbank.com/offers/pepperfry-offers/5-percent-instant-discount-up-to-inr-11000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 5% instant discount up to ₹11,000 on Pepperfry (Code: PEPAD10K)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "13eb66788c1b",
+      "title": "Get 18% off on all products at Nua",
+      "url": "https://www.axisbank.com/offers/nua-offers/18-percent-off-on-all-products",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 18% off on all products at Nua (Code: NUAADBK18)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "31a49f8d8481",
+      "title": "Instant discount up to ₹15,000 at Apple",
+      "url": "https://www.axisbank.com/offers/apple-offers/10-percent-instant-discount-up-to-inr-15000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹15,000 at Apple",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0ab60bb956e6",
+      "title": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project",
+      "url": "https://www.axisbank.com/offers/the-pant-project-offers/inr-1000-off-on-orders-above-inr-5000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project (Code: BKTPP1K)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "7896c1623872",
+      "title": "Flat 20% off on full body massage at Tattva Wellness Spa",
+      "url": "https://www.axisbank.com/offers/tattva-wellness-spa-offers/flat-20-percent-off-on-full-body-massage",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 20% off on full body massage at Tattva Wellness Spa (Code: TTVADNETO20)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c7ee9478259f",
+      "title": "Flat 10% off on eligible products at United Colors of Benetton",
+      "url": "https://www.axisbank.com/offers/united-colors-of-benetton-offers/flat-10-percent-off-on-eligible-products",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 10% off on eligible products at United Colors of Benetton",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c70fcfff3da2",
+      "title": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
+      "url": "https://www.axisbank.com/offers/bata-offers/get-inr-500-off-on-minimum-shopping-of-inr-2999",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "97e1edccafc5",
+      "title": "Get additional 10% off on orders above ₹5,000 on Urban Ladder",
+      "url": "https://www.axisbank.com/offers/urban-ladder-offers/additional-10-percent-off-on-orders-above-inr-5000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get additional 10% off on orders above ₹5,000 on Urban Ladder (Code: ULADN10)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6c607c935eaf",
+      "title": "Get ₹500 off on Yes Madam",
+      "url": "https://www.axisbank.com/offers/yes-madam-offers/get-inr-500-off-on-yes-madam",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹500 off on Yes Madam (Code: YMADN500)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "3d99a673546f",
+      "title": "Get free large fries on orders above ₹499 on KFC",
+      "url": "https://www.axisbank.com/offers/kfc-offers/get-free-large-fries-on-orders-above-inr-499",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get free large fries on orders above ₹499 on KFC",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6e8779988349",
+      "title": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO",
+      "url": "https://www.axisbank.com/offers/ajio-offers/flat-inr-150-off-on-minimum-order-value-of-inr-1299",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO (Code: ADNAJIO)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "4a64cf514273",
+      "title": "Instant discount offers on SNITCH",
+      "url": "https://www.axisbank.com/offers/snitch-offers/instant-discount-offers-on-snitch",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount offers on SNITCH",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "2b17009af03f",
+      "title": "Get additional discount of ₹3,000 on Air India",
+      "url": "https://www.axisbank.com/offers/air-india-offers/aditional-discount-of-inr-3000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get additional discount of ₹3,000 on Air India",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6333d808e88d",
+      "title": "Flat 25% discount up to ₹7,500 on Yatra",
+      "url": "https://www.axisbank.com/offers/yatra-offers/flat-25-percent-discount-up-to-inr-7500",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 25% discount up to ₹7,500 on Yatra (Code: YTDELIGHT)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "cafd2dda7e7a",
+      "title": "Get ₹1,000 off on a minimum purchase of ₹1,00,000 at Indriya",
+      "url": "https://www.axisbank.com/offers/indriya-offers/inr-1000-off-on-a-minimum-purchase-of-inr-100000 ",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹1,000 off on a minimum purchase of ₹1,00,000 at Indriya",
+      "relevance_score": 1,
+      "valid_till": "2026-09-07"
+    },
+    {
+      "uid": "61ef16840e86",
+      "title": "Flat 25% off on hotels booked on FabHotels",
+      "url": "https://www.axisbank.com/offers/fabhotels-offers/flat-25-percent-off-on-hotels",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 25% off on hotels booked on FabHotels (Code: FABADN10)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "5fb6cb542119",
+      "title": "Earn up to 20%* rewards on your international spends on Visa",
+      "url": "https://www.axisbank.com/offers/visa-power-travel-offers/earn-up-to-20-percent-rewards-on-your-international-spends",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Earn up to 20%* rewards on your international spends on Visa",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "a750fac7c4be",
+      "title": "10% off on total bill on Originate",
+      "url": "https://www.axisbank.com/offers/originate-offers/10-percent-on-total-bill",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "10% off on total bill on Originate (Code: ORG10MASTER)",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "3b46bd9d8db9",
+      "title": "15% off on food & soft beverages on Chicago Pizza",
+      "url": "https://www.axisbank.com/offers/chicago-offers/15-percent-off-on-food-and-soft-beverages",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "15% off on food & soft beverages on Chicago Pizza",
+      "relevance_score": 1,
+      "valid_till": "2026-12-30"
+    },
+    {
+      "uid": "b2fc724a129e",
+      "title": "Get 35% off on the annual subscription of The Wall Street Journal",
+      "url": "https://www.axisbank.com/offers/the-wall-street-journal-offers/get-35-percent-off-on-the-annual-subscription",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 35% off on the annual subscription of The Wall Street Journal",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c70f380bff1f",
+      "title": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
+      "url": "https://www.axisbank.com/offers/hushpuppies-offers/inr-1000-off-on-a-minimum-purchase-of-inr-4999",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6415bca6e73f",
+      "title": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna",
+      "url": "https://www.axisbank.com/offers/gehna-offers/get-flat-inr-2000-off-on-a-minimum-purchase-of-inr-25000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna (Code: ADNG2000)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "891e7b3c19e8",
+      "title": "Get 15% off on a minimum transaction of ₹499 on Bewakoof",
+      "url": "https://www.axisbank.com/offers/bewakoof-offers/15-percent-off-on-a-minimum-transaction-of-inr-499",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 15% off on a minimum transaction of ₹499 on Bewakoof (Code: BKVISA15)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "ec8befd6f32a",
+      "title": "Get 10% sitewide discount on Noise",
+      "url": "https://www.axisbank.com/offers/noise-offers/15-percent-off-on-a-minimum-transaction-of-inr-499",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 10% sitewide discount on Noise (Code: NXADNETO10)",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "de3e7de577b4",
+      "title": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
+      "url": "https://www.axisbank.com/offers/giva-offers/flat-inr-500-off-on-a-minimum-purchase-of-inr-1499",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "01351959f558",
+      "title": "Up to ₹150 off on Swiggy",
+      "url": "https://www.axisbank.com/offers/swiggy-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Swiggy (Code: AMEX150)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0c4cb2731c53",
+      "title": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
+      "url": "https://www.axisbank.com/offers/apple-reseller-offers/get-instant-discount-at-apple-authorised-resellers-stores",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
+      "relevance_score": 1,
+      "valid_till": "2026-09-26"
+    },
+    {
+      "uid": "dd9a8effcd0e",
+      "title": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
+      "url": "https://www.axisbank.com/offers/travelxp-offers/offers-on-domestic-and-international-flights-booking",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "728be693444a",
+      "title": "Get discount up to ₹10,000 on Cathay Pacific",
+      "url": "https://www.axisbank.com/offers/cathay-pacific-offers/get-discount-up-to-inr-10000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get discount up to ₹10,000 on Cathay Pacific",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "87bb46cc9f0d",
+      "title": "Up to 32% off on select DocOnline smart health plans",
+      "url": "https://www.axisbank.com/offers/doconline-offers/up-to-32-percent-off-on-select-doconline-smart-health-plans",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 32% off on select DocOnline smart health plans",
+      "relevance_score": 1,
+      "valid_till": "2027-03-31"
+    },
+    {
+      "uid": "51a6293b7a52",
+      "title": "5% off on minimum spends of ₹5,000 on ColorPlus",
+      "url": "https://www.axisbank.com/offers/colorplus-offers/5-percent-off-on-minimum-spends-of-inr-5000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "5% off on minimum spends of ₹5,000  on ColorPlus",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "43d2046cf04e",
+      "title": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store",
+      "url": "https://www.axisbank.com/offers/ferns-and-petals-offers/flat-20-percent-off-on-a-minimum-transaction-of-inr-1299",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store (Code: ADNFNP)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "a8a2cd99b9b5",
+      "title": "5% off on minimum spends of ₹5000 on Raymond",
+      "url": "https://www.axisbank.com/offers/raymond-offers/5-percent-off-on-minimum-spends-of-inr-5000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "5% off on minimum spends of ₹5000 on Raymond",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "fdec0dcbc0b2",
+      "title": "Flat 20% off up to  ₹20,000 on international flights and hotels",
+      "url": "https://www.axisbank.com/offers/makemytrip-offers/instant-discount-on-international-flights-and-hotels",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 20% off up to  ₹20,000 on international flights and hotels (Code: MMTAXISBIZ)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "ed009014294b",
+      "title": "Get flat 1.5% off on gold jewellery on GRT Jewellers",
+      "url": "https://www.axisbank.com/offers/grt-jewellers-offers/flat-1-5-percent-off-on-gold-jewellery",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat 1.5% off on gold jewellery on GRT Jewellers (Code: GRTADN1500)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "436d4806a7cb",
+      "title": "10% discount on all individual services on L'Occitane",
+      "url": "https://www.axisbank.com/offers/loccitane-offers/10-percent-discount-on-all-individual-services",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "10% discount on all individual services on L'Occitane (Code: ADNL101)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c81fab77de2f",
+      "title": "Get up to ₹1,500 off on domestic flights at Musafir",
+      "url": "https://www.axisbank.com/offers/musafir-offers/up-to-inr-1500-off-on-domestic-flights",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to ₹1,500 off on domestic flights at Musafir (Code: MUADHDDF)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "9e500393d2e1",
+      "title": "Up to 30% off on international travel deals",
+      "url": "https://www.axisbank.com/offers/international-offers/up-to-30-percent-off-on-international-travel-deals",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 30% off on international travel deals",
+      "relevance_score": 1,
+      "valid_till": "2027-03-01"
+    },
+    {
+      "uid": "ee73f5186337",
+      "title": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds",
+      "url": "https://www.axisbank.com/offers/netmeds-offers/additional-8-percent-off-on-prescription-medicines-plus-12-percent-website-discount",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds (Code: ADNS25NMS)",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "be2d4c76784d",
+      "title": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
+      "url": "https://www.axisbank.com/offers/joyalukkas-offers/20-percent-discount-on-making-charges-for-gold-diamond-and-silver-jewellery",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "2303df5a9c59",
+      "title": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
+      "url": "https://www.axisbank.com/offers/behrouz-biryani-offers/get-30-percent-off-up-to-inr-125-on-orders-above-inr-249",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "5973f5cc318a",
+      "title": "Get 50% off up to ₹125 on Oven Story",
+      "url": "https://www.axisbank.com/offers/oven-story-offers/50-percent-off-up-to-inr-125",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 50% off up to ₹125 on Oven Story",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "53e0f7b6dec5",
+      "title": "20% savings on bed & breakfast rates",
+      "url": "https://www.axisbank.com/offers/the-leela-offers/20-percent-savings-on-bed-and-breakfast-rates",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 20% savings on bed & breakfast rates on The Leela Palace Hotels & Resorts",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "20cd69f93c91",
+      "title": "Instant discount up to ₹20,000 on Croma",
+      "url": "https://www.axisbank.com/offers/croma-offers/instant-discount-up-to-inr-20000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹20,000 on Croma",
+      "relevance_score": 1,
+      "valid_till": "2026-08-16"
+    },
+    {
+      "uid": "18878f256c89",
+      "title": "Up to inr 1000 Off on the Axis Bank Dining Program",
+      "url": "https://www.axisbank.com/offers/dining-delights/up-to-inr-1000-off-on-the-axis-bank-dining-program",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get Rs.1000* off & more across 10,000+ restaurants via EazyDiner only with Axis Bank Credit & Debit Cards. (Code: NA)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "d22f8734e1e6",
+      "title": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home",
+      "url": "https://www.axisbank.com/offers/dry-fruits-home-offers/get-15-percent-off-on-minimum-purchase-value-of-inr-1000-on-dry-fruits-home",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home (Code: TH15OFF)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "372500d64762",
+      "title": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra",
+      "url": "https://www.axisbank.com/offers/yatra-offers/get-15-percent-off-up-to-rs-2500-on-domestic-flight",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra (Code: YTDELIGHT)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "a6e3b5387053",
+      "title": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000)",
+      "url": "https://www.axisbank.com/offers/ixigo-offers/8-percent-off-on-flight-bookings-maximum-off-upto-rs-1000",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000) (Code: IXIMS)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "523db6da68b4",
+      "title": "Get Up to 10% OFF on Satvik Store",
+      "url": "https://www.axisbank.com/offers/satvik-offers/get-10-percent-off-on-satvik",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get Up to 10% OFF on Satvik Store (Code: STKRUPAY10)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "e2e076a0c68b",
+      "title": "Up to 15% OFF at Lifestyle",
+      "url": "https://www.axisbank.com/offers/lifestyle-offers/up-to-15-percent-off-on-lifestyle",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 15% OFF at Lifestyle (Code: LIFEIN15)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "bb51f34ecea9",
+      "title": "Up to ₹150 off on Zomato",
+      "url": "https://www.axisbank.com/offers/zomato-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Zomato (Code: AMEXWEEKEND)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "d765535779f8",
+      "title": "Up to ₹150 off on Swiggy Instamart",
+      "url": "https://www.axisbank.com/offers/swiggy-instamart-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Swiggy Instamart (Code: AMEX150)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "e14f91abe7ca",
+      "title": "Up to ₹150 off on Blinkit",
+      "url": "https://www.axisbank.com/offers/blinkit-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Blinkit (Code: AMEXWEEKEND)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "a62953af0b25",
+      "title": "Get flat ₹500 off on orders worth ₹1,999 & above on Max",
+      "url": "https://www.axisbank.com/offers/max-offers/flat-inr-500-off-on-orders-worth-inr-1999-and-above",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹500 off on orders worth ₹1,999 & above on Max (Code: REWARDS250)",
+      "relevance_score": 1,
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "084be8e54bc2",
+      "title": "Earn up to 6X reward points",
+      "url": "https://www.hsbc.co.in/campaigns/apple-unicorn-rewards/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "d0f97b7ba794",
+      "title": "Get rewarded with HSBC Spend Fest",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "166f6c673d6a",
+      "title": "Amazon",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "d2968f3412e6",
+      "title": "Vijay Sales",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save up to INR 7,500 on a wide range of appliances and electronic gadgets in store and online.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "8f57ecedb02c",
+      "title": "Dyson",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "38d86651b8a1",
+      "title": "MakeMyTrip",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "d81d896cba62",
+      "title": "Goibibo",
+      "url": "https://www.hsbc.co.in/credit-cards/offers/goibibo/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "0c60a66a5e64",
+      "title": "Paytm Flights",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save up to INR 5,000 on international and domestic flight bookings.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "75931f6adcba",
+      "title": "Cleartrip",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to INR 6,000 off flights and hotels.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "daca3a00a184",
+      "title": "Yatra",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save up to INR 10,000 on flights and hotel bookings.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "1405a9a2281c",
+      "title": "Emirates",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save up to INR 12,000 on Emirates flights.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "226ccaf1d656",
+      "title": "Lakme Salon",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get INR1,100 off when you spend INR3,000 or more.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "fa8c96674c7d",
+      "title": "Pepperfry",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save up to INR 2,250 with Pepperfry!",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "009da5a65d1e",
+      "title": "Apollo Pharmacy",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save up to INR 250 when you spend INR 1,500.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "f59edcc39cad",
+      "title": "FirstCry",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 10% instant discount up to INR 500.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "1f6e814159dd",
+      "title": "BookMyShow Lounge",
+      "url": "https://www.hsbc.co.in/credit-cards/offers/bookmyshow-saturday/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "d341ff326d42",
+      "title": "District by Zomato",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Save 10% on dining, activities and shopping. Plus, enjoy buy-one-get-one cinema tickets for less and enjoy movies on the big screen for less.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "8614a1c4ea99",
+      "title": "Zepto",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get INR 100 off when you spend INR 999 or more.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "1dcbda92940a",
+      "title": "Starbucks",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "47002b3ea288",
+      "title": "Visa Card offers",
+      "url": "https://www.visa.co.in/pay-with-visa/visa-offers-and-perks.html#1",
+      "source": "HSBC Offers",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offers for HSBC Visa Cardholders.",
+      "relevance_score": 1,
+      "valid_till": null
+    },
+    {
+      "uid": "19ea2e749969",
+      "title": "Yatra",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333350024/yatra.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹6,000 on Kotak Credit Card EMI. Book Now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "cb5e275da765",
+      "title": "River Cash",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333394295/river-cash.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹ 10,000 on Kotak Credit Card EMI. Shop Now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "e0a40a4ce1e0",
+      "title": "KTM",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333359659/ktm.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "87b936a55098",
+      "title": "Hero Motorbikes",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333395584/hero-motorbikes.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ?10,000 on Kotak Credit Card EMI. Shop now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "ec33d4bad219",
+      "title": "Godrej",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333368110/godrej.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "bf6a7e2302f6",
+      "title": "Realme",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333399850/realme.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "dd5e084cfbd1",
+      "title": "Daikin",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333381820/daikin.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail up to ₹2,500 instant discount on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "f2221dca38b1",
+      "title": "Xiaomi",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333376170/xiaomi.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail up to ₹5,000 instant discount on Kotak Credit Card EMI. Shop now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "671b55edd756",
+      "title": "BOSE",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234531059/bose.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "86eaee0c609f",
+      "title": "Eureka forbes",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234557985/eureka-forbes.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "08c5f0d5a5a8",
+      "title": "Haier",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333306458/haier.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant cashback up to ?25,000 on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "15ddba891b7b",
+      "title": "IFB",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333312033/ifb.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "fd009fa2f6c9",
+      "title": "Bosch & Siemens",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333398860/bosch-siemens.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant cashback up to ₹7,500 on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "b55bac46e8f2",
+      "title": "Oppo",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386639/oppo.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "10% instant cashback up to ₹3,000 on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "bec1e773ad05",
+      "title": "Whirlpool",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386453/whirlpool.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0726fc7c0cb2",
+      "title": "LG",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386574/lg.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to ₹30,000* instant discount with Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "8f3131136c99",
+      "title": "JBL",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333397193/jbl.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "97cf48ac2b2c",
+      "title": "Panasonic",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333301513/panasonic.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "e5ec3d01d666",
+      "title": "Goibibo",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234541555/goibibo.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get Instant Discount & No Cost EMI at Goibibo via Kotak Credit Cards",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "072296276f39",
+      "title": "Nothing",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234531584/nothing.html",
+      "source": "Kotak Offers",
+      "category": "offer",
+      "issuers": [
+        "Kotak"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get upto 5,000 Instant discount on Kotak Credit Card EMI. Shop Now.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0485145bcfaf",
+      "title": "Unmissable Travel Deals",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/unmissable-travel-deals/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Plan with exclusive BOBCARD offers",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "03dd706b95a7",
+      "title": "Upto 12% Off on Ixigo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-12-off-on-ixigo/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Validity 1st July to 30th Sep, 2026 (Code: Domestic Flights: IXIBOBEMI | International Flights: IXIBOBEMIN)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "24f4243568a9",
+      "title": "Get 5% Off on udChalo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/5-off-on-udchalo/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid till 30th Sep 2026 (Code: UCBOB)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "4b513fcc1b5b",
+      "title": "Up to 15% instant discount on Goibibo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-15-instant-discount-on-goibibo/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Applicable on all Friday & Saturday till 30th Sep, 2026 (Code: Domestic Flights & Hotels: GOBOBEMI || International Flights & Hotels: GOBOBINTEMI)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "fb4962e8c5be",
+      "title": "Up to 15% Off on MakeMyTrip",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-15-off-on-makemytrip/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid all Tuesday & Friday till 30th Sep 2026 (Code: Domestic Flights, Domestic Hotels, Holiday: MMTBOBEMI || International Flights & Hotels: MMTBOBINTEMI)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "b4d1720a30e4",
+      "title": "Up to 15% instant discount on EaseMyTrip",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-15-instant-discount-on-easemytrip/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Applicable on Wednesday and Thursday only (Code: BOBEMI || BOB6EMI)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "65f4f5450e74",
+      "title": "Up to 12% Off on Paytm Travel on Paytm Flights",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-12-off-on-paytm-travel/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on EMI, every Wednesday & Thursday till 30th Sep 2026 (Code: Domestic: FLYBOB | International: INTLFLYBOB)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "d20ebfb28069",
+      "title": "Upto 20% Off on Flipkart Travel",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-20-off-on-flipkart-travel/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid on Saturday & Sunday | From 1st Aug to 30th Aug 2026 | Please Note: The offer will be paused from 7th Aug to 16th August 2026 (Code: Promocode: Domestics Flights & Hotels: BOBEMIDOM and International flights & hotels: BOBEMIINT)",
+      "relevance_score": 1,
+      "valid_till": "2026-08-30"
+    },
+    {
+      "uid": "ed790be4bc3f",
+      "title": "Upto 25% Off on Cleartrip",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-25-off-on-cleartrip/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid on Saturday & Sunday | Till 27th Sep 2026 (Code: BOBEMI)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-27"
+    },
+    {
+      "uid": "96fabd9a84d8",
+      "title": "Upto 15% Off on Yatra",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-15-off-on-yatra/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Validity: 1st July to 30th Sep 2026 | Applicable on Monday and Tuesday (Code: YRBOBCCEMI)",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "575eb0fbca2e",
+      "title": "Trendy Fashion Deals",
+      "url": "https://www.bobcard.co.in/credit-card-offers/fashion-and-beauty/trendy-fashion-deals/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Style your wardrobe with BOBCARD offers",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "513b730b5889",
+      "title": "₹1000 Off on Surat Diamond",
+      "url": "https://www.bobcard.co.in/credit-card-offers/fashion-and-beauty/1000-off-on-surat-diamond/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
+      "relevance_score": 1,
+      "valid_till": "2027-03-29"
+    },
+    {
+      "uid": "44ab20bb8dee",
+      "title": "Everyday Essentials Sale",
+      "url": "https://www.bobcard.co.in/credit-card-offers/grocery/everyday-essentials-sale/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "From pantry picks to party prep — save more with BOBCARD",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "c5e1d4574413",
+      "title": "E-Cart-Worthy Steals",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/e-cart-worthy-steals/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Move your wishlist to cart with BOBCARD offers",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "bfd75428eaa3",
+      "title": "10% Instant Discount on Flipkart",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/10-instant-discount-on-flipkart/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Validity: 1st Aug to 31st Aug 2026. | Please Note: The offer will be paused from 7th Aug to 16th August 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "2d6e3b4ab0f9",
+      "title": "Flat ₹6000 off on Flipkart 2-Wheelers",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/flat-6000-off-on-flipkart-2-wheelers/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer validity: 1st Aug to 31st Aug 2026 | Please Note: The offer will be paused from 7th Aug to 16th August 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "18697dcc6a6b",
+      "title": "10% instant discount on Amazon",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/10-instant-discount-on-amazon/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Validity: 1st Aug to 31st Aug 2026 | Offer paused: From 7th Aug to 12th Aug 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "3c7bbb0a39dd",
+      "title": "Home Glow-Up Finds",
+      "url": "https://www.bobcard.co.in/credit-card-offers/lifestyle/home-glow-up-finds/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Redo your space with BOBCARD offers",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "410c618a0313",
+      "title": "₹1000 Off on Surat Diamond",
+      "url": "https://www.bobcard.co.in/credit-card-offers/lifestyle/1000-off-on-surat-diamond/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
+      "relevance_score": 1,
+      "valid_till": "2027-03-29"
+    },
+    {
+      "uid": "241f1f2b7e05",
+      "title": "7.5% Off on Carrier Midea",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/75-off-on-carrier-midea/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "06dd034e09cf",
+      "title": "Up to 15% Cashback",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-15-cashback-on-liebherr/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "9f02598ad5c4",
+      "title": "Up to 25% Cashback on Haier",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-25-cashback-on-haier/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "ec118232d1ad",
+      "title": "Smart Tech Deals",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/smart-tech-deals/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Level up with BOBCARD offers on gadgets",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "d712dbd57745",
+      "title": "15% Instant Cashback on Electrolux",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/15-instant-cashback-on-electrolux/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "9d7f6daa735f",
+      "title": "Flat Cashback upto ₹3,000 at AO Smith",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/flat-cashback-upto-3-000-at-ao-smith/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "923697c5e767",
+      "title": "Upto 10% Off on Oppo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-off-on-oppo/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "b04603e43443",
+      "title": "Up to ₹15,000 Cashback on HP",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-15-000-cashback-on-hp/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 20th Aug 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-08-20"
+    },
+    {
+      "uid": "93efb4df5c06",
+      "title": "Upto 22.5% cashback on Lloyd",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-25-cashback-on-lloyd-havells/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "6d9c2ac848ce",
+      "title": "Up to 22.5% Off on Samsung",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-225-off-on-samsung/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "17bf5b91f86a",
+      "title": "Up to 12% cashback on TCL",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-12-cashback-on-tcl/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "62ba52c4b624",
+      "title": "Upto 10% Cashback on Sony",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-cashback-on-sony/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "7f9f76752807",
+      "title": "Upto 10% cashback on Daikin",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-cashback-on-daikin/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Offer valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "784cf5e08fe7",
+      "title": "Cashback up to ₹8,000 on Voltas and Voltas Beko",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/cashback-up-to-8-000-on-voltas-and-voltas-beko/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "119fdaaeda74",
+      "title": "5% Cashback on Cruise",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/5-cashback-on-cruise/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "11c34c8d31ee",
+      "title": "10% Cashback on ONIDA",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/10-cashback-on-onida/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "relevance_score": 1,
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "f8539fa238a8",
+      "title": "Delectable Foodie Delights",
+      "url": "https://www.bobcard.co.in/credit-card-offers/food/delectable-foodie-delights/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Feast on joy, delivered with BOBCARD offers",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "c4180fe8791d",
+      "title": "Wow Gift Deals",
+      "url": "https://www.bobcard.co.in/credit-card-offers/gifting/wow-gift-deals/",
+      "source": "BOBCard Offers",
+      "category": "offer",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "severity": null,
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Find the perfect gift for any occasion with BOBCARD offers",
+      "relevance_score": 1,
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "3038acd05efb",
+      "title": "R to @DoBaniye: Found the post informative? 20,000+ people get easy actionable tips on credit cards, travel, and rewards. You can too! Follow our WhatsApp Channel: 🔗https://linktr.ee/Do.Baniye",
+      "url": "https://nitter.net/DoBaniye/status/2087520668586025270#m",
+      "source": "Twitter / @DoBaniye",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-08-12T12:44:46+00:00",
+      "snippet": "Found the post informative? 20,000+ people get easy actionable tips on credit cards, travel, and rewards. You can too! Follow our WhatsApp Channel: 🔗 linktr.ee/Do.Baniye Link Do.baniye Official: Instagram, X, Facebook, Threads | Linktree We are here to help you save money! linktr.ee",
+      "relevance_score": 1
+    },
+    {
+      "uid": "c93afff8288a",
+      "title": "Guys, today is the last day to complete Rs.1 lac spend criteria for HSBC x Accor Transfer Bonus offer 👇👇👇",
+      "url": "https://nitter.net/spendwiselyx/status/2087440582272753804#m",
+      "source": "Twitter / @SpendWiselyX",
+      "category": "offer",
+      "issuers": [
+        "HSBC"
+      ],
+      "severity": null,
+      "published": "2026-08-12T07:26:32+00:00",
+      "snippet": "Guys, today is the last day to complete Rs.1 lac spend criteria for HSBC x Accor Transfer Bonus offer 👇👇👇 SpendWisely (@spendwiselyx) HSBC has updated its Accor Transfer Bonus Offer’s PDF. 📄 👉 mail.hsbc.com.hk/in/pr_accor… Now, the Terms & Conditions are very clear, in case you had any doubt. If you",
+      "relevance_score": 3
+    },
+    {
+      "uid": "511918a926bf",
+      "title": "R to @DoBaniye: 💡 Even a tiny transfer (for example, transferring points from ITC using an Axis card) counts as activity and resets the expiry clock. It's not always the highest-value redemption, but it keeps your options open until you decide how you want to use your points.",
+      "url": "https://nitter.net/DoBaniye/status/2087435234090611145#m",
+      "source": "Twitter / @DoBaniye",
+      "category": "social",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-12T07:05:17+00:00",
+      "snippet": "💡 Even a tiny transfer (for example, transferring points from ITC using an Axis card) counts as activity and resets the expiry clock. It's not always the highest-value redemption, but it keeps your options open until you decide how you want to use your points.",
+      "relevance_score": 1
+    },
+    {
+      "uid": "93f92c6fea8a",
+      "title": "Where should you transfer Amex points if you don't have a redemption plan? 🤔 We've been getting this question a lot lately, especially from people considering closing their Amex cards. The best answer is always: transfer only when you have a redemption in mind. But if you must move your points and don't have a plan yet, here's the safest fallback:",
+      "url": "https://nitter.net/DoBaniye/status/2087435061029405038#m",
+      "source": "Twitter / @DoBaniye",
+      "category": "social",
+      "issuers": [
+        "American Express"
+      ],
+      "severity": null,
+      "published": "2026-08-12T07:04:35+00:00",
+      "snippet": "Where should you transfer Amex points if you don't have a redemption plan? 🤔 We've been getting this question a lot lately, especially from people considering closing their Amex cards. The best answer is always: transfer only when you have a redemption in mind. But if you must move your points and d",
+      "relevance_score": 1
+    },
     {
       "uid": "5fd64bb44fb8",
       "title": "All the credit cards can be divided into 4 categories for forex transactions. 💳🌍 1️⃣ Category-1: Best Ones 🏆 The credit cards which refund the entire forex mark-up charges along with the main amount in case of order cancellation + they do not charge any mark-up on the refund amount. 👉 HDFC Credit Cards are Category-1 cards. Use HDFC Bank’s Infinia or Diners Black Credit Card after activating the Global Value Program, and get 3.33% Rewards + 1% Cashback - 2.36% Forex Mark-up = 1.97% Net Valueback. And most importantly, no risk of losing money in case of a refund. ✅ 2️⃣ Category-2: Not-so-good ⚠️ Cards like HSBC credit cards which do not refund forex mark-up charges, but they also do not charge anything on the refund amount. So, not the best, but better than Axis Bank and ICICI Bank Credit Cards. 👉 Use HSBC Premier Card, if you have one, as it charges just 1.17% Forex Mark-up, so you lose relatively small amount in case of a refund. Plus, you get 3% reward points, which is 6.6% Valueback if you are into Accor redemption. So, the Net Valueback is 5.43% in Accor value after adjusting the Forex Mark-up fee. 🏨✨ 👉Of course, our favourite HSBC Travel One Card beats everyone for forex transactions if its famous Zero Forex Mark-up offer is on. 🔥. You get 4% rewards = 8.8% Accor Value and no forex mark-up charges. 💯. Wait for 15th August for upcoming Zero forex mark-up offer on HSBC Cards. 3️⃣ Category-3: Zero Forex Mark-up Cards 💳✈️ Cards like Scapia, RBL World Safari, AU ixigo, IDFC WOW Credit Card etc. do not charge any mark-up on forex transactions. So, there is no issue of losing money in case of a refund. 👍 However, cards like Scapia do not offer any rewards on forex transactions. 4️⃣ Category-4: The Worst Cards ❌ The cards which do not refund Forex Mark-up charges in case of a refund AND charge forex mark-up on the refund amount also. So, double loss. 😬 👉Axis and ICICI Bank Credit Cards are the worst as they do not refund Forex Mark-up charges, and charge another forex mark-up on the refund. So, you lose around 8.26% amount on refund of forex transactions on mid and entry-level credit cards like Axis Atlas, ICICI Sapphiro etc. On super-premium cards like ICICI Emeralde Metal Private Card and Axis Magnus Card, you lose around 4.72% in case of a refund of a forex transaction. 👉 This is something you should definitely check before using your credit card for large forex transactions. 👇👇👇If you know about other credit cards, mention in comments which category they fall into. It will help the entire community. 🙌 📘 Visit SpendWisely Blog: Detailed credit card reviews & guides 👉 https://spendwisely.in Some links may be referral links in the above post. It supports the page without any cost to you. #creditcard #spendwisely #creditcard",
@@ -155,9 +2279,9 @@
       "relevance_score": 1
     },
     {
-      "uid": "e60e2a0b6b12",
+      "uid": "c4520657d903",
       "title": "Apple Pay is likely coming to India: What iPhone users can and can’t do without UPI at launch - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd19LX3UwT256UWw3SHB2Y05Wd29qYWtET0NtN29WRGx0RmJfQTVlZkxuX204U04zWUZRaGRtMU5kalJYdzZBcXM3V2tWMmwzS1F1ZktsMU1tckJLR0JsaENkNHByVnJyWDdSS0VtNHlGOVdEaFB0TDZvRlA3QkRkZ05DUEVLdHNuYWh4dXp0bW92ZFppT0VPMFVZUWlPSEl1ZGlsTjk1UlVsTkxNaE14NDdBUkQybzRGRm13NzJVWTdDb2lwc1NCUEs1bVNBSUNMcHNWRDhzSFJWd1ZMTURhbjlTMVZxOXZKS1FrZGIwcngzOVZhcnFB0gH3AUFVX3lxTE93X0tfdTBPbnpRbDdIcHZjTlZ3b2pha0RPQ203b1ZEbHRGYl9BNWVmTG5fbThTTjNZRlFoZG0xTmRqUlh3NkFxczdXa1YybDNLUXVmS2wxTW1yQktHQmxoQ2Q0cHJWcnJYN1JLRW00eUY5V0RoUHRMNm9GUDdCRGRnTkNQRUt0c25haHh1enRtb3ZkWmlPRU8wVVlRaU9ISXVkaWxOOTVSVWxOTE1oTXg0N0FSRDJvNEZGbXc3MlVZN0NvaXBzU0JQSzVtU0FJQ0xwc1ZEOHNIUlZ3VkxNRGFuOVMxVnE5dkpLUWtkYjByeDM5VmFycUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbUhGajlHamo0ZHJNbXpQOXNxb0UwRXRrTzZXZV9TMFE1QlNXVE1zNFBmb2loT1NITzc1ejQ1cnhUdjdRY3NaSWo4R19EVkVRRlZzWUJsV2hZcURvanRsTmxOMzNuZTNBSzN4OWV3b0d5czBseGU4RU41NnVTZXo5blJTc2xuUlRHTWVfSFpZMVpybElKT202MXY4bER2UlF1U2M5bEw4Q1dEV2VkQXJnQTQ1LXdhbFNaS01rVUMtak9SZDZ5VTg3TEM1TEgxRjZBOXBhLUNyVWxKUTEtZ0RrNUx2ckdkM0JVckZWYVlnTFNlZ9IB9wFBVV95cUxPd19LX3UwT256UWw3SHB2Y05Wd29qYWtET0NtN29WRGx0RmJfQTVlZkxuX204U04zWUZRaGRtMU5kalJYdzZBcXM3V2tWMmwzS1F1ZktsMU1tckJLR0JsaENkNHByVnJyWDdSS0VtNHlGOVdEaFB0TDZvRlA3QkRkZ05DUEVLdHNuYWh4dXp0bW92ZFppT0VPMFVZUWlPSEl1ZGlsTjk1UlVsTkxNaE14NDdBUkQybzRGRm13NzJVWTdDb2lwc1NCUEs1bVNBSUNMcHNWRDhzSFJWd1ZMTURhbjlTMVZxOXZKS1FrZGIwcngzOVZhcnFB?oc=5",
       "source": "Google News / launch",
       "category": "launch",
       "issuers": [],
@@ -209,30 +2333,6 @@
       "published": "2026-08-11T11:30:40+00:00",
       "snippet": "The PhonePe co-branded credit cards have become quite popular because they offer rewards on everyday spends like utility bill payments and insurance done through PhonePe. With the recent devaluation of the Airtel Axis Credit Card, more users are now moving towards these PhonePe cards. Right now, bot",
       "relevance_score": 2
-    },
-    {
-      "uid": "59bc83e65945",
-      "title": "What ‘minimum due’ really costs credit card users",
-      "url": "https://www.livemint.com/money/personal-finance/credit-card-minimum-due-autopay-credit-card-payment-interest-charges-11786433565547.html",
-      "source": "Mint – Credit Card",
-      "category": "launch",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-11T09:42:29+00:00",
-      "snippet": "Some credit card users who rely on autopay say they have found their payment settings switched to the minimum due without their knowledge. Here’s what your credit card isn’t telling you.",
-      "relevance_score": 1
-    },
-    {
-      "uid": "485915e83871",
-      "title": "Emirates Skywards Launches Ramadan Offer with 2 Million Miles Giveaway - safariindia.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLUDQ4X1ZodmtwblBGQ0FILV9iUmFPM3VHR0ZyZDNHN2FDc2FHSUYzSnhVZjBMcF9ZYXpVMTh0cHdsOUxxdFBSY0FBXzUxaDhGUFpjOHRJd3dqdjloUFpaVHpUdmM4QWZVd2NfZ2hYSjFkcGs?oc=5",
-      "source": "Google News / offer",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-11T09:32:24+00:00",
-      "snippet": "Emirates Skywards Launches Ramadan Offer with 2 Million Miles Giveaway safariindia.com",
-      "relevance_score": 0
     },
     {
       "uid": "5c51f4f7dab5",
@@ -305,26 +2405,26 @@
     },
     {
       "uid": "845c01cb6a35",
-      "title": "Apple Pay is coming to India by October, but without UPI support; What it means for Indian users - businesstoday.in",
+      "title": "Apple Pay is coming to India by October, but without UPI support; What it means for Indian users - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXl6aGdlTHltaHY2WGlfQjJjRloxTkpvR0E4TVBvWjdpZ3FEYTVycVJlME1WcHNvbGdWbTR4VFI0cHU3RF9EcEE4Mmg1cWttM0lwU0NGekpYR2dHZTlia1hJT0dORE1xSk9vUXNodzlLWWEyWnlhUTNwdEZFWXNKQ1I1SW1pZmlsbFN1MmVXS2Jla2czVGZqRmJuSmZOR2Vrd0hpWnlNVFdWTHQzblczaVlzUzIyMm1vSVZ2MS1ITTIteTJBZWtFeXRYZXYwcUd0SEJVUjBRUXJtOWwyc0R1aS01bFh4ZjgzWHFIU1I4VHJ2RVIwMUUwdThiZ9IB-wFBVV95cUxOLXl6aGdlTHltaHY2WGlfQjJjRloxTkpvR0E4TVBvWjdpZ3FEYTVycVJlME1WcHNvbGdWbTR4VFI0cHU3RF9EcEE4Mmg1cWttM0lwU0NGekpYR2dHZTlia1hJT0dORE1xSk9vUXNodzlLWWEyWnlhUTNwdEZFWXNKQ1I1SW1pZmlsbFN1MmVXS2Jla2czVGZqRmJuSmZOR2Vrd0hpWnlNVFdWTHQzblczaVlzUzIyMm1vSVZ2MS1ITTIteTJBZWtFeXRYZXYwcUd0SEJVUjBRUXJtOWwyc0R1aS01bFh4ZjgzWHFIU1I4VHJ2RVIwMUUwdThiZw?oc=5",
       "source": "Google News / launch",
       "category": "launch",
       "issuers": [],
       "severity": null,
       "published": "2026-08-11T06:03:04+00:00",
-      "snippet": "Apple Pay is coming to India by October, but without UPI support; What it means for Indian users businesstoday.in",
+      "snippet": "Apple Pay is coming to India by October, but without UPI support; What it means for Indian users Business Today",
       "relevance_score": 0
     },
     {
       "uid": "78e751f78946",
-      "title": "Apple Pay India Launch Timeline Revealed: Why UPI Support May Not Be Available at First - Gizbot",
+      "title": "Apple Pay India Launch Timeline Revealed: Why UPI Support May Not Be Available at First - gizbot.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2R4NEhqUjMySDBpQkNPTkhZNTUxc3JvUDg2X3dYMy1VV1h6ajJDQ2p4LW1kWHpHQVowblJOMy0yUmlEOWlPS3d3X3Mwa1N4a1lmQTJXUENyaXlwSl9fZHB3YUcxaGZRNGFWWUhuTk5vblRmSVZubkRBckNaRElMU0xQVXQwa3Bua0hEaFNqaEV5YWlBRGtkQWo4NnE0c1Z5U0g0S1ltQ3Nwd3ZmNW1TZTBGQnFPem1ERzZabjdoRzZyYnV1emQ0?oc=5",
       "source": "Google News / launch",
       "category": "launch",
       "issuers": [],
       "severity": null,
       "published": "2026-08-11T05:55:16+00:00",
-      "snippet": "Apple Pay India Launch Timeline Revealed: Why UPI Support May Not Be Available at First Gizbot",
+      "snippet": "Apple Pay India Launch Timeline Revealed: Why UPI Support May Not Be Available at First gizbot.com",
       "relevance_score": 0
     },
     {
@@ -419,14 +2519,14 @@
     },
     {
       "uid": "296859c72cf2",
-      "title": "Apple Pay Could Launch In India By Late 2026, Without UPI Support: Report - etvbharat.com",
+      "title": "Apple Pay Could Launch In India By Late 2026, Without UPI Support: Report - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMy0wVGxoZHdPWnZSdU0zR3E0N1c2WFkzVHVzYlJVbzMzUjM1QzA3ZEpkU1gwOGVhVk1keWNIcEcxRlVGRkc1eTZqUEkzVzdOejBkaFUwX3lBZmQwSHlSWGYzNGlRRHB3Tk5BUFR5T1h1dEdsVFozaV9rS09uZFZ0blMzNk1SSngzVUxUdXlISEwtM0V2Rk5OU0ZteVlqZ9IBowFBVV95cUxQdU5lYVZzVkJLZ1dxaFU4cXY1dmxqdm5WZjgxVEdpaHM0THI0UGdSS0VYa29iN3dLaHZxX1VkcUtsQVVLeGZrMUNqWlRURnR2UlVmdWlyTnFGdUJTWHV4eHo0THJsaDEzd0xPazlzVnk0TTV5WWNUdWlwZzZoaWFzWkJncU5DWTdfdmZKejdNTzBTZjc5XzlvalVBVFZNOHY5TjZz?oc=5",
       "source": "Google News / launch",
       "category": "launch",
       "issuers": [],
       "severity": null,
       "published": "2026-08-10T13:58:10+00:00",
-      "snippet": "Apple Pay Could Launch In India By Late 2026, Without UPI Support: Report etvbharat.com",
+      "snippet": "Apple Pay Could Launch In India By Late 2026, Without UPI Support: Report ETV Bharat",
       "relevance_score": 0
     },
     {
@@ -656,20 +2756,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "28ae2a407089",
-      "title": "Freedom to Spend Smarter: AU Small Finance Bank Credit Cards Bring Rewards, EMI Flexibility and Lounge Access to Indias Biggest Shopping Month - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxONnFhNWxRVDQycGdEdDVHXzd0NjVBVXRQREVtRl9sM2g3SEVQTEI5Y3FCR2hlTzBLOUhMQkxONkhKOVFrd2p6M3FTLUlva2wtQWFnbVIwRjZ6MFhnSk1SUXlYRHFUckpxZUswckM3YmFVYWlPbzJId2R6X2lXcnNGSkFBbThZcHdQV3I2dzVHZXgzYzZDSk9wa2M2ZndDVUx4X1BUbEY3MzdCalF6UGRwRnNrRHA5ZE4yZ3V4Z2tneWNSV19Ec0k3Mk5fVWswblVkbEZISnJzNnVUWGhld2dVcndkbEJTcnpnYWtiRFZTakNVeVJGTFBQN05pSVRfbXpVak85U24zdnJfMkFuWXBxTFp5ZkFUcW5OckdoTVE1Um40THV1RXdFbVBaU0VIX2RkbGfSAbICQVVfeXFMTjZxYTVsUVQ0MnBnRHQ1R183dDY1QVV0UERFbUZfbDNoN0hFUExCOWNxQkdoZU8wSzlITEJMTjZISjlRa3dqejNxUy1Jb2tsLUFhZ21SMEY2ejBYZ0pNUlF5WERxVHJKcWVLMHJDN2JhVWFpT28ySHdkel9pV3JzRkpBQW04WXB3UFdyNnc1R2V4M2M2Q0pPcGtjNmZ3Q1VMeF9QVGxGNzM3QmpRelBkcEZza0RwOWROMmd1eGdrZ3ljUldfRHNJNzJOX1VrMG5VZGxGSEpyczZ1VFhoZXdnVXJ3ZGxCU3J6Z2FrYkRWU2pDVXlSRkxQUDdOaUlUX216VWpPOVNuM3ZyXzJBbllwcUxaeWZBVHFuTnJHaE1RNVJuNEx1dUV3RW1QWlNFSF9kZGxn?oc=5",
-      "source": "Google News / offer",
-      "category": "benefit",
-      "issuers": [
-        "AU Small Finance Bank"
-      ],
-      "severity": null,
-      "published": "2026-08-10T05:18:13+00:00",
-      "snippet": "Freedom to Spend Smarter: AU Small Finance Bank Credit Cards Bring Rewards, EMI Flexibility and Lounge Access to Indias Biggest Shopping Month The Tribune",
-      "relevance_score": 2
-    },
-    {
       "uid": "787ed4b5d2c2",
       "title": "Dropping this Oct: Apple Pay services set for India launch, no UPI yet - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUlsV0Q5RUJfeWlCWkY0emdBOVF3YzJwR3dWdGpMZXdpWFQ0cGRYeWY2bXFraHJaaVBSTjBjTVRINVR5cUpTTDhrdmR3R0I2cTR5UFlsOFhrSEZwTnhjQlN2cEVaRUJqakQtcWR2VElkZ3VxeERuYUlEdnJtOGxNck9iM21WMjVzZXlFWmRGRkRNcElBMlM2RHR3QkZ0VzM2WllLcVhGTjBXV04wMzBkdktHVDZaOTVyNWxYdTBHWmNOYU9DTDBYeXNxZV85MW9p0gHWAUFVX3lxTE85c0h0ODZ6REo3QkVlWUpYcDVMa041QW9pQ04wNG9vbjU5X2FkdnJRVlVzV1VMTlRxYmltWkFPV1Q1Zzhmd0hqazRudjI2MkVlMDdicV9ELWh6aE1LU2pObFJ3dXlGeGJLa3kyaGp1WTRrNDJFeVI3U0c0MzdBSVZFSG1JZkhNdkpHbGUxOWk1OWNqWWptUHBuUGt2QUg0TFNOaG5XeUl5dGV4eGNqakpSQkR6M0pGM1ZpeVA0Y0xiZW5zMjQ2NTV2VlpoREtiVEdtRzZ4UFE?oc=5",
@@ -816,42 +2902,6 @@
       "relevance_score": 0
     },
     {
-      "uid": "b13850aebae2",
-      "title": "R to @DoBaniye: Found the post informative? 20,000+ people get easy actionable tips on credit cards, travel, and rewards. You can too! Follow our WhatsApp Channel: 🔗https://linktr.ee/Do.Baniye",
-      "url": "https://nitter.net/DoBaniye/status/2086026034722525539#m",
-      "source": "Twitter / @DoBaniye",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-08T09:45:37+00:00",
-      "snippet": "Found the post informative? 20,000+ people get easy actionable tips on credit cards, travel, and rewards. You can too! Follow our WhatsApp Channel: 🔗 linktr.ee/Do.Baniye Link Do.baniye Official: Instagram, X, Facebook, Threads | Linktree We are here to help you save money! linktr.ee",
-      "relevance_score": 1
-    },
-    {
-      "uid": "6b675a6dae20",
-      "title": "R to @DoBaniye: Follow @DoBaniye for more content on Travel, credit cards and lifestyle!",
-      "url": "https://nitter.net/DoBaniye/status/2085972750972420217#m",
-      "source": "Twitter / @DoBaniye",
-      "category": "social",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-08T06:13:53+00:00",
-      "snippet": "Follow @DoBaniye for more content on Travel, credit cards and lifestyle!",
-      "relevance_score": 1
-    },
-    {
-      "uid": "290d88d204c7",
-      "title": "R to @DoBaniye: Skipped immigration queues:",
-      "url": "https://nitter.net/DoBaniye/status/2085972228601205107#m",
-      "source": "Twitter / @DoBaniye",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-08T06:11:49+00:00",
-      "snippet": "Skipped immigration queues: Do Baniye - Credit Cards, Travel & Lifestyle (@DoBaniye) How We Skipped The Long Queue And Cleared Our Airport Immigration In Under 30 SECONDS! We went to Europe in December and we cleared immigration at Delhi Airport in seconds, while everyone else was stuck in a huge qu",
-      "relevance_score": 1
-    },
-    {
       "uid": "ac42ce9179d2",
       "title": "Complete Guide to Axis Bank Credit Card Insurance Benefits",
       "url": "https://cardinsider.com/blog/complete-guide-axis-bank-credit-card-insurance-benefits/",
@@ -863,18 +2913,6 @@
       "severity": null,
       "published": "2026-08-08T05:30:50+00:00",
       "snippet": "Many Axis Bank credit cards come with complimentary insurance benefits that can save you from unexpected financial losses. However, most cardholders are either unaware of these benefits or find the official insurance document too technical to understand. This guide breaks down the various insurance ",
-      "relevance_score": 1
-    },
-    {
-      "uid": "45e5dfd26900",
-      "title": "🇱🇰 Sri Lanka Visa Requirement for Indians! 🇮🇳✈️ From 25 May 2026, Indians must obtain an ETA before travelling to Sri Lanka. ✅ Free 30-day tourist ETA ✅ Double entry allowed within the 30-day validity ⚠️ Apply before your trip to avoid last-minute issues. 👉 Apply only via the official Sri Lanka ETA portal: http://eta.gov.lk",
-      "url": "https://nitter.net/DoBaniye/status/2085903979888963729#m",
-      "source": "Twitter / @DoBaniye",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-08T01:40:37+00:00",
-      "snippet": "🇱🇰 Sri Lanka Visa Requirement for Indians! 🇮🇳✈️ From 25 May 2026, Indians must obtain an ETA before travelling to Sri Lanka. ✅ Free 30-day tourist ETA ✅ Double entry allowed within the 30-day validity ⚠️ Apply before your trip to avoid last-minute issues. 👉 Apply only via the official Sri Lanka ETA ",
       "relevance_score": 1
     },
     {
@@ -898,7 +2936,8 @@
       "source": "CardInsider",
       "category": "offer",
       "issuers": [
-        "Kotak"
+        "Kotak",
+        "BOB Financial (BOBCard)"
       ],
       "severity": null,
       "published": "2026-08-07T11:27:38+00:00",
@@ -989,7 +3028,7 @@
     },
     {
       "uid": "6451b85ef13d",
-      "title": "Attention HDFC Bank Credit Card Users! SmartBuy Rewards to Change From July; Heres What You Need to Know - Goodreturns",
+      "title": "Attention HDFC Bank Credit Card Users! SmartBuy Rewards to Change From July; Heres What You Need to Know - goodreturns.in",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQREF4aU9FM0dIRUt5QXlUT3NpZFd4MzRQNDQyQ0toRS1XY3ROby1hQ2R2QWxYRlVTS2ttUEJuUk9BYVBMRzk0WGpaY3VzNjFWbVo3b0M4VFVoSE84WWpnNzNxSXJVZC1DX2UxSHJWa3VJZklHemhpMTFrdFliRjlkV19MRndLaTNNTThLRExyNEZhUFA0WHcyY0syR3dIbmVZZ2NKLUNKM2V3TUs5U19HZHVQV1UyUlhwNW5UMnJNUFlZZkNna2hOX3V5UEZOVnA5ekxKZk1rRE90dG5VTEtsNnFxUy1sVmZsaXfSAfQBQVVfeXFMUEZSX3FUZGEtUW02Vi1qcUNuNHlxTXQ1MGxPczFWRDBZZC1QaVpOLWk0U3FKWS1Sb193Qzloc1MweFFxTWpReDY5QWRmTkl3cDI2aGlFQWRrYmI3OW5kTlNKVVNEYlIwckt5SGthSTRPQkltWmwzRWRMbkx6U2tGdThIenVBeENTdmtYby1fa2xjRmE5cWNxSG9nb2xaR3FibTJRSEFDZ3F6eVJhTzUwSG4wVV8xYzJuejN4aUhvWjktRUFsWGFmUjlzQk91Y3RibWtVdVRnbzJFMERBT3VydTc5ZTBmdkZyM3QwSmdnUG0xOWxfVA?oc=5",
       "source": "Google News / devaluation",
       "category": "devaluation",
@@ -998,7 +3037,7 @@
       ],
       "severity": null,
       "published": "2026-08-06T17:05:57+00:00",
-      "snippet": "Attention HDFC Bank Credit Card Users! SmartBuy Rewards to Change From July; Heres What You Need to Know Goodreturns",
+      "snippet": "Attention HDFC Bank Credit Card Users! SmartBuy Rewards to Change From July; Heres What You Need to Know goodreturns.in",
       "relevance_score": 1
     },
     {
@@ -1079,18 +3118,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "d35461694e30",
-      "title": "Happy to see that so many followers of SpendWisely could secure slots for the upcoming Ranthambore Safari season! 🐅🎉 Those who got a slot should consider themselves lucky because the competition was incredibly tough. Around 40,000 people tried their luck within just the first 2 hours of bookings opening, and unfortunately, most of them were left empty-handed. 😮 Ranthambore is not just about tiger sightings. It’s one of the most beautiful safari experiences in India, with breathtaking landscapes, ancient fort ruins, serene lakes, and a wide variety of wildlife. 🌿🏞️🦌 Wishing all of you an unforgettable safari and, of course, an amazing Tiger sighting! 🐅📸🤞 📘 Visit SpendWisely Blog: Detailed credit card reviews & guides 👉 https://spendwisely.in Some links may be referral links in the above post. It supports the page without any cost to you. #creditcard #spendwisely #creditcard",
-      "url": "https://nitter.net/spendwiselyx/status/2085203854287929748#m",
-      "source": "Twitter / @SpendWiselyX",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-06T03:18:34+00:00",
-      "snippet": "Happy to see that so many followers of SpendWisely could secure slots for the upcoming Ranthambore Safari season! 🐅🎉 Those who got a slot should consider themselves lucky because the competition was incredibly tough. Around 40,000 people tried their luck within just the first 2 hours of bookings ope",
-      "relevance_score": 2
-    },
-    {
       "uid": "db07e676a96d",
       "title": "HSBC x Accor ALL Bonus Offer: Is It Worth Spending ₹1 Lakh?",
       "url": "https://cardmaven.in/hsbc-accor-all-bonus-offer/",
@@ -1105,21 +3132,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "94607b2b867e",
-      "title": "Whatsapp karna he SMS nahi: Guys, to register for HSBC Accor 50% Bonus Offer, you need to send “HSBCALL” to 8655858111 on WHATAPP. Wait for confirmation from HSBC.. Then only you will be registered for the offer. 👉If you send SMS, then it will not be considered as offer registration, and you will loose entire bonus 😟. 🚸Har kadam funk funk ke rakhna he is bar, HSBC ne pura intazam kiya hua he ki Savdhani Hati aur Durgatna Gati ⚠️",
-      "url": "https://nitter.net/spendwiselyx/status/2085049323080077562#m",
-      "source": "Twitter / @SpendWiselyX",
-      "category": "offer",
-      "issuers": [
-        "Kotak",
-        "HSBC"
-      ],
-      "severity": null,
-      "published": "2026-08-05T17:04:31+00:00",
-      "snippet": "Whatsapp karna he SMS nahi: Guys, to register for HSBC Accor 50% Bonus Offer, you need to send “HSBCALL” to 8655858111 on WHATAPP. Wait for confirmation from HSBC.. Then only you will be registered for the offer. 👉If you send SMS, then it will not be considered as offer registration, and you will lo",
-      "relevance_score": 3
-    },
-    {
       "uid": "db7a51b498a7",
       "title": "Air India bets on one of aviation’s greatest turnaround specialists: Who is Tewolde Gebremariam, the incoming CEO of Air India",
       "url": "https://livefromalounge.com/air-india-bets-on-one-of-aviations-greatest-turnaround-specialists-who-is-tewolde-gebremariam-the-incoming-ceo-of-air-india/",
@@ -1132,16 +3144,16 @@
       "relevance_score": 0
     },
     {
-      "uid": "e9a91ff69782",
-      "title": "Best RuPay Credit Cards for Cashback and Rewards in India 2026 - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1JWeW1GZWZydnZOTEZZMnJaZEU1RUNuM3dhME1VZmJ5UXpZTXhJazFQblN6Qzk5bWdYQTIwZV9ZNjlycmFEYlUzMHVlbTJrSG1WQzNhWEN1MGFuTk9HNFFnbGFGVzNZMGh5V3RFcE1tSzY2VUszZ1MzWWZXZEhhTW9iS19FMGNQNGJBbF9VeU1jQjlOcUo1ZFlVWWpDcEp0SkpfNXFkWkMwZ9IBrgFBVV95cUxOWHpETDgwQUs3cE0xbllGN3JnMVEwLWgtR2lvRGZTVkF1eEZ0b1pBNWMwRXZSNHhZQ2oySmlTU3U5TEZGTnBVYnNjRENna3BwbWMtSWRKQVNtV0xxbFR4aXJIZFMzYnRzYnNHSURkbjZxSi1JY2hKRmdqanpVMGt5YkRKc3M2SmtHR3dxT1hRSkh1T0pnXzNTdE5IVnpYY2lwS1lQeWRLenBSLXlqNlE?oc=5",
+      "uid": "a232ede1b774",
+      "title": "Everything you need to know about Amazon's Great Freedom Sale 2026 - About Amazon India",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxZlE4YkViVGk2SkRBZ041dUEtbFEwN2s3UzVyQktOTHJlcjdMdU02ZlozUzVGdThsbUNYbzZwR2lMUUNMX3FNVlBPYjc2dHdfVmxmT1FVWHhEUU9NUlZwNjRCVDN0d3RGNk1mR1o4ajdWUQ?oc=5",
       "source": "Google News / offer",
       "category": "offer",
       "issuers": [],
       "severity": null,
-      "published": "2026-08-05T07:18:45+00:00",
-      "snippet": "Best RuPay Credit Cards for Cashback and Rewards in India 2026 The Tribune",
-      "relevance_score": 2
+      "published": "2026-07-30T07:00:00+00:00",
+      "snippet": "Everything you need to know about Amazon's Great Freedom Sale 2026 About Amazon India",
+      "relevance_score": 0
     },
     {
       "uid": "54904a5d8d55",
@@ -1352,14 +3364,14 @@
     },
     {
       "uid": "ac8ff76d079b",
-      "title": "Samsung launches first Galaxy credit card with up to 5% cash rewards - indianexpress.com",
+      "title": "Samsung launches first Galaxy credit card with up to 5% cash rewards - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWtnMEU0elZObG9aRlFEdTRTQTBCQ2ZWeVc5YmF1WU5zUUhaZFdtZmxQaUR4Yldtb0s2b0swSWxiYkRXb3Bja2hEZ1BPR2RDUzZGQkxDRnJrcVc2UjZPcjFNUGdyd3pnY2gxYlpCLS1sSE9yOU0taHNjWktkN3dDSkY4c0RoYnJaVUJBUnE3WlRfQVcxMDB6NXREeTktVEl5RTZ2QmJQazV3RlpDY2hMY0hDekZjT1J1YkNpV0ZQYXQ5VXNoUFJQdTUweHVRLVYtX0RXcDNQZ0t4d0HSAeIBQVVfeXFMTzUxOFdxZ01kUEhRSzZoUHFRZWRncDNid3g2TkZDTEx0M3BvYzZDTWdwbVhHaHlIS3FsU0F4Uk8tS3BWNEtfRDhwd09na1RGbVgwM21wN3RZZm80bGFJSmExSG1EbUZtTnc0aVkwbDZSZllCNVh1TWpuQ015QTBFcXVWWUtZbWhjd3EtYU5famhJT21TRDdOeDBqQnhoUUU1S2ZSMVhvV254bTJqTkh0dGt3NGFsd2NBckFXSlg3VFBvVXN5WjVPN0NoMEhUMlM0N2J5a015QkNxSV84aEFtZWhaZw?oc=5",
       "source": "Google News / offer",
       "category": "launch",
       "issuers": [],
       "severity": null,
       "published": "2026-07-22T07:00:00+00:00",
-      "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards indianexpress.com",
+      "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express",
       "relevance_score": 1
     },
     {
@@ -1424,18 +3436,6 @@
       "severity": null,
       "published": "2026-07-02T10:30:41+00:00",
       "snippet": "Pay Credit Card Bill, Win Free Lounge Access fintechbiznews.com",
-      "relevance_score": 2
-    },
-    {
-      "uid": "fc77ca907518",
-      "title": "PB Pass launched to offer global airport lounge benefits to credit card users - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSjViSDYzM2Q3SDU3al9ldEsxMmVfSkZLWVdTdDdlckYzckxDb1pQR3EzY29wSzRYekItVFV3SDZsU2pYSlFHVmkyTGpTVTN0U19ZSUtGelgxb2FBX0kxRHZQM255by1rRlQwSlNsMUloRGozTjhCenVRRDhYVjZrcXpuWDVqRWlwOWY4bW51MmJqaFBUUW9JX3cxV2FDbWc1TzZSbEpySHJBTjRGck1aNWxfdkI0QzVIX3NfS9IBwgFBVV95cUxNX1B2OHc5QWh3Znd6TEZhRXhKLXhjMDVDUXlVWnI0eTNsYkxiSXgzWjl2TU9ZUjY2T1R4V19PVHd1VjVxWEZYMWpDdnpaQzVMaDBScmJpRzg0X3lPRHU4dzFCYjJOd2lxYmMwRzRvWU56cmR1eWl0U3NzWndoVmd0WHpJc1A1NEk3SlNxaWFpUGs0bktMaW1FMjI1ZThMUWtkSUxjLUd1TThfcGF4T21yMUNyT2lZLWxfanhSOER5cHpZQQ?oc=5",
-      "source": "Google News / benefit",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "PB Pass launched to offer global airport lounge benefits to credit card users CNBC TV18",
       "relevance_score": 2
     },
     {
@@ -1724,14 +3724,14 @@
     },
     {
       "uid": "09cc02d56c77",
-      "title": "Finding it difficult to maximise credit card benefits? Here’s why, and what lies ahead - indianexpress.com",
+      "title": "Finding it difficult to maximise credit card benefits? Here’s why, and what lies ahead - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTW9ScHFKLW5qT0VMTm11TnlxOURONnhzZWg4bDNGanJ4MzJ4WU1JdmhkbURBTHhPaHBuUjhJdEZHemp3eUJxMUZsMHZheUJneE1yeWdRQmZBWWR0QmZkaDUycjU5NEh0VkdaMUhUVUxBcGZvZ0tHUGZxcXRpMF9PWFUyR3h2U0Vnd1VWVU9PYmpsZXRReUtwbmRraU9uNktVdEktcEhKeXBzejhsaHJHSVh3eW5ZYVhsT2pKX0lhTWtnRUHSAcoBQVVfeXFMUC01M0Q0RmhSR3ZBLXE2al85aWdUWGk4WHFBaHFTeFEybTBlcWNrNHBnanYwVWVPS1RJTFc2YmtpUzdZSFhYeTE0TnRybnFGdElJUWRqT3ZYdlJPQUl5cHVMN0Npc0pJU2stanl5QmN2U2NLdWI2LTZVNUJGMWtMVzFxd19vVGxXU2s1dUx5WkpmVTItenhNanJFeWhJeWtqX0U5clE5NHZwQ1VHWURBMkNheTZRb21FYm1uS2hseWZDQXJrN3RaSVdHZw?oc=5",
       "source": "Google News / devaluation",
       "category": "devaluation",
       "issuers": [],
       "severity": null,
       "published": "2026-05-22T07:00:00+00:00",
-      "snippet": "Finding it difficult to maximise credit card benefits? Here’s why, and what lies ahead indianexpress.com",
+      "snippet": "Finding it difficult to maximise credit card benefits? Here’s why, and what lies ahead The Indian Express",
       "relevance_score": 1
     },
     {
@@ -1857,11 +3857,27 @@
       "url": "https://www.cardexpert.in/best-bob-credit-cards-india/",
       "source": "CardExpert",
       "category": "devaluation",
-      "issuers": [],
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
       "severity": null,
       "published": "2026-04-27T09:06:10+00:00",
       "snippet": "BOBCARD, the credit card arm of Bank of Baroda, is the 2nd largest public sector bank in credit card issuance and the 8th largest among all banks in India, as of writing this article. BOBCARD is aspiring to break into the top 5 players by… Read More »",
       "relevance_score": 1
+    },
+    {
+      "uid": "960ac5da6062",
+      "title": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOLWhfcFdoaVJQRmZnZVRIOFJGTnR3SVBoNjN2TXFBOEI3eGttRjJFeEdwUy00TUNjQUR5SnhVUnd3ZkQtc3BiZldRRWFhUzNlcUhiaDE2d045MUxFdlJiejZrYXRzaDdHNzNKXy0zN0tfeDBHMzNZdFR4anlkXzJESnh0Ym9SaHNGN21BcklRakZadDNORGZJdXNPbDFTeC10N2dYd0QzQWVPX1F3eTFtS05vTlR1XzlZcGxSMUhGbW5ZVFVOaHpoRmNzd29QUDN3UFk5M09ZeGwyNW82TlptX3p3WDZMLXdxOWtPVmFIdGlnOGUzeDhWd0lfX1Y3S2pwLWEyVENPSVU0MUZqOWlmUVFHaWg2SDA5RzRBdk43X3lwcG1Wa2pIS2NURmo3MFEyYm9ZS0hhak1tQkhq?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "severity": null,
+      "published": "2026-04-27T07:00:00+00:00",
+      "snippet": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules The Economic Times",
+      "relevance_score": 3
     },
     {
       "uid": "0d4c9a03c480",
@@ -1962,18 +3978,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "71f0cd919921",
-      "title": "Grab These Diwali Credit Card Offers Before They Expire - Airtel",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlFtd2FjcjB5ZjYtNlgxNlNXYnJ5dVhpLS1XeDBGNm0yRi03U1gwQk1ORjhBZDNJVTJQSlJVSFpRdGVzYVRjOEJxRWNWRlM2dEs5TktLSURXSDM0U2hVeGFWU0htaHBTT3J5UzQ0Uk4yaXptQ1RZMVpCZU43V0tTWHlTb1lEZzJlUkVz?oc=5",
-      "source": "Google News / offer",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-04-22T07:00:00+00:00",
-      "snippet": "Grab These Diwali Credit Card Offers Before They Expire Airtel",
-      "relevance_score": 1
-    },
-    {
       "uid": "6bf0683d7f4c",
       "title": "Top Credit Cards for Parents: Earn Rewards on Family Expenses - Airtel",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzYyNnBqUWVfOFZIMDZ6RWtua1J5NTRiOWFwZGZ2aFJpeXF4NEZJN21kSnZmX2ZZdExfNGdvTkRNTms3aV9yZl93SnM1LXV5NW01aUd5SGZ3N0Nab184Q0daOFQ3VkJfU29QMmFHOUVuM1pQQmpqeFFmUzN6YklBWk1EREdNT2pBSFhsX1pHbmsxNDY1UFZxVDZ6NVYtVFNla0E?oc=5",
@@ -1995,6 +3999,18 @@
       "severity": null,
       "published": "2026-04-22T07:00:00+00:00",
       "snippet": "Best Credit Cards for Everyday Spending: Maximise Rewards on Daily Purchases Airtel",
+      "relevance_score": 1
+    },
+    {
+      "uid": "71f0cd919921",
+      "title": "Grab These Diwali Credit Card Offers Before They Expire - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlFtd2FjcjB5ZjYtNlgxNlNXYnJ5dVhpLS1XeDBGNm0yRi03U1gwQk1ORjhBZDNJVTJQSlJVSFpRdGVzYVRjOEJxRWNWRlM2dEs5TktLSURXSDM0U2hVeGFWU0htaHBTT3J5UzQ0Uk4yaXptQ1RZMVpCZU43V0tTWHlTb1lEZzJlUkVz?oc=5",
+      "source": "Google News / offer",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-04-22T07:00:00+00:00",
+      "snippet": "Grab These Diwali Credit Card Offers Before They Expire Airtel",
       "relevance_score": 1
     },
     {
@@ -2058,6 +4074,18 @@
       "relevance_score": 1
     },
     {
+      "uid": "fcf502acb01c",
+      "title": "Best Credit Cards for Freelancers and Professionals in India - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQblNQRkx4YTg4cUJ2Rm5vQTZFZzAyb3JWUVNpMEYwYlhtc0ZFVG9aRGU3QlBQWDJGNFpFLVJxbVJOZDJvUE13aEN6UEU3WFFuLTFVd0xtYkRrbml4aVNUTWE3Wjk5TlBGYlEtTGczeTRHbHd5VTVVb2JqOUpSaEp6c2JKRkpSZDY5RVlDMlEyejZ3ejNXMVZZcEZDQzhJM1pWRHBlLXEwemI3WEwyenVya25wUm5uX2Q4a29KcGZ0RQ?oc=5",
+      "source": "Google News / offer",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-04-22T07:00:00+00:00",
+      "snippet": "Best Credit Cards for Freelancers and Professionals in India Airtel",
+      "relevance_score": 1
+    },
+    {
       "uid": "a2dbe5c7a8b9",
       "title": "Change or Update the Address on HDFC Credit Card - Airtel",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXEyUDRpSUZUSDBiV2dCY2ZjeHlNdnpVNUt4dWRPRWlLR3J3UkpITTRaOW1OYTFCLWF2T2FkdXl6a2xfeFZMWFl1Vlk3d0NsV1dfRXF0TW9wRXVRYTkxSndKa2U3blRuNzh2VS1ZTFVxTXBCS2xRU1BJbnN5UmFTMTc1a0JJWDdaWXREZE9JWEV3dw?oc=5",
@@ -2072,20 +4100,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "5ad829df7b63",
-      "title": "How to Change or Update Contact Details on HDFC Bank Credit Card - Airtel",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHNNYm9OT3djS1hxczJLWllaRS1wVVd4Tl9zaW0tYmViOVdmS1NkSDFGNzlreFJjUUlBajNXNHY3RWU1US1GRl82WVFPMkRsT2F6TGFUU3daMnlvVUJSWFlhNzJLMkVHTzU4dE5rMVBNQjZzWndzSTFGRFMzc1ZfUHl4NFN4cl92QnJFRE9QSUg0QjkweTZmbTV2TDRuNGNpSmN4a0ptNA?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "severity": null,
-      "published": "2026-04-22T07:00:00+00:00",
-      "snippet": "How to Change or Update Contact Details on HDFC Bank Credit Card Airtel",
-      "relevance_score": 1
-    },
-    {
       "uid": "d93b398b3a45",
       "title": "How to Generate HDFC Bank Credit Card PIN: Step-by-Step Guide - Airtel",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbUlIYVNMdkVSdFQ4S1pxckswdGhGbllwckpIQUY4Z2NIUFQybi1PTGI5Rk9hMkxweTFWV25wcWYxZThUNnRtTEVfWTJHSDFPYVN1dmZYdV8yR1c2ME5FdmNHUXMySWdqUTNKOGJRSmV4b2gtM0xjY09DdUxaNmpTQ29RV2JVVVV6?oc=5",
@@ -2097,6 +4111,20 @@
       "severity": null,
       "published": "2026-04-22T07:00:00+00:00",
       "snippet": "How to Generate HDFC Bank Credit Card PIN: Step-by-Step Guide Airtel",
+      "relevance_score": 1
+    },
+    {
+      "uid": "5ad829df7b63",
+      "title": "How to Change or Update Contact Details on HDFC Bank Credit Card - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHNNYm9OT3djS1hxczJLWllaRS1wVVd4Tl9zaW0tYmViOVdmS1NkSDFGNzlreFJjUUlBajNXNHY3RWU1US1GRl82WVFPMkRsT2F6TGFUU3daMnlvVUJSWFlhNzJLMkVHTzU4dE5rMVBNQjZzWndzSTFGRFMzc1ZfUHl4NFN4cl92QnJFRE9QSUg0QjkweTZmbTV2TDRuNGNpSmN4a0ptNA?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "severity": null,
+      "published": "2026-04-22T07:00:00+00:00",
+      "snippet": "How to Change or Update Contact Details on HDFC Bank Credit Card Airtel",
       "relevance_score": 1
     },
     {
@@ -2206,22 +4234,8 @@
       "relevance_score": 2
     },
     {
-      "uid": "394deee96ade",
-      "title": "HDFC Biz Power Credit Card rolls out these changes to cut down on rewards - Livemint Money",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjJPY1NfYUF2SnBPcm1MSFROYVlDM1FiNldFUXVkVmVDaUUzQ0FqdFlxNE93bGQ0dlpRN2FVdmRpZDJ5N0VDU0pNdXQ5WHA4blN5MGItUFlSMnRROTlnLXctUDc1RG1iNVNRTDRhWWZoQ3N6TmkyOFRwWWt0cFJ5RHNzaEMwejJfTGZhOVVuYlVLNXBvdTktZTF1enJnWUc5ZG1aWlVDTE5Md0R0ODBHbTVUVXlrb0gyR0xudXVlZDM1S2Myd05GVWdibkUxWWtIZ29UTGRGc1Q?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "severity": null,
-      "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Biz Power Credit Card rolls out these changes to cut down on rewards Livemint Money",
-      "relevance_score": 1
-    },
-    {
       "uid": "13e05785cdb5",
-      "title": "Credit card rewards reset: HDFC, SBI, Axis cut perks; what it means for you - businesstoday.in",
+      "title": "Credit card rewards reset: HDFC, SBI, Axis cut perks; what it means for you - Business Today",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZmllQUF3WTBpcVlrSDczZXo0aGNqOHQzdVlIWTBlWkY1aGZMRm0zTWt3OW8xbXZhdG5wcndRaVRHdHNmWlRnV3VTWDR5SHhTbDhwdmp5OTQ5ZnBVQ0k3X2Ryc1ItRDdOMVRYVVh2aDdaVWJtVWpRZm1nR2JsYlluTjFSM0dGYURUdjhvTjlGWnp2MXhNQWhYbklWejdvM0Z2eEI2cU5IUk0zS1lpX1BMUG5Sd3NFRmJnZDFZdkVtdDRIMG5WTlRWTEFjTzExUjhPMy1aWnRiRHFfUnVyMHRzcDByaHVxcVQ5UUNuRkpmSi1XNXc1YnhOdEZXWGpMMXBS0gGGAkFVX3lxTE5fR1RGM1BoQnZuM1dMRVkySlNsb0FtSTZTRFowLUdPaDU2enlMeTAwZ1FNMkRGNGxhT2tLejVCUVVJYWtjOWRzWEdMRlFBZHBfaEY2cEZlSWt0UFl4SmpBalJHSUl5SFZKZ2xtdXJTTzBZSkFRbWJtYlJreGxCZXM1UW5aRGdpay1BaWhHU21keDNGWThMdXMtOGtfWmphQ1dlUl93OWduWjdiRWtibzBrOGl6UTFTQVpKRkhEUU55OG9mUTBHc0VNZFEwVkc0aDRXcTlHV2NJQzN5M0ozWnVmdU9IWlVOdzBab0hrcVNTVmNNUUZxN1RWaVZvYkdURlhhUGktYlE?oc=5",
       "source": "Google News / devaluation",
       "category": "devaluation",
@@ -2231,7 +4245,7 @@
       ],
       "severity": null,
       "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "Credit card rewards reset: HDFC, SBI, Axis cut perks; what it means for you businesstoday.in",
+      "snippet": "Credit card rewards reset: HDFC, SBI, Axis cut perks; what it means for you Business Today",
       "relevance_score": 1
     },
     {
@@ -2261,6 +4275,20 @@
       "published": "2026-04-06T07:00:00+00:00",
       "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18",
       "relevance_score": 2
+    },
+    {
+      "uid": "394deee96ade",
+      "title": "HDFC Biz Power Credit Card rolls out these changes to cut down on rewards - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjJPY1NfYUF2SnBPcm1MSFROYVlDM1FiNldFUXVkVmVDaUUzQ0FqdFlxNE93bGQ0dlpRN2FVdmRpZDJ5N0VDU0pNdXQ5WHA4blN5MGItUFlSMnRROTlnLXctUDc1RG1iNVNRTDRhWWZoQ3N6TmkyOFRwWWt0cFJ5RHNzaEMwejJfTGZhOVVuYlVLNXBvdTktZTF1enJnWUc5ZG1aWlVDTE5Md0R0ODBHbTVUVXlrb0gyR0xudXVlZDM1S2Myd05GVWdibkUxWWtIZ29UTGRGc1Q?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "severity": null,
+      "published": "2026-04-06T07:00:00+00:00",
+      "snippet": "HDFC Biz Power Credit Card rolls out these changes to cut down on rewards Livemint Money",
+      "relevance_score": 1
     },
     {
       "uid": "19ec44b49046",
@@ -2369,7 +4397,7 @@
     },
     {
       "uid": "c3d138f098f5",
-      "title": "Axis Bank Revises Cashback Features And Benefits of Airtel Credit Card Effective 12th April - Goodreturns",
+      "title": "Axis Bank Revises Cashback Features And Benefits of Airtel Credit Card Effective 12th April - goodreturns.in",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeVdreG4wOWtKV19xY0lOMEJQbkhyLU5qUHhWMnpQczNSdlM0eTZfWml1ajFyQUlNcDV0UGRsTWtXMGlCMXN0X3NDYUt4VldkMExYd2djQnFYdUFTSDVEcnhRQm0zWXV6TzVEckgwV091QU1BbFlIV2xUV2VKdWlCNnk3TENsSFBTeFE4SktlS1RiMUdBYmZyWldfY2x5UVNqZ3VXd1JmRDFObmdlWjhjMEFHWHFGdUtYOE5tbHpVa0tySTJIM3hxVk81ZXl3YUhIOU9MdEVHS3NCZElaZDJMV3N3?oc=5",
       "source": "Google News / devaluation",
       "category": "offer",
@@ -2378,7 +4406,7 @@
       ],
       "severity": null,
       "published": "2026-03-14T07:00:00+00:00",
-      "snippet": "Axis Bank Revises Cashback Features And Benefits of Airtel Credit Card Effective 12th April Goodreturns",
+      "snippet": "Axis Bank Revises Cashback Features And Benefits of Airtel Credit Card Effective 12th April goodreturns.in",
       "relevance_score": 2
     },
     {
@@ -2476,20 +4504,6 @@
       "published": "2026-03-02T08:00:00+00:00",
       "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks livemint.com",
       "relevance_score": 1
-    },
-    {
-      "uid": "be0bcdccc985",
-      "title": "HDFC Infinia Credit Card's minimum spend limit set at ₹18 lakh for continued access - Livemint Money",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3Bwd3QyZ0RnanVLaVE3SnloYzh5Rjlvelk5NjduaUc5dHRlTzluYjN3RUM5ck5wX3IyN05mOFczbHE1dG1oNmdNRUxFZDRVSGdXVXQ2ZjRLeEZqUFVaNFgtNUFVemhjMklBdjBCLTZLSlhlN2x6OHNaNlhwXzh4MDFqQnA3UmVsOUE4M005SVFETTRBREIzcy1TdEVFVGlyaFN5T3hjbk1lUG5Qc1I1U1lGNmdGcnhQMGV0UV9qdTYyZHgzb2NueXh3anhOSmJnanBiXzVOQncyZTVLRzZ1aEZxMFl4U0UtdENIUEQ1YWlhZ2l5NkYxSw?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "severity": null,
-      "published": "2026-02-27T08:00:00+00:00",
-      "snippet": "HDFC Infinia Credit Card's minimum spend limit set at ₹18 lakh for continued access Livemint Money",
-      "relevance_score": 2
     },
     {
       "uid": "43da3d1eb0eb",
@@ -2642,7 +4656,9 @@
       "url": "https://spendwisely.in/bank-of-baroda-eterna-credit-card-now-lifetime-free-heres-why-i-applied/",
       "source": "SpendWisely",
       "category": "offer",
-      "issuers": [],
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
       "severity": null,
       "published": "2025-12-31T06:24:55+00:00",
       "snippet": "Great news for credit card seekers! Bank of Baroda has rolled out an excellent limited-period offer where four of its paid credit cards are available as Lifetime Free (LTF) if you apply on or before 31st December 2025. I recently grabbed this opportunity and successfully got my first Bank of Baroda ",
@@ -2718,14 +4734,14 @@
     },
     {
       "uid": "958919bef8c1",
-      "title": "Google Pay Launches Digital Credit Card in India - PYMNTS.com",
+      "title": "Google Pay Launches Digital Credit Card in India - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW4yOEI4dUwwbU9JYXhxVWtReV9EcFhCcGpxSlhwVUFxWXlud2RpWlNHVDdDb3dSTXNIWkgwWGpZUXc0ZXRtSUNveHlGUnhjRVl1QzVrTkNtU0pZenllUXZTXzE3WF9KV3VmR3YxZ3dXUngwNjhNWGstZm1ZWklJd080RmU2YmFvMEMwZ3dTOGk?oc=5",
       "source": "Google News / launch",
       "category": "launch",
       "issuers": [],
       "severity": null,
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay Launches Digital Credit Card in India PYMNTS.com",
+      "snippet": "Google Pay Launches Digital Credit Card in India pymnts.com",
       "relevance_score": 1
     },
     {
@@ -3220,20 +5236,6 @@
       "relevance_score": 0
     },
     {
-      "uid": "122683528444",
-      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [
-        "HSBC"
-      ],
-      "severity": "critical",
-      "published": "2025-02-22T08:00:00+00:00",
-      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
-      "relevance_score": 1
-    },
-    {
       "uid": "ca8981b45f3f",
       "title": "HDFC Global Value Program – A Hidden Gem",
       "url": "https://creditcardz.in/hdfc-global-value-program-a-hidden-gem/?utm_source=rss&utm_medium=rss&utm_campaign=hdfc-global-value-program-a-hidden-gem",
@@ -3260,6 +5262,18 @@
       "relevance_score": 2
     },
     {
+      "uid": "47b9a0af14a4",
+      "title": "Budget 2025-26: Fuelling MSME Expansion - PIB",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GekxYOHRJNjdqdDVIT2E4WnVHa0lqQjMwaVNQZS1mU1F3T3IwUi1MSXM2Z3ozMTA0ckh3WG5Vd2xQX0pOcmh5T1pfcjBpUFBnR3ByUUFvT2VYWmZpTmI5WVpiLTh0SmFG?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [],
+      "severity": null,
+      "published": "2025-02-04T08:00:00+00:00",
+      "snippet": "Budget 2025-26: Fuelling MSME Expansion PIB",
+      "relevance_score": 0
+    },
+    {
       "uid": "179a2dab9a47",
       "title": "Transforming Agricultural Finance - PIB",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yRTF5OElJMGdUN1pISWMwSDBiRzdsa1RZbkVNOHJSeDYxRkt5SDNNMWpoRTNreWFWdVZ3ajYzWkVwOXhxS2dWZmdLZGdKZWh0OXBUNGVHSHVpeW9naU1rRnFMUVpuYWpo?oc=5",
@@ -3269,18 +5283,6 @@
       "severity": null,
       "published": "2025-02-04T08:00:00+00:00",
       "snippet": "Transforming Agricultural Finance PIB",
-      "relevance_score": 0
-    },
-    {
-      "uid": "47b9a0af14a4",
-      "title": "Budget 2025-26: Fuelling MSME Expansion - PIB",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GekxYOHRJNjdqdDVIT2E4WnVHa0lqQjMwaVNQZS1mU1F3T3IwUi1MSXM2Z3ozMTA0ckh3WG5Vd2xQX0pOcmh5T1pfcjBpUFBnR3ByUUFvT2VYWmZpTmI5WVpiLTh0SmFG?oc=5",
-      "source": "Google News / launch",
-      "category": "launch",
-      "issuers": [],
-      "severity": null,
-      "published": "2025-02-04T08:00:00+00:00",
-      "snippet": "Budget 2025-26: Fuelling MSME Expansion PIB",
       "relevance_score": 0
     },
     {
@@ -3349,21 +5351,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "7972da1e6e78",
-      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [
-        "Axis Bank",
-        "IDFC First"
-      ],
-      "severity": null,
-      "published": "2024-04-12T07:00:00+00:00",
-      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
-      "relevance_score": 1
-    },
-    {
       "uid": "da7b1efc463a",
       "title": "Axis Bank Atlas Credit Card to be devalued effective April 20, 2024 - Live From A Lounge",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vTlAzRlgwOWV5M3ZmVE55Vl9ZUnJINUpXc2xWNmw0Q3lTdGxmMWRKSnNEeDVnNTltUExKX1k1TElNNnYwNEo0VDE4WDRNS19DUXBfWTVXLTdrQ256aEY2QVNfd3M2OE1RMzZxVnFwbk93XzY3MF9NanV5X0RzUQ?oc=5",
@@ -3407,6 +5394,18 @@
       "published": "2024-02-26T08:00:00+00:00",
       "snippet": "Credit card issuance: HDFC Bank widens gap with nearest rival SBI Card Business Standard",
       "relevance_score": 2
+    },
+    {
+      "uid": "db51b277a0a0",
+      "title": "Credit cards in force shy of the 100 million mark, shows RBI data - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdWpwMUR2UHNYTHNiTFlrNHowS01QN0hsMmN2SlBMU3N3YW1ibC1EbjFFVkJBN1MzMXpKbGM0Q21NTXZWd1NZalBUZ1FUSHlkYmhPZlVRUkFQRUM0ejA5TU1VLUJhU1hCZTFSMm1oU3RUVmxYNmxuLVp5MDVLVU5ZUzVIMVRFUmpSRzU3S0VSMzJSVmJiZnlCY3VLYWw5WUtOQ0xscVFBWDlBZ0NiM1lfZGpTcFBOOUx6Y0wyTmpIXzFRcXdvOXY3cVduQklfblZ3N1FWYVZrTdIB3AFBVV95cUxPam1JeXRYbnFpRWZjbk9UQ0tvcll1Wmo4MXZSbVplZWlWY1FnUGNXTFJWNzNKOW9mM3doV0hnUllObUUxUDEtUUthY25BSnFHMnpOYnlpbTNEaG5DUGhSRjhmRDg0VnBNa1luRmJCdlJzMVdWbHVaY3B5b0ZzcGRxbnN2TDA5N2RXR2dfVzZkZTh5WS1JbG1TLXBvZDAtdUFRVnlWa2pKZndZaG5RZGI1OUlZbzdUejZ3RF9WNXFndGhsVW9rVVpIMFdoX3hLelFvYjM1SGRUenRMN3RF?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [],
+      "severity": null,
+      "published": "2024-01-25T08:00:00+00:00",
+      "snippet": "Credit cards in force shy of the 100 million mark, shows RBI data Business Standard",
+      "relevance_score": 1
     },
     {
       "uid": "9acfe5f879ed",
@@ -3492,6 +5491,128 @@
       "published": "2023-07-12T07:00:00+00:00",
       "snippet": "Axis Bank reduces benefits on Flipkart Axis Bank Credit Card Moneycontrol.com",
       "relevance_score": 1
+    },
+    {
+      "uid": "f04b5be7c5cb",
+      "title": "[Guide] Strategies and Tips for achieving Marriott Platinum Status",
+      "url": "https://desipoints.com/strategies-and-tips-marriott-platinum-status/?utm_source=rss&utm_medium=rss&utm_campaign=strategies-and-tips-marriott-platinum-status",
+      "source": "DesiPoints",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2023-02-02T10:40:55+00:00",
+      "snippet": "Marriott Hotels is launching a new promotion from February 7 to April 23, 2023, offering 1000 bonus points and double Elite Night Qualification (EQN) for each revenue night stayed. This could be a potentially lucrative opportunity and will help in achieving Platinum status faster. But first, Why Pla",
+      "relevance_score": 0
+    },
+    {
+      "uid": "e8fa4918d70a",
+      "title": "Review: Aviserv Arrival Lounge Mumbai T2 (BOM)",
+      "url": "https://desipoints.com/review-aviserv-arrival-lounge-mumbai/?utm_source=rss&utm_medium=rss&utm_campaign=review-aviserv-arrival-lounge-mumbai",
+      "source": "DesiPoints",
+      "category": "benefit",
+      "issuers": [],
+      "severity": null,
+      "published": "2023-01-12T16:38:39+00:00",
+      "snippet": "How often have you gone to an arrival lounge at an airport? Presently in India, we have them only in Mumbai T2 and Delhi T3 (temporarily closed). I’ve visited this lounge twice, and each time I’ve had a good experience. I wish we had more arrival lounges. Location The lounge is located to the left..",
+      "relevance_score": 0
+    },
+    {
+      "uid": "a07fa7d99dac",
+      "title": "Review: Hyatt Regency Trivandrum (Regency Suite)",
+      "url": "https://desipoints.com/review-hyatt-regency-trivandrum/?utm_source=rss&utm_medium=rss&utm_campaign=review-hyatt-regency-trivandrum",
+      "source": "DesiPoints",
+      "category": "launch",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-12-30T10:07:19+00:00",
+      "snippet": "Hyatt Regency Trivandrum is the newest (as of writing this) Hyatt hotel launched in India. It is managed by the Lulu Group, who also oversees the Kochi Marriott, Grand Hyatt Kochi, and Hyatt Regency Thrissur hotels. We have stayed at the Grand Hyatt Kochi, so we are aware of their excellent hospital",
+      "relevance_score": 0
+    },
+    {
+      "uid": "bb2d96534ded",
+      "title": "Review: Primus Lounge Jaipur (JAI)",
+      "url": "https://desipoints.com/review-primus-lounge-jaipur-jai/?utm_source=rss&utm_medium=rss&utm_campaign=review-primus-lounge-jaipur-jai",
+      "source": "DesiPoints",
+      "category": "benefit",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-12-27T12:43:44+00:00",
+      "snippet": "We had to fly out of Jaipur to Delhi recently and took this chance to visit the only lounge at the Jaipur Airport. Location and Access Primus lounge is located airside on the first floor after the security hold area and next to the gates. I accessed the lounge with the Priority Pass received with...",
+      "relevance_score": 0
+    },
+    {
+      "uid": "6c6f32c375ce",
+      "title": "How to Save on Hyatt Stays",
+      "url": "https://desipoints.com/save-on-hyatt-stays/?utm_source=rss&utm_medium=rss&utm_campaign=save-on-hyatt-stays",
+      "source": "DesiPoints",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-12-13T15:57:26+00:00",
+      "snippet": "There are some ongoing promotions from Hyatt that might be worthwhile. I value Hyatt points at a minimum Rs 1.75 each, so using them in conjunction with stays could be lucrative. Trying to gain more points or staying for less, especially when there are no bank transfer partners, could be nice. Brand",
+      "relevance_score": 0
+    },
+    {
+      "uid": "153d148da1d6",
+      "title": "Airport Meet & Greet Service in India",
+      "url": "https://desipoints.com/airport-meet-greet-india/?utm_source=rss&utm_medium=rss&utm_campaign=airport-meet-greet-india",
+      "source": "DesiPoints",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-12-01T16:30:02+00:00",
+      "snippet": "Airport Meet & Greet is a new(er) concept in India. You are greeted upon arrival at the airport at the curbside/cab drop-off point and assisted all the way till boarding aircraft. Basics of Airport Meet and Greet We get a hassle-free experience for navigating through the airport with Meet and Greet.",
+      "relevance_score": 0
+    },
+    {
+      "uid": "691fdc776b7e",
+      "title": "How to Earn and Redeem Turkish Airlines Miles in India",
+      "url": "https://desipoints.com/earn-redeem-turkish-miles-india/?utm_source=rss&utm_medium=rss&utm_campaign=earn-redeem-turkish-miles-india",
+      "source": "DesiPoints",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-11-24T17:55:34+00:00",
+      "snippet": "Turkish Miles&Smiles is the frequent flyer program (FFP) of Turkish Airlines. It is one of my favourite programs to redeem miles wherein we can consistently get a good deal when we redeem miles. They fly daily to Istanbul from Mumbai and Delhi however their miles have other uses too. Turkish Airline",
+      "relevance_score": 0
+    },
+    {
+      "uid": "9d81bc4b16b7",
+      "title": "Review: Ahlan Business Class Lounge Dubai Terminal 1",
+      "url": "https://desipoints.com/review-ahlan-business-class-lounge-dubai/?utm_source=rss&utm_medium=rss&utm_campaign=review-ahlan-business-class-lounge-dubai",
+      "source": "DesiPoints",
+      "category": "benefit",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-09-28T16:13:36+00:00",
+      "snippet": "We visited the Ahlan Business Class Lounge while flying Air India back to India from Dubai International Airport Terminal 1. These days, lounges are frequently crowded, and I once visited the Plaza Premium Lounge Hyderabad and suffered food poisoning. In addition, before heading to the airport, we h",
+      "relevance_score": 0
+    },
+    {
+      "uid": "8385de01ac92",
+      "title": "Review: Hyatt Regency Chennai (King Bed High Floor)",
+      "url": "https://desipoints.com/review-hyatt-regency-chennai/?utm_source=rss&utm_medium=rss&utm_campaign=review-hyatt-regency-chennai",
+      "source": "DesiPoints",
+      "category": "benefit",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-09-02T01:44:00+00:00",
+      "snippet": "Hyatt Regency Chennai is one of the two Hyatt hotels in Chennai.  Hyatt Regency Chennai is at a fantastic location which is in the heart of Chennai. There are excellent food options and a great pool for a city hotel. However, the service isn’t that polished, and the rooms are in desperate need of re",
+      "relevance_score": 0
+    },
+    {
+      "uid": "67bfa18bfe17",
+      "title": "Guide: Booking the Best Room with Marriott Bonvoy Points",
+      "url": "https://desipoints.com/guide-booking-best-room-marriott-bonvoy-points/?utm_source=rss&utm_medium=rss&utm_campaign=guide-booking-best-room-marriott-bonvoy-points",
+      "source": "DesiPoints",
+      "category": "benefit",
+      "issuers": [],
+      "severity": null,
+      "published": "2022-08-27T06:41:28+00:00",
+      "snippet": "Generally booking a hotel award night, which is doing so using points, gets you the base room. Some hotel loyalty programs, such as World of Hyatt, let you book suites or rooms with access to the club lounge and have a separate award chart. Not, however, Marriott Bonvoy. For as long as I could remem",
+      "relevance_score": 0
     },
     {
       "uid": "5ab933415b00",

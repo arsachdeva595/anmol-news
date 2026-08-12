@@ -1,7 +1,1443 @@
 {
-  "generated_at": "2026-08-12T04:25:16.401481+00:00",
-  "count": 22,
+  "generated_at": "2026-08-12T12:53:47.902557+00:00",
+  "count": 134,
   "deals": [
+    {
+      "uid": "e61ff62c5c86",
+      "title": "Get up to 50% discount in making charges at Senco Gold",
+      "url": "https://www.axisbank.com/offers/senco-gold-offers/50-percent-discount-on-making-charges",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to 50% discount in making charges at Senco Gold (Code: SENADN101)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "11d9cc2202b1",
+      "title": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds",
+      "url": "https://www.axisbank.com/offers/netmeds-offers/flat-12-percent-discount-on-medicines-plus-10-percent-extra-discount-for-new-users",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds (Code: SPANEW)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "362ea3396b25",
+      "title": "Flat  ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze",
+      "url": "https://www.axisbank.com/offers/muscleblaze-offers/flat-inr-150-off-on-a-minimum-purchase-of-inr-1999",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze (Code: MBAD150)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "8f524a0a2fc2",
+      "title": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store",
+      "url": "https://www.axisbank.com/offers/lenovo-offers/additional-inr-5000-off-on-pcs-or-laptops-at-lenovo-online-store",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store (Code: ADNETO5000)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "9fa87f3c8ac1",
+      "title": "Get 5% instant discount up to ₹11,000 on Pepperfry",
+      "url": "https://www.axisbank.com/offers/pepperfry-offers/5-percent-instant-discount-up-to-inr-11000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 5% instant discount up to ₹11,000 on Pepperfry (Code: PEPAD10K)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "13eb66788c1b",
+      "title": "Get 18% off on all products at Nua",
+      "url": "https://www.axisbank.com/offers/nua-offers/18-percent-off-on-all-products",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 18% off on all products at Nua (Code: NUAADBK18)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "31a49f8d8481",
+      "title": "Instant discount up to ₹15,000 at Apple",
+      "url": "https://www.axisbank.com/offers/apple-offers/10-percent-instant-discount-up-to-inr-15000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹15,000 at Apple",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0ab60bb956e6",
+      "title": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project",
+      "url": "https://www.axisbank.com/offers/the-pant-project-offers/inr-1000-off-on-orders-above-inr-5000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project (Code: BKTPP1K)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "7896c1623872",
+      "title": "Flat 20% off on full body massage at Tattva Wellness Spa",
+      "url": "https://www.axisbank.com/offers/tattva-wellness-spa-offers/flat-20-percent-off-on-full-body-massage",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 20% off on full body massage at Tattva Wellness Spa (Code: TTVADNETO20)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c7ee9478259f",
+      "title": "Flat 10% off on eligible products at United Colors of Benetton",
+      "url": "https://www.axisbank.com/offers/united-colors-of-benetton-offers/flat-10-percent-off-on-eligible-products",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 10% off on eligible products at United Colors of Benetton",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c70fcfff3da2",
+      "title": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
+      "url": "https://www.axisbank.com/offers/bata-offers/get-inr-500-off-on-minimum-shopping-of-inr-2999",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "97e1edccafc5",
+      "title": "Get additional 10% off on orders above ₹5,000 on Urban Ladder",
+      "url": "https://www.axisbank.com/offers/urban-ladder-offers/additional-10-percent-off-on-orders-above-inr-5000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get additional 10% off on orders above ₹5,000 on Urban Ladder (Code: ULADN10)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6c607c935eaf",
+      "title": "Get ₹500 off on Yes Madam",
+      "url": "https://www.axisbank.com/offers/yes-madam-offers/get-inr-500-off-on-yes-madam",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹500 off on Yes Madam (Code: YMADN500)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6e8779988349",
+      "title": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO",
+      "url": "https://www.axisbank.com/offers/ajio-offers/flat-inr-150-off-on-minimum-order-value-of-inr-1299",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO (Code: ADNAJIO)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "4a64cf514273",
+      "title": "Instant discount offers on SNITCH",
+      "url": "https://www.axisbank.com/offers/snitch-offers/instant-discount-offers-on-snitch",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount offers on SNITCH",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6333d808e88d",
+      "title": "Flat 25% discount up to ₹7,500 on Yatra",
+      "url": "https://www.axisbank.com/offers/yatra-offers/flat-25-percent-discount-up-to-inr-7500",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 25% discount up to ₹7,500 on Yatra (Code: YTDELIGHT)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "cafd2dda7e7a",
+      "title": "Get ₹1,000 off on a minimum purchase of ₹1,00,000 at Indriya",
+      "url": "https://www.axisbank.com/offers/indriya-offers/inr-1000-off-on-a-minimum-purchase-of-inr-100000 ",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹1,000 off on a minimum purchase of ₹1,00,000 at Indriya",
+      "deal_type": "discount",
+      "valid_till": "2026-09-07"
+    },
+    {
+      "uid": "61ef16840e86",
+      "title": "Flat 25% off on hotels booked on FabHotels",
+      "url": "https://www.axisbank.com/offers/fabhotels-offers/flat-25-percent-off-on-hotels",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 25% off on hotels booked on FabHotels (Code: FABADN10)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "5fb6cb542119",
+      "title": "Earn up to 20%* rewards on your international spends on Visa",
+      "url": "https://www.axisbank.com/offers/visa-power-travel-offers/earn-up-to-20-percent-rewards-on-your-international-spends",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Earn up to 20%* rewards on your international spends on Visa",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "a750fac7c4be",
+      "title": "10% off on total bill on Originate",
+      "url": "https://www.axisbank.com/offers/originate-offers/10-percent-on-total-bill",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "10% off on total bill on Originate (Code: ORG10MASTER)",
+      "deal_type": "discount",
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "3b46bd9d8db9",
+      "title": "15% off on food & soft beverages on Chicago Pizza",
+      "url": "https://www.axisbank.com/offers/chicago-offers/15-percent-off-on-food-and-soft-beverages",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "15% off on food & soft beverages on Chicago Pizza",
+      "deal_type": "discount",
+      "valid_till": "2026-12-30"
+    },
+    {
+      "uid": "b2fc724a129e",
+      "title": "Get 35% off on the annual subscription of The Wall Street Journal",
+      "url": "https://www.axisbank.com/offers/the-wall-street-journal-offers/get-35-percent-off-on-the-annual-subscription",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 35% off on the annual subscription of The Wall Street Journal",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c70f380bff1f",
+      "title": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
+      "url": "https://www.axisbank.com/offers/hushpuppies-offers/inr-1000-off-on-a-minimum-purchase-of-inr-4999",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "6415bca6e73f",
+      "title": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna",
+      "url": "https://www.axisbank.com/offers/gehna-offers/get-flat-inr-2000-off-on-a-minimum-purchase-of-inr-25000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna (Code: ADNG2000)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "891e7b3c19e8",
+      "title": "Get 15% off on a minimum transaction of ₹499 on Bewakoof",
+      "url": "https://www.axisbank.com/offers/bewakoof-offers/15-percent-off-on-a-minimum-transaction-of-inr-499",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 15% off on a minimum transaction of ₹499 on Bewakoof (Code: BKVISA15)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "de3e7de577b4",
+      "title": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
+      "url": "https://www.axisbank.com/offers/giva-offers/flat-inr-500-off-on-a-minimum-purchase-of-inr-1499",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
+      "deal_type": "discount",
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "01351959f558",
+      "title": "Up to ₹150 off on Swiggy",
+      "url": "https://www.axisbank.com/offers/swiggy-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Swiggy (Code: AMEX150)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0c4cb2731c53",
+      "title": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
+      "url": "https://www.axisbank.com/offers/apple-reseller-offers/get-instant-discount-at-apple-authorised-resellers-stores",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
+      "deal_type": "discount",
+      "valid_till": "2026-09-26"
+    },
+    {
+      "uid": "dd9a8effcd0e",
+      "title": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
+      "url": "https://www.axisbank.com/offers/travelxp-offers/offers-on-domestic-and-international-flights-booking",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "728be693444a",
+      "title": "Get discount up to ₹10,000 on Cathay Pacific",
+      "url": "https://www.axisbank.com/offers/cathay-pacific-offers/get-discount-up-to-inr-10000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get discount up to ₹10,000 on Cathay Pacific",
+      "deal_type": "discount",
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "87bb46cc9f0d",
+      "title": "Up to 32% off on select DocOnline smart health plans",
+      "url": "https://www.axisbank.com/offers/doconline-offers/up-to-32-percent-off-on-select-doconline-smart-health-plans",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 32% off on select DocOnline smart health plans",
+      "deal_type": "discount",
+      "valid_till": "2027-03-31"
+    },
+    {
+      "uid": "51a6293b7a52",
+      "title": "5% off on minimum spends of ₹5,000 on ColorPlus",
+      "url": "https://www.axisbank.com/offers/colorplus-offers/5-percent-off-on-minimum-spends-of-inr-5000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "5% off on minimum spends of ₹5,000  on ColorPlus",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "43d2046cf04e",
+      "title": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store",
+      "url": "https://www.axisbank.com/offers/ferns-and-petals-offers/flat-20-percent-off-on-a-minimum-transaction-of-inr-1299",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store (Code: ADNFNP)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "a8a2cd99b9b5",
+      "title": "5% off on minimum spends of ₹5000 on Raymond",
+      "url": "https://www.axisbank.com/offers/raymond-offers/5-percent-off-on-minimum-spends-of-inr-5000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "5% off on minimum spends of ₹5000 on Raymond",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "fdec0dcbc0b2",
+      "title": "Flat 20% off up to  ₹20,000 on international flights and hotels",
+      "url": "https://www.axisbank.com/offers/makemytrip-offers/instant-discount-on-international-flights-and-hotels",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Flat 20% off up to  ₹20,000 on international flights and hotels (Code: MMTAXISBIZ)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "ed009014294b",
+      "title": "Get flat 1.5% off on gold jewellery on GRT Jewellers",
+      "url": "https://www.axisbank.com/offers/grt-jewellers-offers/flat-1-5-percent-off-on-gold-jewellery",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat 1.5% off on gold jewellery on GRT Jewellers (Code: GRTADN1500)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "436d4806a7cb",
+      "title": "10% discount on all individual services on L'Occitane",
+      "url": "https://www.axisbank.com/offers/loccitane-offers/10-percent-discount-on-all-individual-services",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "10% discount on all individual services on L'Occitane (Code: ADNL101)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "c81fab77de2f",
+      "title": "Get up to ₹1,500 off on domestic flights at Musafir",
+      "url": "https://www.axisbank.com/offers/musafir-offers/up-to-inr-1500-off-on-domestic-flights",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to ₹1,500 off on domestic flights at Musafir (Code: MUADHDDF)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "9e500393d2e1",
+      "title": "Up to 30% off on international travel deals",
+      "url": "https://www.axisbank.com/offers/international-offers/up-to-30-percent-off-on-international-travel-deals",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 30% off on international travel deals",
+      "deal_type": "discount",
+      "valid_till": "2027-03-01"
+    },
+    {
+      "uid": "ee73f5186337",
+      "title": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds",
+      "url": "https://www.axisbank.com/offers/netmeds-offers/additional-8-percent-off-on-prescription-medicines-plus-12-percent-website-discount",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds (Code: ADNS25NMS)",
+      "deal_type": "discount",
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "be2d4c76784d",
+      "title": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
+      "url": "https://www.axisbank.com/offers/joyalukkas-offers/20-percent-discount-on-making-charges-for-gold-diamond-and-silver-jewellery",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "2303df5a9c59",
+      "title": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
+      "url": "https://www.axisbank.com/offers/behrouz-biryani-offers/get-30-percent-off-up-to-inr-125-on-orders-above-inr-249",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "5973f5cc318a",
+      "title": "Get 50% off up to ₹125 on Oven Story",
+      "url": "https://www.axisbank.com/offers/oven-story-offers/50-percent-off-up-to-inr-125",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 50% off up to ₹125 on Oven Story",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "53e0f7b6dec5",
+      "title": "20% savings on bed & breakfast rates",
+      "url": "https://www.axisbank.com/offers/the-leela-offers/20-percent-savings-on-bed-and-breakfast-rates",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 20% savings on bed & breakfast rates on The Leela Palace Hotels & Resorts",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "20cd69f93c91",
+      "title": "Instant discount up to ₹20,000 on Croma",
+      "url": "https://www.axisbank.com/offers/croma-offers/instant-discount-up-to-inr-20000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹20,000 on Croma",
+      "deal_type": "discount",
+      "valid_till": "2026-08-16"
+    },
+    {
+      "uid": "d22f8734e1e6",
+      "title": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home",
+      "url": "https://www.axisbank.com/offers/dry-fruits-home-offers/get-15-percent-off-on-minimum-purchase-value-of-inr-1000-on-dry-fruits-home",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home (Code: TH15OFF)",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "372500d64762",
+      "title": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra",
+      "url": "https://www.axisbank.com/offers/yatra-offers/get-15-percent-off-up-to-rs-2500-on-domestic-flight",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra (Code: YTDELIGHT)",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "a6e3b5387053",
+      "title": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000)",
+      "url": "https://www.axisbank.com/offers/ixigo-offers/8-percent-off-on-flight-bookings-maximum-off-upto-rs-1000",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000) (Code: IXIMS)",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "523db6da68b4",
+      "title": "Get Up to 10% OFF on Satvik Store",
+      "url": "https://www.axisbank.com/offers/satvik-offers/get-10-percent-off-on-satvik",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get Up to 10% OFF on Satvik Store (Code: STKRUPAY10)",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "e2e076a0c68b",
+      "title": "Up to 15% OFF at Lifestyle",
+      "url": "https://www.axisbank.com/offers/lifestyle-offers/up-to-15-percent-off-on-lifestyle",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to 15% OFF at Lifestyle (Code: LIFEIN15)",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "bb51f34ecea9",
+      "title": "Up to ₹150 off on Zomato",
+      "url": "https://www.axisbank.com/offers/zomato-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Zomato (Code: AMEXWEEKEND)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "d765535779f8",
+      "title": "Up to ₹150 off on Swiggy Instamart",
+      "url": "https://www.axisbank.com/offers/swiggy-instamart-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Swiggy Instamart (Code: AMEX150)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "e14f91abe7ca",
+      "title": "Up to ₹150 off on Blinkit",
+      "url": "https://www.axisbank.com/offers/blinkit-offers/up-to-inr-150-off",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to ₹150 off on Blinkit (Code: AMEXWEEKEND)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "a62953af0b25",
+      "title": "Get flat ₹500 off on orders worth ₹1,999 & above on Max",
+      "url": "https://www.axisbank.com/offers/max-offers/flat-inr-500-off-on-orders-worth-inr-1999-and-above",
+      "source": "Axis Bank Offers",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get flat ₹500 off on orders worth ₹1,999 & above on Max (Code: REWARDS250)",
+      "deal_type": "discount",
+      "valid_till": "2026-10-15"
+    },
+    {
+      "uid": "084be8e54bc2",
+      "title": "Earn up to 6X reward points",
+      "url": "https://www.hsbc.co.in/campaigns/apple-unicorn-rewards/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
+      "deal_type": "benefit"
+    },
+    {
+      "uid": "166f6c673d6a",
+      "title": "Amazon",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "38d86651b8a1",
+      "title": "MakeMyTrip",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "d81d896cba62",
+      "title": "Goibibo",
+      "url": "https://www.hsbc.co.in/credit-cards/offers/goibibo/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "f59edcc39cad",
+      "title": "FirstCry",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get 10% instant discount up to INR 500.",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "1f6e814159dd",
+      "title": "BookMyShow Lounge",
+      "url": "https://www.hsbc.co.in/credit-cards/offers/bookmyshow-saturday/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "1dcbda92940a",
+      "title": "Starbucks",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "19ea2e749969",
+      "title": "Yatra",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333350024/yatra.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹6,000 on Kotak Credit Card EMI. Book Now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "cb5e275da765",
+      "title": "River Cash",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333394295/river-cash.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹ 10,000 on Kotak Credit Card EMI. Shop Now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "e0a40a4ce1e0",
+      "title": "KTM",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333359659/ktm.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "87b936a55098",
+      "title": "Hero Motorbikes",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333395584/hero-motorbikes.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ?10,000 on Kotak Credit Card EMI. Shop now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "ec33d4bad219",
+      "title": "Godrej",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333368110/godrej.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "bf6a7e2302f6",
+      "title": "Realme",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333399850/realme.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "dd5e084cfbd1",
+      "title": "Daikin",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333381820/daikin.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail up to ₹2,500 instant discount on Kotak Credit Card EMI",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "f2221dca38b1",
+      "title": "Xiaomi",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333376170/xiaomi.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail up to ₹5,000 instant discount on Kotak Credit Card EMI. Shop now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "671b55edd756",
+      "title": "BOSE",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234531059/bose.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "86eaee0c609f",
+      "title": "Eureka forbes",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234557985/eureka-forbes.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "08c5f0d5a5a8",
+      "title": "Haier",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333306458/haier.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant cashback up to ?25,000 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "15ddba891b7b",
+      "title": "IFB",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333312033/ifb.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "fd009fa2f6c9",
+      "title": "Bosch & Siemens",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333398860/bosch-siemens.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant cashback up to ₹7,500 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "b55bac46e8f2",
+      "title": "Oppo",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386639/oppo.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "10% instant cashback up to ₹3,000 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "bec1e773ad05",
+      "title": "Whirlpool",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386453/whirlpool.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "0726fc7c0cb2",
+      "title": "LG",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386574/lg.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy up to ₹30,000* instant discount with Kotak Credit Card EMI",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "8f3131136c99",
+      "title": "JBL",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333397193/jbl.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "97cf48ac2b2c",
+      "title": "Panasonic",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333301513/panasonic.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "e5ec3d01d666",
+      "title": "Goibibo",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234541555/goibibo.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get Instant Discount & No Cost EMI at Goibibo via Kotak Credit Cards",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "072296276f39",
+      "title": "Nothing",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234531584/nothing.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get upto 5,000 Instant discount on Kotak Credit Card EMI. Shop Now.",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "03dd706b95a7",
+      "title": "Upto 12% Off on Ixigo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-12-off-on-ixigo/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Validity 1st July to 30th Sep, 2026 (Code: Domestic Flights: IXIBOBEMI | International Flights: IXIBOBEMIN)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "24f4243568a9",
+      "title": "Get 5% Off on udChalo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/5-off-on-udchalo/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid till 30th Sep 2026 (Code: UCBOB)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "4b513fcc1b5b",
+      "title": "Up to 15% instant discount on Goibibo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-15-instant-discount-on-goibibo/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Applicable on all Friday & Saturday till 30th Sep, 2026 (Code: Domestic Flights & Hotels: GOBOBEMI || International Flights & Hotels: GOBOBINTEMI)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "fb4962e8c5be",
+      "title": "Up to 15% Off on MakeMyTrip",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-15-off-on-makemytrip/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid all Tuesday & Friday till 30th Sep 2026 (Code: Domestic Flights, Domestic Hotels, Holiday: MMTBOBEMI || International Flights & Hotels: MMTBOBINTEMI)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "b4d1720a30e4",
+      "title": "Up to 15% instant discount on EaseMyTrip",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-15-instant-discount-on-easemytrip/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Applicable on Wednesday and Thursday only (Code: BOBEMI || BOB6EMI)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "65f4f5450e74",
+      "title": "Up to 12% Off on Paytm Travel on Paytm Flights",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-12-off-on-paytm-travel/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on EMI, every Wednesday & Thursday till 30th Sep 2026 (Code: Domestic: FLYBOB | International: INTLFLYBOB)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "d20ebfb28069",
+      "title": "Upto 20% Off on Flipkart Travel",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-20-off-on-flipkart-travel/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid on Saturday & Sunday | From 1st Aug to 30th Aug 2026 | Please Note: The offer will be paused from 7th Aug to 16th August 2026 (Code: Promocode: Domestics Flights & Hotels: BOBEMIDOM and International flights & hotels: BOBEMIINT)",
+      "deal_type": "discount",
+      "valid_till": "2026-08-30"
+    },
+    {
+      "uid": "ed790be4bc3f",
+      "title": "Upto 25% Off on Cleartrip",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/up-to-25-off-on-cleartrip/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid on Saturday & Sunday | Till 27th Sep 2026 (Code: BOBEMI)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-27"
+    },
+    {
+      "uid": "96fabd9a84d8",
+      "title": "Upto 15% Off on Yatra",
+      "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-15-off-on-yatra/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Validity: 1st July to 30th Sep 2026 | Applicable on Monday and Tuesday (Code: YRBOBCCEMI)",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "513b730b5889",
+      "title": "₹1000 Off on Surat Diamond",
+      "url": "https://www.bobcard.co.in/credit-card-offers/fashion-and-beauty/1000-off-on-surat-diamond/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
+      "deal_type": "discount",
+      "valid_till": "2027-03-29"
+    },
+    {
+      "uid": "44ab20bb8dee",
+      "title": "Everyday Essentials Sale",
+      "url": "https://www.bobcard.co.in/credit-card-offers/grocery/everyday-essentials-sale/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "From pantry picks to party prep — save more with BOBCARD",
+      "deal_type": "discount",
+      "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "bfd75428eaa3",
+      "title": "10% Instant Discount on Flipkart",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/10-instant-discount-on-flipkart/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Validity: 1st Aug to 31st Aug 2026. | Please Note: The offer will be paused from 7th Aug to 16th August 2026",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "2d6e3b4ab0f9",
+      "title": "Flat ₹6000 off on Flipkart 2-Wheelers",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/flat-6000-off-on-flipkart-2-wheelers/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer validity: 1st Aug to 31st Aug 2026 | Please Note: The offer will be paused from 7th Aug to 16th August 2026",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "18697dcc6a6b",
+      "title": "10% instant discount on Amazon",
+      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/10-instant-discount-on-amazon/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Validity: 1st Aug to 31st Aug 2026 | Offer paused: From 7th Aug to 12th Aug 2026",
+      "deal_type": "discount",
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "410c618a0313",
+      "title": "₹1000 Off on Surat Diamond",
+      "url": "https://www.bobcard.co.in/credit-card-offers/lifestyle/1000-off-on-surat-diamond/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
+      "deal_type": "discount",
+      "valid_till": "2027-03-29"
+    },
+    {
+      "uid": "241f1f2b7e05",
+      "title": "7.5% Off on Carrier Midea",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/75-off-on-carrier-midea/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "06dd034e09cf",
+      "title": "Up to 15% Cashback",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-15-cashback-on-liebherr/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "9f02598ad5c4",
+      "title": "Up to 25% Cashback on Haier",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-25-cashback-on-haier/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "d712dbd57745",
+      "title": "15% Instant Cashback on Electrolux",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/15-instant-cashback-on-electrolux/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "9d7f6daa735f",
+      "title": "Flat Cashback upto ₹3,000 at AO Smith",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/flat-cashback-upto-3-000-at-ao-smith/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "923697c5e767",
+      "title": "Upto 10% Off on Oppo",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-off-on-oppo/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "b04603e43443",
+      "title": "Up to ₹15,000 Cashback on HP",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-15-000-cashback-on-hp/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 20th Aug 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-08-20"
+    },
+    {
+      "uid": "93efb4df5c06",
+      "title": "Upto 22.5% cashback on Lloyd",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-25-cashback-on-lloyd-havells/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "6d9c2ac848ce",
+      "title": "Up to 22.5% Off on Samsung",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-225-off-on-samsung/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "discount",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "17bf5b91f86a",
+      "title": "Up to 12% cashback on TCL",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/up-to-12-cashback-on-tcl/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "62ba52c4b624",
+      "title": "Upto 10% Cashback on Sony",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-cashback-on-sony/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Offer valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "7f9f76752807",
+      "title": "Upto 10% cashback on Daikin",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-cashback-on-daikin/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Offer valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "784cf5e08fe7",
+      "title": "Cashback up to ₹8,000 on Voltas and Voltas Beko",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/cashback-up-to-8-000-on-voltas-and-voltas-beko/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "119fdaaeda74",
+      "title": "5% Cashback on Cruise",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/5-cashback-on-cruise/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "11c34c8d31ee",
+      "title": "10% Cashback on ONIDA",
+      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/10-cashback-on-onida/",
+      "source": "BOBCard Offers",
+      "issuers": [
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
+      "deal_type": "cashback",
+      "valid_till": "2026-09-30"
+    },
     {
       "uid": "22335796b8e4",
       "title": "🚨😍Citizen Automatic Tsuyosa Red version at only ₹25,060 final price effectively 🎁Buy: https://link.amazon/B09sbPPNJ 👉More citizen watches: https://link.amazon/B0ahHSIWA ✅Get ₹1750 off using HDFC credit cards + 15% prime specific discount coupon.",
@@ -160,6 +1596,16 @@
       ],
       "published": "2026-08-05T17:38:52+00:00",
       "snippet": "HSBC has announced a limited-period transfer bonus for Accor ALL. Eligible cardholders can receive up to 50% bonus Accor ALL Reward Points when transferring HSBC Reward Points. However, the offer comes with a ₹1 lakh spend requirement, mandatory registration and a narrow transfer window. While the h",
+      "deal_type": "discount"
+    },
+    {
+      "uid": "a232ede1b774",
+      "title": "Everything you need to know about Amazon's Great Freedom Sale 2026 - About Amazon India",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxZlE4YkViVGk2SkRBZ041dUEtbFEwN2s3UzVyQktOTHJlcjdMdU02ZlozUzVGdThsbUNYbzZwR2lMUUNMX3FNVlBPYjc2dHdfVmxmT1FVWHhEUU9NUlZwNjRCVDN0d3RGNk1mR1o4ajdWUQ?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-07-30T07:00:00+00:00",
+      "snippet": "Everything you need to know about Amazon's Great Freedom Sale 2026 About Amazon India",
       "deal_type": "discount"
     },
     {

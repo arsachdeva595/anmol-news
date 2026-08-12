@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-12T04:25:16.400077+00:00",
-  "count": 33,
+  "generated_at": "2026-08-12T12:53:47.901039+00:00",
+  "count": 34,
   "devaluations": [
+    {
+      "uid": "d0f97b7ba794",
+      "title": "Get rewarded with HSBC Spend Fest",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
+      "severity": "major"
+    },
+    {
+      "uid": "8f57ecedb02c",
+      "title": "Dyson",
+      "url": "https://www.hsbc.co.in/offers/",
+      "source": "HSBC Offers",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-08-12T12:53:07.051643+00:00",
+      "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
     {
       "uid": "3cdf9824edee",
       "title": "₹0 Joining Fee on HDFC PhonePe Credit Cards Till 31st August 2026",
@@ -169,6 +193,18 @@
       "severity": "critical"
     },
     {
+      "uid": "960ac5da6062",
+      "title": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOLWhfcFdoaVJQRmZnZVRIOFJGTnR3SVBoNjN2TXFBOEI3eGttRjJFeEdwUy00TUNjQUR5SnhVUnd3ZkQtc3BiZldRRWFhUzNlcUhiaDE2d045MUxFdlJiejZrYXRzaDdHNzNKXy0zN0tfeDBHMzNZdFR4anlkXzJESnh0Ym9SaHNGN21BcklRakZadDNORGZJdXNPbDFTeC10N2dYd0QzQWVPX1F3eTFtS05vTlR1XzlZcGxSMUhGbW5ZVFVOaHpoRmNzd29QUDN3UFk5M09ZeGwyNW82TlptX3p3WDZMLXdxOWtPVmFIdGlnOGUzeDhWd0lfX1Y3S2pwLWEyVENPSVU0MUZqOWlmUVFHaWg2SDA5RzRBdk43X3lwcG1Wa2pIS2NURmo3MFEyYm9ZS0hhak1tQkhq?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-04-27T07:00:00+00:00",
+      "snippet": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules The Economic Times",
+      "severity": "major"
+    },
+    {
       "uid": "c2c544199853",
       "title": "Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends",
       "url": "https://www.cardexpert.in/visa-power-travel-offer-april-2026/",
@@ -305,18 +341,6 @@
       "severity": "major"
     },
     {
-      "uid": "122683528444",
-      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HSBC"
-      ],
-      "published": "2025-02-22T08:00:00+00:00",
-      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
-      "severity": "critical"
-    },
-    {
       "uid": "42139014420f",
       "title": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcEp3eUxlTXNVSkpEUHluT1hOc21XbTVCVjNDOGM3cGw5R0l6dUp0NzhUZGVJc1p1OXJ4eDk0aWV3UmVMbXFhWjFKZGk3SXdneHNBMTZGZUpYVHUySjNOZGhGdVIxLTFsYVRiWG5NVFp6UzRFVnpIVmtnLWpZV3dZTHJyWGdjZm1oRHJ1Q3E1N1dIemJQdkJHUVlSa05LZWlLbEhMOUxQSTh4WXZHYlZiUDNOVVhnc1QxT3EzSzcxLXVzWVMzNmZub2l1d1czMHVqSUN2VUd2R2hVQnRERi04SlZONV93bkoxa0xLOVBLZHE1WUgwLUZxa0NMOXpZZjJFTlZiM1htWVNvbmJKbEHSAZMCQVVfeXFMTjI3NFZzRTd3aHAzQlFIMXBpOThrQWVUcURWYkZ0NDNJZUhKWGxWVEl2LVB2RHdFeDJGanlwUjVfcDJNRU1rZ1FhNU9Db2dlYU5FVDlJSnRVem9NSlVycDJEX3E4b01TZFBaYXBhdVUzNHJOYjlVRFM5VUM5YlRIUHhabi02N0ZqTVJZRmpEbTFaSlk5LTBVaXdkcnkzWEM5T3VoR1poOWRyVGRKVnZUMU1adWxucEc3SFFTSDkxa0Y2TFJCZ1pmUzdDd190Tmc0clBadTVacXc2c3oyN0U4OU82S3JrOHdVbTFyZm9lVkdYeHhQbDQwcGRRNFBrYVBRVlBaOEVZWmE5NVg4N0pwYzFwYzQ?oc=5",
@@ -336,19 +360,6 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
-      "severity": "critical"
-    },
-    {
-      "uid": "7972da1e6e78",
-      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank",
-        "IDFC First"
-      ],
-      "published": "2024-04-12T07:00:00+00:00",
-      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
       "severity": "critical"
     },
     {
