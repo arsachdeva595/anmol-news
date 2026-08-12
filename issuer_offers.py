@@ -149,19 +149,25 @@ def _parse_hsbc(html_text: str, base_url: str) -> list[dict]:
 
 
 def _parse_kotak(html_text: str, base_url: str) -> list[dict]:
+    # Kotak's card markup separates the merchant name (h4.card-heading, e.g.
+    # "Haier") from the actual offer terms (div.card-desc, e.g. "Instant
+    # cashback up to ₹25,000 on Kotak Credit Card EMI"). Neither alone is a
+    # useful headline, so the title combines both — same "brand: terms"
+    # shape Axis/BOBCard titles already have baked into their own text.
     soup = BeautifulSoup(html_text, "html.parser")
     out = []
     for card in soup.select("div.sif-card"):
-        title_el = card.select_one("h4.card-heading")
+        merchant_el = card.select_one("h4.card-heading")
         desc_el = card.select_one("div.card-desc")
         valid_el = card.select_one("div.article-date")
         link_el = card.select_one("a[data-href]")
-        title = title_el.get_text(strip=True) if title_el else None
-        if not title:
+        merchant = merchant_el.get_text(strip=True) if merchant_el else None
+        if not merchant:
             continue
+        desc = desc_el.get_text(strip=True) if desc_el else ""
         out.append({
-            "title": title,
-            "description": desc_el.get_text(strip=True) if desc_el else "",
+            "title": f"{merchant}: {desc}" if desc else merchant,
+            "description": desc,
             "url": urljoin(base_url, link_el["data-href"]) if link_el else base_url,
             "promo_code": None,
             "valid_till": _parse_valid_till(valid_el.get_text(" ", strip=True) if valid_el else ""),
