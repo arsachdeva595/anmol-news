@@ -6,31 +6,48 @@ credit-card deals and returns feed-item dicts compatible with feed.json.
 Coverage note
 -------------
 Every major Indian card issuer's public offers page was checked for
-feasibility (plain HTTP GET, no headless browser). Only sources that
-return real offer data in the *initial* HTML response — no bot wall,
-no client-side rendering — are wired up here:
+feasibility (plain HTTP GET, no headless browser). A source qualifies
+if real offer data shows up in the *initial* HTTP response — either as
+server-rendered DOM (Axis, HSBC, Kotak) or as a plain JSON/JS variable
+embedded in an inline <script> that the page's own JS uses to render
+the grid client-side (BOBCard, SBI Card). No bot wall, no headless
+browser, no waiting on client-side rendering to finish:
 
-    Axis Bank, HSBC, Kotak, BOB Financial (BOBCard)
+    Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card
+
+Also confirmed: many issuers now serve the *same* offers page from a
+newer "<issuer>.bank.in" domain (RBI's bank-domain initiative) — Axis,
+Kotak, HSBC, Amex were all re-checked there and returned byte-identical
+content to their .com equivalents, so no functional difference. HDFC's
+`.bank.in` offers page is the one exception: it's no longer bot-blocked
+there (unlike hdfcbank.com), but the grid is still client-side JS with
+no usable data embedded anywhere in the response, so it stays excluded.
 
 Checked and excluded, with reason:
-    HDFC Bank              — Akamai bot-block (403 on every request)
+    HDFC Bank              — offers grid is client-side JS, no embedded
+                              data (hdfcbank.com is Akamai bot-blocked;
+                              hdfc.bank.in loads but has nothing static)
     ICICI Bank              — offers grid is loaded client-side (JS)
-    SBI Card                — offers grid is loaded client-side (JS)
-    Yes Bank                 — SPA shell, "requires JavaScript" page
-    IndusInd Bank            — offers URL 404s; no working path found
-    AU Small Finance Bank    — bot-block (403)
-    RBL Bank                 — only a single teaser banner is static
+    Yes Bank                 — SPA shell that resolves to a 404 template;
+                                no offer data anywhere in the response
+    IndusInd Bank            — offers page has no offer data, static or
+                                scripted, on any URL variant tried
+    AU Small Finance Bank    — bot-block (403) on every domain tried
+    RBL Bank                 — only a single teaser banner is static;
+                                the real grid loads via the mobile app
     Standard Chartered       — offers page lists categories only, no
                                 actual merchant offers in static HTML
-    IDFC First Bank          — /offers is a card-product page, not a
-                                merchant-deals listing
+    IDFC First Bank          — every /offers URL tried is a card-product
+                                page, not a merchant-deals listing
     American Express         — offers are gated behind card selection
     Federal Bank             — Radware bot-block (CAPTCHA wall)
     IDBI Bank                 — /offers redirects to the homepage
 
 If any of the above later exposes a scrapable offers page (bank sites
-change often), add a `_parse_<issuer>()` function following the same
-pattern and register it in ISSUER_OFFER_SOURCES.
+change often — worth checking inline <script> tags for a plain JSON
+blob before assuming a JS-rendered grid is a dead end), add a
+`_parse_<issuer>()` function following the same pattern and register
+it in ISSUER_OFFER_SOURCES.
 """
 import hashlib
 import json
@@ -175,6 +192,41 @@ def _parse_kotak(html_text: str, base_url: str) -> list[dict]:
     return out
 
 
+def _parse_sbicard(html_text: str, base_url: str) -> list[dict]:
+    # sbicard.com's offers page renders its grid client-side, but the data
+    # driving it ships as a plain JS variable assignment
+    # (`var offerData={"offers":{"offer":[...]}}`) in an inline <script> —
+    # a genuine JSON payload, not markup to scrape.
+    soup = BeautifulSoup(html_text, "html.parser")
+    out = []
+    for script in soup.find_all("script"):
+        if not script.string or "offerData" not in script.string:
+            continue
+        m = re.search(r"var\s+offerData\s*=\s*(\{)", script.string)
+        if not m:
+            continue
+        try:
+            data, _ = json.JSONDecoder().raw_decode(script.string, m.start(1))
+        except Exception:
+            continue
+        for o in data.get("offers", {}).get("offer", []):
+            brand = (o.get("brandName") or "").strip()
+            terms = (o.get("text") or o.get("discountBlock") or "").strip()
+            if not brand or not terms:
+                continue
+            out.append({
+                "title": f"{brand.title()}: {terms}",
+                "description": terms,
+                # No public per-offer URL was found in the payload; link
+                # back to the offers hub rather than guess a slug.
+                "url": base_url,
+                "promo_code": None,
+                "valid_till": o.get("endDate") or None,
+            })
+        break
+    return out
+
+
 _BOBCARD_OFFER_RE = re.compile(
     r'"OfferId":"(?P<id>[^"]*)".*?'
     r'"OfferTitle":"(?P<title>.*?)","OfferShortDescription":"(?P<desc>.*?)",'
@@ -239,6 +291,12 @@ ISSUER_OFFER_SOURCES = [
         "issuer": "BOB Financial (BOBCard)",
         "url": "https://www.bobcard.co.in/credit-card-offers",
         "parser": _parse_bobcard,
+    },
+    {
+        "name": "SBI Card Offers",
+        "issuer": "SBI Card",
+        "url": "https://www.sbicard.com/en/personal/offers.page",
+        "parser": _parse_sbicard,
     },
 ]
 
