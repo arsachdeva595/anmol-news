@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-08-11T04:02:18.483934+00:00",
-  "count": 34,
+  "generated_at": "2026-08-12T04:25:16.400077+00:00",
+  "count": 33,
   "devaluations": [
+    {
+      "uid": "3cdf9824edee",
+      "title": "₹0 Joining Fee on HDFC PhonePe Credit Cards Till 31st August 2026",
+      "url": "https://cardinsider.com/blog/zero-joining-fee-hdfc-phonepe-credit-cards/",
+      "source": "CardInsider",
+      "issuers": [
+        "HDFC",
+        "Axis Bank"
+      ],
+      "published": "2026-08-11T11:30:40+00:00",
+      "snippet": "The PhonePe co-branded credit cards have become quite popular because they offer rewards on everyday spends like utility bill payments and insurance done through PhonePe. With the recent devaluation of the Airtel Axis Credit Card, more users are now moving towards these PhonePe cards. Right now, bot",
+      "severity": "critical"
+    },
+    {
+      "uid": "d637dd5fdc37",
+      "title": "American Express Platinum Travel Devalued Again – Has AmEx Lost the Plot in India?",
+      "url": "https://cardinsider.com/blog/american-express-platinum-travel-devalued-again/",
+      "source": "CardInsider",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-11T06:22:42+00:00",
+      "snippet": "Time and again, while people have been looking forward to applying for a new American Express credit card, American Express has done nothing but disappoint them. Although applications for cards other than the American Express Platinum Reserve and Platinum Charge are currently not open, American Expr",
+      "severity": "critical"
+    },
     {
       "uid": "e48caeaa4960",
       "title": "American Express Platinum Travel Devaluation 2026: What Changed",
@@ -13,20 +38,6 @@
       "published": "2026-08-10T18:22:02+00:00",
       "snippet": "American Express is making another round of changes to the Platinum Travel Credit Card, around six months after the last devaluation. From 10 September 2026, the ₹1.9 lakh milestone will be removed completely, while the ₹7 lakh milestone will lose its Membership Rewards component in favour of a high",
       "severity": "critical"
-    },
-    {
-      "uid": "45852c81f4f2",
-      "title": "HSBC has updated its Accor Transfer Bonus Offer’s PDF. 📄 👉 https://mail.hsbc.com.hk/in/pr_accor_rewrdpnt_0826/images/hsbc_accor_aug26.pdf Now, the Terms & Conditions are very clear, in case you had any doubt. If you are targeting this offer, the ₹1 Lac spend target ideally should be completed today or latest by tomorrow. ⏰ This is because the 3% reward points on your ₹1 Lac spend should also be credited by 13–14 August, allowing you to transfer those points also and earn the additional transfer bonus as well. 🎯 ⚠️ Remember: Only your first transfer to Accor on 13–14 August will be eligible for the Transfer Bonus. So, plan your spend and transfer accordingly. 💳➡️🏨 ————————————— 📘 Visit SpendWisely Blog: Detailed credit card reviews & guides 👉 https://spendwisely.in Some links may be referral links in the above post. It supports the page without any cost to you. #creditcard #spendwisely #creditcard",
-      "url": "https://nitter.net/spendwiselyx/status/2086818878395646188#m",
-      "source": "Twitter / @SpendWiselyX",
-      "issuers": [
-        "Kotak",
-        "OneCard",
-        "HSBC"
-      ],
-      "published": "2026-08-10T14:16:06+00:00",
-      "snippet": "HSBC has updated its Accor Transfer Bonus Offer’s PDF. 📄 👉 mail.hsbc.com.hk/in/pr_accor… Now, the Terms & Conditions are very clear, in case you had any doubt. If you are targeting this offer, the ₹1 Lac spend target ideally should be completed today or latest by tomorrow. ⏰ This is because the 3% r",
-      "severity": "major"
     },
     {
       "uid": "830fc31b20f1",
@@ -78,15 +89,27 @@
       "severity": "major"
     },
     {
-      "uid": "c0f0640c91f9",
-      "title": "HDFC bank credit card caps SmartBuy reward points on brand vouchers from July 1 - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc0RPWGlORVIzNlU3U0N3Y3FENU5mLVVXRWpLX1dVcHVDeklmcnZyZE9rYmlWYWVLbHUySkpqRlBITFJDckNxTUs3bDd2SzNvZnEzanFTZ1BvVTJlTHNabnJEMkkxd2dIUnU2M0lFWkRQZ2dZemRPZl9WV3BZYlpEVzJWUGdMWE9iUm81Q19aaDNqb1l4VDRsaUlpZXowSC1EeTRQQ3NtakhjN001OXY1N0E4UWZHSXFCUEdpWEdBMVFhQmswcFhIWWFnSF94VlloRTBlcHZGUi3SAd4BQVVfeXFMUHJrMElBbWl5aWxHaUpTa1h3OGdtWkViaUJwdXUwZDE5OVc4WDZvZ1FsQTYtc19Zb3RhRTd3YWxhQW1rZlp6dlMzRWhQNUp0LVhldzg5OWYwR3VZXzByYTFYbEk4amI4Q0pHMUF4ak5rY0FJRWRhNWltdHN3blZDX0FPM3Itbk1jdkdxZV9yNk1PcnNrX3hUeE5jbTRXUm0wNjdWN1JqcXB5al93OHJ0M3lxVGJ2SzVWR3RscG1HSnNRYkVjWnN3Z3RxOHZoS09jbVRXVFJGQVlhS09jaHBn?oc=5",
+      "uid": "5af20fd2ff56",
+      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC bank credit card caps SmartBuy reward points on brand vouchers from July 1 Moneycontrol.com",
+      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
+      "severity": "critical"
+    },
+    {
+      "uid": "f239e00dd270",
+      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? livemint.com",
       "severity": "major"
     },
     {
@@ -99,18 +122,6 @@
       ],
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
-      "severity": "major"
-    },
-    {
-      "uid": "f239e00dd270",
-      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? livemint.com",
       "severity": "major"
     },
     {
@@ -158,18 +169,6 @@
       "severity": "critical"
     },
     {
-      "uid": "960ac5da6062",
-      "title": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOLWhfcFdoaVJQRmZnZVRIOFJGTnR3SVBoNjN2TXFBOEI3eGttRjJFeEdwUy00TUNjQUR5SnhVUnd3ZkQtc3BiZldRRWFhUzNlcUhiaDE2d045MUxFdlJiejZrYXRzaDdHNzNKXy0zN0tfeDBHMzNZdFR4anlkXzJESnh0Ym9SaHNGN21BcklRakZadDNORGZJdXNPbDFTeC10N2dYd0QzQWVPX1F3eTFtS05vTlR1XzlZcGxSMUhGbW5ZVFVOaHpoRmNzd29QUDN3UFk5M09ZeGwyNW82TlptX3p3WDZMLXdxOWtPVmFIdGlnOGUzeDhWd0lfX1Y3S2pwLWEyVENPSVU0MUZqOWlmUVFHaWg2SDA5RzRBdk43X3lwcG1Wa2pIS2NURmo3MFEyYm9ZS0hhak1tQkhq?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-04-27T07:00:00+00:00",
-      "snippet": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules The Economic Times",
-      "severity": "major"
-    },
-    {
       "uid": "c2c544199853",
       "title": "Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends",
       "url": "https://www.cardexpert.in/visa-power-travel-offer-april-2026/",
@@ -213,16 +212,6 @@
       ],
       "published": "2026-04-06T07:00:00+00:00",
       "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18",
-      "severity": "major"
-    },
-    {
-      "uid": "81b875a9ce39",
-      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
       "severity": "major"
     },
     {
@@ -294,15 +283,13 @@
       "severity": "major"
     },
     {
-      "uid": "9857f803c756",
-      "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
+      "uid": "f1cc712cfc86",
+      "title": "Top financial changes in June: Revised cut-off timings for overnight MF deals, changes in credit card... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQlFBLVZidmw2ZFZET3RBMUJDbWViSEpHUVFhNF9xMWZ0MEVjRUpkUktLbTBpZ19CQmF6a3A2T2pCOFFFZG54NlRrVTFhSE9YdjFWS1lENU5tdFdoMnNZMGpoc1FVemM0czBNU1pzSjhDcVQ0WDJiY2RtN0treVVEcTFsNURMTFhvTWJMUzlnU3hDTllsVnJkV3gwbHAyZ2ZVNFlheXB0RlhORDBJV3JacFEyUktmSUl0Mk0wVHR1UGNmUDkwdnFJNWM1TS1CMHVEeFdLSXd2UHRoOEJkR29YcHlacU9tdEVPejRuRmtxTlcxaC1DWDN2RWZnUllLLXZ3SFVqY1hveGdqcTdoNC1vSV80cW4yLWZMdGdUYXMzbU14VEJWWXNrWFVjZ9IBsAJBVV95cUxOYUZ1YzVHWTdMeUMtWl8yS3N4V2lDNUpMZUhTUnFPWnBiWGYzTFZieWs5MEZXWGhBQ3VyQVZKVUsyZno3X3ZfcnM1MmF2Z2hSVG5wLV9pTEZUNXJlTjhXaUw0MnM0YXNMMEIxMUFZaHdvU3V6Y3EtdE1CcXJUaEQzWXRwWjlobWgyY3RRZUdscU94elRKbFdEcll4SzFVdXV2bHQ5dl93WnBqZDMtUzVEZlZOTDlFZjkwVGFHbmZUb0hiWjYtUkZYSVUzVU1yU3hLem1GUFVoYjgtZ3dpUlN4bEVIQkNqcVgxa1EwVTlyLXdZZG56MzNWTW9LZ0ZxcEx2RnUwVVp6cDduS19OQjMwQWlIcktMSGE1TDhlRWI5ZWE1V0xjWjNUOFFXMW5BeGp6?oc=5",
       "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2025-05-23T07:00:00+00:00",
-      "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
+      "issuers": [],
+      "published": "2025-05-30T07:00:00+00:00",
+      "snippet": "Top financial changes in June: Revised cut-off timings for overnight MF deals, changes in credit card... Moneycontrol.com",
       "severity": "major"
     },
     {
