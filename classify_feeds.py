@@ -81,7 +81,9 @@ def run():
         if not b: continue
         rec={"uid":it.get("uid"),"title":it.get("title"),"url":it.get("url"),"source":it.get("source"),
              "issuers":it.get("issuers",[]),"published":it.get("published"),"snippet":it.get("snippet","")}
-        if b=="deals": rec["deal_type"]=deal_type(f"{it.get('title','')} {it.get('snippet','')}")
+        if b=="deals":
+            rec["deal_type"]=deal_type(f"{it.get('title','')} {it.get('snippet','')}")
+            if it.get("valid_till"): rec["valid_till"]=it.get("valid_till")
         if b=="devaluations": rec["severity"]=severity(f"{it.get('title','')} {it.get('snippet','')}")
         out[b].append(rec)
     for b,rows in out.items():

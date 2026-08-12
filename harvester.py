@@ -25,6 +25,8 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
+from issuer_offers import fetch_issuer_offers
+
 # -----------------------------------------------------------------------------
 # Configuration
 # -----------------------------------------------------------------------------
@@ -186,6 +188,7 @@ ISSUERS = {
     "Federal Bank":          ["federal bank", "scapia"],
     "OneCard":               ["onecard", "one card"],
     "HSBC":                  ["hsbc"],
+    "BOB Financial (BOBCard)": ["bobcard", "bob financial", "bank of baroda credit card"],
     "Flipkart / Axis":       ["flipkart axis"],
     "Swiggy / HDFC":         ["swiggy hdfc"],
     "Air India / SBI":       ["air india sbi", "air india maharaja"],
@@ -520,6 +523,9 @@ def run() -> None:
 
     # 5. TechnoFino community
     all_items.extend(fetch_technofino())
+
+    # 6. Official issuer offer pages (Axis, HSBC, Kotak, BOBCard)
+    all_items.extend(fetch_issuer_offers())
 
     # Deduplicate by uid
     seen: set[str] = set()
