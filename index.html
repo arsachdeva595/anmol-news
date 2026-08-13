@@ -116,6 +116,9 @@ a { color: inherit; text-decoration: none; }
 .pill-sev-major    { background: var(--major); color: #fff; }
 .pill-sev-minor    { background: var(--minor); color: #fff; }
 .pill-source { background: var(--surface-2); color: var(--ink-2); border: 1px solid var(--border); text-transform: none; font-weight: 500; letter-spacing: 0; }
+.pill-offercat { background: #fff; color: var(--accent-2); border: 1px solid var(--accent); text-transform: none; font-weight: 600; letter-spacing: 0; }
+.valid-till { color: var(--accent-2); font-weight: 600; }
+.valid-till.expiring { color: var(--critical); }
 .card-title { font-size: 14.5px; font-weight: 600; line-height: 1.35; color: var(--ink); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: break-word; word-break: break-word; }
 .card-title a:hover { color: var(--accent-2); }
 .card-summary { font-size: 13px; color: var(--ink-2); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; flex-grow: 1; overflow-wrap: break-word; word-break: break-word; }
@@ -228,6 +231,7 @@ a { color: inherit; text-decoration: none; }
         <option value="7">Last 7 days</option>
         <option value="30">Last 30 days</option>
       </select>
+      <span id="offer-subfilters" style="display:contents"></span>
     </div>
   </div>
 </nav>
@@ -345,6 +349,8 @@ const STATE = {
   activeCategory: 'all',
   search: '',
   timeFilter: 'all',
+  issuerFilter: 'all',
+  offerCategoryFilter: 'all',
 };
 
 const CATEGORIES = [
@@ -358,6 +364,14 @@ const CATEGORIES = [
 // feed.json still contains other categories (e.g. benefit/social items).
 const ALLOWED_CATEGORIES = new Set(['devaluation', 'offer', 'launch']);
 
+// Mirrors OFFER_CATEGORIES' order in classify_feeds.py, so the dropdown and
+// on-card pills read in a consistent, sensible order rather than alphabetical.
+const OFFER_CATEGORY_ORDER = [
+  'Travel Deals', 'Electronics Deals', 'Shopping Deals', 'Dining & Food Deals',
+  'Grocery & Essentials', 'Entertainment Deals', 'Health & Wellness', 'Fuel & Utility',
+  'Bonus & Reward Offers', 'Card & EMI Offers', 'Exclusive Discounts',
+];
+
 function timeAgo(iso) {
   if (!iso) return '—';
   const then = new Date(iso).getTime();
@@ -369,6 +383,19 @@ function timeAgo(iso) {
   if (diff < 86400 * 7) return Math.floor(diff / 86400) + 'd ago';
   if (diff < 86400 * 30) return Math.floor(diff / (86400*7)) + 'w ago';
   return new Date(iso).toLocaleDateString('en-IN', {day:'numeric', month:'short'});
+}
+// Every outward-facing link (article/offer source URLs) gets tagged so
+// referral traffic from this dashboard is attributable. Leaves non-URLs
+// (e.g. the seed data's "#" placeholder) untouched.
+function withUTM(url) {
+  if (!url || url === '#') return url || '#';
+  try {
+    const u = new URL(url, window.location.href);
+    u.searchParams.set('utm_source', 'monzy');
+    return u.toString();
+  } catch {
+    return url;
+  }
 }
 function formatGenerated(iso) {
   if (!iso) return '—';
@@ -390,6 +417,10 @@ function filterItems() {
   const cutoff = days ? Date.now() - days * 86400 * 1000 : null;
   return items.filter(item => {
     if (STATE.activeCategory !== 'all' && item.category !== STATE.activeCategory) return false;
+    if (STATE.activeCategory === 'offer') {
+      if (STATE.issuerFilter !== 'all' && item.issuer !== STATE.issuerFilter) return false;
+      if (STATE.offerCategoryFilter !== 'all' && (item.offer_category || 'Exclusive Discounts') !== STATE.offerCategoryFilter) return false;
+    }
     if (cutoff && item.published_at) {
       const t = new Date(item.published_at).getTime();
       if (Number.isFinite(t) && t < cutoff) return false;
@@ -415,8 +446,42 @@ function renderTabs() {
       ${c.label}<span class="count">${counts[c.id] || 0}</span>
     </button>`).join('');
   for (const btn of tabsEl.querySelectorAll('.tab')) {
-    btn.addEventListener('click', () => { STATE.activeCategory = btn.dataset.cat; renderAll(); });
+    btn.addEventListener('click', () => {
+      STATE.activeCategory = btn.dataset.cat;
+      STATE.issuerFilter = 'all';
+      STATE.offerCategoryFilter = 'all';
+      renderAll();
+    });
   }
+}
+function renderOfferSubFilters() {
+  const wrap = document.getElementById('offer-subfilters');
+  if (STATE.activeCategory !== 'offer') { wrap.innerHTML = ''; return; }
+
+  const offers = (STATE.feed.items || []).filter(i => i.category === 'offer');
+  const issuerCounts = new Map();
+  const catCounts = new Map();
+  for (const it of offers) {
+    const iss = it.issuer || 'Other';
+    issuerCounts.set(iss, (issuerCounts.get(iss) || 0) + 1);
+    const cat = it.offer_category || 'Exclusive Discounts';
+    catCounts.set(cat, (catCounts.get(cat) || 0) + 1);
+  }
+  const issuerNames = [...issuerCounts.keys()].sort((a, b) => issuerCounts.get(b) - issuerCounts.get(a));
+  const catNames = OFFER_CATEGORY_ORDER.filter(c => catCounts.has(c));
+  for (const c of catCounts.keys()) if (!catNames.includes(c)) catNames.push(c);
+
+  wrap.innerHTML = `
+    <select class="filter-select" id="issuer-filter" title="Filter by issuer">
+      <option value="all">All Issuers</option>
+      ${issuerNames.map(n => `<option value="${escapeHTML(n)}" ${STATE.issuerFilter === n ? 'selected' : ''}>${escapeHTML(n)} (${issuerCounts.get(n)})</option>`).join('')}
+    </select>
+    <select class="filter-select" id="offercat-filter" title="Filter by offer category">
+      <option value="all">All Categories</option>
+      ${catNames.map(n => `<option value="${escapeHTML(n)}" ${STATE.offerCategoryFilter === n ? 'selected' : ''}>${escapeHTML(n)} (${catCounts.get(n)})</option>`).join('')}
+    </select>`;
+  document.getElementById('issuer-filter').addEventListener('change', e => { STATE.issuerFilter = e.target.value; renderGrid(); });
+  document.getElementById('offercat-filter').addEventListener('change', e => { STATE.offerCategoryFilter = e.target.value; renderGrid(); });
 }
 function renderTicker() {
   const critical = (STATE.feed.items || []).filter(i => i.category === 'devaluation' && (i.severity === 'critical' || i.severity === 'major')).slice(0, 8);
@@ -466,8 +531,23 @@ function renderGrid() {
   items.sort((a, b) => computeScore(b) - computeScore(a));
   grid.innerHTML = items.map(renderCard).join('');
 }
+function formatValidTill(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr + 'T00:00:00');
+  if (Number.isNaN(d.getTime())) return dateStr;
+  return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+function validityBadge(item) {
+  if (item.category !== 'offer' || !item.valid_till) return '';
+  const d = new Date(item.valid_till + 'T00:00:00');
+  const daysLeft = Number.isNaN(d.getTime()) ? null : Math.ceil((d.getTime() - Date.now()) / 86400000);
+  const expiring = daysLeft !== null && daysLeft <= 3;
+  return `<span class="valid-till${expiring ? ' expiring' : ''}">Valid till ${escapeHTML(formatValidTill(item.valid_till))}</span>`;
+}
 function renderCard(item) {
   const sev = item.severity ? `<span class="pill pill-sev-${item.severity}">${item.severity}</span>` : '';
+  const offerCat = (item.category === 'offer' && item.offer_category)
+    ? `<span class="pill pill-offercat">${escapeHTML(item.offer_category)}</span>` : '';
   const eng = item.engagement
     ? '<span class="engagement">' + Object.entries(item.engagement).map(([k,v]) => `${v} ${k}`).join(' · ') + '</span>'
     : '';
@@ -475,15 +555,17 @@ function renderCard(item) {
     <article class="card" data-cat="${item.category}">
       <div class="card-meta">
         <span class="pill pill-cat">${escapeHTML(categoryLabel(item.category))}</span>
+        ${offerCat}
         ${sev}
         <span class="pill pill-source">${escapeHTML(item.source || 'Unknown')}</span>
         ${signalBadge(item)}
       </div>
-      <h3 class="card-title"><a href="${escapeHTML(item.url || item.source_url || '#')}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a></h3>
+      <h3 class="card-title"><a href="${escapeHTML(withUTM(item.url || item.source_url))}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a></h3>
       <p class="card-summary">${escapeHTML(item.summary || '')}</p>
       <div class="card-footer">
         <span class="card-card-name">${escapeHTML(item.card || item.issuer || '')}</span>
         ${eng}
+        ${validityBadge(item)}
         <span>${timeAgo(item.published_at)}</span>
       </div>
     </article>`;
@@ -505,7 +587,7 @@ function renderBanner(state, message, actionLabel, actionFn) {
     document.getElementById('banner-action').addEventListener('click', actionFn);
   }
 }
-function renderAll() { renderHeader(); renderTabs(); renderTicker(); renderGrid(); }
+function renderAll() { renderHeader(); renderTabs(); renderTicker(); renderOfferSubFilters(); renderGrid(); }
 
 // Find a JSON object inside a noisy string (used by file/paste loaders).
 function extractJSON(text) {
@@ -546,6 +628,8 @@ function normalizeClassifierItem(it, category) {
     issuer: (it.issuers && it.issuers[0]) || null,
     card: null,
     deal_type: it.deal_type,
+    offer_category: it.offer_category || null,
+    valid_till: it.valid_till || null,
     published_at: it.published,
     snippet: it.snippet || '',
     engagement: null,

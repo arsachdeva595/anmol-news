@@ -119,6 +119,9 @@ def _is_expired(valid_till_iso: str) -> bool:
 # -----------------------------------------------------------------------------
 
 def _parse_axis(html_text: str, base_url: str) -> list[dict]:
+    # Every card does carry a real per-offer deep link (a.knowmore[href],
+    # verified to resolve with a live 200) but per explicit preference this
+    # links back to the offers hub for every card instead of a per-offer slug.
     soup = BeautifulSoup(html_text, "html.parser")
     out = []
     for card in soup.select("div.compare-card"):
@@ -126,7 +129,6 @@ def _parse_axis(html_text: str, base_url: str) -> list[dict]:
         desc_el = card.select_one("p.section-desc")
         promo_el = card.select_one("div.offers-code p.code-cont")
         valid_el = card.select_one("span.valid-date-cont")
-        link_el = card.select_one("a.knowmore[href]")
         title = title_el.get_text(strip=True) if title_el else None
         if not title:
             continue
@@ -136,7 +138,7 @@ def _parse_axis(html_text: str, base_url: str) -> list[dict]:
         out.append({
             "title": title,
             "description": desc_el.get_text(strip=True) if desc_el else "",
-            "url": urljoin(base_url, link_el["href"]) if link_el else base_url,
+            "url": base_url,
             "promo_code": promo,
             "valid_till": _parse_valid_till(valid_el.get_text(" ", strip=True) if valid_el else ""),
         })
@@ -271,7 +273,7 @@ ISSUER_OFFER_SOURCES = [
     {
         "name": "Axis Bank Offers",
         "issuer": "Axis Bank",
-        "url": "https://www.axisbank.com/offers",
+        "url": "https://www.axis.bank.in/offers/",
         "parser": _parse_axis,
     },
     {

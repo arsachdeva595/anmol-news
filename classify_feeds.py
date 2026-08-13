@@ -39,8 +39,92 @@ LAUNCH = [r"\b(?:launch(?:es|ed|ing)?|introduc(?:es|ed|ing)|unveil(?:s|ed)?|debu
     r"\bco[-\s]?branded\b[^.\n]{0,30}\bcard\b", r"\bnew\b[^.\n]{0,20}\bcredit\s+card\b"]
 LAUNCH_NOT = [r"\b(?:launch(?:es|ed|ing)?|introduc\w*)\b[^.\n]{0,15}\b(?:sale|offer|discount|deal|emi|cashback|campaign)\b"]
 
+# Offer category taxonomy for deals.json — merchant name is the strongest
+# signal (most offer titles name a merchant), so it's checked first; generic
+# vertical words are the fallback for text that names no specific merchant;
+# offer-mechanism words (EMI, reward multipliers) come last since they can
+# co-occur with a merchant that should win instead (e.g. "Haier: Instant
+# cashback... EMI" is an Electronics deal, not a generic "Card & EMI" one).
+OFFER_CATEGORIES = [
+    ("Travel Deals", [
+        r"goibibo", r"makemytrip", r"\byatra\b", r"ixigo", r"cleartrip", r"easemytrip",
+        r"\bindigo\b", r"air india", r"fabhotels", r"udchalo", r"\boyo\b", r"emirates",
+        r"spicejet", r"redbus", r"treebo", r"airbnb", r"booking\.com", r"agoda", r"irctc",
+        r"vistara", r"akasa", r"\bflight", r"\bhotel", r"\bholiday", r"vacation",
+        r"train\s+ticket", r"cab\s+booking", r"\bforex\b", r"cathay pacific", r"\bairline",
+        r"\bairways\b", r"\bcruise\b", r"intr?city\b",
+    ]),
+    ("Electronics Deals", [
+        r"\bapple\b", r"\blenovo\b", r"\bsamsung\b", r"\bxiaomi\b", r"\boppo\b", r"\bvivo\b",
+        r"\brealme\b", r"\bnothing\b", r"\bmotorola\b", r"\bhp\b", r"\bdell\b", r"\bacer\b",
+        r"\basus\b", r"\bjbl\b", r"\bbose\b", r"\bcanon\b", r"\bnikon\b", r"\blg\b",
+        r"\bpanasonic\b", r"\bwhirlpool\b", r"\bvoltas\b", r"\bdaikin\b", r"\bhaier\b",
+        r"\bgodrej\b", r"bosch", r"\bifb\b", r"\btcl\b", r"reliance digital", r"\bcroma\b",
+        r"vijay sales", r"electrokraft", r"smart[\s-]bazar", r"\bpatra\b", r"sivmor",
+        r"\boneplus\b", r"\bboat\b", r"\bnoise\b", r"\bsony\b", r"laptop", r"mobile phone",
+        r"eureka forbes", r"\bcarrier\b", r"\bmidea\b", r"ao smith", r"\blloyd\b",
+        r"\bonida\b", r"electrolux", r"electronics?\b", r"\bktm\b", r"hero motorbikes",
+        r"\bdyson\b", r"mobiles?\b",
+    ]),
+    ("Shopping Deals", [
+        r"\bamazon\b", r"\bflipkart\b", r"\bmyntra\b", r"\bajio\b", r"\bsnitch\b",
+        r"benetton", r"urban ladder", r"home\s*centre", r"\bbata\b", r"the pant project",
+        r"\bnua\b", r"\bindriya\b", r"\btanishq\b", r"senco gold", r"malabar gold",
+        r"kalyan jewellers", r"\bmeesho\b", r"\bnykaa\b", r"tata cliq", r"\bwestside\b",
+        r"pantaloons", r"\blifestyle\b", r"shoppers stop", r"\bdecathlon\b", r"firstcry",
+        r"valentino", r"pepperfry", r"hush puppies", r"\bgiva\b", r"colorplus",
+        r"ferns n petals", r"raymond", r"l'?occitane", r"surat diamond", r"interflora",
+        r"\bhometown\b", r"furnishka",
+        r"fashion", r"apparel", r"footwear", r"jewellery", r"\bdiamond", r"furniture",
+        r"home d[ée]cor", r"\bgift", r"\bbeauty\b", r"cosmetics", r"florists?\b", r"flowers?\b",
+    ]),
+    ("Dining & Food Deals", [
+        r"\bswiggy\b", r"\bzomato\b", r"district by zomato", r"\bkfc\b", r"domino",
+        r"starbucks", r"mcdonald", r"pizza", r"cafe coffee day", r"barbeque nation",
+        r"eazydiner", r"\bdineout\b", r"restaurant", r"\bdining\b", r"food\s+delivery",
+        r"biryani", r"oven story",
+    ]),
+    ("Grocery & Essentials", [
+        r"\bnetmeds\b", r"apollo pharmacy", r"\bzepto\b", r"big\s*basket", r"\bdmart\b",
+        r"\bblinkit\b", r"\bgrofers\b", r"\b1mg\b", r"pharmeasy", r"\bjiomart\b",
+        r"\bspencer", r"dry fruits", r"satvik store",
+        r"grocery", r"supermarket", r"\bpharmacy\b", r"medicines?\b",
+    ]),
+    ("Entertainment Deals", [
+        r"bookmyshow", r"\bpvr\b", r"\binox\b", r"\bnetflix\b", r"hotstar", r"\bspotify\b",
+        r"sonyliv", r"\bzee5\b", r"\bgaana\b", r"\bwynk\b", r"movie\s+ticket", r"\bcinema\b",
+        r"\bott\b", r"streaming", r"concert", r"event\s+ticket",
+    ]),
+    ("Health & Wellness", [
+        r"wellness\s+spa", r"yes madam", r"lakme salon", r"cult\.?fit", r"\bgym\b",
+        r"\bsalon\b", r"\bspa\b", r"urban company", r"wellness", r"fitness",
+        r"healthcare", r"doctor consultation", r"doconline", r"health\s+plans?",
+        r"\bmuscleblaze\b", r"medibuddy",
+    ]),
+    ("Fuel & Utility", [
+        r"\bpetrol\b", r"\bdiesel\b", r"\bhpcl\b", r"\bbpcl\b", r"\biocl\b",
+        r"fuel\s+station", r"electricity\s+bill", r"dth\s+recharge", r"mobile\s+recharge",
+        r"gas\s+cylinder", r"utility\s+bill",
+    ]),
+    ("Bonus & Reward Offers", [
+        r"reward\s+point", r"membership\s+rewards", r"rewardxcelerator", r"\d+\s*x\s+rewards?",
+        r"milestone", r"bonus\s+reward", r"on\s+your\s+(?:international\s+)?spends?",
+        r"cashback\s+on\s+spends?",
+    ]),
+    ("Card & EMI Offers", [
+        r"no[\s-]?cost\s+emi", r"joining\s+fee", r"annual\s+fee\s+waiver", r"renewal\s+fee",
+        r"card\s+upgrade", r"welcome\s+benefit",
+    ]),
+]
+
 def rc(l): return [re.compile(p, re.I) for p in l]
 POS,NEG,DEV,NZ,LA,LNOT,DEVC = map(rc,[POSITIVE,NEGATIVE,DEVALUATION,NOISE,LAUNCH,LAUNCH_NOT,DEVALUATION_CRITICAL])
+OFFER_CAT = [(label, rc(pats)) for label, pats in OFFER_CATEGORIES]
+
+def offer_category(t):
+    for label, pats in OFFER_CAT:
+        if any(p.search(t) for p in pats): return label
+    return "Exclusive Discounts"
 def hit(res,t): return any(r.search(t) for r in res)
 def severity(t): return "critical" if hit(DEVC,t) else "major"
 
@@ -82,7 +166,9 @@ def run():
         rec={"uid":it.get("uid"),"title":it.get("title"),"url":it.get("url"),"source":it.get("source"),
              "issuers":it.get("issuers",[]),"published":it.get("published"),"snippet":it.get("snippet","")}
         if b=="deals":
-            rec["deal_type"]=deal_type(f"{it.get('title','')} {it.get('snippet','')}")
+            blob=f"{it.get('title','')} {it.get('snippet','')}"
+            rec["deal_type"]=deal_type(blob)
+            rec["offer_category"]=offer_category(blob)
             if it.get("valid_till"): rec["valid_till"]=it.get("valid_till")
         if b=="devaluations": rec["severity"]=severity(f"{it.get('title','')} {it.get('snippet','')}")
         out[b].append(rec)
