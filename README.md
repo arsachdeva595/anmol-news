@@ -52,7 +52,7 @@ This writes `feed.json` in the same directory. Open `index.html` in a browser to
 | Reddit | r/CreditCardsIndia, r/IndiaInvestments, r/personalfinanceindia |
 | Twitter/X | 6 handles via Nitter mirrors (best-effort) |
 | Forum | TechnoFino Community |
-| Issuer offer pages | Axis Bank, HSBC, Kotak, BOBCard, SBI Card — scraped daily via `issuer_offers.py`, see below |
+| Issuer offer pages | Axis Bank, HSBC, Kotak, BOBCard, SBI Card, ICICI Bank — scraped daily via `issuer_offers.py`, see below |
 
 ### Issuer offer pages (`issuer_offers.py`)
 
@@ -61,47 +61,56 @@ official "offers" page directly for live merchant deals (cashback, discount
 codes, EMI offers, etc.), so `deals.json` reflects what banks are actually
 advertising today, not just what bloggers wrote about.
 
-A source qualifies if real offer data shows up in the initial HTTP
-response — either as server-rendered DOM (Axis, HSBC, Kotak) or as a plain
-JSON/JS variable embedded in an inline `<script>` that the page's own JS
-uses to render the grid client-side (BOBCard, SBI Card):
+A source qualifies if real offer data is reachable via a plain `requests`
+call — no headless browser needed at run time — as server-rendered DOM
+(Axis, HSBC, Kotak), a JSON/JS variable embedded in an inline `<script>`
+(BOBCard, SBI Card), or a JSON API endpoint the page's own JS calls (ICICI —
+found via a one-off Playwright network-inspection session; the endpoint
+itself just takes a plain GET, so no browser is needed at run time):
 
 | Issuer | Page |
 |---|---|
-| Axis Bank | https://www.axisbank.com/offers |
+| Axis Bank | https://www.axis.bank.in/offers/ |
 | HSBC | https://www.hsbc.co.in/offers/ |
 | Kotak | https://www.kotak.com/en/offers.html |
 | BOBCard | https://www.bobcard.co.in/credit-card-offers |
 | SBI Card | https://www.sbicard.com/en/personal/offers.page |
+| ICICI Bank | icici.bank.in's offer-search JSON API (small, ~5 curated offers) |
 
 Many issuers now also serve the same offers page from a newer
 `<issuer>.bank.in` domain (RBI's bank-domain initiative). Axis, Kotak, HSBC,
 and Amex were re-checked there and returned byte-identical content to their
-`.com` equivalents — no functional difference, so the sources above still
-point at the `.com`/`.co.in` URLs.
+`.com` equivalents — no functional difference.
 
-The following issuers were checked (both domain families) and excluded —
-their offers pages either block scrapers or require a browser to render,
-with no usable data embedded anywhere in the response:
+The following issuers were checked and excluded — their offers pages either
+block scrapers or genuinely have no merchant offer data available, on the
+public web, in any form:
 
 | Issuer | Reason excluded |
 |---|---|
 | HDFC Bank | Grid is client-side JS with nothing embedded (hdfcbank.com is also Akamai bot-blocked; hdfc.bank.in loads but is empty) |
-| ICICI Bank | Offers grid loads client-side via JS |
 | Yes Bank | SPA shell that resolves to a 404 template |
-| IndusInd Bank | No offer data, static or scripted, on any URL variant tried |
+| IndusInd Bank | Confirmed via full headless-browser render (Playwright, networkidle wait) — zero offer content anywhere on any URL variant tried. Not a rendering problem, there's just nothing there. |
 | AU Small Finance Bank | Bot-block (403) on every domain tried |
-| RBL Bank | Only a static teaser banner; real grid loads via the mobile app |
+| RBL Bank | Confirmed via headless render — only the same static teaser banner; the real grid is genuinely mobile-app-only ("Visit RBL MyBank App" is the page's own text) |
 | Standard Chartered | Offers page lists categories only, no real merchant offers in static HTML |
-| IDFC First Bank | Every `/offers` URL tried is a card-product page, not a merchant-deals listing |
+| IDFC First Bank | Confirmed via headless render — every `/offers` URL, including "credit-card-merchant-offers", only ever renders the card-product mega-menu, never a merchant-deals grid |
 | American Express | Offers are gated behind card selection/login |
 | Federal Bank | Radware bot-block (CAPTCHA wall) |
 | IDBI Bank | `/offers` redirects to the homepage |
 
+IndusInd, RBL, and IDFC First were specifically re-checked with a real
+headless browser to rule out "just needs JS to render" as the explanation —
+none of them have merchant offer data available on the public web at all,
+so adding a browser dependency wouldn't help. Playwright was useful as a
+one-off diagnostic tool (it's how ICICI's JSON endpoint was found, via its
+network tab) but **is not a project dependency** — nothing here needs it at
+run time, so `requirements.txt` and the GitHub Actions workflow are
+unchanged.
+
 Adding a new issuer later just means writing a `_parse_<issuer>()` function
 in `issuer_offers.py` and registering it in `ISSUER_OFFER_SOURCES` — check
-inline `<script>` tags for a plain JSON blob before assuming a JS-rendered
-grid is a dead end (that's how BOBCard and SBI Card were cracked). The
-excluded ones above genuinely have nothing there and would need a
-headless-browser fetch (e.g. Playwright), which isn't part of this project
-yet.
+inline `<script>` tags *and* the browser network tab for a plain JSON blob
+or API endpoint before assuming a JS-rendered grid is a dead end (that's how
+BOBCard, SBI Card, and ICICI were all cracked without a runtime browser
+dependency).

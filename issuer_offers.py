@@ -6,14 +6,15 @@ credit-card deals and returns feed-item dicts compatible with feed.json.
 Coverage note
 -------------
 Every major Indian card issuer's public offers page was checked for
-feasibility (plain HTTP GET, no headless browser). A source qualifies
-if real offer data shows up in the *initial* HTTP response — either as
-server-rendered DOM (Axis, HSBC, Kotak) or as a plain JSON/JS variable
-embedded in an inline <script> that the page's own JS uses to render
-the grid client-side (BOBCard, SBI Card). No bot wall, no headless
-browser, no waiting on client-side rendering to finish:
+feasibility. A source qualifies if real offer data is reachable via a
+plain `requests` call — no headless browser needed at run time — as
+server-rendered DOM (Axis, HSBC, Kotak), a JSON/JS variable embedded in
+an inline <script> (BOBCard, SBI Card), or a JSON API endpoint the
+page's own JS calls (ICICI — found via a one-off Playwright network-
+inspection session, not a rendering *requirement*: the endpoint itself
+takes a plain GET, so no browser is needed at run time):
 
-    Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card
+    Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card, ICICI Bank
 
 Also confirmed: many issuers now serve the *same* offers page from a
 newer "<issuer>.bank.in" domain (RBI's bank-domain initiative) — Axis,
@@ -27,27 +28,43 @@ Checked and excluded, with reason:
     HDFC Bank              — offers grid is client-side JS, no embedded
                               data (hdfcbank.com is Akamai bot-blocked;
                               hdfc.bank.in loads but has nothing static)
-    ICICI Bank              — offers grid is loaded client-side (JS)
     Yes Bank                 — SPA shell that resolves to a 404 template;
                                 no offer data anywhere in the response
-    IndusInd Bank            — offers page has no offer data, static or
-                                scripted, on any URL variant tried
+    IndusInd Bank            — confirmed via full headless-browser render
+                                (networkidle wait): zero offer content
+                                anywhere in the rendered page. Not a
+                                rendering problem — there's just nothing
+                                there on any URL variant tried.
     AU Small Finance Bank    — bot-block (403) on every domain tried
-    RBL Bank                 — only a single teaser banner is static;
-                                the real grid loads via the mobile app
+    RBL Bank                 — confirmed via headless render: only the
+                                same static teaser banner. The real grid
+                                is genuinely mobile-app-only content
+                                ("Visit RBL MyBank App" is the page's own
+                                text), not a web scraping problem.
     Standard Chartered       — offers page lists categories only, no
                                 actual merchant offers in static HTML
-    IDFC First Bank          — every /offers URL tried is a card-product
-                                page, not a merchant-deals listing
+    IDFC First Bank          — confirmed via headless render: every
+                                /offers URL tried, including the
+                                "credit-card-merchant-offers" path, only
+                                ever renders the card-product mega-menu,
+                                never an actual merchant-deals grid.
     American Express         — offers are gated behind card selection
     Federal Bank             — Radware bot-block (CAPTCHA wall)
     IDBI Bank                 — /offers redirects to the homepage
 
+IndusInd, RBL, and IDFC First were re-checked with a real headless
+browser (Playwright + networkidle wait, scrolling, "load more" probing)
+specifically to rule out "just needs JS" as the explanation — none of
+them have merchant offer data available on the public web at all, so a
+browser dependency wouldn't help. Playwright was useful as a one-off
+diagnostic (it's how ICICI's JSON endpoint was found via its network
+tab) but isn't a project dependency — nothing here needs it at run time.
+
 If any of the above later exposes a scrapable offers page (bank sites
-change often — worth checking inline <script> tags for a plain JSON
-blob before assuming a JS-rendered grid is a dead end), add a
-`_parse_<issuer>()` function following the same pattern and register
-it in ISSUER_OFFER_SOURCES.
+change often — worth checking inline <script> tags and the browser
+network tab for a plain JSON blob/endpoint before assuming a JS-rendered
+grid is a dead end), add a `_parse_<issuer>()` function following the
+same pattern and register it in ISSUER_OFFER_SOURCES.
 """
 import hashlib
 import json
@@ -229,6 +246,36 @@ def _parse_sbicard(html_text: str, base_url: str) -> list[dict]:
     return out
 
 
+def _parse_icici(json_text: str, base_url: str) -> list[dict]:
+    # icicibank.com's /offers page renders its grid client-side, but that
+    # grid is itself just fetching this JSON endpoint (found via network
+    # inspection, not present anywhere in the page's HTML/scripts) — so it's
+    # called directly, no browser involved. Small catalog (~5 offers): this
+    # looks like a curated "featured" set rather than ICICI's full partner
+    # list, and the `start` param doesn't actually paginate past it.
+    try:
+        data = json.loads(json_text)
+    except Exception:
+        return []
+    out = []
+    for c in data.get("cards", []):
+        title = (c.get("offerTitle") or "").strip()
+        if not title:
+            continue
+        promo = (c.get("offerPromoCode") or "").strip()
+        if promo.upper() in ("", "NA"):
+            promo = None
+        link = c.get("ctalink") or c.get("pagePath") or ""
+        out.append({
+            "title": title,
+            "description": (c.get("offerDesp1") or "").strip(),
+            "url": urljoin("https://www.icici.bank.in/", link) if link else base_url,
+            "promo_code": promo,
+            "valid_till": _parse_valid_till(c.get("endDate") or ""),
+        })
+    return out
+
+
 _BOBCARD_OFFER_RE = re.compile(
     r'"OfferId":"(?P<id>[^"]*)".*?'
     r'"OfferTitle":"(?P<title>.*?)","OfferShortDescription":"(?P<desc>.*?)",'
@@ -299,6 +346,12 @@ ISSUER_OFFER_SOURCES = [
         "issuer": "SBI Card",
         "url": "https://www.sbicard.com/en/personal/offers.page",
         "parser": _parse_sbicard,
+    },
+    {
+        "name": "ICICI Bank Offers",
+        "issuer": "ICICI Bank",
+        "url": "https://www.icici.bank.in/content/icicibank.offersearch.json?searchPath=/content/icicibank/in/en/offers&start=0",
+        "parser": _parse_icici,
     },
 ]
 

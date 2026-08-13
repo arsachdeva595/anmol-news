@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T04:48:42.587894+00:00",
-  "count": 31,
+  "generated_at": "2026-08-13T05:18:37.724246+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "d0f97b7ba794",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-13T04:48:34.219635+00:00",
+      "published": "2026-08-13T05:18:30.088614+00:00",
       "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
       "severity": "major"
     },
@@ -22,7 +22,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-13T04:48:34.219635+00:00",
+      "published": "2026-08-13T05:18:30.088614+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -307,16 +307,6 @@
       "severity": "major"
     },
     {
-      "uid": "f1cc712cfc86",
-      "title": "Top financial changes in June: Revised cut-off timings for overnight MF deals, changes in credit card... - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQlFBLVZidmw2ZFZET3RBMUJDbWViSEpHUVFhNF9xMWZ0MEVjRUpkUktLbTBpZ19CQmF6a3A2T2pCOFFFZG54NlRrVTFhSE9YdjFWS1lENU5tdFdoMnNZMGpoc1FVemM0czBNU1pzSjhDcVQ0WDJiY2RtN0treVVEcTFsNURMTFhvTWJMUzlnU3hDTllsVnJkV3gwbHAyZ2ZVNFlheXB0RlhORDBJV3JacFEyUktmSUl0Mk0wVHR1UGNmUDkwdnFJNWM1TS1CMHVEeFdLSXd2UHRoOEJkR29YcHlacU9tdEVPejRuRmtxTlcxaC1DWDN2RWZnUllLLXZ3SFVqY1hveGdqcTdoNC1vSV80cW4yLWZMdGdUYXMzbU14VEJWWXNrWFVjZ9IBsAJBVV95cUxOYUZ1YzVHWTdMeUMtWl8yS3N4V2lDNUpMZUhTUnFPWnBiWGYzTFZieWs5MEZXWGhBQ3VyQVZKVUsyZno3X3ZfcnM1MmF2Z2hSVG5wLV9pTEZUNXJlTjhXaUw0MnM0YXNMMEIxMUFZaHdvU3V6Y3EtdE1CcXJUaEQzWXRwWjlobWgyY3RRZUdscU94elRKbFdEcll4SzFVdXV2bHQ5dl93WnBqZDMtUzVEZlZOTDlFZjkwVGFHbmZUb0hiWjYtUkZYSVUzVU1yU3hLem1GUFVoYjgtZ3dpUlN4bEVIQkNqcVgxa1EwVTlyLXdZZG56MzNWTW9LZ0ZxcEx2RnUwVVp6cDduS19OQjMwQWlIcktMSGE1TDhlRWI5ZWE1V0xjWjNUOFFXMW5BeGp6?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2025-05-30T07:00:00+00:00",
-      "snippet": "Top financial changes in June: Revised cut-off timings for overnight MF deals, changes in credit card... Moneycontrol.com",
-      "severity": "major"
-    },
-    {
       "uid": "9b4843ec7e80",
       "title": "Axis Bank's credit card new rules: Changes from June to October 2025 explained - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVnhEclpsSVBEWVBMM0ZlZUJzX19mUzloRnZiMW1qNjhleUZMYWFOZnkySU9GNkFPenpjU3p2alExYzhBY3htX283VTJFakVjQ2x1WFRaQzFTbjRXb1JnYUMxemg1MkVaNEFsN0NSeEdTbFFLand4c3dxUEMyMmNTWm0zaWhKVDhMdUtxakh0UGdJLXA4OGVyTDFMeUZSUnU4RzFDYTZ2dVZ0dWpIYmN1RENnNXFQRWNTcXZJdTlQSDg1LW44UzREREJmTkJYZG5wMEZoMWhGLVM2VjkzV090UNIB5gFBVV95cUxONlpFS1BFMjMwSnYwdFNOZWg0TzFKTzRMX1A1b1hZbUFYaXl6WXU3TzhLWkxGNXZuVXFIY0JUS2JTUW10M2Q4OVZZekttNFZtRXo1V2E5aHdtdExsR3BMQk1PdThiNVJfc2pVRWhPOE5IX0QtaVU2Wk5EcE5acDk4M2VJdy1oTmxSamFSMHZ2VkZWTEMtQm4wb09CODNWdXUyVmFoTnMyS2NnUi1kQzJVOUp1M0ZyUHJlRl9IcGp3Z0hlM3FEWFV4RUIwSVN3ZTQ5a3U2LXc2UmV1RU5OVmRibVViWXM1Zw?oc=5",
@@ -341,6 +331,18 @@
       "severity": "major"
     },
     {
+      "uid": "9b4cdbc3f2c8",
+      "title": "Interest rates to fees: Axis Bank credit card rule changes start Friday - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWN4Zjhia2xWdUZNd0tPV0I2bzYzUk9VOTRfUHZWV3VTaE10bG82VXR0OVU2ZEd2eWpKYjNwNy1aVTkyWGhZV3lYNVZoeG5Xc0pkNnBHRjl4dmxBNUZVUXpHMm56bW9WWVk2TDlIV19WMHlZTEIwUHNEOHloT0JRWnN6elh4NEJrU3VyZE9EN1dTVEE5aFZtWTRDbHRGTnZzTU5oRTBTU3ZqdUxQbFlyOWNfb2FQa2JCYVdWZmN1Yy1QZVlwaFMxNXZZWkd6Y2F4VU1uMU94VXFPSW91ay1VWG1fY9IB6AFBVV95cUxPT0txNmlrSTBHcXlmaVc2c2h4SnZMLUoxMXMxRXExcGlfSDRZVWNURldvZ05SSlgzRlhXUFo4cTFaWVJvY2xJMFVTWFRNeDVfb3FVOVg2RjhiUEI2TVVUUlZYRUlydm51MnZJZ2dTdFc1c2xOS0lqTUhDVGhxVm5vUDFmeENhd0ZGOVZKX3l5QzZZOU9lMFlxLWZEY25FY2VqcGY0MGpIWTY5U3NlVTlDeUhScHNxTDdNeFNNcWhTZ2JmZmdzdVF6YmtMQ2VCLXVneHMzbGRHZjRMUTBTUDRpOXVTQ3FVQ05H?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-12-19T08:00:00+00:00",
+      "snippet": "Interest rates to fees: Axis Bank credit card rule changes start Friday Business Standard",
+      "severity": "major"
+    },
+    {
       "uid": "583699af58bf",
       "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - thecore.in",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdrdmRfOC1jTERlc3dOWl9YbUY2NGstZTR1azgxN2piR1ByU19TM0J2UExGc3p1c2ZXamRDWEU3QlRCSmc2c1lXVXJ1R2xPS083ZHdVaTdJS0lsVTlJUUhseWgzbEZqSXBUU1RCMGRXcXQ0cXlaZ25PWms1d2tOTjNfQTNleXlhcDdiUHNZYXNScU9pWWNvWmYwQ2Y2dFg1NktaQlJyaE4?oc=5",
@@ -348,6 +350,19 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
+      "severity": "critical"
+    },
+    {
+      "uid": "7972da1e6e78",
+      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank",
+        "IDFC First"
+      ],
+      "published": "2024-04-12T07:00:00+00:00",
+      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
       "severity": "critical"
     },
     {
