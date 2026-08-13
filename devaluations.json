@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:18:37.724246+00:00",
-  "count": 32,
+  "generated_at": "2026-08-13T05:45:56.367570+00:00",
+  "count": 31,
   "devaluations": [
     {
       "uid": "d0f97b7ba794",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-13T05:18:30.088614+00:00",
+      "published": "2026-08-13T05:45:49.064883+00:00",
       "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
       "severity": "major"
     },
@@ -22,7 +22,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-13T05:18:30.088614+00:00",
+      "published": "2026-08-13T05:45:49.064883+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -350,19 +350,6 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
-      "severity": "critical"
-    },
-    {
-      "uid": "7972da1e6e78",
-      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank",
-        "IDFC First"
-      ],
-      "published": "2024-04-12T07:00:00+00:00",
-      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
       "severity": "critical"
     },
     {

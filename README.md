@@ -61,6 +61,16 @@ official "offers" page directly for live merchant deals (cashback, discount
 codes, EMI offers, etc.), so `deals.json` reflects what banks are actually
 advertising today, not just what bloggers wrote about.
 
+**Scope: credit card offers only.** Several issuer pages mix in debit-card
+and net-banking offers alongside credit card ones — each parser filters on
+whatever payment-method signal that source exposes (Axis's per-card tag,
+ICICI's `paymentGatewayValue` field, a text heuristic for HSBC). BOBCard and
+SBI Card need no filtering since both entities issue credit cards only.
+Kotak needed the opposite fix: its bare `/offers.html` silently defaults to
+just the "Credit Card EMI" bucket, missing a second, entirely disjoint
+"Credit Card" bucket — both are now fetched and merged, and
+`paymentType=debit` is never queried.
+
 A source qualifies if real offer data is reachable via a plain `requests`
 call — no headless browser needed at run time — as server-rendered DOM
 (Axis, HSBC, Kotak), a JSON/JS variable embedded in an inline `<script>`

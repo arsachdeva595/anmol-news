@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:18:37.727592+00:00",
-  "count": 16,
+  "generated_at": "2026-08-13T05:45:56.368277+00:00",
+  "count": 17,
   "launches": [
     {
       "uid": "bba7b77ccd44",
@@ -39,6 +39,15 @@
       "issuers": [],
       "published": "2026-06-02T07:00:00+00:00",
       "snippet": "Central Bank Of India To Launch Wealth Management And Credit Card Businesses In H2 FY2027 Hubbis"
+    },
+    {
+      "uid": "e8329afefcfb",
+      "title": "January 2026 financial changes: How 8th Pay Commission, new credit card, income tax and MF rules affect you - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSjNTbFFGUjhVSHFQbHlPWEhTaVZZbVNldUVWam5fYk9Cb2w2bmo0Q2k4bnZGRzRHdWFpSWEzX1dkSVI0TkRwUXgzMVdmNEdKNHgza2ZIb190dHhDbWhMWG95dUIwLTRUcDZDdGVISVJxajQ5UzBJWVNENkdkMHZieXRkbHpFeURwazhnYnNqb0xMZHVEOUZGM0xobTY2S1JZQ1I4cDhCNXdJOE5QcWdmcGowTmVjQ3BqeUJoNXZqcE51ZkduSGhveUhEakZwNFBVMDU2cG1FZmVTNFJvV2swSUZ6M3cxUGNybGFmZlYtYkliRTh3RnFiaGlBWlhRNExGTTJHTHpNZ2stbUHSAZACQVVfeXFMTkd4VktsMXBUSi12eWVWZVNhU0syVW4xQTNxbER0dm9wNmxGbFppc2tHQkV0b2t3VTdzdFNwSzBPX3FmQ1B1a3NjcUZFbmc0ek1FNXFXeWMzQ1pwLXVTUC1OX3FqZ2Yzc1Y3MjZQWmgyX284UmxSZEQ2VTY4TmcyY05Gd0t2SERCVVphQUNrLU9Nc1gyUEFISlJoRlE0UVROQllObk5kMF91Q21NZWdlNU95ZE05dFlyRUY1MGJDSWVNdWZtaWdldnNBVU5LU1JqczV0MHJId081NXhubldlamR6cHVqZVdHWXF5SnhFUXFZc1pPVEk3aEdTb3BnSEoyaDdvZjhDeXRtZnVOU056LUg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-01-01T08:00:00+00:00",
+      "snippet": "January 2026 financial changes: How 8th Pay Commission, new credit card, income tax and MF rules affect you Business Today"
     },
     {
       "uid": "462552427e11",
@@ -132,17 +141,6 @@
       "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
     },
     {
-      "uid": "bac632543a77",
-      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2025-11-04T08:00:00+00:00",
-      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
-    },
-    {
       "uid": "5e7afb7bfa89",
       "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUXZIN2h3bnZRenhhZjJMWXJsTjdxWE5KX2t2MVN2bzlpckgyRXpUWk14LVdMelBLSEF3NlpiV3RmR2UzeS1PQ0EwOHFmaE1KOFdxVXhCSGZ2QndrWnRIb2NrRTV1eTJXTGRHa296bERzWWZCYi1xYnNIeXNYc0N6Z3BuTnJOSDBhYjZiWXNlZ3hKNTBPNnhubUFob0VURVM5MVQ4TXBCNzVmNTJHVkpnUDA2TG9zTmoyQ2Ffa3hhSmdDZFpfSDNPaENWQ0lvWFg1a0hUeXpkcWt3M2FKWGNqQ21FaTA1M29DR3BuU1ZvM2xQU2xsMVdQdVRB0gH_AUFVX3lxTE1ZeHFsRmxuLUlORkxaQi1zQ1cwMlpOV2FpSXdabHlPN2F5ZFRiakVXSnRmVjRaVnNBUHFEaTZoQlpwbWkwS3c1UTNvMzZWZDdZVG41bHpXYTRkLWY5REJYcVlmSlVhQWNJRXg5SkFaVHZqdjNhcUNoSGpqTVVHVzBpVU5GWWpJZjN2STV2SjZpLWVqZldjWDlkV2pnWHRxRmRKTlRyTEdHZ05famdEQThjY1BtQVplUi1ZMjFXVEhiS1k0V2k4VTZLZ191ZG5vRjJ2WDUzSkJtLVBTdC12UEM0bGstNWUtU1c0ejJoeHdZRkRTUjBjRDlwS2N1TlNvcw?oc=5",
@@ -163,6 +161,15 @@
       ],
       "published": "2025-07-28T07:00:00+00:00",
       "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
+    },
+    {
+      "uid": "6d22fed2dce9",
+      "title": "IndiGo Launches Co-Branded Credit Card to Boost Loyalty Program - Skift",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVQ5ak90VUJRM0E3UTBxdG9SZTRaMWt3M09OSWE4ZTJfbFdBQWd2WDU0cC1ZbDYtSnd0VDlPeUc4blpLcEVPRzJCeDBSTmlIZ3ctcHhkNXh5RVR1TU5UbXhTckFEWlhHVnowZ1ZOOWQwNU1hWUVMeER5Y0NzalpEVnRaVVVTSVdSc0w1bi1HdzJHS3NpeUxwcg?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-07-14T07:00:00+00:00",
+      "snippet": "IndiGo Launches Co-Branded Credit Card to Boost Loyalty Program Skift"
     }
   ]
 }

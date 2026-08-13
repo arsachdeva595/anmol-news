@@ -16,6 +16,17 @@ takes a plain GET, so no browser is needed at run time):
 
     Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card, ICICI Bank
 
+Scope: credit card offers only. Several issuer pages mix in debit-card
+and net-banking offers, so each parser filters on whatever payment-method
+signal is available — Axis's per-card tag, ICICI's `paymentGatewayValue`
+field, a text heuristic for HSBC (no tag exposed there). BOBCard and SBI
+Card need no filtering: both entities issue credit cards only, and
+neither's data has any debit/net-banking offers to filter out. Kotak
+needed the opposite fix — its bare /offers.html silently defaults to
+just the "Credit Card EMI" bucket, missing the disjoint plain "Credit
+Card" bucket entirely (both are now fetched via `urls`, see
+ISSUER_OFFER_SOURCES; `paymentType=debit` is never fetched).
+
 Also confirmed: many issuers now serve the *same* offers page from a
 newer "<issuer>.bank.in" domain (RBI's bank-domain initiative) — Axis,
 Kotak, HSBC, Amex were all re-checked there and returned byte-identical
@@ -146,8 +157,16 @@ def _parse_axis(html_text: str, base_url: str) -> list[dict]:
         desc_el = card.select_one("p.section-desc")
         promo_el = card.select_one("div.offers-code p.code-cont")
         valid_el = card.select_one("span.valid-date-cont")
+        tag_el = card.select_one("span.span-cont")
         title = title_el.get_text(strip=True) if title_el else None
         if not title:
+            continue
+        # Cards are tagged with which payment methods qualify, e.g.
+        # "Credit Card | Travel" or "Shopping | Credit Card | Debit Card" —
+        # credit-card-only scope, so skip anything not tagged for it (e.g.
+        # a pure "Debit Card | ..." or "Net Banking | ..." offer).
+        tags = tag_el.get_text(" ", strip=True).lower() if tag_el else ""
+        if tags and "credit card" not in tags:
             continue
         promo = promo_el.get_text(strip=True) if promo_el else None
         if promo and promo.lower() == "not available":
@@ -173,6 +192,12 @@ def _parse_hsbc(html_text: str, base_url: str) -> list[dict]:
         if not title:
             continue
         desc = desc_el.get_text(" ", strip=True) if desc_el else ""
+        # No explicit payment-type tag is exposed per card here (unlike
+        # Axis), so this is a text heuristic: skip anything that reads as
+        # debit/net-banking-specific and never actually mentions credit card.
+        combined = f"{title} {desc}".lower()
+        if re.search(r"\bdebit card\b|\bnet[\s-]?banking\b", combined) and "credit card" not in combined:
+            continue
         m = re.search(r"(offer\s+valid\s+(?:till|until)\s+[^.]*)", desc, re.I)
         out.append({
             "title": title,
@@ -262,6 +287,11 @@ def _parse_icici(json_text: str, base_url: str) -> list[dict]:
         title = (c.get("offerTitle") or "").strip()
         if not title:
             continue
+        # paymentGatewayValue is a comma-separated eligible-payment-methods
+        # list, e.g. "Credit Card,Debit Card" or "Net Banking,Debit Card" —
+        # credit-card-only scope, so drop offers that don't list it at all.
+        if "credit card" not in (c.get("paymentGatewayValue") or "").lower():
+            continue
         promo = (c.get("offerPromoCode") or "").strip()
         if promo.upper() in ("", "NA"):
             promo = None
@@ -332,7 +362,16 @@ ISSUER_OFFER_SOURCES = [
     {
         "name": "Kotak Offers",
         "issuer": "Kotak",
-        "url": "https://www.kotak.com/en/offers.html",
+        "url": "https://www.kotak.com/en/offers.html?paymentType=credit",
+        # The bare /offers.html page silently defaults to just the "Credit
+        # Card EMI" bucket — it and the plain "Credit Card" bucket are two
+        # disjoint sets (verified zero title overlap), so both must be
+        # fetched explicitly or ~30% of Kotak's actual credit-card offers
+        # go missing. Excludes paymentType=debit entirely (never fetched).
+        "urls": [
+            "https://www.kotak.com/en/offers.html?paymentType=credit",
+            "https://www.kotak.com/en/offers.html?paymentType=credit+card+emi",
+        ],
         "parser": _parse_kotak,
     },
     {
@@ -370,14 +409,15 @@ def fetch_issuer_offers() -> list[dict]:
     now = datetime.now(timezone.utc).isoformat()
     for src in ISSUER_OFFER_SOURCES:
         log.info("Issuer offers → %s", src["name"])
-        html_text = _get(src["url"])
-        if not html_text:
-            continue
-        try:
-            offers = src["parser"](html_text, src["url"])
-        except Exception as e:
-            log.warning("Parse error (%s): %s", src["name"], e)
-            offers = []
+        offers = []
+        for url in src.get("urls") or [src["url"]]:
+            html_text = _get(url)
+            if not html_text:
+                continue
+            try:
+                offers.extend(src["parser"](html_text, url))
+            except Exception as e:
+                log.warning("Parse error (%s, %s): %s", src["name"], url, e)
         added = 0
         for o in offers:
             if _is_expired(o.get("valid_till")):
