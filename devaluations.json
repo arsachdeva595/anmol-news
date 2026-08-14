@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:45:56.367570+00:00",
-  "count": 31,
+  "generated_at": "2026-08-14T04:23:57.258360+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "d0f97b7ba794",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-13T05:45:49.064883+00:00",
+      "published": "2026-08-14T04:23:43.734704+00:00",
       "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
       "severity": "major"
     },
@@ -22,7 +22,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-13T05:45:49.064883+00:00",
+      "published": "2026-08-14T04:23:43.734704+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -100,16 +100,15 @@
       "severity": "critical"
     },
     {
-      "uid": "eb1a2f221ec9",
-      "title": "💸 Cost Breakdown of Our 13-Day Sri Lanka Trip for 2 🇱🇰🏔️ ✈️ Flights: ₹16,200 + 38,000 HDFC Infinia Points 🏨 Hotels: ₹83,000 + 13,000 Marriott Bonvoy Points (earned via Amex MRCC) 🚙 Transportation: ₹42,000 (Taxi, Train & Bike) 🍜 Food: ₹65,000 🏔️ Activities: ₹45,000 (Snorkelling, Dolphin Watching, Pigeon Island, Ambuluwawa, Botanical Garden, Temples & Tea Experiences) 💰 Total Trip Value: ₹3.02 Lakhs 💳 Actual Cash Spent: ₹2.51 Lakhs 🎯 Points Redeemed: 51,000 ✨ Points Earned Back: 12,000 Using the right credit cards didn't just reduce our trip cost, it also earned enough points towards our next vacation. 🌍 Share this with someone planning a Sri Lanka trip! 🇱🇰",
-      "url": "https://nitter.net/DoBaniye/status/2086081918479806474#m",
-      "source": "Twitter / @DoBaniye",
+      "uid": "c0f0640c91f9",
+      "title": "HDFC bank credit card caps SmartBuy reward points on brand vouchers from July 1 - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc0RPWGlORVIzNlU3U0N3Y3FENU5mLVVXRWpLX1dVcHVDeklmcnZyZE9rYmlWYWVLbHUySkpqRlBITFJDckNxTUs3bDd2SzNvZnEzanFTZ1BvVTJlTHNabnJEMkkxd2dIUnU2M0lFWkRQZ2dZemRPZl9WV3BZYlpEVzJWUGdMWE9iUm81Q19aaDNqb1l4VDRsaUlpZXowSC1EeTRQQ3NtakhjN001OXY1N0E4UWZHSXFCUEdpWEdBMVFhQmswcFhIWWFnSF94VlloRTBlcHZGUi3SAd4BQVVfeXFMUHJrMElBbWl5aWxHaUpTa1h3OGdtWkViaUJwdXUwZDE5OVc4WDZvZ1FsQTYtc19Zb3RhRTd3YWxhQW1rZlp6dlMzRWhQNUp0LVhldzg5OWYwR3VZXzByYTFYbEk4amI4Q0pHMUF4ak5rY0FJRWRhNWltdHN3blZDX0FPM3Itbk1jdkdxZV9yNk1PcnNrX3hUeE5jbTRXUm0wNjdWN1JqcXB5al93OHJ0M3lxVGJ2SzVWR3RscG1HSnNRYkVjWnN3Z3RxOHZoS09jbVRXVFJGQVlhS09jaHBn?oc=5",
+      "source": "Google News / devaluation",
       "issuers": [
-        "HDFC",
-        "American Express"
+        "HDFC"
       ],
-      "published": "2026-08-08T13:27:41+00:00",
-      "snippet": "💸 Cost Breakdown of Our 13-Day Sri Lanka Trip for 2 🇱🇰🏔️ ✈️ Flights: ₹16,200 + 38,000 HDFC Infinia Points 🏨 Hotels: ₹83,000 + 13,000 Marriott Bonvoy Points (earned via Amex MRCC) 🚙 Transportation: ₹42,000 (Taxi, Train & Bike) 🍜 Food: ₹65,000 🏔️ Activities: ₹45,000 (Snorkelling, Dolphin Watching, Pig",
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "HDFC bank credit card caps SmartBuy reward points on brand vouchers from July 1 Moneycontrol.com",
       "severity": "major"
     },
     {
@@ -172,24 +171,24 @@
     },
     {
       "uid": "316a5a06996a",
-      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - livemintmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
       "source": "Google News / benefit",
       "issuers": [
         "IndusInd Bank"
       ],
       "published": "2026-06-05T07:00:00+00:00",
-      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details livemintmoney.com",
       "severity": "major"
     },
     {
       "uid": "51eb98d6ec3f",
-      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
+      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - livemintmoney.com",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
-      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
+      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July livemintmoney.com",
       "severity": "critical"
     },
     {
@@ -216,14 +215,14 @@
     },
     {
       "uid": "ba8476c40031",
-      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
+      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - livemintmoney.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
+      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here livemintmoney.com",
       "severity": "major"
     },
     {
@@ -350,6 +349,19 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
+      "severity": "critical"
+    },
+    {
+      "uid": "7972da1e6e78",
+      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank",
+        "IDFC First"
+      ],
+      "published": "2024-04-12T07:00:00+00:00",
+      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
       "severity": "critical"
     },
     {
