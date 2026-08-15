@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:23:57.258360+00:00",
-  "count": 32,
+  "generated_at": "2026-08-15T03:14:04.194721+00:00",
+  "count": 33,
   "devaluations": [
     {
       "uid": "d0f97b7ba794",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-14T04:23:43.734704+00:00",
+      "published": "2026-08-15T03:13:52.204658+00:00",
       "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
       "severity": "major"
     },
@@ -22,8 +22,33 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-14T04:23:43.734704+00:00",
+      "published": "2026-08-15T03:13:52.204658+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
+    {
+      "uid": "bd7c0355c3c4",
+      "title": "🔥 Last 4 Days for Amex Bonus Offer on Reserve Credit Card! 19,000 Reward Points (= 19,000 Marriott Points) along with: 🏨 Accor Explorer Membership 🌴 Taj Epicure Membership 🍽️ EazyDiner Prime Membership ✈️ 12 Domestic + 2 International Airport Lounge Access without any spend condition 🌍 Free Priority Pass All this for ₹11,800 joining fee — a no-brainer deal for travellers! 💯✈️ 👉 19,000 Points as Joining Benefit is applicable only if you apply through a Referral Link till 17th August 2026. ⚠️ After 17th August, the joining benefit will be reduced to 15,000 points. 🔗 Referral link (if interested in applying): 👉 http://bit.ly/46eCjfc 📘 Visit SpendWisely Blog: Detailed credit card reviews & guides 👉 https://spendwisely.in Some links may be referral links in the above post. It supports the page without any cost to you. #creditcard #spendwisely #creditcard",
+      "url": "https://nitter.net/spendwiselyx/status/2088252987944927381#m",
+      "source": "Twitter / @SpendWiselyX",
+      "issuers": [
+        "SBI Card",
+        "American Express"
+      ],
+      "published": "2026-08-14T13:14:44+00:00",
+      "snippet": "🔥 Last 4 Days for Amex Bonus Offer on Reserve Credit Card! 19,000 Reward Points (= 19,000 Marriott Points) along with: 🏨 Accor Explorer Membership 🌴 Taj Epicure Membership 🍽️ EazyDiner Prime Membership ✈️ 12 Domestic + 2 International Airport Lounge Access without any spend condition 🌍 Free Priority",
+      "severity": "major"
+    },
+    {
+      "uid": "f4f870356948",
+      "title": "Amazon Pay ICICI Bank Credit Card ₹1,000 Cashback Offer",
+      "url": "https://cardinsider.com/blog/amazon-pay-icici-bank-credit-card-cashback-offer/",
+      "source": "CardInsider",
+      "issuers": [
+        "ICICI Bank"
+      ],
+      "published": "2026-08-14T05:43:35+00:00",
+      "snippet": "Amazon Pay ICICI Bank Credit Card is one of the most popular cashback and online shopping credit cards in the country, with a consistent history of offering up to 5% cashback on Amazon spends. The card has now come up with a limited-period offer for select cardholders who make two offline transactio",
       "severity": "major"
     },
     {
@@ -37,18 +62,6 @@
       ],
       "published": "2026-08-11T11:30:40+00:00",
       "snippet": "The PhonePe co-branded credit cards have become quite popular because they offer rewards on everyday spends like utility bill payments and insurance done through PhonePe. With the recent devaluation of the Airtel Axis Credit Card, more users are now moving towards these PhonePe cards. Right now, bot",
-      "severity": "critical"
-    },
-    {
-      "uid": "d637dd5fdc37",
-      "title": "American Express Platinum Travel Devalued Again – Has AmEx Lost the Plot in India?",
-      "url": "https://cardinsider.com/blog/american-express-platinum-travel-devalued-again/",
-      "source": "CardInsider",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-08-11T06:22:42+00:00",
-      "snippet": "Time and again, while people have been looking forward to applying for a new American Express credit card, American Express has done nothing but disappoint them. Although applications for cards other than the American Express Platinum Reserve and Platinum Charge are currently not open, American Expr",
       "severity": "critical"
     },
     {
@@ -85,18 +98,6 @@
       ],
       "published": "2026-08-10T10:38:24+00:00",
       "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition Live From A Lounge",
-      "severity": "critical"
-    },
-    {
-      "uid": "5ae9173d07ef",
-      "title": "Also, the Centurion Lounge at Mumbai airport has been discontinued (although reason may be different). 👇👇",
-      "url": "https://nitter.net/spendwiselyx/status/2086729289203175457#m",
-      "source": "Twitter / @SpendWiselyX",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-08-10T08:20:06+00:00",
-      "snippet": "Also, the Centurion Lounge at Mumbai airport has been discontinued (although reason may be different). 👇👇 Satish Kumar Agarwal (@iSatishAgarwal) 🪾Confirmed: AMEX Cards in India dying slowly 📉One down step at a time consistently 🤯 1️⃣MRCC+Plat Travel issuance stopped 2️⃣Retention benefits gone comple",
       "severity": "critical"
     },
     {
@@ -316,6 +317,18 @@
       "published": "2025-05-23T07:00:00+00:00",
       "snippet": "Axis Bank's credit card new rules: Changes from June to October 2025 explained CNBC TV18",
       "severity": "major"
+    },
+    {
+      "uid": "122683528444",
+      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2025-02-22T08:00:00+00:00",
+      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
+      "severity": "critical"
     },
     {
       "uid": "42139014420f",

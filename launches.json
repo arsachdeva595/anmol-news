@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-14T04:23:57.259060+00:00",
-  "count": 16,
+  "generated_at": "2026-08-15T03:14:04.195443+00:00",
+  "count": 17,
   "launches": [
+    {
+      "uid": "a57dba62b64f",
+      "title": "IDFC FIRST Bank Rolls Out Spend-Based Credit Card Offers With Amazon Pay Gift Vouchers",
+      "url": "https://cardinsider.com/blog/idfc-first-bank-rolls-out-spend-based-credit-card-offers/",
+      "source": "CardInsider",
+      "issuers": [
+        "IDFC First"
+      ],
+      "published": "2026-08-14T08:25:53+00:00",
+      "snippet": "IDFC FIRST Bank has rolled out a new set of spend-based offers for its credit cardholders, giving select customers an opportunity to earn Amazon Pay Gift Vouchers by meeting specific spending milestones during August 2026. Unlike a standard card-wide offer, these promotions appear to be targeted, wi"
+    },
     {
       "uid": "bba7b77ccd44",
       "title": "EazyDiner and IndusInd Bank launch a lifetime-free RuPay credit card for dining and entertainment - Hotelier India",
@@ -17,7 +28,7 @@
       "uid": "ac8ff76d079b",
       "title": "Samsung launches first Galaxy credit card with up to 5% cash rewards - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWtnMEU0elZObG9aRlFEdTRTQTBCQ2ZWeVc5YmF1WU5zUUhaZFdtZmxQaUR4Yldtb0s2b0swSWxiYkRXb3Bja2hEZ1BPR2RDUzZGQkxDRnJrcVc2UjZPcjFNUGdyd3pnY2gxYlpCLS1sSE9yOU0taHNjWktkN3dDSkY4c0RoYnJaVUJBUnE3WlRfQVcxMDB6NXREeTktVEl5RTZ2QmJQazV3RlpDY2hMY0hDekZjT1J1YkNpV0ZQYXQ5VXNoUFJQdTUweHVRLVYtX0RXcDNQZ0t4d0HSAeIBQVVfeXFMTzUxOFdxZ01kUEhRSzZoUHFRZWRncDNid3g2TkZDTEx0M3BvYzZDTWdwbVhHaHlIS3FsU0F4Uk8tS3BWNEtfRDhwd09na1RGbVgwM21wN3RZZm80bGFJSmExSG1EbUZtTnc0aVkwbDZSZllCNVh1TWpuQ015QTBFcXVWWUtZbWhjd3EtYU5famhJT21TRDdOeDBqQnhoUUU1S2ZSMVhvV254bTJqTkh0dGt3NGFsd2NBckFXSlg3VFBvVXN5WjVPN0NoMEhUMlM0N2J5a015QkNxSV84aEFtZWhaZw?oc=5",
-      "source": "Google News / offer",
+      "source": "Google News / launch",
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
@@ -53,34 +64,34 @@
     },
     {
       "uid": "aabea69c1d95",
-      "title": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support - The Times of India",
+      "title": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV1FaSEt2SmZXN2prdjhHNDc1UHdTV0dJU1F5dTl1UTZCRVo4Q2U5T1hYQmhmMEVPTTYtYVJzOGxSUnhLalkxNk15Y3ZObUZaMUgwRDFfcC01YUlPODVjWXp3QUo5QzZISlBvNUo3VUM2Q0JDc1Y0UkRDdldCb3MwOXN3cjNBZTRRU0VQclFoVk44N1Z5aHVrRnFqT3NnVENTR0lrY2xPWFFyTG0wbGp1YWhFQkF4NHA5bkpKR1lTSWRuTFpxVGswZGdWQlJ3aHVDMkRKc2FRekItcXE5SGVTVmNsSzB1dTZGOTQ4WmhQeFdQMzZJNmx30gH8AUFVX3lxTE5ERVgyYnpwVUNxTUpHbjlhajE1R3doRUhaR0xPMEVySzg4U2RHX1k0ODd4RlRMeVNUUVF4NXlCaWNBT202Q1FtU1ViRFJQU3BJbWNzQi1YSS1GUVlabTNGY2oxUF9YRnpwZDhmYjBuSm9vSWEwWEFTU3IxSThiRmtZRUNacWRyQVR0aG84TTZFYXpvWDQxUkNUWnpkU0hBSnJrNTFMNDdoQlpfQU5pTEVRZ3BpTzRsRENpRjZYOUtXRzM3ejhGVHE1MlV1ZHNGdm9mUFdEbkVsZHNnTU5tckZOekc2UUVEdFU5Ujc3a1hJV2hMc0dZQUVpQ05pYQ?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-18T08:00:00+00:00",
-      "snippet": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support The Times of India"
+      "snippet": "Google launches Google Pay-Axis Bank co-branded credit card with UPI link support timesofindia.indiatimes.com"
     },
     {
       "uid": "0b0c7b4731de",
-      "title": "Axis Bank partners Google Pay to launch UPI credit card - The Times of India",
+      "title": "Axis Bank partners Google Pay to launch UPI credit card - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzVYWHZEM2k3cno1Wk5jYW9CYi1mdVdqZ3o5MXZER2FyLVkwVkNDY2tVT0tDNkd2UUJDakhvcVprMGM1VnZieElmM2lrZTFSd0FyWkRralo3TTJ1Rlg5MVExUGx0cC1FcU9lUzZiMGVDZWZsd0pGYTdJemplU09qNDd6SDdtOHBySEZJdWdHSmZxWlNiZHFkWGVZZEtIUldXVEdhTDhrNVRUb2NROEtHa21GRmFWZFM4QzNoOWFPaXBQSk5PN0hIRGJJU2VHR25nX0phMHRfYy3SAd4BQVVfeXFMTVY4cWpQLTRVVE5qRUttczJMQ3RvRWNEWWZLZzhzbkl1eUZNVjgxb2pLMkZKQ2NDZHNDbGtNZlB3QTlXWV9tNmNIR0ZXdXhtdGd3UmQ3c1J4WHdzczdFSHoyYTNWajlMaG1qT2VzWXhFVlFOak1QanlLSGpad2N4Zm1JX1pHSGM1TXRmNERnWmdoVk9Ld3ppalVVTEtYb0pXZ01DcEtGOGFhY0tlclhaVWpTODFDMFhhbFZMTGhuTGtOZTdxSU40RVRMOGozRDJqeUp5dURNMThMS2oxN3J3?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Axis Bank partners Google Pay to launch UPI credit card The Times of India"
+      "snippet": "Axis Bank partners Google Pay to launch UPI credit card timesofindia.indiatimes.com"
     },
     {
       "uid": "c4e4afb3142d",
-      "title": "Google Pay Launches Its First Credit Card in India - paymentsjournal.com",
+      "title": "Google Pay Launches Its First Credit Card in India - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEE0ZEZhdERNSzhVelE4ejVhTTFST053UkxERVNyOEpodXprMzlMMklyempPSkc5VUhfdkROTVplclpWUXdaVS1xeUd6ZzNWQ1hOUXdNTXNTeTdnbld4UVVlaFJPa2ViS2M0cFpiakQ2a3ZTVDdKcllULVd5UDBqSGdHUkhSczFIMlRZ0gGQAUFVX3lxTE85aGo4NDdmU01lVHFPZG45TVJfUnZXcm90S0RmMWkwU3NVOXBHbVBtQVhwSHNYV0VSU0FHQk1XUGpUYVg0czNRYnVGZTFNUG42N1pReThybkM5VWtiOFJMTk1UdDljTERrRk0wVW5lZDBlNGkwOVlXQ19XQnJhWWQxMGRMTHRMSktkV2FsX1NZQw?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay Launches Its First Credit Card in India paymentsjournal.com"
+      "snippet": "Google Pay Launches Its First Credit Card in India PaymentsJournal"
     },
     {
       "uid": "958919bef8c1",
@@ -153,14 +164,14 @@
     },
     {
       "uid": "5e7afb7bfa89",
-      "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - The Times of India",
+      "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUXZIN2h3bnZRenhhZjJMWXJsTjdxWE5KX2t2MVN2bzlpckgyRXpUWk14LVdMelBLSEF3NlpiV3RmR2UzeS1PQ0EwOHFmaE1KOFdxVXhCSGZ2QndrWnRIb2NrRTV1eTJXTGRHa296bERzWWZCYi1xYnNIeXNYc0N6Z3BuTnJOSDBhYjZiWXNlZ3hKNTBPNnhubUFob0VURVM5MVQ4TXBCNzVmNTJHVkpnUDA2TG9zTmoyQ2Ffa3hhSmdDZFpfSDNPaENWQ0lvWFg1a0hUeXpkcWt3M2FKWGNqQ21FaTA1M29DR3BuU1ZvM2xQU2xsMVdQdVRB0gH_AUFVX3lxTE1ZeHFsRmxuLUlORkxaQi1zQ1cwMlpOV2FpSXdabHlPN2F5ZFRiakVXSnRmVjRaVnNBUHFEaTZoQlpwbWkwS3c1UTNvMzZWZDdZVG41bHpXYTRkLWY5REJYcVlmSlVhQWNJRXg5SkFaVHZqdjNhcUNoSGpqTVVHVzBpVU5GWWpJZjN2STV2SjZpLWVqZldjWDlkV2pnWHRxRmRKTlRyTEdHZ05famdEQThjY1BtQVplUi1ZMjFXVEhiS1k0V2k4VTZLZ191ZG5vRjJ2WDUzSkJtLVBTdC12UEM0bGstNWUtU1c0ejJoeHdZRkRTUjBjRDlwS2N1TlNvcw?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "SBI Card"
       ],
       "published": "2025-08-18T07:00:00+00:00",
-      "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled The Times of India"
+      "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled timesofindia.indiatimes.com"
     }
   ]
 }
