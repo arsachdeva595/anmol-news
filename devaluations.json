@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T03:14:04.194721+00:00",
-  "count": 33,
+  "generated_at": "2026-08-16T03:28:25.412600+00:00",
+  "count": 34,
   "devaluations": [
     {
       "uid": "d0f97b7ba794",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-15T03:13:52.204658+00:00",
+      "published": "2026-08-16T03:28:11.985892+00:00",
       "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
       "severity": "major"
     },
@@ -22,21 +22,20 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-15T03:13:52.204658+00:00",
+      "published": "2026-08-16T03:28:11.985892+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
     {
-      "uid": "bd7c0355c3c4",
-      "title": "🔥 Last 4 Days for Amex Bonus Offer on Reserve Credit Card! 19,000 Reward Points (= 19,000 Marriott Points) along with: 🏨 Accor Explorer Membership 🌴 Taj Epicure Membership 🍽️ EazyDiner Prime Membership ✈️ 12 Domestic + 2 International Airport Lounge Access without any spend condition 🌍 Free Priority Pass All this for ₹11,800 joining fee — a no-brainer deal for travellers! 💯✈️ 👉 19,000 Points as Joining Benefit is applicable only if you apply through a Referral Link till 17th August 2026. ⚠️ After 17th August, the joining benefit will be reduced to 15,000 points. 🔗 Referral link (if interested in applying): 👉 http://bit.ly/46eCjfc 📘 Visit SpendWisely Blog: Detailed credit card reviews & guides 👉 https://spendwisely.in Some links may be referral links in the above post. It supports the page without any cost to you. #creditcard #spendwisely #creditcard",
-      "url": "https://nitter.net/spendwiselyx/status/2088252987944927381#m",
-      "source": "Twitter / @SpendWiselyX",
+      "uid": "aa7514aa6f36",
+      "title": "Scapia ₹20,000 Spend Milestone: What Counts for Lounge Access?",
+      "url": "https://cardmaven.in/scapia-milestone-spend-guide/",
+      "source": "CardMaven",
       "issuers": [
-        "SBI Card",
-        "American Express"
+        "Federal Bank"
       ],
-      "published": "2026-08-14T13:14:44+00:00",
-      "snippet": "🔥 Last 4 Days for Amex Bonus Offer on Reserve Credit Card! 19,000 Reward Points (= 19,000 Marriott Points) along with: 🏨 Accor Explorer Membership 🌴 Taj Epicure Membership 🍽️ EazyDiner Prime Membership ✈️ 12 Domestic + 2 International Airport Lounge Access without any spend condition 🌍 Free Priority",
+      "published": "2026-08-15T20:12:21+00:00",
+      "snippet": "Scapia now requires ₹20,000 of spending in a billing cycle to unlock Airport Privileges. That’s quite a jump from the old ₹10,000 requirement on the Visa card, especially if Scapia isn’t your primary credit card. Thankfully, you don’t need ₹20,000 of reward-eligible spends. Scapia counts most actual",
       "severity": "major"
     },
     {
@@ -239,6 +238,16 @@
       "severity": "major"
     },
     {
+      "uid": "81b875a9ce39",
+      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - caclubindia.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-04-03T07:00:00+00:00",
+      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 caclubindia.com",
+      "severity": "major"
+    },
+    {
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
@@ -296,14 +305,14 @@
     },
     {
       "uid": "43da3d1eb0eb",
-      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - The Economic Times",
+      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - economictimes.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXF3TkI0cUlHejhzSm1iMHVyZEdLS01NTDkwX0EzWmw2dExCWWhHS1lCZ2l0TlNrWDMyQWJqQ2ZWbkZaVXpOTTdkMnVVUENTeTlJb0pNQTJnRWVQaHVZTTNiTmFqOWtKekJUX1lnVUFiblZWVDZHeVgzcGRsemN6S0hmM3ZSVTV2N01xRTJxeEk5WVJQYlV4blNoN3pxZHZOTGloLXNYZEhFVUxJT1QwLVE1Yk00ZnNVRm1SXzRVU0NnaUVzYmNDaUdPdGRKYmpRUERiNmRmWm1nakQ4OWdIMFE0UU9KSm5aQnFiRjRUT3NRVXlxd3hV0gH8AUFVX3lxTFBQX3pQQ1ZCTmFyYS1kWVJlRmZ2MzN6TXd4TW9mSTllSkcwcFZjUU5kdGJOdkJmRm9vUmNkSzVtSDRxWEI0N0dod3VzVkQtMjRSVG1GWTFkWXNyc2MwZkNGWFg3bVBURG5VYm5wQzRVTUVqMFZadlB2UDRNVklMZmZ4WlRyWlZybnE5a0JCYVRBU1FNUDNsRnZ2bFRoVTMxTWtZZWpSR3AzQWN4WkxucU9JUDBFWk1SdG9oQzB3bnJMVkRZbmdMaVhZSVplSVRWN0xnN3hnMGdEa1ZtZW9HME9kX1ZzTWlfc05ZZ1lESFltanVmTFdSS3pLbnVtMg?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "SBI Card"
       ],
       "published": "2026-02-27T08:00:00+00:00",
-      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
+      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co economictimes.com",
       "severity": "major"
     },
     {
@@ -319,18 +328,6 @@
       "severity": "major"
     },
     {
-      "uid": "122683528444",
-      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HSBC"
-      ],
-      "published": "2025-02-22T08:00:00+00:00",
-      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
-      "severity": "critical"
-    },
-    {
       "uid": "42139014420f",
       "title": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcEp3eUxlTXNVSkpEUHluT1hOc21XbTVCVjNDOGM3cGw5R0l6dUp0NzhUZGVJc1p1OXJ4eDk0aWV3UmVMbXFhWjFKZGk3SXdneHNBMTZGZUpYVHUySjNOZGhGdVIxLTFsYVRiWG5NVFp6UzRFVnpIVmtnLWpZV3dZTHJyWGdjZm1oRHJ1Q3E1N1dIemJQdkJHUVlSa05LZWlLbEhMOUxQSTh4WXZHYlZiUDNOVVhnc1QxT3EzSzcxLXVzWVMzNmZub2l1d1czMHVqSUN2VUd2R2hVQnRERi04SlZONV93bkoxa0xLOVBLZHE1WUgwLUZxa0NMOXpZZjJFTlZiM1htWVNvbmJKbEHSAZMCQVVfeXFMTjI3NFZzRTd3aHAzQlFIMXBpOThrQWVUcURWYkZ0NDNJZUhKWGxWVEl2LVB2RHdFeDJGanlwUjVfcDJNRU1rZ1FhNU9Db2dlYU5FVDlJSnRVem9NSlVycDJEX3E4b01TZFBaYXBhdVUzNHJOYjlVRFM5VUM5YlRIUHhabi02N0ZqTVJZRmpEbTFaSlk5LTBVaXdkcnkzWEM5T3VoR1poOWRyVGRKVnZUMU1adWxucEc3SFFTSDkxa0Y2TFJCZ1pmUzdDd190Tmc0clBadTVacXc2c3oyN0U4OU82S3JrOHdVbTFyZm9lVkdYeHhQbDQwcGRRNFBrYVBRVlBaOEVZWmE5NVg4N0pwYzFwYzQ?oc=5",
@@ -343,15 +340,15 @@
       "severity": "major"
     },
     {
-      "uid": "9b4cdbc3f2c8",
-      "title": "Interest rates to fees: Axis Bank credit card rule changes start Friday - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWN4Zjhia2xWdUZNd0tPV0I2bzYzUk9VOTRfUHZWV3VTaE10bG82VXR0OVU2ZEd2eWpKYjNwNy1aVTkyWGhZV3lYNVZoeG5Xc0pkNnBHRjl4dmxBNUZVUXpHMm56bW9WWVk2TDlIV19WMHlZTEIwUHNEOHloT0JRWnN6elh4NEJrU3VyZE9EN1dTVEE5aFZtWTRDbHRGTnZzTU5oRTBTU3ZqdUxQbFlyOWNfb2FQa2JCYVdWZmN1Yy1QZVlwaFMxNXZZWkd6Y2F4VU1uMU94VXFPSW91ay1VWG1fY9IB6AFBVV95cUxPT0txNmlrSTBHcXlmaVc2c2h4SnZMLUoxMXMxRXExcGlfSDRZVWNURldvZ05SSlgzRlhXUFo4cTFaWVJvY2xJMFVTWFRNeDVfb3FVOVg2RjhiUEI2TVVUUlZYRUlydm51MnZJZ2dTdFc1c2xOS0lqTUhDVGhxVm5vUDFmeENhd0ZGOVZKX3l5QzZZOU9lMFlxLWZEY25FY2VqcGY0MGpIWTY5U3NlVTlDeUhScHNxTDdNeFNNcWhTZ2JmZmdzdVF6YmtMQ2VCLXVneHMzbGRHZjRMUTBTUDRpOXVTQ3FVQ05H?oc=5",
+      "uid": "cf0a8bda3a1c",
+      "title": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access - economictimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONTFyT3Z2andpN1hWN3dGTEhyb1NXUUdTNVhubGMwbHItQ2p6SVJEUkJhUzRXazltZWlkSXh4dmxMOHc4OFNuekNqU0xrMHQ1bXMxT2Zyazl6MnQ1NzQ0R096NUZiYm9DOGlYR0trM0o2d0N2dUxSa3N3T3M0UnE1MjZTcF9zclpGSlFnTklmUjdpU2V6emlGRnJROWUzdUVEMVhDWno0YVZHbVJ5Y1IyOTc1LW1SZGk2M19qcG1rNjg0UGZGLVdBSDlIRGhlX0gweTBDYjlydFUxbWlWNWdBVGM4bnVGakZ5UUFFTWw4OENVRVRnTzdiemZZVDlMVnBINFZhLWZrZk_SAY4CQVVfeXFMTURHQUlxR0RsZkZIa0d4Q000dENrWGtJYTMzTnIxQTZ2Tm16N1ZmRXFnME52NkZTN2xXQU5jUHYtWHkwSS1LaF8tZkRlTEVzaGRGM1dQU3dMT1RMbVJkeFllU1puQjd6bEZzY3A3bEJIamFtbDd3MURoRlBxVXdPVGxaMEZfRENBUHhENm1jU3BiS0pZdkpCVkhXVjNqSk1CWUlMRE9ZczRoWmpjNmJQQUdUYTk2NlpmNUpzSFYzaWFubWFOa3lrZkwtWXlkeENaT0wxeEFoNXhSQkpFZlVIN0lPSkVvbGFfbUJKdGUxSUdkQW00blJZUTN0aHhJMTFpNlJiZ0FkNFVPaDRyeUp3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2024-12-19T08:00:00+00:00",
-      "snippet": "Interest rates to fees: Axis Bank credit card rule changes start Friday Business Standard",
+      "published": "2024-12-18T08:00:00+00:00",
+      "snippet": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access economictimes.com",
       "severity": "major"
     },
     {
@@ -388,6 +385,18 @@
       ],
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "severity": "critical"
+    },
+    {
+      "uid": "c228365c4cab",
+      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2023-06-16T07:00:00+00:00",
+      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
