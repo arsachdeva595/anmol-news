@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T03:28:25.412600+00:00",
-  "count": 34,
+  "generated_at": "2026-08-17T03:28:43.281397+00:00",
+  "count": 35,
   "devaluations": [
     {
       "uid": "d0f97b7ba794",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-16T03:28:11.985892+00:00",
+      "published": "2026-08-17T03:28:31.173143+00:00",
       "snippet": "Enjoy rewards worth up to INR400,000, including iPhones, MakeMyTrip vouchers, Amazon vouchers and more, with HSBC credit cards.",
       "severity": "major"
     },
@@ -22,7 +22,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-16T03:28:11.985892+00:00",
+      "published": "2026-08-17T03:28:31.173143+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -171,24 +171,24 @@
     },
     {
       "uid": "316a5a06996a",
-      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - livemintmoney.com",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
       "source": "Google News / benefit",
       "issuers": [
         "IndusInd Bank"
       ],
       "published": "2026-06-05T07:00:00+00:00",
-      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details livemintmoney.com",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
       "severity": "major"
     },
     {
       "uid": "51eb98d6ec3f",
-      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - livemintmoney.com",
+      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
-      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July livemintmoney.com",
+      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
       "severity": "critical"
     },
     {
@@ -215,46 +215,36 @@
     },
     {
       "uid": "ba8476c40031",
-      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - livemintmoney.com",
+      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here livemintmoney.com",
+      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
       "severity": "major"
     },
     {
       "uid": "e1c3c58360dd",
-      "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
+      "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - cnbctv18.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-04-06T07:00:00+00:00",
-      "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18",
-      "severity": "major"
-    },
-    {
-      "uid": "81b875a9ce39",
-      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - caclubindia.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 caclubindia.com",
+      "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards cnbctv18.com",
       "severity": "major"
     },
     {
       "uid": "fd3b6890bf8e",
-      "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
+      "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - cnbctv18.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-03-13T07:00:00+00:00",
-      "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates CNBC TV18",
+      "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates cnbctv18.com",
       "severity": "major"
     },
     {
@@ -271,14 +261,14 @@
     },
     {
       "uid": "66038b0414b8",
-      "title": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed - CNBC TV18",
+      "title": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed - cnbctv18.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWDVTZzFhcXBtNmp4ZnkzUm9zT2daM2pDNzNzUEZtaWJxdEtUdWcyT1FUYTUtdE1pN2xmMUwxZlFxM2NyZTUyZmN5TU9jZEl6aHJSQ3dST0V4N2pNZ2I0ZFg4YUVpazdGbHpYeF9LZC00Vm5MY2Q4ZXRPVTlDS3RpVTFoQXZlY2ViSExHb0p2c0FseE4zSnd2MzFBWGszR2s5MG9PRzBpLWpsTnRsR1RsdGk4c0oyUWI3Vkdya1U4bXNHWEljSWIwR0Rha2l0QWtnemxkWVl0aU1kYy050gHiAUFVX3lxTE9SRVdWcldYVXRfaU5RcEhKRGJvdVlRRXNKYjN4c1g4ZERqUDZ6X2hUWVBZOEx5MXExZXZJN0lTcktJV3haWGphMFRyMVhLcEdYUzRpMldwd2lQc2l4V0VIWkNFQzhIUHdyYlFYeFVMdzVPcmk2VVotMllHMUs1X01DVTVPZVR1OTJsYjRsNHNPWjd3Z2dhMTRjN0xTRE5vVkpzQnVwWTM1dndLUnp3S0xtX0R4LXdxbmJ3dW1LNjF5Zi04MzgyLTBOdDJyRTd0Sk5JTHhyUzNWQWNqTi1TREtrOXc?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2026-03-11T07:00:00+00:00",
-      "snippet": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed CNBC TV18",
+      "snippet": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed cnbctv18.com",
       "severity": "critical"
     },
     {
@@ -305,27 +295,39 @@
     },
     {
       "uid": "43da3d1eb0eb",
-      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - economictimes.com",
+      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXF3TkI0cUlHejhzSm1iMHVyZEdLS01NTDkwX0EzWmw2dExCWWhHS1lCZ2l0TlNrWDMyQWJqQ2ZWbkZaVXpOTTdkMnVVUENTeTlJb0pNQTJnRWVQaHVZTTNiTmFqOWtKekJUX1lnVUFiblZWVDZHeVgzcGRsemN6S0hmM3ZSVTV2N01xRTJxeEk5WVJQYlV4blNoN3pxZHZOTGloLXNYZEhFVUxJT1QwLVE1Yk00ZnNVRm1SXzRVU0NnaUVzYmNDaUdPdGRKYmpRUERiNmRmWm1nakQ4OWdIMFE0UU9KSm5aQnFiRjRUT3NRVXlxd3hV0gH8AUFVX3lxTFBQX3pQQ1ZCTmFyYS1kWVJlRmZ2MzN6TXd4TW9mSTllSkcwcFZjUU5kdGJOdkJmRm9vUmNkSzVtSDRxWEI0N0dod3VzVkQtMjRSVG1GWTFkWXNyc2MwZkNGWFg3bVBURG5VYm5wQzRVTUVqMFZadlB2UDRNVklMZmZ4WlRyWlZybnE5a0JCYVRBU1FNUDNsRnZ2bFRoVTMxTWtZZWpSR3AzQWN4WkxucU9JUDBFWk1SdG9oQzB3bnJMVkRZbmdMaVhZSVplSVRWN0xnN3hnMGdEa1ZtZW9HME9kX1ZzTWlfc05ZZ1lESFltanVmTFdSS3pLbnVtMg?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "SBI Card"
       ],
       "published": "2026-02-27T08:00:00+00:00",
-      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co economictimes.com",
+      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
       "severity": "major"
     },
     {
       "uid": "9b4843ec7e80",
-      "title": "Axis Bank's credit card new rules: Changes from June to October 2025 explained - CNBC TV18",
+      "title": "Axis Bank's credit card new rules: Changes from June to October 2025 explained - cnbctv18.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVnhEclpsSVBEWVBMM0ZlZUJzX19mUzloRnZiMW1qNjhleUZMYWFOZnkySU9GNkFPenpjU3p2alExYzhBY3htX283VTJFakVjQ2x1WFRaQzFTbjRXb1JnYUMxemg1MkVaNEFsN0NSeEdTbFFLand4c3dxUEMyMmNTWm0zaWhKVDhMdUtxakh0UGdJLXA4OGVyTDFMeUZSUnU4RzFDYTZ2dVZ0dWpIYmN1RENnNXFQRWNTcXZJdTlQSDg1LW44UzREREJmTkJYZG5wMEZoMWhGLVM2VjkzV090UNIB5gFBVV95cUxONlpFS1BFMjMwSnYwdFNOZWg0TzFKTzRMX1A1b1hZbUFYaXl6WXU3TzhLWkxGNXZuVXFIY0JUS2JTUW10M2Q4OVZZekttNFZtRXo1V2E5aHdtdExsR3BMQk1PdThiNVJfc2pVRWhPOE5IX0QtaVU2Wk5EcE5acDk4M2VJdy1oTmxSamFSMHZ2VkZWTEMtQm4wb09CODNWdXUyVmFoTnMyS2NnUi1kQzJVOUp1M0ZyUHJlRl9IcGp3Z0hlM3FEWFV4RUIwSVN3ZTQ5a3U2LXc2UmV1RU5OVmRibVViWXM1Zw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-05-23T07:00:00+00:00",
-      "snippet": "Axis Bank's credit card new rules: Changes from June to October 2025 explained CNBC TV18",
+      "snippet": "Axis Bank's credit card new rules: Changes from June to October 2025 explained cnbctv18.com",
       "severity": "major"
+    },
+    {
+      "uid": "122683528444",
+      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2025-02-22T08:00:00+00:00",
+      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
+      "severity": "critical"
     },
     {
       "uid": "42139014420f",
@@ -340,15 +342,27 @@
       "severity": "major"
     },
     {
+      "uid": "9b4cdbc3f2c8",
+      "title": "Interest rates to fees: Axis Bank credit card rule changes start Friday - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWN4Zjhia2xWdUZNd0tPV0I2bzYzUk9VOTRfUHZWV3VTaE10bG82VXR0OVU2ZEd2eWpKYjNwNy1aVTkyWGhZV3lYNVZoeG5Xc0pkNnBHRjl4dmxBNUZVUXpHMm56bW9WWVk2TDlIV19WMHlZTEIwUHNEOHloT0JRWnN6elh4NEJrU3VyZE9EN1dTVEE5aFZtWTRDbHRGTnZzTU5oRTBTU3ZqdUxQbFlyOWNfb2FQa2JCYVdWZmN1Yy1QZVlwaFMxNXZZWkd6Y2F4VU1uMU94VXFPSW91ay1VWG1fY9IB6AFBVV95cUxPT0txNmlrSTBHcXlmaVc2c2h4SnZMLUoxMXMxRXExcGlfSDRZVWNURldvZ05SSlgzRlhXUFo4cTFaWVJvY2xJMFVTWFRNeDVfb3FVOVg2RjhiUEI2TVVUUlZYRUlydm51MnZJZ2dTdFc1c2xOS0lqTUhDVGhxVm5vUDFmeENhd0ZGOVZKX3l5QzZZOU9lMFlxLWZEY25FY2VqcGY0MGpIWTY5U3NlVTlDeUhScHNxTDdNeFNNcWhTZ2JmZmdzdVF6YmtMQ2VCLXVneHMzbGRHZjRMUTBTUDRpOXVTQ3FVQ05H?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-12-19T08:00:00+00:00",
+      "snippet": "Interest rates to fees: Axis Bank credit card rule changes start Friday Business Standard",
+      "severity": "major"
+    },
+    {
       "uid": "cf0a8bda3a1c",
-      "title": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access - economictimes.com",
+      "title": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONTFyT3Z2andpN1hWN3dGTEhyb1NXUUdTNVhubGMwbHItQ2p6SVJEUkJhUzRXazltZWlkSXh4dmxMOHc4OFNuekNqU0xrMHQ1bXMxT2Zyazl6MnQ1NzQ0R096NUZiYm9DOGlYR0trM0o2d0N2dUxSa3N3T3M0UnE1MjZTcF9zclpGSlFnTklmUjdpU2V6emlGRnJROWUzdUVEMVhDWno0YVZHbVJ5Y1IyOTc1LW1SZGk2M19qcG1rNjg0UGZGLVdBSDlIRGhlX0gweTBDYjlydFUxbWlWNWdBVGM4bnVGakZ5UUFFTWw4OENVRVRnTzdiemZZVDlMVnBINFZhLWZrZk_SAY4CQVVfeXFMTURHQUlxR0RsZkZIa0d4Q000dENrWGtJYTMzTnIxQTZ2Tm16N1ZmRXFnME52NkZTN2xXQU5jUHYtWHkwSS1LaF8tZkRlTEVzaGRGM1dQU3dMT1RMbVJkeFllU1puQjd6bEZzY3A3bEJIamFtbDd3MURoRlBxVXdPVGxaMEZfRENBUHhENm1jU3BiS0pZdkpCVkhXVjNqSk1CWUlMRE9ZczRoWmpjNmJQQUdUYTk2NlpmNUpzSFYzaWFubWFOa3lrZkwtWXlkeENaT0wxeEFoNXhSQkpFZlVIN0lPSkVvbGFfbUJKdGUxSUdkQW00blJZUTN0aHhJMTFpNlJiZ0FkNFVPaDRyeUp3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2024-12-18T08:00:00+00:00",
-      "snippet": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access economictimes.com",
+      "snippet": "Axis Bank credit card changes from December 20, 2024: Rule changes in reward points, airport lounge access The Economic Times",
       "severity": "major"
     },
     {
