@@ -52,7 +52,7 @@ This writes `feed.json` in the same directory. Open `index.html` in a browser to
 | Reddit | r/CreditCardsIndia, r/IndiaInvestments, r/personalfinanceindia |
 | Twitter/X | 6 handles via Nitter mirrors (best-effort) |
 | Forum | TechnoFino Community |
-| Issuer offer pages | Axis Bank, HSBC, Kotak, BOBCard, SBI Card, ICICI Bank — scraped daily via `issuer_offers.py`, see below |
+| Issuer offer pages | Axis Bank, HSBC, Kotak, BOBCard, SBI Card, ICICI Bank, HDFC — scraped daily via `issuer_offers.py`, see below |
 
 ### Issuer offer pages (`issuer_offers.py`)
 
@@ -64,19 +64,20 @@ advertising today, not just what bloggers wrote about.
 **Scope: credit card offers only.** Several issuer pages mix in debit-card
 and net-banking offers alongside credit card ones — each parser filters on
 whatever payment-method signal that source exposes (Axis's per-card tag,
-ICICI's `paymentGatewayValue` field, a text heuristic for HSBC). BOBCard and
-SBI Card need no filtering since both entities issue credit cards only.
-Kotak needed the opposite fix: its bare `/offers.html` silently defaults to
-just the "Credit Card EMI" bucket, missing a second, entirely disjoint
-"Credit Card" bucket — both are now fetched and merged, and
-`paymentType=debit` is never queried.
+ICICI's `paymentGatewayValue` field, a text heuristic for HSBC, HDFC's
+`applicableCards` list). BOBCard and SBI Card need no filtering since both
+entities issue credit cards only. Kotak needed the opposite fix: its bare
+`/offers.html` silently defaults to just the "Credit Card EMI" bucket,
+missing a second, entirely disjoint "Credit Card" bucket — both are now
+fetched and merged, and `paymentType=debit` is never queried.
 
 A source qualifies if real offer data is reachable via a plain `requests`
 call — no headless browser needed at run time — as server-rendered DOM
-(Axis, HSBC, Kotak), a JSON/JS variable embedded in an inline `<script>`
-(BOBCard, SBI Card), or a JSON API endpoint the page's own JS calls (ICICI —
-found via a one-off Playwright network-inspection session; the endpoint
-itself just takes a plain GET, so no browser is needed at run time):
+(Axis, HSBC, Kotak, ICICI Bonanza), a JSON/JS variable embedded in an inline
+`<script>` (BOBCard, SBI Card), or a JSON API endpoint the page's own JS
+calls (ICICI's main offers feed and HDFC — both found via a one-off
+Playwright network-inspection session; each endpoint itself just takes a
+plain GET, so no browser is needed at run time):
 
 | Issuer | Page |
 |---|---|
@@ -87,6 +88,7 @@ itself just takes a plain GET, so no browser is needed at run time):
 | SBI Card | https://www.sbicard.com/en/personal/offers.page |
 | ICICI Bank | icici.bank.in's offer-search JSON API (small, ~5 curated offers) |
 | ICICI Bank (Bonanza) | https://www.icici.bank.in/campaigns/bonanza/index (~100 offers, static HTML) |
+| HDFC (SmartBuy) | offers.smartbuy.hdfc.bank.in's tRPC API (~165 offers) — a separate rewards platform from HDFC's own bank site |
 
 Many issuers now also serve the same offers page from a newer
 `<issuer>.bank.in` domain (RBI's bank-domain initiative). Axis, Kotak, HSBC,
@@ -99,7 +101,7 @@ public web, in any form:
 
 | Issuer | Reason excluded |
 |---|---|
-| HDFC Bank | Grid is client-side JS with nothing embedded (hdfcbank.com is also Akamai bot-blocked; hdfc.bank.in loads but is empty) |
+| HDFC Bank's own site (not SmartBuy) | hdfcbank.com is Akamai bot-blocked; hdfc.bank.in loads but the grid is client-side JS with nothing embedded. Its separate SmartBuy rewards platform is what's actually covered — see table above. |
 | Yes Bank | SPA shell that resolves to a 404 template |
 | IndusInd Bank | Confirmed via full headless-browser render (Playwright, networkidle wait) — zero offer content anywhere on any URL variant tried. Not a rendering problem, there's just nothing there. |
 | AU Small Finance Bank | Bot-block (403) on every domain tried |

@@ -11,26 +11,40 @@ plain `requests` call — no headless browser needed at run time — as
 server-rendered DOM (Axis, HSBC, Kotak, and ICICI's second source,
 campaigns/bonanza), a JSON/JS variable embedded in an inline <script>
 (BOBCard, SBI Card), or a JSON API endpoint the page's own JS calls
-(ICICI's first source, /offers — found via a one-off Playwright
-network-inspection session, not a rendering *requirement*: the endpoint
-itself takes a plain GET, so no browser is needed at run time):
+(ICICI's first source, /offers, and HDFC — both found via a one-off
+Playwright network-inspection session, not a rendering *requirement*:
+each endpoint itself takes a plain GET, so no browser is needed at run
+time):
 
-    Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card, ICICI Bank
+    Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card,
+    ICICI Bank, HDFC
 
 ICICI has two independent sources: /offers (a small ~5-offer curated
 JSON feed) and /campaigns/bonanza (a much larger ~100-offer static HTML
 page, user-supplied) — both feed into deals.json under the same issuer.
 
+HDFC's own hdfcbank.com/hdfc.bank.in "offers" pages remain genuinely
+inaccessible (see excluded list below) — what actually works is a
+*separate* platform, offers.smartbuy.hdfc.bank.in (user-supplied), HDFC's
+SmartBuy rewards site. Its /v2/foryou page only server-renders a small
+carousel, but that's backed by a tRPC endpoint
+(obopChoiceList.getObopOffers) returning the full ~200-offer catalog as
+plain JSON — found the same way as ICICI's endpoint.
+
 Scope: credit card offers only. Several issuer pages mix in debit-card
 and net-banking offers, so each parser filters on whatever payment-method
 signal is available — Axis's per-card tag, ICICI's `paymentGatewayValue`
-field, a text heuristic for HSBC (no tag exposed there). BOBCard and SBI
-Card need no filtering: both entities issue credit cards only, and
-neither's data has any debit/net-banking offers to filter out. Kotak
-needed the opposite fix — its bare /offers.html silently defaults to
-just the "Credit Card EMI" bucket, missing the disjoint plain "Credit
-Card" bucket entirely (both are now fetched via `urls`, see
-ISSUER_OFFER_SOURCES; `paymentType=debit` is never fetched).
+field, a text heuristic for HSBC (no tag exposed there), HDFC's
+`applicableCards` list (denylist of confirmed non-credit tags — "ALL
+DEBIT CARDS", "PAYZAPP", "CONSUMER LOANS" — since the credit-eligible
+side is dozens of specific card-product names like "INFINIA"/"REGALIA"
+that aren't practical to enumerate as an allowlist). BOBCard and SBI Card
+need no filtering: both entities issue credit cards only, and neither's
+data has any debit/net-banking offers to filter out. Kotak needed the
+opposite fix — its bare /offers.html silently defaults to just the
+"Credit Card EMI" bucket, missing the disjoint plain "Credit Card" bucket
+entirely (both are now fetched via `urls`, see ISSUER_OFFER_SOURCES;
+`paymentType=debit` is never fetched).
 
 Also confirmed: many issuers now serve the *same* offers page from a
 newer "<issuer>.bank.in" domain (RBI's bank-domain initiative) — Axis,
@@ -38,12 +52,14 @@ Kotak, HSBC, Amex were all re-checked there and returned byte-identical
 content to their .com equivalents, so no functional difference. HDFC's
 `.bank.in` offers page is the one exception: it's no longer bot-blocked
 there (unlike hdfcbank.com), but the grid is still client-side JS with
-no usable data embedded anywhere in the response, so it stays excluded.
+no usable data embedded anywhere in the response — offers.smartbuy.hdfc.
+bank.in (a different subdomain/platform, see above) is what actually
+covers HDFC's offers, not this main-site page.
 
 Checked and excluded, with reason:
-    HDFC Bank              — offers grid is client-side JS, no embedded
-                              data (hdfcbank.com is Akamai bot-blocked;
-                              hdfc.bank.in loads but has nothing static)
+    HDFC Bank's own offers  — hdfcbank.com is Akamai bot-blocked;
+    page (not SmartBuy)       hdfc.bank.in loads but the grid is
+                               client-side JS with nothing embedded
     Yes Bank                 — SPA shell that resolves to a 404 template;
                                 no offer data anywhere in the response
     IndusInd Bank            — confirmed via full headless-browser render
@@ -374,6 +390,54 @@ def _parse_icici_bonanza(html_text: str, base_url: str) -> list[dict]:
     return out
 
 
+# HDFC's applicableCards taxonomy is a fixed, small set (confirmed by
+# fetching the full ~203-offer catalog) — everything else observed there
+# (specific card names like "INFINIA", "REGALIA", "DINERS BLACK", "TATA NEU
+# PLUS/INFINITY", or the "ALL ... CREDIT ..." buckets) is credit-card
+# eligible, so this is a denylist rather than an allowlist.
+_HDFC_NON_CREDIT_CARD_TAGS = {"ALL DEBIT CARDS", "PAYZAPP", "CONSUMER LOANS"}
+
+
+def _parse_hdfc_smartbuy(json_text: str, base_url: str) -> list[dict]:
+    # offers.smartbuy.hdfc.bank.in/v2/foryou only server-renders a small
+    # carousel; the real ~200-offer catalog comes from this tRPC endpoint
+    # (found via network inspection), which itself just takes a plain GET —
+    # no browser needed at run time. `campaignCount`/`choiceCount` in the
+    # query plateau at the true total (~203) however high they're set.
+    try:
+        data = json.loads(json_text)
+        items = data[0]["result"]["data"]["json"]["items"]
+    except Exception:
+        return []
+    out = []
+    for it in items:
+        item = it.get("item", {})
+        merchant = (item.get("name") or "").strip()
+        offer = item.get("offers") or {}
+        title = (offer.get("name") or "").strip()
+        if not merchant or not title:
+            continue
+        applicable = offer.get("applicableCards") or []
+        if applicable and all(c in _HDFC_NON_CREDIT_CARD_TAGS for c in applicable):
+            continue
+        if merchant.lower() not in title.lower():
+            title = f"{merchant}: {title}"
+        desc_html = offer.get("description") or ""
+        desc = BeautifulSoup(desc_html, "html.parser").get_text(" ", strip=True)
+        props = offer.get("properties") or {}
+        # base_url here is the tRPC API endpoint itself — not something to
+        # ever show a person — so ~16% of offers lacking their own direct
+        # merchant link (props.url) fall back to the real human-facing page.
+        out.append({
+            "title": title,
+            "description": desc,
+            "url": props.get("url") or "https://offers.smartbuy.hdfc.bank.in/v2/foryou",
+            "promo_code": props.get("redemptionCode") or None,
+            "valid_till": _parse_valid_till(offer.get("validTo") or ""),
+        })
+    return out
+
+
 _BOBCARD_OFFER_RE = re.compile(
     r'"OfferId":"(?P<id>[^"]*)".*?'
     r'"OfferTitle":"(?P<title>.*?)","OfferShortDescription":"(?P<desc>.*?)",'
@@ -465,6 +529,18 @@ ISSUER_OFFER_SOURCES = [
         "issuer": "ICICI Bank",
         "url": "https://www.icici.bank.in/campaigns/bonanza/index",
         "parser": _parse_icici_bonanza,
+    },
+    {
+        "name": "HDFC Bank SmartBuy Offers",
+        "issuer": "HDFC",
+        "url": (
+            "https://offers.smartbuy.hdfc.bank.in/v2/api/trpc/obopChoiceList.getObopOffers"
+            "?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22category%22%3A%22All%22%2C"
+            "%22location%22%3A%7B%22city%22%3A%22%22%2C%22cityES%22%3A%22%22%7D%2C%22details"
+            "%22%3Afalse%2C%22campaignCount%22%3A500%2C%22choiceCount%22%3A500%2C"
+            "%22includeCampaigns%22%3Atrue%2C%22obopHashedMobile%22%3A%22%22%7D%7D%7D"
+        ),
+        "parser": _parse_hdfc_smartbuy,
     },
 ]
 

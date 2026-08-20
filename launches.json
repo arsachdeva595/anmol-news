@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T07:01:12.854969+00:00",
-  "count": 18,
+  "generated_at": "2026-08-20T07:31:41.325605+00:00",
+  "count": 19,
   "launches": [
     {
       "uid": "5e453b41acb6",
@@ -45,6 +45,17 @@
       ],
       "published": "2026-08-10T07:00:00+00:00",
       "snippet": "EazyDiner and IndusInd Bank launch a lifetime-free RuPay credit card for dining and entertainment Hotelier India"
+    },
+    {
+      "uid": "8a3c485de505",
+      "title": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards - business-standard.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeW9JdkpadjNIWjdyVm5fdEVLSnFaSFBJTWMyeU5fZ09JU25oai1NMXZDaW5Bdl9VQldWVS1NekJrNlJQQk9BUmpXeGo2V1gxYU9vU2hhbGc0UHRYbXozY3Y3cnNKbUNOc2RuOHJpSTV5ZHdDY2pZbFV5aFFvN2xKU1BGa2N3VjJBdlJkMENoUHBPQ1FRUFZybW1RNGJnRzNRS2lGSk1XVGxmQ3lvLWI5bjdhRUNsWHNLZk8zSFJEUlgwVnNqM0FZdDhNUjZyam84eVBoLWFSRF8yVFdqd0M2U0gwZW55QdIB6wFBVV95cUxOS1IzanAzY01BclNGMGpDNkJJT05RNGlsdDFuRnpvX0toV2NXYjMwVk04bXA2cU50NUxtdWlUNDJ2TFFXemV5S3o5TkY4dURORDZkRE9ZRHMyRW1nbFBNdklRRXgzVGtnYkcxRW5ZUURfV2JPTWZsM3hCbEQ3Z2I4VkxRUEdXdFJMc2R2b3pjQ1JMTFJGMEdSYnE0WTJ5QlBqbE1sWTluWHZSSU1lZVlvQmZtQXdTendCemt3eEpkdTExOXg5a09RMjBsX3ZHNWJWUmRKVzBlLWZEVHZ2VG1FOHNMUUdzMVZpcW1F?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-07-30T07:00:00+00:00",
+      "snippet": "SBI Card, Google Pay launch new credit card with Rs 18,000 annual rewards business-standard.com"
     },
     {
       "uid": "ac8ff76d079b",
