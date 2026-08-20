@@ -86,6 +86,7 @@ itself just takes a plain GET, so no browser is needed at run time):
 | BOBCard | https://www.bobcard.co.in/credit-card-offers |
 | SBI Card | https://www.sbicard.com/en/personal/offers.page |
 | ICICI Bank | icici.bank.in's offer-search JSON API (small, ~5 curated offers) |
+| ICICI Bank (Bonanza) | https://www.icici.bank.in/campaigns/bonanza/index (~100 offers, static HTML) |
 
 Many issuers now also serve the same offers page from a newer
 `<issuer>.bank.in` domain (RBI's bank-domain initiative). Axis, Kotak, HSBC,

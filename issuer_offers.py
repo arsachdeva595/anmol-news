@@ -8,13 +8,18 @@ Coverage note
 Every major Indian card issuer's public offers page was checked for
 feasibility. A source qualifies if real offer data is reachable via a
 plain `requests` call — no headless browser needed at run time — as
-server-rendered DOM (Axis, HSBC, Kotak), a JSON/JS variable embedded in
-an inline <script> (BOBCard, SBI Card), or a JSON API endpoint the
-page's own JS calls (ICICI — found via a one-off Playwright network-
-inspection session, not a rendering *requirement*: the endpoint itself
-takes a plain GET, so no browser is needed at run time):
+server-rendered DOM (Axis, HSBC, Kotak, and ICICI's second source,
+campaigns/bonanza), a JSON/JS variable embedded in an inline <script>
+(BOBCard, SBI Card), or a JSON API endpoint the page's own JS calls
+(ICICI's first source, /offers — found via a one-off Playwright
+network-inspection session, not a rendering *requirement*: the endpoint
+itself takes a plain GET, so no browser is needed at run time):
 
     Axis Bank, HSBC, Kotak, BOB Financial (BOBCard), SBI Card, ICICI Bank
+
+ICICI has two independent sources: /offers (a small ~5-offer curated
+JSON feed) and /campaigns/bonanza (a much larger ~100-offer static HTML
+page, user-supplied) — both feed into deals.json under the same issuer.
 
 Scope: credit card offers only. Several issuer pages mix in debit-card
 and net-banking offers, so each parser filters on whatever payment-method
@@ -306,6 +311,69 @@ def _parse_icici(json_text: str, base_url: str) -> list[dict]:
     return out
 
 
+def _parse_icici_bonanza(html_text: str, base_url: str) -> list[dict]:
+    # A second, much larger ICICI offers page (campaigns/bonanza) — fully
+    # static HTML, unlike /offers. Each div.offertext holds one or more
+    # offers as (h6 title, p validity/payment-method, a.track-offer[href]
+    # or h3.nobtndiv "visit store" text) sibling groups, not one-per-container.
+    soup = BeautifulSoup(html_text, "html.parser")
+    out = []
+    for block in soup.select("div.offertext"):
+        # The "podium" highlight boxes at the top of the page put the
+        # product name only in a sibling logo image's alt text (e.g. "iPhone
+        # 17"), never in the visible h6/p copy — without this, several
+        # offers there collapse into indistinguishable bare amounts like
+        # "₹3,000 instant cashback".
+        logo_img = block.parent.select_one("div.offerlogo img[alt]") if block.parent else None
+        merchant = (logo_img.get("alt") or "").strip() if logo_img else ""
+
+        children = block.find_all(["h6", "p", "a", "h3"], recursive=False)
+        i = 0
+        while i < len(children):
+            if children[i].name != "h6":
+                i += 1
+                continue
+            title_el = children[i]
+            i += 1
+            p_el, link_el = None, None
+            while i < len(children) and children[i].name != "h6":
+                if children[i].name == "p" and p_el is None:
+                    p_el = children[i]
+                elif children[i].name == "a" and link_el is None:
+                    link_el = children[i]
+                i += 1
+
+            title_text = title_el.get_text(" ", strip=True)
+            promo = None
+            if "Use Code:" in title_text:
+                title_text, _, code = title_text.partition("Use Code:")
+                title_text = title_text.strip()
+                promo = code.strip() or None
+            # Space-insensitive check: alt text is sometimes squashed
+            # ("AppleWatch" for a title already saying "Apple Watch ...").
+            if merchant and merchant.lower().replace(" ", "") not in title_text.lower().replace(" ", ""):
+                title_text = f"{title_text} on {merchant}"
+
+            desc = p_el.get_text(" ", strip=True) if p_el else ""
+            # Credit-card-only scope: the payment-methods line (e.g. "Valid
+            # on Credit Card EMIs" / "Valid on Cardless EMI") is the signal.
+            if "credit card" not in desc.lower():
+                continue
+
+            m = re.search(r"\bto\s+([A-Za-z]+\s+\d{1,2},?\s*\d{4})", desc)
+            valid_till = _parse_valid_till(m.group(1)) if m else _parse_valid_till(desc)
+
+            href = link_el.get("href") if link_el else None
+            out.append({
+                "title": title_text,
+                "description": desc,
+                "url": urljoin(base_url, href) if href else base_url,
+                "promo_code": promo,
+                "valid_till": valid_till,
+            })
+    return out
+
+
 _BOBCARD_OFFER_RE = re.compile(
     r'"OfferId":"(?P<id>[^"]*)".*?'
     r'"OfferTitle":"(?P<title>.*?)","OfferShortDescription":"(?P<desc>.*?)",'
@@ -391,6 +459,12 @@ ISSUER_OFFER_SOURCES = [
         "issuer": "ICICI Bank",
         "url": "https://www.icici.bank.in/content/icicibank.offersearch.json?searchPath=/content/icicibank/in/en/offers&start=0",
         "parser": _parse_icici,
+    },
+    {
+        "name": "ICICI Bank Bonanza Offers",
+        "issuer": "ICICI Bank",
+        "url": "https://www.icici.bank.in/campaigns/bonanza/index",
+        "parser": _parse_icici_bonanza,
     },
 ]
 
