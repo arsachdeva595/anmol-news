@@ -147,9 +147,6 @@ def _is_expired(valid_till_iso: str) -> bool:
 # -----------------------------------------------------------------------------
 
 def _parse_axis(html_text: str, base_url: str) -> list[dict]:
-    # Every card does carry a real per-offer deep link (a.knowmore[href],
-    # verified to resolve with a live 200) but per explicit preference this
-    # links back to the offers hub for every card instead of a per-offer slug.
     soup = BeautifulSoup(html_text, "html.parser")
     out = []
     for card in soup.select("div.compare-card"):
@@ -158,6 +155,7 @@ def _parse_axis(html_text: str, base_url: str) -> list[dict]:
         promo_el = card.select_one("div.offers-code p.code-cont")
         valid_el = card.select_one("span.valid-date-cont")
         tag_el = card.select_one("span.span-cont")
+        link_el = card.select_one("a.knowmore[href]")
         title = title_el.get_text(strip=True) if title_el else None
         if not title:
             continue
@@ -174,7 +172,7 @@ def _parse_axis(html_text: str, base_url: str) -> list[dict]:
         out.append({
             "title": title,
             "description": desc_el.get_text(strip=True) if desc_el else "",
-            "url": base_url,
+            "url": urljoin(base_url, link_el["href"]) if link_el else base_url,
             "promo_code": promo,
             "valid_till": _parse_valid_till(valid_el.get_text(" ", strip=True) if valid_el else ""),
         })
@@ -258,12 +256,14 @@ def _parse_sbicard(html_text: str, base_url: str) -> list[dict]:
             terms = (o.get("text") or o.get("discountBlock") or "").strip()
             if not brand or not terms:
                 continue
+            # offerId (e.g. "Vishal-Mega-Mart-19aug26.page") is itself the
+            # URL slug — verified live: sbicard.com/en/personal/offer/<id>
+            # resolves with a 200 for every sampled id.
+            offer_id = (o.get("offerId") or "").strip()
             out.append({
                 "title": f"{brand.title()}: {terms}",
                 "description": terms,
-                # No public per-offer URL was found in the payload; link
-                # back to the offers hub rather than guess a slug.
-                "url": base_url,
+                "url": urljoin("https://www.sbicard.com/en/personal/offer/", offer_id) if offer_id else base_url,
                 "promo_code": None,
                 "valid_till": o.get("endDate") or None,
             })
