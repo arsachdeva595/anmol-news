@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T03:22:19.349872+00:00",
-  "count": 25,
+  "generated_at": "2026-08-23T03:30:33.835354+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,19 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-22T03:21:59.984997+00:00",
+      "published": "2026-08-23T03:30:18.850856+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "2ea0ced87b9b",
+      "title": "India Will Stop Stamping Boarding Passes At Immigration From September 1",
+      "url": "https://livefromalounge.com/india-will-stop-stamping-boarding-passes-at-immigration-from-september-1/",
+      "source": "LiveFromALounge",
+      "issuers": [],
+      "published": "2026-08-22T15:25:25+00:00",
+      "snippet": "International travellers departing India will no longer need to carry a physical boarding pass to immigration or have it stamped by an immigration officer from September 1, 2026. The Bureau of Immigration is doing away with the requirement across all international airports in the country, in another",
+      "severity": "critical"
     },
     {
       "uid": "6ff38ca45fec",
@@ -49,6 +59,18 @@
       "severity": "major"
     },
     {
+      "uid": "3be630dd5cfe",
+      "title": "American Express Improves Transfer Ratios for Virgin Atlantic and Hilton Honors",
+      "url": "https://cardinsider.com/blog/american-express-improves-transfer-ratios-virgin-atlantic-hilton-honors/",
+      "source": "CardInsider",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-18T10:09:34+00:00",
+      "snippet": "After a series of devaluations for its Indian cardholders, including the recent changes to the American Express Platinum Travel Credit Card, there is finally some good news for Amex users in India. American Express has improved the Membership Rewards transfer ratios for two popular loyalty partners:",
+      "severity": "critical"
+    },
+    {
       "uid": "6f32b4046ad4",
       "title": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkswUjNEWW8tRzY2NkxPTGpQR1JGYUEtUjFlNkdmMV9oS1FaQnp5Z2tadXRBSWo0VVhxVG9iY1g0QzhSLW1wdllaQmJtU1B6dXM5YWhaVk9aZU0xR1BXX3hyVWtpSXVfSHJrdWRuRXhVQzdwSUJuTXVhZlpoWGNjd2ZPQ09wNHhKYzVmUURHQ2xqTzVxNzh0UUNIZTVuUy1aWUwtUmQ1TXRnYmdTRXpCNXFpZWlEOGtRQmxyUVpSWDN1eEtOYVBEeDI3b09EV1dXUFHSAdcBQVVfeXFMT2dmVjloVU9fbHlOOVcxUDdmM2dGeG84OXVQUHBkM24tUnoxZG82dFFPdDhPRnAyZGhiWmZuOTZGdVFMTTRrckhPLUNiclBSQWNaZy0xczNCYlljRjVnNlVKQ2FuZlYzTE9FUnNUVW9uZVl4OGdyTHdZNHprVXpYSnM3ZU53bjlYZEluZTdseDlhM21GSWo2VkY1MWxHRUxEemJpZktIRXh6SFNiaTRGYlBiM3k1YzhQbGUtbXVYWE5nM1RvQU5vaF9mZWx4WUZkSkFiNUZGQ1k?oc=5",
@@ -59,6 +81,30 @@
       "published": "2026-08-18T04:45:40+00:00",
       "snippet": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 CNBC TV18",
       "severity": "major"
+    },
+    {
+      "uid": "aa7514aa6f36",
+      "title": "Scapia ₹20,000 Spend Milestone: What Counts for Lounge Access?",
+      "url": "https://cardmaven.in/scapia-milestone-spend-guide/",
+      "source": "CardMaven",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-08-15T20:12:21+00:00",
+      "snippet": "Scapia now requires ₹20,000 of spending in a billing cycle to unlock Airport Privileges. That’s quite a jump from the old ₹10,000 requirement on the Visa card, especially if Scapia isn’t your primary credit card. Thankfully, you don’t need ₹20,000 of reward-eligible spends. Scapia counts most actual",
+      "severity": "major"
+    },
+    {
+      "uid": "e48caeaa4960",
+      "title": "American Express Platinum Travel Devaluation 2026: What Changed",
+      "url": "https://cardmaven.in/amex-platinum-travel-devaluation-2026/",
+      "source": "CardMaven",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-10T18:22:02+00:00",
+      "snippet": "American Express is making another round of changes to the Platinum Travel Credit Card, around six months after the last devaluation. From 10 September 2026, the ₹1.9 lakh milestone will be removed completely, while the ₹7 lakh milestone will lose its Membership Rewards component in favour of a high",
+      "severity": "critical"
     },
     {
       "uid": "c88348b6e626",
@@ -143,6 +189,18 @@
       "severity": "critical"
     },
     {
+      "uid": "316a5a06996a",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "IndusInd Bank"
+      ],
+      "published": "2026-06-05T07:00:00+00:00",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "severity": "major"
+    },
+    {
       "uid": "51eb98d6ec3f",
       "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
@@ -150,6 +208,18 @@
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
+      "severity": "critical"
+    },
+    {
+      "uid": "cab49c17e317",
+      "title": "What to do with Amex Platinum Travel in 2026?",
+      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
+      "source": "CreditCardz",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-04-15T02:35:39+00:00",
+      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
       "severity": "critical"
     },
     {
@@ -253,6 +323,18 @@
       "published": "2026-02-27T08:00:00+00:00",
       "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
       "severity": "major"
+    },
+    {
+      "uid": "122683528444",
+      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2025-02-22T08:00:00+00:00",
+      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
+      "severity": "critical"
     },
     {
       "uid": "583699af58bf",
