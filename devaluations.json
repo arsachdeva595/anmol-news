@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T03:30:33.835354+00:00",
-  "count": 32,
+  "generated_at": "2026-08-24T03:32:40.404671+00:00",
+  "count": 31,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-23T03:30:18.850856+00:00",
+      "published": "2026-08-24T03:32:26.640790+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -42,7 +42,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-21T12:33:45+00:00",
+      "published": "2026-08-21T12:38:16+00:00",
       "snippet": "Axis Bank credit card rule changes: Check new charges, revised lounge access and reward rules from August 28, 2026 The Economic Times",
       "severity": "major"
     },
@@ -323,18 +323,6 @@
       "published": "2026-02-27T08:00:00+00:00",
       "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
       "severity": "major"
-    },
-    {
-      "uid": "122683528444",
-      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HSBC"
-      ],
-      "published": "2025-02-22T08:00:00+00:00",
-      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
-      "severity": "critical"
     },
     {
       "uid": "583699af58bf",
