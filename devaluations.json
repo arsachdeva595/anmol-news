@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:32:40.404671+00:00",
-  "count": 31,
+  "generated_at": "2026-08-25T03:27:20.531316+00:00",
+  "count": 33,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,8 +10,30 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-24T03:32:26.640790+00:00",
+      "published": "2026-08-25T03:27:03.939737+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
+    {
+      "uid": "3deacba7b25c",
+      "title": "Credit card rewards get harder to earn: The major devaluations of 2026 - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMlNOdUpjQUdaZndlQTJackRuODhUY1dKcXlpUDBUQzBkd2t5S2tMRWtCQXMyYVVob2ZEU09KSi1uS2dQREk5cnRPS3NfSWlPSFB4eVJSdzMxZGdSVGZGaDdyRTF1aTQybWtfV25YNFpaN2l1UG1BY0lXYkVRTm90RDJJOFRkZjZRMXh3clRVSEQ5OWRhd1VXalFLMHBORkxKaGlGcUFyTlh2UzlMVmU4V1YzQU9GV1JmeHNBOHh6NGZaenh2c1lfR0d4UldLVnFkY3A1TFZpSXU0ODg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-08-25T02:34:32+00:00",
+      "snippet": "Credit card rewards get harder to earn: The major devaluations of 2026 Moneycontrol.com",
+      "severity": "critical"
+    },
+    {
+      "uid": "d5926f67fdd0",
+      "title": "HDFC Bank SmartBuy Credit Card Offers",
+      "url": "https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/",
+      "source": "CardInsider",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-08-24T09:23:46+00:00",
+      "snippet": "HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers. Depending on the card type, users can typically earn accelerated rewards (such as 5X or 10X) on eligible t",
       "severity": "major"
     },
     {
@@ -57,18 +79,6 @@
       "published": "2026-08-19T05:02:27+00:00",
       "snippet": "Axis Bank credit card changes from August 28: Markup jumps 133%, reward points rules revised. Check... Moneycontrol.com",
       "severity": "major"
-    },
-    {
-      "uid": "3be630dd5cfe",
-      "title": "American Express Improves Transfer Ratios for Virgin Atlantic and Hilton Honors",
-      "url": "https://cardinsider.com/blog/american-express-improves-transfer-ratios-virgin-atlantic-hilton-honors/",
-      "source": "CardInsider",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-08-18T10:09:34+00:00",
-      "snippet": "After a series of devaluations for its Indian cardholders, including the recent changes to the American Express Platinum Travel Credit Card, there is finally some good news for Amex users in India. American Express has improved the Membership Rewards transfer ratios for two popular loyalty partners:",
-      "severity": "critical"
     },
     {
       "uid": "6f32b4046ad4",
@@ -131,15 +141,27 @@
       "severity": "major"
     },
     {
+      "uid": "5af20fd2ff56",
+      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
+      "severity": "critical"
+    },
+    {
       "uid": "f239e00dd270",
-      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - livemint.com",
+      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? livemint.com",
+      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? Livemint",
       "severity": "major"
     },
     {
@@ -153,18 +175,6 @@
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
       "severity": "major"
-    },
-    {
-      "uid": "5af20fd2ff56",
-      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
-      "severity": "critical"
     },
     {
       "uid": "9552ff847f9f",
@@ -247,16 +257,6 @@
       "severity": "major"
     },
     {
-      "uid": "81b875a9ce39",
-      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
-      "severity": "major"
-    },
-    {
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
@@ -304,12 +304,12 @@
     },
     {
       "uid": "1e6c0e18e697",
-      "title": "Why your premium credit card perks just got devalued: The big squeeze on banks - livemint.com",
+      "title": "Why your premium credit card perks just got devalued: The big squeeze on banks - Livemint",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTlPLUlmWFo1QUd0MFFCTVo0cU9ydl9VUDRlTXhKVEJsN3NRd2FsXzc5NHVDN1c5Z0NMVWlJNTFWT3o2WjdzZVJYQ1EzWVZFM1o5Rm9YTGFoVksycWduNVd3VW1ISms2RnY3ZUUzWVkzd19Qa1lkUTZ3VzBvbDNFV3ZPZUlCNmNTRFZOQnR1Um5IQVB1VEtyRG9GU2RHRDVaanFZUjYybDdGRUdvSl9kVVFqdzV6dGlHelM4UnFXQmRUcUM4eUE3WWxnaDA4Q0RwcUxWNFZ5VE91RnY2Q2xaZURraEgzZ1gyTFI5WktPbENDdGJLMXdCQmVkZG9EV0J2RDdhMHNBVGjSAY4CQVVfeXFMTVN0RV96eDdIWWRpUGRXUG9uaDRzUlUyb2pvZGRwaXZBZnJhUlFDNzl0X2QzTTNnQ1hPcDFMSzhGci1iNFJ4RS1senVBM0pzRnU1SlpZeXJyVF9qcms1azZCNU43LVBQZjlIdjFxalJ3dkhPbVRDZVlSYmF2V2Z0TGVqd3diWjFyZ0ViemZxWjZqRzFVYTAzbTNHaDBnWnNUeVl4WXBQZU1DQmpybUxNcU9hem85Q2xObkp5OE9Ld0lVcW1Sb25XcUxjek1acTRmUmpXczc2UnFkSFUtMElrdmZ1MHpORC1aVUxxTWxMeGUxTUQybE8tN2tIU1cyR2FLd0RudkpjMW02bjh5Zl9B?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-03-02T08:00:00+00:00",
-      "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks livemint.com",
+      "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks Livemint",
       "severity": "critical"
     },
     {
@@ -325,13 +325,25 @@
       "severity": "major"
     },
     {
-      "uid": "583699af58bf",
-      "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - thecore.in",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdrdmRfOC1jTERlc3dOWl9YbUY2NGstZTR1azgxN2piR1ByU19TM0J2UExGc3p1c2ZXamRDWEU3QlRCSmc2c1lXVXJ1R2xPS083ZHdVaTdJS0lsVTlJUUhseWgzbEZqSXBUU1RCMGRXcXQ0cXlaZ25PWms1d2tOTjNfQTNleXlhcDdiUHNZYXNScU9pWWNvWmYwQ2Y2dFg1NktaQlJyaE4?oc=5",
+      "uid": "91efc5138baa",
+      "title": "Top financial changes in August: New UPI rules, RBI repo rate decision and revision in bank credit cards... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSkVRcDk1elFuU3ByQVduNjVLaVBRZ01zcWx5QnJYaGtSeDVzdGptSjEtWDBaMklzaGRXSVB5YUE0SnVjbGg4ZG9EOE9GaVVtUWxOMlFRVTlzSUc5aW03UGdHTTBIUDNYVzhVVjRvTUF3Rm1NZDBBUVVOWVdCWnFxYkctSTk5eS15YjE0bXE0X29STGFzS2pGRlk2TlBTSVhocEF2cjdaM2JtajVNTl9ZU1JlTS10NXE0TWQyeDNDMTRFRjhYSTJQNHlOUVFVUFh5blVBenJQakhyODM1dG9YSk5YRE5ZSlJ3dHJoYjF2ak1uWUZickp0RTVQRHJvZU5BN3dQTnM2Q2xCQnVGbmJN0gGUAkFVX3lxTE82M0VoUVQ1cWRqTE5RbDFmVTgxMEdENzR6T0NSbzQ2dUNldjV5X2lmWl9HMUVTbDdGV1ExSW1KWGZmNGJQaTJ2akxqSUl6UHpyaWU4cENwYURWVGxRb01DbGE1QTFJTDFYUkNxYTR5Y3d2aTVGek9NcXU2bWJDT3FTYXY3Y0hHLWwwMllrMDBJZzRqdUxBYy03a0VpcXFSQVM5SkdzVjhrbks2NkpmcE9MVWpvMDF5YWVYNEtYQjlsVnZ2UXdoM2J3TV9UYllSNjlTRm5oYTRyLUV3YUQxYmZCdmhPbDRMYk10czFvRUJRbmVSYVVWVHZadGtTY05pRkFPQ0lMV2pFZ1E1ZnhHT1UzSFQzbQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
-      "published": "2024-11-20T08:00:00+00:00",
-      "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
+      "published": "2025-08-01T07:00:00+00:00",
+      "snippet": "Top financial changes in August: New UPI rules, RBI repo rate decision and revision in bank credit cards... Moneycontrol.com",
+      "severity": "major"
+    },
+    {
+      "uid": "122683528444",
+      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2025-02-22T08:00:00+00:00",
+      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
       "severity": "critical"
     },
     {
@@ -357,6 +369,18 @@
       ],
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "severity": "critical"
+    },
+    {
+      "uid": "c228365c4cab",
+      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2023-06-16T07:00:00+00:00",
+      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
