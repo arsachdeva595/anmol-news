@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T03:36:21.676151+00:00",
-  "count": 35,
+  "generated_at": "2026-08-27T13:02:06.483833+00:00",
+  "count": 36,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,8 +10,30 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-26T03:36:07.389504+00:00",
+      "published": "2026-08-27T13:01:32.859104+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
+    {
+      "uid": "111c2f6dac06",
+      "title": "American Express India to Discontinue Reward Multiplier Program From September 30, 2026",
+      "url": "https://cardinsider.com/blog/american-express-india-to-discontinue-reward-multiplier-program/",
+      "source": "CardInsider",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-26T12:38:18+00:00",
+      "snippet": "American Express India is discontinuing its Reward Multiplier program from September 30, 2026, bringing an end to the 5X/3X/2X Membership Rewards points earning opportunity on purchases with select brands. The change was communicated to Card Members in an email dated August 26, with American Express",
+      "severity": "critical"
+    },
+    {
+      "uid": "c530b119a0b5",
+      "title": "J&K Bank Revamps Credit Card Portfolio With New Eminent, Platinum & Platinum Privilege Credit Cards",
+      "url": "https://cardinsider.com/blog/jk-bank-revamps-credit-card-portfolio-new-credit-cards/",
+      "source": "CardInsider",
+      "issuers": [],
+      "published": "2026-08-26T10:45:45+00:00",
+      "snippet": "J&K Bank has revamped its credit card portfolio by launching three upgraded credit card variants: Eminent, Platinum, and Platinum Privilege. The new cards are designed for different customer segments, with benefits across travel, dining, shopping, rewards, and lifestyle spends. The three cards targe",
       "severity": "major"
     },
     {
@@ -76,7 +98,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-19T05:02:27+00:00",
+      "published": "2026-08-19T07:00:00+00:00",
       "snippet": "Axis Bank credit card changes from August 28: Markup jumps 133%, reward points rules revised. Check... Moneycontrol.com",
       "severity": "major"
     },
@@ -219,6 +241,18 @@
       "severity": "major"
     },
     {
+      "uid": "316a5a06996a",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "IndusInd Bank"
+      ],
+      "published": "2026-06-05T07:00:00+00:00",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "severity": "major"
+    },
+    {
       "uid": "51eb98d6ec3f",
       "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
@@ -227,16 +261,6 @@
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
       "severity": "critical"
-    },
-    {
-      "uid": "043955099a78",
-      "title": "8th Pay Commission: Salary revision every 5 years, 6% annual hike on Staff Side’s wishlist - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlJHMGc5WmNRWm52VnN1cDlobGl4WlBxRE1xaVZsMzFpb2J3WllQejlZZVA5UG5GbjhtS0ZtYkYxTkdmR2RfUkdKWEp6dlZmRDQwNFdSVWs5LUF1WlpSUlNwT1Z3LWtSbVhZTTkwUDg4bGs0bUh3M3VucEVnckpMcW03akoxQVlLSmVFM1pXNDRiN3ZJa1ZvRHZBWnM3UncyWkRsWEVma3Axa3dYdFpzOURpTHdjay1fVkpWMXVLcDY1dXFNX2hYaDRuMDgwNmVjemJfYWlIT1E5akQ2Mzl0MjlGUnpFSDh5Zy1CajZ3MWo?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-05-20T07:00:00+00:00",
-      "snippet": "8th Pay Commission: Salary revision every 5 years, 6% annual hike on Staff Side’s wishlist Upstox",
-      "severity": "major"
     },
     {
       "uid": "cab49c17e317",
@@ -263,18 +287,6 @@
       "severity": "major"
     },
     {
-      "uid": "e1c3c58360dd",
-      "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-04-06T07:00:00+00:00",
-      "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18",
-      "severity": "major"
-    },
-    {
       "uid": "81b875a9ce39",
       "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
@@ -295,18 +307,6 @@
       "severity": "major"
     },
     {
-      "uid": "bd3baeb9f1c8",
-      "title": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2NHVzVRSDZ6djZqQ2QyVlhjS01LQW1BN0ZxMGNNWDh5eGdDTnl6NHRXTzI2TWNJRDZqOXhrbE5MOVNRRHRGem5ubk9YX1hJOHJfdzVuZlNvS0QtOVBwT3dsWnFidEk1RTM3eWJycGVLemViYVE1RnpRNW1FU2xDZFhETTd1TFJYR1Q3a0VCRHVsWE0xUzZ1THJEMElJSXdPSXV3a2tCam02R0c1dUpWb1N4cEl6V24wVFJXMjNQSmlFVDludElFcXdhQ0h1c1B2c1BXdmJMdTJMcEZwNjY1OU0yd9IB6AFBVV95cUxQRkJBbG5VZEtVV2lVLXRGb1FWVFF0MTBzcEtUc0k4V2tlLVZjbktGbjMtOXBfWDhFSE9zYXBuNTR6RF95UG84YmtzV1R5RVZUUHVXSUhUZ2w2WC1Ec0pEenRiX1JzVzI5RlJRQk9aRWxtODd0SGMwLXV4S1lSM2xCNWtIZGhSaFZFZUhJWWJiME5Cbkh4am5ia09hdlkyc3JTajA4cDBxcXZ0SExFSkRxNTI0MkZ4MWM1cFdrUDhzTnFQamkydVN5V2hNUk1hQVJtem9IZ2Q2QWhZVldHRXN5ajAtdnpUZGxf?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-03-11T07:00:00+00:00",
-      "snippet": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised Business Standard",
-      "severity": "major"
-    },
-    {
       "uid": "66038b0414b8",
       "title": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWDVTZzFhcXBtNmp4ZnkzUm9zT2daM2pDNzNzUEZtaWJxdEtUdWcyT1FUYTUtdE1pN2xmMUwxZlFxM2NyZTUyZmN5TU9jZEl6aHJSQ3dST0V4N2pNZ2I0ZFg4YUVpazdGbHpYeF9LZC00Vm5MY2Q4ZXRPVTlDS3RpVTFoQXZlY2ViSExHb0p2c0FseE4zSnd2MzFBWGszR2s5MG9PRzBpLWpsTnRsR1RsdGk4c0oyUWI3Vkdya1U4bXNHWEljSWIwR0Rha2l0QWtnemxkWVl0aU1kYy050gHiAUFVX3lxTE9SRVdWcldYVXRfaU5RcEhKRGJvdVlRRXNKYjN4c1g4ZERqUDZ6X2hUWVBZOEx5MXExZXZJN0lTcktJV3haWGphMFRyMVhLcEdYUzRpMldwd2lQc2l4V0VIWkNFQzhIUHdyYlFYeFVMdzVPcmk2VVotMllHMUs1X01DVTVPZVR1OTJsYjRsNHNPWjd3Z2dhMTRjN0xTRE5vVkpzQnVwWTM1dndLUnp3S0xtX0R4LXdxbmJ3dW1LNjF5Zi04MzgyLTBOdDJyRTd0Sk5JTHhyUzNWQWNqTi1TREtrOXc?oc=5",
@@ -317,6 +317,18 @@
       "published": "2026-03-11T07:00:00+00:00",
       "snippet": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed CNBC TV18",
       "severity": "critical"
+    },
+    {
+      "uid": "bd3baeb9f1c8",
+      "title": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2NHVzVRSDZ6djZqQ2QyVlhjS01LQW1BN0ZxMGNNWDh5eGdDTnl6NHRXTzI2TWNJRDZqOXhrbE5MOVNRRHRGem5ubk9YX1hJOHJfdzVuZlNvS0QtOVBwT3dsWnFidEk1RTM3eWJycGVLemViYVE1RnpRNW1FU2xDZFhETTd1TFJYR1Q3a0VCRHVsWE0xUzZ1THJEMElJSXdPSXV3a2tCam02R0c1dUpWb1N4cEl6V24wVFJXMjNQSmlFVDludElFcXdhQ0h1c1B2c1BXdmJMdTJMcEZwNjY1OU0yd9IB6AFBVV95cUxQRkJBbG5VZEtVV2lVLXRGb1FWVFF0MTBzcEtUc0k4V2tlLVZjbktGbjMtOXBfWDhFSE9zYXBuNTR6RF95UG84YmtzV1R5RVZUUHVXSUhUZ2w2WC1Ec0pEenRiX1JzVzI5RlJRQk9aRWxtODd0SGMwLXV4S1lSM2xCNWtIZGhSaFZFZUhJWWJiME5Cbkh4am5ia09hdlkyc3JTajA4cDBxcXZ0SExFSkRxNTI0MkZ4MWM1cFdrUDhzTnFQamkydVN5V2hNUk1hQVJtem9IZ2Q2QWhZVldHRXN5ajAtdnpUZGxf?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-03-11T07:00:00+00:00",
+      "snippet": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised Business Standard",
+      "severity": "major"
     },
     {
       "uid": "fe5bc2719360",
@@ -373,16 +385,15 @@
       "severity": "critical"
     },
     {
-      "uid": "7972da1e6e78",
-      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
+      "uid": "6705aebf986a",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
-        "Axis Bank",
-        "IDFC First"
+        "Axis Bank"
       ],
-      "published": "2024-04-12T07:00:00+00:00",
-      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
+      "published": "2023-11-29T08:00:00+00:00",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard",
       "severity": "critical"
     },
     {
