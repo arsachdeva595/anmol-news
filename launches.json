@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T13:02:06.484728+00:00",
-  "count": 22,
+  "generated_at": "2026-08-28T14:32:43.861131+00:00",
+  "count": 20,
   "launches": [
     {
       "uid": "40737437d4b2",
@@ -19,26 +19,6 @@
       "issuers": [],
       "published": "2026-08-24T10:19:44+00:00",
       "snippet": "Punjab National Bank (PNB) has introduced a new variant of its LUXURA Premium Metal Credit Card, specially designed for Indian Army personnel of Officer rank. The new card comes in Visa and RuPay variants and builds on the existing LUXURA proposition with benefits tailored for Army officers. The new"
-    },
-    {
-      "uid": "e7627e967a4a",
-      "title": "PNB Launches Parakram Credit Card for Indian Army Personnel",
-      "url": "https://cardinsider.com/blog/pnb-launches-parakram-credit-card-indian-army-personnel/",
-      "source": "CardInsider",
-      "issuers": [],
-      "published": "2026-08-24T08:24:41+00:00",
-      "snippet": "Punjab National Bank (PNB) has launched the PNB Parakram Credit Card, a specially designed credit card for Indian Army personnel of JCO/OR rank or below. The card is available on both the Visa Platinum and RuPay Platinum networks and comes with no joining or annual fees. The card focuses on useful b"
-    },
-    {
-      "uid": "ec7b3f85404e",
-      "title": "CheQ and AU Small Finance Bank Launch India’s First LED-Powered Co-Branded Credit Card - Elets BFSI",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2hidG9NZjYyVTNyTDkzakk2T0ZjdzdIMi1WMlhFZWM2TnBRQ2VOYTZkRU15dXlyRHR3dENtOU04ZF9OTEpsS0Rhdl9NV3FuSUs2TlVjUENsX0hhTFBoZ3lPTm1rMk5HU0pEa2NSWjNlMlpRTWdfcnJOMm1WazRHYVFhSjR5eWFWNkhfNTZLUHZTeG9femx5dUFNZ3Fyc05hWGRFZnpJTjc1bDd6a3F3MFFmRVo2dw?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "AU Small Finance Bank"
-      ],
-      "published": "2026-08-19T07:00:00+00:00",
-      "snippet": "CheQ and AU Small Finance Bank Launch India’s First LED-Powered Co-Branded Credit Card Elets BFSI"
     },
     {
       "uid": "a1a2f4438d5d",
@@ -141,15 +121,6 @@
       "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex Livemint"
     },
     {
-      "uid": "8d420fab6324",
-      "title": "Google Launches First Ever Co-branded Credit Card in India - ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNV9XSUZyc3Y1a1J4R3YyNy1TcGduQjIwbml6Tl9ucHZpNVdGU0tnNlptRjliY1RJVzZNckNQRDhFcjN5NDFMUFFjRk5zR0J2c2I5RkhnVWR3RVJ2eXE1ZGJwbnJxeWhTbHNBM01DOU9Kd1R4OWl6SEQwRDhwNm5LRmpFZnVjUlJpTmJQRXpjLXJ3VU9jdHY2V0ZSbUVHQ3F2bTlr?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Launches First Ever Co-branded Credit Card in India ASHARQ AL-AWSAT English"
-    },
-    {
       "uid": "9aed79031d2e",
       "title": "Google Pay launches its first credit card with Axis Bank in India - YourStory.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUMzbFpsZFAwV2k2TXVWZUVrZGlUb0xXQTducnlJZEhpaHViRlBJWW9GZHFrM1NVRGtUQ1pRcWNxeTk2cml6MkxMaGRrMENBai00dDNld1MxVG9HbFZkTXVGZ3FmUS14d2ZLLUxFclVLc09SV1ptd1FQY2VMcDRpQ0VBNzN0VzVRU3Awbk51RDdBQ3ZCYktvZk9jYw?oc=5",
@@ -161,6 +132,15 @@
       "snippet": "Google Pay launches its first credit card with Axis Bank in India YourStory.com"
     },
     {
+      "uid": "8d420fab6324",
+      "title": "Google Launches First Ever Co-branded Credit Card in India - ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNV9XSUZyc3Y1a1J4R3YyNy1TcGduQjIwbml6Tl9ucHZpNVdGU0tnNlptRjliY1RJVzZNckNQRDhFcjN5NDFMUFFjRk5zR0J2c2I5RkhnVWR3RVJ2eXE1ZGJwbnJxeWhTbHNBM01DOU9Kd1R4OWl6SEQwRDhwNm5LRmpFZnVjUlJpTmJQRXpjLXJ3VU9jdHY2V0ZSbUVHQ3F2bTlr?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-12-17T08:00:00+00:00",
+      "snippet": "Google Launches First Ever Co-branded Credit Card in India ASHARQ AL-AWSAT English"
+    },
+    {
       "uid": "80d8212a490d",
       "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3HSAeoBQVVfeXFMT2FWaHBFYUs5Q2xHSnJPSEk4TklaY29RTWFrdjVzc0xVTnprTnNhS2txVjRnaUJNRVFFSWRNRm1Wa3hrZXptbHZkc3BDR2JzSjNyQUUzazN0VlB4cEY5dDJsdkFoYXF6TmpuZ1B5UVhfSnc3OVo5M3g5VUZuSGZyOURoUVJBczY1WWZKX2pXRUhzNHdzbnlva1VOVWQ5VC1hOUZ6OFlfNmNWUnY1MEg1cGNydHZtM2dfUUZ2OGFSdHdTMWxscEhHRy1MNncydUN0RW9oUVR6dlJ3WTJIdXRseVhNckZhRXU3N1F3?oc=5",
@@ -170,15 +150,15 @@
       "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
     },
     {
-      "uid": "18d687637a88",
-      "title": "IndiGo, SBI Card launch new co-branded credit card for customers - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHNuRzc4dGtIeFVvbzRaZWNMbVQwTzUyU01HTjZ3OWgyM09SLVY5cDNyNUdZRXZKaUtPRnpXTmctVmc5Mjcycmh5dkM1Y2dwX21UUDdoMlA3VkZjeXp0c01SNWY3RUN4MS1oYUZlRjVkN1hwa3I5TF84cGpINE5WMnJCeVROVExQSWpZWi1URndfRGE4MlpyUXFoUV9JQUJSLUdLZkpKSUwzNE41T1YzdVc5UTFJYkJ4M215ME5rWkJoWl9wbzFOMjNyUGhoX0k5dXpCN2hOOFNIZ9IB3wFBVV95cUxPeWcxdEkwa0ZZZUxDWkxQWlIwY0Y5OE1HTXBsb1BEQ2tMYmVJbzQ1b1dDRFRqNXlkQWZ4WFFkS1BvQnJlZUxsYUZTNXBIYVkyaTMya1JZS2NGc0dHRHdrZDlWbE51NFk3UFhfaHEzb0RlaHVYMEhuYTRRWUFiZXdmbmZ1MTE2WXl0Vm81YS10WDJCcDVrWDZ3VDZ2WjVWd1pIQU9kaEhaVDZHUGVBM2wwR1BlLXhKUUt2VG1OMFRLT21VUHZSQWZkeU0xRXd0Z1BneG5yeGVMWlhCSWhkMjdr?oc=5",
+      "uid": "bac632543a77",
+      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
       "source": "Google News / launch",
       "issuers": [
-        "SBI Card"
+        "Federal Bank"
       ],
-      "published": "2025-09-25T07:00:00+00:00",
-      "snippet": "IndiGo, SBI Card launch new co-branded credit card for customers Business Standard"
+      "published": "2025-11-04T08:00:00+00:00",
+      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
     },
     {
       "uid": "5e7afb7bfa89",

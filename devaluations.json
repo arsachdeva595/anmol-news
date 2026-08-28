@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T13:02:06.483833+00:00",
-  "count": 36,
+  "generated_at": "2026-08-28T14:32:43.860370+00:00",
+  "count": 34,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,21 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-27T13:01:32.859104+00:00",
+      "published": "2026-08-28T14:32:27.723069+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "fd9c57d2c0f5",
+      "title": "Axis Bank Revises Debit Card Benefits Across Multiple Variants",
+      "url": "https://cardinsider.com/blog/axis-bank-revises-debit-card-benefits-across-multiple-variants/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-28T09:30:49+00:00",
+      "snippet": "Debit cards have become more than just a way for customers to withdraw cash or make payments. Over the years, banks have added several benefits to their debit cards, such as reward points, complimentary airport lounge access, movie offers, discounts, and other lifestyle privileges. Axis Bank offers ",
+      "severity": "critical"
     },
     {
       "uid": "111c2f6dac06",
@@ -45,18 +57,6 @@
       "published": "2026-08-25T02:34:32+00:00",
       "snippet": "Credit card rewards get harder to earn: The major devaluations of 2026 Moneycontrol.com",
       "severity": "critical"
-    },
-    {
-      "uid": "d5926f67fdd0",
-      "title": "HDFC Bank SmartBuy Credit Card Offers",
-      "url": "https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/",
-      "source": "CardInsider",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-08-24T09:23:46+00:00",
-      "snippet": "HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers. Depending on the card type, users can typically earn accelerated rewards (such as 5X or 10X) on eligible t",
-      "severity": "major"
     },
     {
       "uid": "2ea0ced87b9b",
@@ -231,28 +231,6 @@
       "severity": "critical"
     },
     {
-      "uid": "612facd847ca",
-      "title": "Kisan credit card rules revised: RBI issues final framework for all banks - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2FFdUpzeDlLWjlmcXd5aGtJM1hMM2p6czZacnlNcDNCQW9rbXBHcWlSa0d0Nkk1RlJZeThYdmNYTUl6aWlKOUYwMkd5MDFZWVdDeGk1eVlOSC0zSkdxWWFUYks1VUZZbkVqV24zUDVfSFJraFRhRDhob0JXUWtjN2xad0lnVFhFcmRoSWdGcEFyb3hPb3RXcW5KRVV2bnNHUkk4VWJBN2RBS1NvY2luUGt5SlU5VlZpUUpjRGtXZkp2ZGRjby1rQWZWTGtZVnBFX2p2T3ROaHh3TVM0aEhzQktRVVhVZw?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-06-19T07:00:00+00:00",
-      "snippet": "Kisan credit card rules revised: RBI issues final framework for all banks Upstox",
-      "severity": "major"
-    },
-    {
-      "uid": "316a5a06996a",
-      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
-      "source": "Google News / benefit",
-      "issuers": [
-        "IndusInd Bank"
-      ],
-      "published": "2026-06-05T07:00:00+00:00",
-      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
-      "severity": "major"
-    },
-    {
       "uid": "51eb98d6ec3f",
       "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
@@ -261,6 +239,16 @@
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
       "severity": "critical"
+    },
+    {
+      "uid": "043955099a78",
+      "title": "8th Pay Commission: Salary revision every 5 years, 6% annual hike on Staff Side’s wishlist - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlJHMGc5WmNRWm52VnN1cDlobGl4WlBxRE1xaVZsMzFpb2J3WllQejlZZVA5UG5GbjhtS0ZtYkYxTkdmR2RfUkdKWEp6dlZmRDQwNFdSVWs5LUF1WlpSUlNwT1Z3LWtSbVhZTTkwUDg4bGs0bUh3M3VucEVnckpMcW03akoxQVlLSmVFM1pXNDRiN3ZJa1ZvRHZBWnM3UncyWkRsWEVma3Axa3dYdFpzOURpTHdjay1fVkpWMXVLcDY1dXFNX2hYaDRuMDgwNmVjemJfYWlIT1E5akQ2Mzl0MjlGUnpFSDh5Zy1CajZ3MWo?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-05-20T07:00:00+00:00",
+      "snippet": "8th Pay Commission: Salary revision every 5 years, 6% annual hike on Staff Side’s wishlist Upstox",
+      "severity": "major"
     },
     {
       "uid": "cab49c17e317",
@@ -362,16 +350,6 @@
       ],
       "published": "2026-02-27T08:00:00+00:00",
       "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
-      "severity": "major"
-    },
-    {
-      "uid": "c10fc66c58e2",
-      "title": "Pension rules clarified: DoPPW circular details revision and excess payment norms - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZVZtY094RkJJV1BqNmREZUE2Sm1kejF5LUdLM2NZblRQVDItRXdpSzh0aG10SUhyS0pIVHN1WHVySEljbUxWZFZZQjVJMUFnNEYtWllfYU1oaWFHRWZnR0d6T0g1aTVveExZYWwyX19lUms5UEJXeEZxand0ZzRIcTNVcG1fTGx0SXZsOTh0VHBXaEd1R3JKbDh5UHJ4TzY2U2FYNEJzZVNwSGVYZmlhNXdIOTRfdUcxUkdTb01tWjl5WnVMY0dNQXRubC1uXzktRFRsZXBmSFNZUHlvLXNRZTQ0OWloRk4w?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2025-11-03T08:00:00+00:00",
-      "snippet": "Pension rules clarified: DoPPW circular details revision and excess payment norms Upstox",
       "severity": "major"
     },
     {
