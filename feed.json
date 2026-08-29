@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-08-28T14:32:43.586668+00:00",
+  "generated_at": "2026-08-29T09:19:04.414519+00:00",
   "items": [
+    {
+      "uid": "2730ba77c6ae",
+      "title": "10% instant discount up to ₹1,250 on Flipkart",
+      "url": "https://www.axis.bank.in/offers/flipkart-offers/10-percent-instant-discount-up-to-inr-1250",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "10% instant discount up to ₹1,250 on Flipkart",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "93210d53aba2",
+      "title": "Up to 22.5% instant discount on Samsung",
+      "url": "https://www.axis.bank.in/offers/samsung-offers/up-to-22-5-percent-instant-cashback",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to 22.5% instant discount on Samsung",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "e16fa3a5179f",
+      "title": "15% instant discount on flights and hotel bookings on Goibibo",
+      "url": "https://www.axis.bank.in/offers/goibibo-offers/15-percent-instant-discount-on-flights-and-hotels-bookings",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "15% instant discount on flights and hotel bookings on Goibibo",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "35081aecf047",
+      "title": "10% instant discount up to ₹1,250 on Amazon",
+      "url": "https://www.axis.bank.in/offers/amazon-offers/10-percent-instant-discount-up-to-inr-1250",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "10% instant discount up to ₹1,250 on Amazon",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "021468f9921d",
+      "title": "Up to ₹4,000 instant cashback on OnePlus",
+      "url": "https://www.axis.bank.in/offers/oneplus-offers/up-to-inr-4000-instant-cashback",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to ₹4,000 instant cashback on OnePlus",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
+    },
     {
       "uid": "ec6860060511",
       "title": "Get 20% discount on Sony LIV",
@@ -11,7 +86,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 20% discount on Sony LIV (Code: INS25)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -26,7 +101,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to ₹500 on bus bookings made on AbhiBus (Code: ABINS)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -41,7 +116,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 15% discount up to ₹20,000 on SaffronStays (Code: ADNETO20)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -56,7 +131,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Buy 1 Get 1 Free on U.S. Pizza (Code: ADNETOUS)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -71,7 +146,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get Apollo India Full Health Screen at ₹799 (Code: ADNETO15)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -86,7 +161,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 71% off on all ITR plans on ClearTax (Code: CTBADNETO)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -101,7 +176,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 5% instant discount up to ₹15,000 on Tata Steel Aashiyaana (Code: AXIS8526)",
       "relevance_score": 1,
       "valid_till": "2026-10-31"
@@ -116,7 +191,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat 28% off on all silver jewellery with no minimum order value on GIVA (Code: AXISADNETO28)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -131,7 +206,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Exclusive offer on Long Weekend Travel bookings on Goibibo (Code: GOAXISFEST)",
       "relevance_score": 1,
       "valid_till": "2027-03-18"
@@ -146,7 +221,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 50% discount in making charges at Senco Gold (Code: SENADN101)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -161,7 +236,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Exclusive offer on Long Weekend Travel bookings on MakeMyTrip (Code: MMTAXISFEST)",
       "relevance_score": 1,
       "valid_till": "2027-03-18"
@@ -176,7 +251,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds (Code: SPANEW)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -191,7 +266,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze (Code: MBAD150)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -206,7 +281,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store (Code: ADNETO5000)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -221,7 +296,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹5,000 discount on shopping of furniture worth ₹24,999 & above on HomeCentre (Code: HCFUR5K)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -236,7 +311,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 5% instant discount up to ₹11,000 on Pepperfry (Code: PEPAD10K)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -251,7 +326,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 18% off on all products at Nua (Code: NUAADBK18)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -266,7 +341,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ₹15,000 at Apple",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -281,7 +356,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project (Code: BKTPP1K)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -296,7 +371,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 20% off on full body massage at Tattva Wellness Spa (Code: TTVADNETO20)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -311,7 +386,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 10% off on eligible products at United Colors of Benetton",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -326,7 +401,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -341,7 +416,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat ₹7,000* off on Samsung Galaxy Fold8 series",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -356,7 +431,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get additional 10% off on orders above ₹5,000 on Urban Ladder (Code: ULADN10)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -371,7 +446,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹500 off on Yes Madam (Code: YMADN500)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -386,7 +461,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get free large fries on orders above ₹499 on KFC",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -401,7 +476,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO (Code: ADNAJIO)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -416,7 +491,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy exciting interest benefit on purchase of Apple products",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -431,7 +506,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount offers on SNITCH",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -446,7 +521,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get additional discount of ₹3,000 on Air India",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -461,7 +536,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 25% discount up to ₹7,500 on Yatra (Code: YTDELIGHT)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -476,7 +551,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹5,000 on Balenciaga",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -491,7 +566,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹5,000 on LensCrafter",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -506,7 +581,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹5,000 on Michael Kors",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -521,7 +596,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹5,000 on Boss",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -536,7 +611,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹5,000 on Armani Exchange",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -551,7 +626,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹5,000 on Scotch & Soda",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -566,7 +641,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹1,000 off on a minimum purchase of ₹1,00,000 at Indriya",
       "relevance_score": 1,
       "valid_till": "2026-09-07"
@@ -581,7 +656,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹2,000 on Mothercare",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -596,7 +671,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 12% instant discount up to ₹1,500 on Tata Cliq Luxury",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -611,7 +686,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% instant discount up to ₹2,000 on Hamleys",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -626,7 +701,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 25% off on hotels booked on FabHotels (Code: FABADN10)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -641,7 +716,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Earn up to 20%* rewards on your international spends on Visa",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -656,7 +731,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% off on total bill on Originate (Code: ORG10MASTER)",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -671,7 +746,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "15% off on food & soft beverages on Chicago Pizza",
       "relevance_score": 1,
       "valid_till": "2026-12-30"
@@ -686,7 +761,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 35% off on the annual subscription of The Wall Street Journal",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -701,7 +776,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Additional 20% off up to ₹150 on Hamleys (Code: ADNETO20)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -716,7 +791,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -731,7 +806,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna (Code: ADNG2000)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -746,7 +821,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 15% off on a minimum transaction of ₹499 on Bewakoof (Code: BKVISA15)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -761,7 +836,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 10% sitewide discount on Noise (Code: NXADNETO10)",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -776,7 +851,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -791,7 +866,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹150 off on Swiggy (Code: AMEX150)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -806,7 +881,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -821,7 +896,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -836,10 +911,25 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get discount up to ₹10,000 on Cathay Pacific",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "19863306a8a0",
+      "title": "Up to 26% instant cashback on LG",
+      "url": "https://www.axis.bank.in/offers/lg-offers/up-to-26-percent-instant-cashback",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to 26% instant cashback on LG",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
     },
     {
       "uid": "7b38d968e4db",
@@ -851,7 +941,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 32% off on select DocOnline smart health plans",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -866,7 +956,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% off on minimum spends of ₹5,000  on ColorPlus",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -881,7 +971,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store (Code: ADNFNP)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -896,7 +986,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% off on minimum spends of ₹5000 on Raymond",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -911,7 +1001,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 20% off up to  ₹20,000 on international flights and hotels (Code: MMTAXISBIZ)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -926,7 +1016,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat 1.5% off on gold jewellery on GRT Jewellers (Code: GRTADN1500)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -941,7 +1031,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% discount on all individual services on L'Occitane (Code: ADNL101)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -956,7 +1046,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to ₹1,500 off on domestic flights at Musafir (Code: MUADHDDF)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -971,7 +1061,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get ₹500 off on purchase of ₹2,500 & above on Colorbar",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -986,7 +1076,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 30% off on international travel deals",
       "relevance_score": 1,
       "valid_till": "2027-03-01"
@@ -1001,10 +1091,25 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds (Code: ADNS25NMS)",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
+    },
+    {
+      "uid": "5469d50af523",
+      "title": "Up to 25% instant discount on MakeMyTrip",
+      "url": "https://www.axis.bank.in/offers/makemytrip-offers/up-to-25-percent-instant-discount",
+      "source": "Axis Bank Offers",
+      "category": "offer",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to 25% instant discount on MakeMyTrip",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
     },
     {
       "uid": "c4ac61644494",
@@ -1016,7 +1121,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -1031,7 +1136,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1046,7 +1151,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 50% off up to ₹125 on Oven Story",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1061,7 +1166,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 20% savings on bed & breakfast rates on The Leela Palace Hotels & Resorts",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1076,7 +1181,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get Rs.1000* off & more across 10,000+ restaurants via EazyDiner only with Axis Bank Credit & Debit Cards. (Code: NA)",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1091,7 +1196,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home (Code: TH15OFF)",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1106,7 +1211,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra (Code: YTDELIGHT)",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1121,7 +1226,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000) (Code: IXIMS)",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1136,7 +1241,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get Up to 10% OFF on Satvik Store (Code: STKRUPAY10)",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1151,7 +1256,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 15% OFF at Lifestyle (Code: LIFEIN15)",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1166,7 +1271,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹150 off on Zomato (Code: AMEXWEEKEND)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1181,7 +1286,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹150 off on Swiggy Instamart (Code: AMEX150)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1196,7 +1301,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹150 off on Blinkit (Code: AMEXWEEKEND)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1211,7 +1316,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "20% off on a minimum spend of ₹1,200 on IGP (Code: IGPINS20)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -1226,7 +1331,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat ₹500 off on orders worth ₹1,999 & above on Max (Code: REWARDS250)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -1241,7 +1346,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹5000 off on domestic hotels (Code: YATRADNHOTEL)",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -1256,7 +1361,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
       "relevance_score": 1,
       "valid_till": null
@@ -1271,7 +1376,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Travel, shop, dine and spend internationally with 0% forex mark-up fee on HSBC credit cards.",
       "relevance_score": 1,
       "valid_till": null
@@ -1286,7 +1391,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
       "relevance_score": 1,
       "valid_till": null
@@ -1301,7 +1406,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to INR 7,500 on a wide range of appliances and electronic gadgets in store and online.",
       "relevance_score": 1,
       "valid_till": null
@@ -1316,7 +1421,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "relevance_score": 1,
       "valid_till": null
@@ -1331,7 +1436,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
       "relevance_score": 1,
       "valid_till": null
@@ -1346,7 +1451,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
       "relevance_score": 1,
       "valid_till": null
@@ -1361,7 +1466,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to INR 5,000 on international and domestic flight bookings.",
       "relevance_score": 1,
       "valid_till": null
@@ -1376,7 +1481,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy up to INR 6,000 off flights and hotels.",
       "relevance_score": 1,
       "valid_till": null
@@ -1391,7 +1496,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to INR 10,000 on flights and hotel bookings.",
       "relevance_score": 1,
       "valid_till": null
@@ -1406,7 +1511,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to INR 12,000 on Emirates flights.",
       "relevance_score": 1,
       "valid_till": null
@@ -1421,7 +1526,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get INR1,100 off when you spend INR3,000 or more.",
       "relevance_score": 1,
       "valid_till": null
@@ -1436,7 +1541,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to INR 2,250 with Pepperfry!",
       "relevance_score": 1,
       "valid_till": null
@@ -1451,7 +1556,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save up to INR 250 when you spend INR 1,500.",
       "relevance_score": 1,
       "valid_till": null
@@ -1466,7 +1571,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
       "relevance_score": 1,
       "valid_till": null
@@ -1481,7 +1586,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save 10% on dining, activities and shopping. Plus, enjoy buy-one-get-one cinema tickets for less and enjoy movies on the big screen for less.",
       "relevance_score": 1,
       "valid_till": null
@@ -1496,7 +1601,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get INR 100 off when you spend INR 999 or more.",
       "relevance_score": 1,
       "valid_till": null
@@ -1511,7 +1616,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
       "relevance_score": 1,
       "valid_till": null
@@ -1526,7 +1631,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save 20%, up to INR2,500, when you spend INR5,000 or more.",
       "relevance_score": 1,
       "valid_till": null
@@ -1541,7 +1646,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save 20%, up to INR15,000, when you spend INR25,000 or more. Just use coupon code: HSBCTAJTCL.",
       "relevance_score": 1,
       "valid_till": null
@@ -1556,7 +1661,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Save 20%, up to INR2,000, when you spend INR7,500 or more.",
       "relevance_score": 1,
       "valid_till": null
@@ -1571,7 +1676,7 @@
         "HSBC"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offers for HSBC Visa Cardholders.",
       "relevance_score": 1,
       "valid_till": null
@@ -1586,7 +1691,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 73% off on Cleartax ITR filing and services using Kotak Mahindra Bank credit and debit cards.",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -1601,7 +1706,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 25% instant discount on the base fare of hotel stays, exclusively for Kotak cardholders",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -1616,7 +1721,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get flat 200 off on minimum order value of ₹500 by using Kotak Mahindra Bank debit/credit card.",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -1631,7 +1736,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 40% instant discount on evoucher of 200+ brands at GYFTR via Kotak Credit & Debit Cards",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -1646,7 +1751,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 5000 off on Hotels, Domestic & International flights bookings.",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -1661,7 +1766,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% instant discount up to 50,000 on Kotak Cards.                                                                                                                                            For Solitaire Credit Card/Wealth Infinite Credit Card/White Reserve Credit Card - offer is 10% instant discount",
       "relevance_score": 1,
       "valid_till": "2026-10-07"
@@ -1676,7 +1781,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Discounted pricing on Do-It Yourself(DIY) & Assisted tax filing for Kotak Mahindra Bank customers",
       "relevance_score": 1,
       "valid_till": "2027-07-07"
@@ -1691,7 +1796,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Free 6 months Roundglass Living subscription on select Kotak Credit Cards.",
       "relevance_score": 1,
       "valid_till": "2026-10-15"
@@ -1706,7 +1811,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to 20% off on car services using Kotak Debit/Credit Cards.",
       "relevance_score": 1,
       "valid_till": "2027-06-30"
@@ -1721,7 +1826,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ₹6,000 on Kotak Credit Card EMI. Book Now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1736,7 +1841,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1751,7 +1856,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ₹ 10,000 on Kotak Credit Card EMI. Shop Now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1766,7 +1871,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1781,7 +1886,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ?10,000 on Kotak Credit Card EMI. Shop now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1796,7 +1901,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1811,7 +1916,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail up to ₹2,500 instant discount on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1826,7 +1931,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail up to ₹5,000 instant discount on Kotak Credit Card EMI. Shop now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1841,7 +1946,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1856,7 +1961,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1871,7 +1976,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Enjoy up to ₹30,000* instant discount with Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1886,7 +1991,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1901,7 +2006,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant cashback up to ?25,000 on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1916,7 +2021,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1931,7 +2036,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1946,7 +2051,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant cashback up to ₹7,500 on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1961,7 +2066,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% instant cashback up to ₹3,000 on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1976,7 +2081,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -1991,7 +2096,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get 7.5% Instant Discount on Kotak Mahindra Bank Credit card EMI only",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2006,7 +2111,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get Instant Discount & No Cost EMI at Goibibo via Kotak Credit Cards",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2021,7 +2126,7 @@
         "Kotak"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Get upto 5,000 Instant discount on Kotak Credit Card EMI. Shop Now.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2036,7 +2141,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Plan with exclusive BOBCARD offers",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2051,7 +2156,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Validity 1st July to 30th Sep, 2026 (Code: Domestic Flights: IXIBOBEMI | International Flights: IXIBOBEMIN)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2066,7 +2171,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer valid till 30th Sep 2026 (Code: UCBOB)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2081,7 +2186,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Applicable on all Friday & Saturday till 30th Sep, 2026 (Code: Domestic Flights & Hotels: GOBOBEMI || International Flights & Hotels: GOBOBINTEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2096,7 +2201,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer valid all Tuesday & Friday till 30th Sep 2026 (Code: Domestic Flights, Domestic Hotels, Holiday: MMTBOBEMI || International Flights & Hotels: MMTBOBINTEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2111,7 +2216,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Applicable on Wednesday and Thursday only (Code: BOBEMI || BOB6EMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2126,7 +2231,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on EMI, every Wednesday & Thursday till 30th Sep 2026 (Code: Domestic: FLYBOB | International: INTLFLYBOB)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2141,7 +2246,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer valid on Saturday & Sunday | From 1st Aug to 30th Aug 2026 (Code: Promocode: Domestics Flights & Hotels: BOBEMIDOM and International flights & hotels: BOBEMIINT)",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -2156,7 +2261,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer valid on Saturday & Sunday | Till 27th Sep 2026 (Code: BOBEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-27"
@@ -2171,7 +2276,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: 1st July to 30th Sep 2026 | Applicable on Monday and Tuesday (Code: YRBOBCCEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2186,7 +2291,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2201,7 +2306,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Style your wardrobe with BOBCARD offers",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2216,7 +2321,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2231,7 +2336,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
       "relevance_score": 1,
       "valid_till": "2027-03-29"
@@ -2246,7 +2351,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "From pantry picks to party prep — save more with BOBCARD",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2261,7 +2366,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Move your wishlist to cart with BOBCARD offers",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2276,7 +2381,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: 1st Aug to 31st Aug 2026.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2291,7 +2396,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer validity: 1st Aug to 31st Aug 2026",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2306,7 +2411,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: 13th Aug to 31st Aug 2026",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2321,7 +2426,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2336,7 +2441,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Redo your space with BOBCARD offers",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2351,7 +2456,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2366,7 +2471,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
       "relevance_score": 1,
       "valid_till": "2027-03-29"
@@ -2381,7 +2486,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2396,7 +2501,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2411,7 +2516,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2426,7 +2531,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2441,7 +2546,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2456,7 +2561,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Level up with BOBCARD offers on gadgets",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2471,7 +2576,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2486,7 +2591,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2501,7 +2606,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2516,7 +2621,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2531,7 +2636,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 31st Aug 2026",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2546,7 +2651,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2561,7 +2666,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2576,7 +2681,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer valid till 31st August 2026",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2591,7 +2696,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2606,7 +2711,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Offer valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2621,7 +2726,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2636,7 +2741,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2651,7 +2756,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2666,7 +2771,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th September 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2681,7 +2786,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2696,7 +2801,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Feast on joy, delivered with BOBCARD offers",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2711,7 +2816,7 @@
         "BOB Financial (BOBCard)"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Find the perfect gift for any occasion with BOBCARD offers",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -2726,7 +2831,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 10000 Instant Discount Offer – Big C Mobiles",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2741,7 +2846,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 10000 Instant Discount Offer – LOT Mobiles",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -2756,7 +2861,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 5% Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -2771,7 +2876,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount at Flipkart",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2786,7 +2891,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount at Amazon",
       "relevance_score": 1,
       "valid_till": "2026-09-18"
@@ -2801,7 +2906,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 5% Instant discount Offer",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2816,25 +2921,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 10% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-01"
-    },
-    {
-      "uid": "3b733e216585",
-      "title": "Neelkanth: Up to ₹6500 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Neelkanth-Electronics-13aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to ₹6500 Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-09-12"
     },
     {
       "uid": "38b473d87968",
@@ -2846,10 +2936,25 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹9000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-02"
+    },
+    {
+      "uid": "3b733e216585",
+      "title": "Neelkanth: Up to ₹6500 Instant Discount",
+      "url": "https://www.sbicard.com/en/personal/offer/Neelkanth-Electronics-13aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to ₹6500 Instant Discount",
+      "relevance_score": 1,
+      "valid_till": "2026-09-12"
     },
     {
       "uid": "d9f688ec7f2b",
@@ -2861,7 +2966,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -2876,7 +2981,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 8,000 Instant Discount at RB Zone",
       "relevance_score": 1,
       "valid_till": "2026-09-27"
@@ -2891,7 +2996,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -2906,7 +3011,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up Rs 3500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -2921,7 +3026,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 16000 Instant Discount at PAI International",
       "relevance_score": 1,
       "valid_till": "2026-09-13"
@@ -2936,10 +3041,25 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
+    },
+    {
+      "uid": "a6d7106d2dac",
+      "title": "Ds-Mills: Up to Rs. 750 Extra Cashback.",
+      "url": "https://www.sbicard.com/en/personal/offer/DS-Mills-aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to Rs. 750 Extra Cashback.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-20"
     },
     {
       "uid": "28eabd4a78fd",
@@ -2951,7 +3071,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -2966,25 +3086,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-29"
-    },
-    {
-      "uid": "a6d7106d2dac",
-      "title": "Ds-Mills: Up to Rs. 750 Extra Cashback.",
-      "url": "https://www.sbicard.com/en/personal/offer/DS-Mills-aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to Rs. 750 Extra Cashback.",
-      "relevance_score": 1,
-      "valid_till": "2026-09-20"
     },
     {
       "uid": "7765afeedbef",
@@ -2996,7 +3101,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹7000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-24"
@@ -3011,7 +3116,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 6,500 Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-09-07"
@@ -3026,7 +3131,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3041,7 +3146,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3056,10 +3161,25 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 25000 Instant Discount Offer",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "c64c2f61cfde",
+      "title": "Usha-Electronics: Up to ₹ 6,000 Instant Discount.",
+      "url": "https://www.sbicard.com/en/personal/offer/Usha-Electronics-aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to ₹ 6,000 Instant Discount.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-06"
     },
     {
       "uid": "26ac3f13c98a",
@@ -3071,7 +3191,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 7,000 Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3086,7 +3206,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% Instant Discount at Surya Electronics stores.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3101,25 +3221,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat 5% Instant Discount Offer",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "c64c2f61cfde",
-      "title": "Usha-Electronics: Up to ₹ 6,000 Instant Discount.",
-      "url": "https://www.sbicard.com/en/personal/offer/Usha-Electronics-aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to ₹ 6,000 Instant Discount.",
-      "relevance_score": 1,
-      "valid_till": "2026-09-06"
     },
     {
       "uid": "839e5eff5e00",
@@ -3131,7 +3236,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Cashback at MALL OF TRAVANCORE, THIRUVANANTHAPURAM",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3146,7 +3251,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Cashback at HiLITE Mall, Kozhikode",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3161,7 +3266,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Cashback at HiLITE Mall, Thrissur",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3176,7 +3281,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹400 Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3191,7 +3296,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹5500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-05"
@@ -3206,7 +3311,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 15000 Instant Discount Offer",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -3221,7 +3326,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 6,000 Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3236,7 +3341,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to INR 6,500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3251,7 +3356,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% Instant Discount at Birla Opus",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3266,7 +3371,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount at Bonito Designs stores.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3281,7 +3386,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount at Nilkamal Homes stores",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3296,25 +3401,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "c57a67554bb3",
-      "title": "Kbm Electronic: Up to ₹7500 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/KBM-Electronics-aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to ₹7500 Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-09-04"
     },
     {
       "uid": "c0b3286b0691",
@@ -3326,10 +3416,25 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 6500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
+    },
+    {
+      "uid": "c57a67554bb3",
+      "title": "Kbm Electronic: Up to ₹7500 Instant Discount",
+      "url": "https://www.sbicard.com/en/personal/offer/KBM-Electronics-aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to ₹7500 Instant Discount",
+      "relevance_score": 1,
+      "valid_till": "2026-09-04"
     },
     {
       "uid": "1c7010cfb6b3",
@@ -3341,7 +3446,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 16000 Instant Discount  Offer – myG Mobiles",
       "relevance_score": 1,
       "valid_till": "2026-09-15"
@@ -3356,7 +3461,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 6,000 Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-09-02"
@@ -3371,25 +3476,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 10,000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "e48f68e43834",
-      "title": "Knesha: Up to Rs 7,500 Instant Discount at Kensha Mobiles (Mehta Telecom).",
-      "url": "https://www.sbicard.com/en/personal/offer/Kensha-Mobiles-aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to Rs 7,500 Instant Discount at Kensha Mobiles (Mehta Telecom).",
-      "relevance_score": 1,
-      "valid_till": "2026-09-01"
     },
     {
       "uid": "3af1c1a2f02e",
@@ -3401,7 +3491,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹7500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-03"
@@ -3416,10 +3506,25 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹ 10000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-09"
+    },
+    {
+      "uid": "e48f68e43834",
+      "title": "Knesha: Up to Rs 7,500 Instant Discount at Kensha Mobiles (Mehta Telecom).",
+      "url": "https://www.sbicard.com/en/personal/offer/Kensha-Mobiles-aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to Rs 7,500 Instant Discount at Kensha Mobiles (Mehta Telecom).",
+      "relevance_score": 1,
+      "valid_till": "2026-09-01"
     },
     {
       "uid": "7ebc87bc9eab",
@@ -3431,7 +3536,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 8,500 Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3446,7 +3551,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 8,000 Instant Discount at Lotus Electronics stores",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3461,7 +3566,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 7,500 Instant Discount at Gujarat Mobile stores.",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3476,40 +3581,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 6,500 Instant Discount at Mundada Corporation.",
       "relevance_score": 1,
       "valid_till": "2026-09-09"
-    },
-    {
-      "uid": "88d224aa5437",
-      "title": "Bansal: Up to Rs. 300 Extra Cashback at Bansal Supermarket stores.",
-      "url": "https://www.sbicard.com/en/personal/offer/Bansal-supermarket-aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to Rs. 300 Extra Cashback at Bansal Supermarket stores.",
-      "relevance_score": 1,
-      "valid_till": "2026-09-06"
-    },
-    {
-      "uid": "d6394ae72b5e",
-      "title": "Ganpati-Mob: Up to ₹5500 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/ganpati-mobiles-5aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to ₹5500 Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "ee67ae1176c4",
@@ -3521,7 +3596,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 5% Cashback at Easybuy",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3536,7 +3611,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹7500 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3551,7 +3626,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 16000 Instant Discount at Nandilath G Mart",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3566,7 +3641,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-04"
@@ -3581,7 +3656,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 10000 Instant Discount at Pittappilill Agencies",
       "relevance_score": 1,
       "valid_till": "2026-09-13"
@@ -3596,7 +3671,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 1000 Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-20"
@@ -3611,7 +3686,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 15000 Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3626,7 +3701,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3641,10 +3716,40 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs.500 Cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
+    },
+    {
+      "uid": "88d224aa5437",
+      "title": "Bansal: Up to Rs. 300 Extra Cashback at Bansal Supermarket stores.",
+      "url": "https://www.sbicard.com/en/personal/offer/Bansal-supermarket-aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to Rs. 300 Extra Cashback at Bansal Supermarket stores.",
+      "relevance_score": 1,
+      "valid_till": "2026-09-06"
+    },
+    {
+      "uid": "d6394ae72b5e",
+      "title": "Ganpati-Mob: Up to ₹5500 Instant Discount",
+      "url": "https://www.sbicard.com/en/personal/offer/ganpati-mobiles-5aug26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "Up to ₹5500 Instant Discount",
+      "relevance_score": 1,
+      "valid_till": "2026-08-31"
     },
     {
       "uid": "62934127a193",
@@ -3656,7 +3761,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 200 Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3671,7 +3776,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 6,000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3686,7 +3791,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Cashback at Wave Mall, Jammu",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3701,25 +3806,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat ₹ 200 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-25"
-    },
-    {
-      "uid": "f36dd52876cf",
-      "title": "Aristocrat: 5% Extra Cashback",
-      "url": "https://www.sbicard.com/en/personal/offer/aristocrat-aug26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "5% Extra Cashback",
-      "relevance_score": 1,
-      "valid_till": "2026-08-28"
     },
     {
       "uid": "740b33dfd23f",
@@ -3731,7 +3821,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -3746,7 +3836,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -3761,7 +3851,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹1000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -3776,7 +3866,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Cashback at EVA The Mall, Vadodara",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -3791,7 +3881,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Cashback at Triton Mall, Jaipur",
       "relevance_score": 1,
       "valid_till": "2026-08-30"
@@ -3806,7 +3896,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3821,7 +3911,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 10% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3836,7 +3926,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Flat Rs.100 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-06"
@@ -3851,7 +3941,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 8,000 Instant Discount.",
       "relevance_score": 1,
       "valid_till": "2026-09-01"
@@ -3866,7 +3956,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 15000 Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3881,7 +3971,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount at Sangeetha Mobiles",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3896,7 +3986,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -3911,7 +4001,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -3926,7 +4016,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-28"
@@ -3941,7 +4031,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -3956,7 +4046,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 6,000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -3971,7 +4061,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 10000 Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -3986,7 +4076,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 10,000 Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4001,7 +4091,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 500 Extra Cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4016,7 +4106,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -4031,7 +4121,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 10% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4046,7 +4136,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 15000 Instant Discount at Darling Digital",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -4061,7 +4151,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4076,7 +4166,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4091,7 +4181,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 72% Off",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4106,7 +4196,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4121,7 +4211,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "7.5% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4136,7 +4226,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "15% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4151,7 +4241,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 7.5% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4166,7 +4256,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 15% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4181,7 +4271,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 27.5% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4196,7 +4286,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 20% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4211,7 +4301,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs. 10,000 Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4226,83 +4316,8 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 25% Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "43815023cd99",
-      "title": "Hp: Up to INR 15,000 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/hp-8july26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to INR 15,000 Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "c19316c53c16",
-      "title": "Sony: Up to 10% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/sony-9july26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to 10% Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "2efbe91cd583",
-      "title": "Oppo-Green: 10% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/oppo-8july26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "10% Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "e1a4258582e6",
-      "title": "Haier: Up to 27.50% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/haier-8july26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to 27.50% Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "a20883eecd2d",
-      "title": "Godrej: Up to 15% Instant discount",
-      "url": "https://www.sbicard.com/en/personal/offer/godrej-8july26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "Up to 15% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
     },
@@ -4316,7 +4331,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 12.50% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4331,7 +4346,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount / Flat discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4346,7 +4361,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 10% Instant Cashback",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -4361,7 +4376,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 26% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4376,7 +4391,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 20% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4391,7 +4406,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to Rs 15,000 Instant discount at Apple",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -4406,7 +4421,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "5% Instant discount",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4421,25 +4436,10 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 15% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "f5504bb6315a",
-      "title": "Igp: 20% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/igp-1june26.page",
-      "source": "SBI Card Offers",
-      "category": "offer",
-      "issuers": [
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
-      "snippet": "20% Instant Discount",
-      "relevance_score": 1,
-      "valid_till": "2027-03-31"
     },
     {
       "uid": "1588c21938a4",
@@ -4451,7 +4451,22 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
+      "snippet": "20% Instant Discount",
+      "relevance_score": 1,
+      "valid_till": "2027-03-31"
+    },
+    {
+      "uid": "f5504bb6315a",
+      "title": "Igp: 20% Instant Discount",
+      "url": "https://www.sbicard.com/en/personal/offer/igp-1june26.page",
+      "source": "SBI Card Offers",
+      "category": "offer",
+      "issuers": [
+        "SBI Card"
+      ],
+      "severity": null,
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "20% Instant Discount",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4466,7 +4481,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 75% Off",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4481,7 +4496,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to 50% off for Akshay Tritiya Festival",
       "relevance_score": 1,
       "valid_till": "2027-04-18"
@@ -4496,7 +4511,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount on Food at Hotel Orchid.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4511,7 +4526,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% Instant Discount on Food at Hotel Orchid.",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4526,7 +4541,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Pay your Insurance premiums in EMIs",
       "relevance_score": 1,
       "valid_till": "2029-03-31"
@@ -4541,7 +4556,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Pay your Insurance premiums in EMIs",
       "relevance_score": 1,
       "valid_till": "2029-03-31"
@@ -4556,7 +4571,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Pay your Insurance premiums in EMIs",
       "relevance_score": 1,
       "valid_till": "2029-02-28"
@@ -4571,7 +4586,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-11-11"
@@ -4586,7 +4601,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4601,7 +4616,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-11-11"
@@ -4616,7 +4631,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-11-11"
@@ -4631,7 +4646,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2028-03-31"
@@ -4646,7 +4661,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4661,7 +4676,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4676,7 +4691,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4691,7 +4706,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4706,7 +4721,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4721,7 +4736,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4736,7 +4751,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4751,7 +4766,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4766,7 +4781,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-11-12"
@@ -4781,7 +4796,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4796,7 +4811,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Exclusive EMI offer on your SBI Card at nearest Reliance Digital store",
       "relevance_score": 1,
       "valid_till": "2029-09-30"
@@ -4811,7 +4826,7 @@
         "SBI Card"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Avail EMI at the time of purchase",
       "relevance_score": 1,
       "valid_till": "2027-04-30"
@@ -4826,7 +4841,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Up to ₹15,000 instant cashback",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -4841,7 +4856,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Upgrade to iPhone 17 at 75% of the price",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -4856,7 +4871,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "20% off on all tax related services",
       "relevance_score": 1,
       "valid_till": "2027-04-30"
@@ -4871,7 +4886,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "10% off",
       "relevance_score": 1,
       "valid_till": "2027-12-31"
@@ -4886,7 +4901,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "20% off",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -4901,7 +4916,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 20 to Aug 31, 2026 Valid on Credit Card & Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -4916,7 +4931,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -4931,7 +4946,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -4946,7 +4961,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4961,7 +4976,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICIINT)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4976,7 +4991,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -4991,7 +5006,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 04 to Aug 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -5006,7 +5021,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 01 to Aug 31, 2026 Valid on Credit Card & Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -5021,7 +5036,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5036,7 +5051,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -5051,7 +5066,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -5066,7 +5081,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -5081,7 +5096,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -5096,7 +5111,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-26"
@@ -5111,7 +5126,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5126,7 +5141,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Aug 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -5141,7 +5156,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5156,7 +5171,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5171,7 +5186,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5186,7 +5201,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5201,7 +5216,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5216,7 +5231,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Dec 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -5231,7 +5246,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5246,7 +5261,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5261,7 +5276,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 06 to Dec 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -5276,7 +5291,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 07 to Aug 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -5291,7 +5306,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 03 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5306,7 +5321,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 23 to Aug 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -5321,7 +5336,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5336,7 +5351,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5351,7 +5366,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 14 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5366,7 +5381,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5381,7 +5396,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5396,7 +5411,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5411,7 +5426,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 09 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5426,7 +5441,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5441,7 +5456,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 01 to Dec 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-12-31"
@@ -5456,7 +5471,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5471,7 +5486,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5486,7 +5501,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 02 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5501,7 +5516,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 25 to Sep 30, 2026 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5516,7 +5531,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5531,7 +5546,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5546,7 +5561,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5561,7 +5576,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: FLYMON)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5576,7 +5591,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5591,7 +5606,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: ICICILUXURY)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5606,7 +5621,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5621,7 +5636,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: ICICILUXURYINT)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5636,7 +5651,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5651,7 +5666,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5666,7 +5681,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5681,7 +5696,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5696,7 +5711,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5711,7 +5726,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5726,7 +5741,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5741,7 +5756,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5756,7 +5771,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5771,7 +5786,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5786,7 +5801,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5801,7 +5816,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5816,7 +5831,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5831,7 +5846,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5846,7 +5861,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5861,7 +5876,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFESTINT)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5876,7 +5891,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5891,7 +5906,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFESTINT)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5906,7 +5921,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5921,7 +5936,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5936,7 +5951,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5951,7 +5966,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5966,7 +5981,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5981,7 +5996,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -5996,7 +6011,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6011,7 +6026,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6026,7 +6041,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 21 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6041,7 +6056,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 21 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6056,7 +6071,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: YTICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6071,7 +6086,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: YTICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6086,7 +6101,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs (Code: FLYICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6101,7 +6116,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs (Code: INTICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6116,7 +6131,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6131,7 +6146,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6146,7 +6161,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMIN)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6161,7 +6176,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMIN)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6176,7 +6191,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 02 to Sep 30, 2026 Valid on Credit Card EMIs (Code: PYTICICI2026)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6191,7 +6206,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: May 02 to Oct 31, 2026 Valid on Credit Card EMIs, Credit & Debit Cards and Internet Banking (Code: ICICI10, ICICINCEMI)",
       "relevance_score": 1,
       "valid_till": "2026-10-31"
@@ -6206,7 +6221,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: May 02 to Oct 31, 2026 Valid on Credit Card EMIs, Credit & Debit Cards and Internet Banking (Code: ICICI10, ICICINCEMI)",
       "relevance_score": 1,
       "valid_till": "2026-10-31"
@@ -6221,7 +6236,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 14 to Nov 30, 2026 Valid on Credit Card EMIs (Code: TCFICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-11-30"
@@ -6236,7 +6251,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 14 to Nov 30, 2026 Valid on Credit Card EMIs (Code: TCLICICIEMI)",
       "relevance_score": 1,
       "valid_till": "2026-11-30"
@@ -6251,7 +6266,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6266,7 +6281,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 07 to Sep 30, 2026 Valid on Amazon Pay ICICI Bank Credit Cards",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6281,7 +6296,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 13 to Aug 31, 2026 Valid on Amazon Pay ICICI Bank Credit Cards",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -6296,7 +6311,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICI10K)",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6311,7 +6326,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6326,7 +6341,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6341,7 +6356,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 04, 2026 to May 14, 2027 Valid on Credit Cards and Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2027-05-14"
@@ -6356,7 +6371,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jun 29 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6371,7 +6386,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Aug 16 to Aug 31, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-08-31"
@@ -6386,7 +6401,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 13, 2026 to Mar 31, 2027 Valid on Credit Card EMIs (Code: ICICISHOPEMI; ICICIAPAYSHOPEMI)",
       "relevance_score": 1,
       "valid_till": "2027-03-31"
@@ -6401,7 +6416,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 04 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6416,7 +6431,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 15 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6431,7 +6446,7 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Offer Validity: Jul 15 to Sep 30, 2026 Valid on Credit Card EMIs",
       "relevance_score": 1,
       "valid_till": "2026-09-30"
@@ -6446,10 +6461,22 @@
         "ICICI Bank"
       ],
       "severity": null,
-      "published": "2026-08-28T14:32:27.723069+00:00",
+      "published": "2026-08-29T09:18:48.417484+00:00",
       "snippet": "Pre-Approved offer for existing Credit Card Customer to avail at 0 joining fee/ 0 annual fee.*)",
       "relevance_score": 1,
       "valid_till": null
+    },
+    {
+      "uid": "5bbff4aa8ec0",
+      "title": "AU Laksya Vs Ananta Credit Card",
+      "url": "https://cardinsider.com/blog/au-laksya-vs-ananta-credit-card/",
+      "source": "CardInsider",
+      "category": "devaluation",
+      "issuers": [],
+      "severity": "critical",
+      "published": "2026-08-29T04:30:08+00:00",
+      "snippet": "Choosing a credit card is no longer just about having a convenient payment option; it is about finding a card that rewards your spending in the right way. With several options available in the market, comparing cards based on their rewards, fees, lifestyle benefits, and overall value has become esse",
+      "relevance_score": 1
     },
     {
       "uid": "fd9c57d2c0f5",
@@ -6526,6 +6553,18 @@
       "published": "2026-08-27T06:36:18+00:00",
       "snippet": "HDFC Bank to phase out existing Swiggy credit card: What changes for cardholders Moneycontrol.com",
       "relevance_score": 1
+    },
+    {
+      "uid": "f3efe5b782ca",
+      "title": "Punjab National Bank & Zaggle Tie Up - fintechbiznews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPclR3TFZOeU1ySXBxOFBTbVBOZGcxQ2tMeDdsZlRBTEpmNklndTEwNm5lZkRBUElERkxJam9NMk5nejdZZmZCTllPLWNpUkNTVS1peWVmTjY4M2Z4VDhOOWV1RkN5aEIyYWZRUHU1T3dyNVcxSDNOSkUtTzN2MURJQWRDRERXbUxUdGxJeXVHYUxQTDNY?oc=5",
+      "source": "Google News / launch",
+      "category": "launch",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-08-27T02:02:07+00:00",
+      "snippet": "Punjab National Bank & Zaggle Tie Up fintechbiznews.com",
+      "relevance_score": 0
     },
     {
       "uid": "9ecdd98cc417",
@@ -6694,18 +6733,6 @@
       "severity": "critical",
       "published": "2026-08-25T02:34:32+00:00",
       "snippet": "Credit card rewards get harder to earn: The major devaluations of 2026 Moneycontrol.com",
-      "relevance_score": 1
-    },
-    {
-      "uid": "2b42f65b6217",
-      "title": "PNB Launches LUXURA Premium Metal Credit Card Variant for Indian Army Officers",
-      "url": "https://cardinsider.com/blog/pnb-launches-luxura-premium-metal-credit-card-variant-indian-army-officers/",
-      "source": "CardInsider",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-24T10:19:44+00:00",
-      "snippet": "Punjab National Bank (PNB) has introduced a new variant of its LUXURA Premium Metal Credit Card, specially designed for Indian Army personnel of Officer rank. The new card comes in Visa and RuPay variants and builds on the existing LUXURA proposition with benefits tailored for Army officers. The new",
       "relevance_score": 1
     },
     {
@@ -6986,7 +7013,7 @@
         "Axis Bank"
       ],
       "severity": null,
-      "published": "2026-08-19T06:03:32+00:00",
+      "published": "2026-08-19T07:00:00+00:00",
       "snippet": "Axis Bank credit card rules change: What gets costlier from Aug 28 Business Standard",
       "relevance_score": 1
     },
@@ -7293,6 +7320,18 @@
       "relevance_score": 0
     },
     {
+      "uid": "4f6406bd84f3",
+      "title": "📱 Apple Pay is finally coming to India! The service launches this October with Visa & Mastercard support — but no UPI or RuPay at launch. Zenia Baria is here with the latest #ApplePay #Apple #iPhone #UPI #RuPay #Mastercard #Visa #CNBCTV18Digital - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHBGWVRGQW45NkszSTFxZ1B1ZFFMXzBwb1lvR3RSQjQ4Tkxtc3BrTVI5Q1lwSWFZRXNtbnM3NTFWeDM2Y2NHZkt2ZEFUazBTZ1NWZmNTaWJrZTA1VGRKV1pwQVRab2FlRDliaGtaTEZWbmRiNi1Oc051UDYxdVJ5YVFoUDRWU3FWSjJEQ2M4X0hfb0ZOTGh2NVlMRTE?oc=5",
+      "source": "Google News / launch",
+      "category": "launch",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-08-11T07:00:00+00:00",
+      "snippet": "📱 Apple Pay is finally coming to India! The service launches this October with Visa & Mastercard support — but no UPI or RuPay at launch. Zenia Baria is here with the latest #ApplePay #Apple #iPhone #UPI #RuPay #Mastercard #Visa #CNBCTV18Digital LinkedIn",
+      "relevance_score": 0
+    },
+    {
       "uid": "5f2b6cf56d8f",
       "title": "Apple Pay is likely coming to India: What iPhone users can and can’t do without UPI at launch - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbUhGajlHamo0ZHJNbXpQOXNxb0UwRXRrTzZXZV9TMFE1QlNXVE1zNFBmb2loT1NITzc1ejQ1cnhUdjdRY3NaSWo4R19EVkVRRlZzWUJsV2hZcURvanRsTmxOMzNuZTNBSzN4OWV3b0d5czBseGU4RU41NnVTZXo5blJTc2xuUlRHTWVfSFpZMVpybElKT202MXY4bER2UlF1U2M5bEw4Q1dEV2VkQXJnQTQ1LXdhbFNaS01rVUMtak9SZDZ5VTg3TEM1TEgxRjZBOXBhLUNyVWxKUTEtZ0RrNUx2ckdkM0JVckZWYVlnTFNlZw?oc=5",
@@ -7343,6 +7382,20 @@
       "relevance_score": 2
     },
     {
+      "uid": "2ab80626bf8c",
+      "title": "Freedom to Spend Smarter: AU Small Finance Bank Credit Cards Bring Rewards, EMI Flexibility and Lounge Access to Indias Biggest Shopping Month - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMVlBOTlBbWNRRVZDbUhCb1ZwY1VOVGMxNHFhbnZWQW81X1pUOHV6anh6TGstSGpDNkU3Q0lFVldYUHlRMmdaYlM4RWtpTm5PWEg0NmJKRk1kZUxmM21iRmgyUWp4MnZEbENuRnVDOHR4WjVmamJNaHBjeGZhWFpnQU5tVEhyZnN4Uk85Vl9RSEpEdHRhcUltbVhKSGl1d0ZhNmc2VTVMaHJnSmY1RGxNUGdCWWlTdHRrWnpoaDFTQ1FTQXNCUUppZUZ0Q2tfM1RWRWEwQWxnY2QwcnVrYVpNTXNVZ1RsX1VGZ0owbWZCME1xVG1TdVV0ZTVzOVZzdmhWNW0yaTJQQ0kxTk3SAZACQVVfeXFMTVNTUm1VdTltLWtBNVBGaXlGR3htc05NX3VxWUxMUG41bVN0elU5bVpKQUE2dTgxdWx1Zk16OFdkcDBLT0dYMGZOR0gyUGs5TWFLRTRpdS1GZkJ4d3VfaWNPYl9aUW1ENV94MW4yd1BnMHJpbTNYZmtUNXVFbV8tZ054cElsOWh5OWQxLXFla0lvbUppVzg0aEI2MHhuTUZ6dDV3ajZBVnRQUFloVGg3U3d1YzJKcHlfTnd6R0JvaWo1bGwzUjN3Q3lINm5kUzRKMlJuTHQzMURtb0VhQUVjSmwyc3p6dWRXdVZDbE50bVI0VUZ4eUVNMDRMdW5PNjcyX0Uxa0Jxc2QyUzZheDFDYng?oc=5",
+      "source": "Google News / benefit",
+      "category": "benefit",
+      "issuers": [
+        "AU Small Finance Bank"
+      ],
+      "severity": null,
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Freedom to Spend Smarter: AU Small Finance Bank Credit Cards Bring Rewards, EMI Flexibility and Lounge Access to Indias Biggest Shopping Month TheWire.in",
+      "relevance_score": 2
+    },
+    {
       "uid": "c88348b6e626",
       "title": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition - Live From A Lounge",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ3pzNkdUSzZTcUJzekNPV0FDMGtha1ZfQkNHRXVqengtb09RM1FKTk4zQnE5eDlKYjlhQnpvQnNLbHdGdW0yb3YtcTl4eE0welg4U0tIcmJfVkg0QVdnRkN1T3NrZW9seUNVQkZ1MzJUYTZQWkswQU1vUlprckdsNkV3Z2dmcVFjM09mNWJiQWxvS0JHT2RkaGFKX1ZDVmZ3cFJiaW1qVGZUYk4yY3ViSm80QzMtbVplUXJjRGk3d25oYWtNWUhGcEIzYzFFS3NSeVRCd21uQkk4WjFsSldXWl8yNTg0amQwT1N0R3pRMGU4b2pCczQ4ZjA1QjU0MEQtUXB5YXBONXFONUh3T2JNeEZMd3Y5REp2c1d2Rg?oc=5",
@@ -7381,6 +7434,18 @@
       "relevance_score": 0
     },
     {
+      "uid": "a5520cec40c2",
+      "title": "Apple Pay might finally launch in India, but without UPI support: 3 key things to know - India Today",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRS1Ea3NHelAwVmEyaDVzdk94OVM2ZE9zc05tOS1ZWHJ2dHJDeDdQNXAydlNpcDdwQ3RkbUdwOUEyT2FtTGRieTgzeEpjZnhFWnBTekwyZUZkbE9CM1hVR19uOWYtMXVkZUtuYzFkZDZDRURYUlRfdWlCQWVheWh3ZHVKWjVJOVlzMGRnczBkOXhWM2RvX2xpOEl0RGpnTHJwTnBXUnUyUEhrWVRDemZPZ2QzdDU2RlpBMU9uMW51Q3BCeUJsb3fSAcsBQVVfeXFMTjhrS1ZCMExDLVdmMm5FRHZIVnNpS2lrTkRIUUxkQXRKS2JIT0tRYi1UaFhxQ2d6Vld3ZkxRSHJLLTNBcjczRm1IczhYNDFWdE1tcUtkcHlDZ1BaVTFmMmtMbThtdlgtMVJwNkN3VVZXQ1ZLcGg2VVFjNnVycnk2TUxUam91bl93RmlBVXpYcjJVXzVHcjhjRDl3SGxXeE0zZmd0U080cnMwazA3TkJRYmNnemNFZWpmblNyZjN5WFE2LXRmdzRyb3NXaHM?oc=5",
+      "source": "Google News / launch",
+      "category": "launch",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Apple Pay might finally launch in India, but without UPI support: 3 key things to know India Today",
+      "relevance_score": 0
+    },
+    {
       "uid": "40ced3f37e8a",
       "title": "Apple Pay To Launch In India By October, UPI Support Unlikely At Start - outlookbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUY2cFJqMXdKaEpsZ1I3cVBjU21SQlREX2J0el9QZ2ZvY2pOSEFjNlgxcjNxLV9FdTlCZzBRZGJCN2NHLWcwelVqQ21YTVJ5SXo5QVhBMjZ3TjljOV9oeUtONnVKTGo3Tm95cnpMcjNnWjZ1N3U1dUI4RENWQVppVDViVGs0akFZQ0ZnOUQwVUVpaXZob2RlT280Q3ZZX001Z0FSTHhpOFdidWN0dmZCRdIBvgFBVV95cUxObElkQUdtWTduQ2tYUl94UHR5Z2xPZzFzSGZUMm5VWWJYNzZyRThSQ3M1TjhPMlZXd0VWNGRORE1ST3lyZlMzMWlwSVlGWE9PVlFIQi1Wb1gySl9jemtOdHhjTVFhSUVwb0g2MWphRlBBOXpxYS1EX0QxdkpWLURTMzVUeDR2czJXOWhOb1Bka0xfRTdzWldWX3pvQWFqWVRSV2tHNkJ0WVJMMmhqVk1HX1Q3VWtIUHZYd0IwNW1R?oc=5",
@@ -7405,18 +7470,6 @@
       "relevance_score": 0
     },
     {
-      "uid": "a5520cec40c2",
-      "title": "Apple Pay might finally launch in India, but without UPI support: 3 key things to know - India Today",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRS1Ea3NHelAwVmEyaDVzdk94OVM2ZE9zc05tOS1ZWHJ2dHJDeDdQNXAydlNpcDdwQ3RkbUdwOUEyT2FtTGRieTgzeEpjZnhFWnBTekwyZUZkbE9CM1hVR19uOWYtMXVkZUtuYzFkZDZDRURYUlRfdWlCQWVheWh3ZHVKWjVJOVlzMGRnczBkOXhWM2RvX2xpOEl0RGpnTHJwTnBXUnUyUEhrWVRDemZPZ2QzdDU2RlpBMU9uMW51Q3BCeUJsb3fSAcsBQVVfeXFMTjhrS1ZCMExDLVdmMm5FRHZIVnNpS2lrTkRIUUxkQXRKS2JIT0tRYi1UaFhxQ2d6Vld3ZkxRSHJLLTNBcjczRm1IczhYNDFWdE1tcUtkcHlDZ1BaVTFmMmtMbThtdlgtMVJwNkN3VVZXQ1ZLcGg2VVFjNnVycnk2TUxUam91bl93RmlBVXpYcjJVXzVHcjhjRDl3SGxXeE0zZmd0U080cnMwazA3TkJRYmNnemNFZWpmblNyZjN5WFE2LXRmdzRyb3NXaHM?oc=5",
-      "source": "Google News / launch",
-      "category": "launch",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "Apple Pay might finally launch in India, but without UPI support: 3 key things to know India Today",
-      "relevance_score": 0
-    },
-    {
       "uid": "c3da6cb819d1",
       "title": "American Express cuts Platinum Travel Card milestone rewards in India - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUUtvbGkzVU04Ukk0UkxCWUhpQXpIRjFuMHFmeXpDdmYzMENZTVRXS18zbmtYU3RwbDhrXzlyZlA0U3ZianFVRk9Jck9qTzJoZy1XUEJZb2lPVEl0d0ZLWkFIeUU5M0p5alpGbllVUlhxbU5qNGZLSEViSFZ0VFQtcE9kTUM4Ylg0UmxWbVFyNkFKOEZSd0RTNElIWU8tVXNnejZKN19JUklvcV9USzc3ZlZIQ1BHM21uaW5TMXdTTGtSaDlBMGNfdmlaYnRmcHpHTy0yb0NkWWNMYWvSAeABQVVfeXFMTy1ZckoxdHN5d2VmdkJ1Nzg3M2N5dmx2Uml6ZGJfN3BidlBZX1BHSU0yQ256X19JZ3hIaTNnWVE4MG5lcWdaUkg3UW5rYVAyVU5abF8tdlVERDIydVZ2N3BzOXI5TFJfME4ydkZteVdZQ0pSb3RXZk5kZXhwc3ZXelVGMGdBaVczRF9qdE9UQ1RtQmRVRWdSN1NJUFhJMkZPeF9PeWJnMU5NNHpWanpLa05Rb3hCNVVXN3BsQTNjUjFjdkJvYjUzR2YzUENhVV9QcXNRRk1PZ1FfaDNOUktOZlo?oc=5",
@@ -7428,18 +7481,6 @@
       "severity": null,
       "published": "2026-08-10T07:00:00+00:00",
       "snippet": "American Express cuts Platinum Travel Card milestone rewards in India Moneycontrol.com",
-      "relevance_score": 0
-    },
-    {
-      "uid": "ba35300fa559",
-      "title": "Apple Pay is coming to India in Oct'26: Will not support UPI based payements initally; know all the details - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmdNYUFWdWhIZ1E5NWpTY3VmZlJSMFdkZG1Ec0JNN2FuY3ZPaGFDU1NvZXhyUDZ2ODhUTUlxcUoyXzZnS0RQUkNxWWhtQ0pFZkd1ejlkeFlEVFAwM2t2QzE1MnY1Rk9DSmdjTjhVYkZROElNRTU2Nk1GTUlVZ2NPMGJ4U0xtejl2aUpCelJXc3pRYW9TWXZZcGp0WVg2M2ZqdmY4dkZjRGd0bUM2NFJuUG83R3FVMXl1UEHSAb8BQVVfeXFMT045Y2tha09aa1hBTE1sRVF3LWZpWjFBYy0tTDhxTjhuMEg3TXVzYmFVcXctZDNQU1hYazFpbUJSQnRiLW1nYmdOZW54NEROWXNIejJXdTVNeXBpc2pMS1RwZEpveTJtYW42QlJ2S0xwTGZTUFJ0V1BjT0ZsYzBoT1lTY3JQZVRDLVVMT3BoQTVJaFFEQjJvVnBWX01TSmxKdWRiUms4MmNvczluTDM3MUw0WTU4TndrdFhIT25JMGs?oc=5",
-      "source": "Google News / launch",
-      "category": "launch",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-08-10T05:22:08+00:00",
-      "snippet": "Apple Pay is coming to India in Oct'26: Will not support UPI based payements initally; know all the details Bhaskar English",
       "relevance_score": 0
     },
     {
@@ -7532,7 +7573,7 @@
         "HDFC"
       ],
       "severity": null,
-      "published": "2026-07-26T07:40:06+00:00",
+      "published": "2026-07-26T07:00:00+00:00",
       "snippet": "More positive news for HDFC Bank BizPower Customers: 22 Transfer Partners added Live From A Lounge",
       "relevance_score": 0
     },
@@ -7719,33 +7760,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "590b70e491b6",
-      "title": "July 1 financial changes: ITR filing, Aadhaar updates, SBI cards, HDFC lounge access, passport fees and RBI rules explained - IBTimes India",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHlMM29YZktXODNTMVE3SW9UZXExNnZkQ0diMmphTmU1N21yMDl1ZlFYLS1BeDM0SjRlUC1KejE4NGh2NzROaGZkMmYxLV9JcWhwYkF2RnNXN18wUzBHWE43NGhVdUI1U01qTC0xcjBmVnN4SXVkeXlKdzdyTG5fSzhrQlZZdndhTEt0dDdiVjNlQ2NXU2FtMVd5YXJQSkJ5QnhZdW9kYk5MSWc5Z3FNek1WQk54T3prajFhX0llVlhpY0Q0VkE?oc=5",
-      "source": "Google News / devaluation",
-      "category": "benefit",
-      "issuers": [
-        "HDFC",
-        "SBI Card"
-      ],
-      "severity": null,
-      "published": "2026-06-28T07:00:00+00:00",
-      "snippet": "July 1 financial changes: ITR filing, Aadhaar updates, SBI cards, HDFC lounge access, passport fees and RBI rules explained IBTimes India",
-      "relevance_score": 2
-    },
-    {
-      "uid": "588798be2633",
-      "title": "July 1 Brings 6 Big Financial Changes: ITR Deadline, Aadhaar, Passport & Credit Card Rules - NiftyTrader",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFpfNEE1N0I1ZG9tS2syeV9ZVC1FRG5UdF92bTRaQ25zeGd5S2Z0bTNUcGd3RU1JMTk2WW9QWVZaeXEzTklnLXFmRlRmd3hYcktjaVU3d0NsWW5sWm1Tb3NYSzZ6LWJMUWNtb1o2WEJqRDRWMWl2aHA0VXFKOGFuYTNPTEQ?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-06-27T07:00:00+00:00",
-      "snippet": "July 1 Brings 6 Big Financial Changes: ITR Deadline, Aadhaar, Passport & Credit Card Rules NiftyTrader",
-      "relevance_score": 1
-    },
-    {
       "uid": "4631d06f04a8",
       "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRtUUFWbk44enJMLTNCSXBRVVlCZHA1bjlEUmdnSm1Ua2tSZVZfREY0MWU2WFNIU005WEt1TnR1NE5oMmtmTG1xTEV2dFdxTTJxQ080STg4YXJ2b2w2UjlqS25EUEJ4dG9BZXpKOEZUTFdUc1FLR2hBZHh4b2FhVEU1aUFtQ2wyOWNHUkRjZEl5SWlLckpEVXlSMUg0c1l6Z2loTHN0RVp4TFJkQTFfSHpzLXpUUVJ5Wmg2WDhibGVYbV9wd3hXYmZPT2lpeGRjSElEVtIB2gFBVV95cUxQVnhUekU0X0xqUEtoMUwzblV4T0owNzZJV1RqM1RzM1VKck85eUtZSXVrTmpoX3c2cDllcTZOTGdCTFB4Wl83MEM3MFFQQTBFTl9CMjN3Wk9SYlByTEdpT3ZnNmRPTjFmdlU5U1Rqb0FtSl9IOVJ5UXR4ZHRMYkpTbktUQ0NacFNQUF9OODRZWVYzcWYzY3l1WFlyZW45Y2RjOUhycDNUbTdPMzZOamdXVWlLNDA4Q2xUM3ludjluWF8tNDBTUU4xVzBXTU1vemhQSmptM1hrVGltdw?oc=5",
@@ -7917,30 +7931,6 @@
       "published": "2026-05-22T07:00:00+00:00",
       "snippet": "Finding it difficult to maximise credit card benefits? Here’s why, and what lies ahead The Indian Express",
       "relevance_score": 1
-    },
-    {
-      "uid": "043955099a78",
-      "title": "8th Pay Commission: Salary revision every 5 years, 6% annual hike on Staff Side’s wishlist - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlJHMGc5WmNRWm52VnN1cDlobGl4WlBxRE1xaVZsMzFpb2J3WllQejlZZVA5UG5GbjhtS0ZtYkYxTkdmR2RfUkdKWEp6dlZmRDQwNFdSVWs5LUF1WlpSUlNwT1Z3LWtSbVhZTTkwUDg4bGs0bUh3M3VucEVnckpMcW03akoxQVlLSmVFM1pXNDRiN3ZJa1ZvRHZBWnM3UncyWkRsWEVma3Axa3dYdFpzOURpTHdjay1fVkpWMXVLcDY1dXFNX2hYaDRuMDgwNmVjemJfYWlIT1E5akQ2Mzl0MjlGUnpFSDh5Zy1CajZ3MWo?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [],
-      "severity": "major",
-      "published": "2026-05-20T07:00:00+00:00",
-      "snippet": "8th Pay Commission: Salary revision every 5 years, 6% annual hike on Staff Side’s wishlist Upstox",
-      "relevance_score": 0
-    },
-    {
-      "uid": "81eaf2d09836",
-      "title": "MC Tech3 | Indian banks vs Apple Pay; Uber slides, Rapido races; and more - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkNtaFhxT3pReThXb29DNDdfVmxsYnJSWC1DQ1dwMXlaVFRfZDEzX2M1YUtsdGo2emNDaWdNc281T0luUjNsZnVoTUhncDJNVkRheTlfYTh5bHJ5OENOVUF5R05HNGJqb0VHWktwaTJqR1lLWTdOXzhVWnZlNXlFQXF5c0xXZWNYWW5lZm15TmNoM2pKM2dzRURIdVU?oc=5",
-      "source": "Google News / launch",
-      "category": "launch",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-05-18T07:00:00+00:00",
-      "snippet": "MC Tech3 | Indian banks vs Apple Pay; Uber slides, Rapido races; and more LinkedIn",
-      "relevance_score": 0
     },
     {
       "uid": "c7df70cb00a8",
@@ -8136,6 +8126,18 @@
       "relevance_score": 1
     },
     {
+      "uid": "4aed2570640c",
+      "title": "Best Credit Cards for Seniors: Top Options for Older Adults in India - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGk5WkZPNW82SXZ6TU5aUDUwLS1lUlBkdGVsbVkyQXlaRVVURFpOMHRWNUg0OS10eldHSERmbVg2Z0JvMEt5bXU2RUxqVXlUSmYxdktQTTI5dnNWY2VZYm9KV1ZMT1pfbzlQbWRjekZUTUVBSDNpTVVSbXFKX3puZW1CcnpRMjFGd1VESFNMdjJham10c1ow?oc=5",
+      "source": "Google News / offer",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-04-22T07:00:00+00:00",
+      "snippet": "Best Credit Cards for Seniors: Top Options for Older Adults in India Airtel",
+      "relevance_score": 1
+    },
+    {
       "uid": "6689840ce0bb",
       "title": "Best Credit Cards for Everyday Spending: Maximise Rewards on Daily Purchases - Airtel",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0RUU2dNU1c0Nmx0ZVIwWmdlblM2d04tWjJZSlM4bXlJRkItM1JIUWZhSkRwZndjVEtldFFXTEJ6X21aVDRtNTFZT1Atelc5SDJxV0FTWGxNZVM3V2JBLVlpZDhsSzZkZjVCZmpWRG45SHJLeWtKQldHaGU4LVFaSFZoM203cTVtekFXakdkVENhLWJoS1JoXzY0N3VCU1A1?oc=5",
@@ -8148,18 +8150,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "6bf0683d7f4c",
-      "title": "Top Credit Cards for Parents: Earn Rewards on Family Expenses - Airtel",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzYyNnBqUWVfOFZIMDZ6RWtua1J5NTRiOWFwZGZ2aFJpeXF4NEZJN21kSnZmX2ZZdExfNGdvTkRNTms3aV9yZl93SnM1LXV5NW01aUd5SGZ3N0Nab184Q0daOFQ3VkJfU29QMmFHOUVuM1pQQmpqeFFmUzN6YklBWk1EREdNT2pBSFhsX1pHbmsxNDY1UFZxVDZ6NVYtVFNla0E?oc=5",
-      "source": "Google News / offer",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-04-22T07:00:00+00:00",
-      "snippet": "Top Credit Cards for Parents: Earn Rewards on Family Expenses Airtel",
-      "relevance_score": 1
-    },
-    {
       "uid": "cfc23a1a136f",
       "title": "Best Credit Cards with Health Benefits & Wellness Rewards - Airtel",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRlRZVU1QTE8xem4xMzRtdzFsZDBrMGxwWXJTS2VKNGFHUnp0TVJaaUI0czJwTVMtOEFvRnc5SVZLWDJEWk1pTjNGVlI4Y21qOFFZdG9kTFNXMTA1d0hkLTVSWlVvWnZUNENCa2JEa3ZaNlVPSDFscHd1ZnljYjEzeUhUUkt1SThXNTZDRHphTy1iczZvOWc?oc=5",
@@ -8169,6 +8159,18 @@
       "severity": null,
       "published": "2026-04-22T07:00:00+00:00",
       "snippet": "Best Credit Cards with Health Benefits & Wellness Rewards Airtel",
+      "relevance_score": 1
+    },
+    {
+      "uid": "6bf0683d7f4c",
+      "title": "Top Credit Cards for Parents: Earn Rewards on Family Expenses - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzYyNnBqUWVfOFZIMDZ6RWtua1J5NTRiOWFwZGZ2aFJpeXF4NEZJN21kSnZmX2ZZdExfNGdvTkRNTms3aV9yZl93SnM1LXV5NW01aUd5SGZ3N0Nab184Q0daOFQ3VkJfU29QMmFHOUVuM1pQQmpqeFFmUzN6YklBWk1EREdNT2pBSFhsX1pHbmsxNDY1UFZxVDZ6NVYtVFNla0E?oc=5",
+      "source": "Google News / offer",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-04-22T07:00:00+00:00",
+      "snippet": "Top Credit Cards for Parents: Earn Rewards on Family Expenses Airtel",
       "relevance_score": 1
     },
     {
@@ -8220,18 +8222,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "7135d1a8dbca",
-      "title": "Overspent? Get Smart About Your Credit Card Spending Today - Airtel",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWZDak1IakxUY3VQWVNHUVc1Sk5PYVNUYUNiaUVsX1RVaHNFUzRMcEVGOThpbVdzSlZPOXdXeE9CcEV4VzZOdmowekFxcGpwcWRsYzZWZUdNdEpPZWFFdEdpOTdLVlNtNEJMOUk5Uk5IM0Y1cUROQkcweThmaFpXSkl5dU1TZw?oc=5",
-      "source": "Google News / offer",
-      "category": "offer",
-      "issuers": [],
-      "severity": null,
-      "published": "2026-04-22T07:00:00+00:00",
-      "snippet": "Overspent? Get Smart About Your Credit Card Spending Today Airtel",
-      "relevance_score": 1
-    },
-    {
       "uid": "a2dbe5c7a8b9",
       "title": "Change or Update the Address on HDFC Credit Card - Airtel",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXEyUDRpSUZUSDBiV2dCY2ZjeHlNdnpVNUt4dWRPRWlLR3J3UkpITTRaOW1OYTFCLWF2T2FkdXl6a2xfeFZMWFl1Vlk3d0NsV1dfRXF0TW9wRXVRYTkxSndKa2U3blRuNzh2VS1ZTFVxTXBCS2xRU1BJbnN5UmFTMTc1a0JJWDdaWXREZE9JWEV3dw?oc=5",
@@ -8269,6 +8259,18 @@
       "severity": null,
       "published": "2026-04-22T07:00:00+00:00",
       "snippet": "Explore Southeast Asia Using Credit Card Perks & Privileges Airtel",
+      "relevance_score": 1
+    },
+    {
+      "uid": "7135d1a8dbca",
+      "title": "Overspent? Get Smart About Your Credit Card Spending Today - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWZDak1IakxUY3VQWVNHUVc1Sk5PYVNUYUNiaUVsX1RVaHNFUzRMcEVGOThpbVdzSlZPOXdXeE9CcEV4VzZOdmowekFxcGpwcWRsYzZWZUdNdEpPZWFFdEdpOTdLVlNtNEJMOUk5Uk5IM0Y1cUROQkcweThmaFpXSkl5dU1TZw?oc=5",
+      "source": "Google News / offer",
+      "category": "offer",
+      "issuers": [],
+      "severity": null,
+      "published": "2026-04-22T07:00:00+00:00",
+      "snippet": "Overspent? Get Smart About Your Credit Card Spending Today Airtel",
       "relevance_score": 1
     },
     {
@@ -8310,20 +8312,6 @@
       "published": "2026-04-15T02:35:39+00:00",
       "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
       "relevance_score": 1
-    },
-    {
-      "uid": "670e62a4d590",
-      "title": "HDFC Bank revamps Regalia Gold Credit Card: What’s good, what’s not | Business News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXpWcHZXcGlSWk8yMzVKcWRsMW4yV0VOREJnVkZmcW1zYkw2V1BPSVhJYkpzSDNRMl91SWpMNDFjNUpNNXdPR3lSMkNWWVJGdExvUy1pWXluS2FLUm1VbTVSdTFYck4tNE1uTVk2dkpvMkRVY3BvX0d0Q0tQVkp0TE04NlVDQW1ndlQ5ZXRmMGI0SHM4dmRnU2NlS3NvMTZLYXBWSzFNOE1US09xaFpsamhlQ3Q1RTc4ZHVuQXdGd2ZNS2xJ0gHKAUFVX3lxTFA0NGN5ZzhkcWJHZVBuaElGcWtacWhOcW1teDNqdi1mcWtRWEZaUFhIZHAtS1dYRHpNRVlyY1JGYUpUU183ZXo2OFMzUDhWQVZTX1Qtcm40dENEXzZoX21STVI2S0NGNE83N19YWkFnZGtTbnFJejQ0blhLSlJtTnVPQnJjenZmWFk3TGU2NVNVLXpGeVFvTlFIODdMQkRCSElHTlhLSUxUS3RwYjRwYlV6cjctel82cWRFdnhWT2h4LVdoTXZRZ1BwZXc?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "severity": null,
-      "published": "2026-04-14T07:00:00+00:00",
-      "snippet": "HDFC Bank revamps Regalia Gold Credit Card: What’s good, what’s not | Business News Hindustan Times",
-      "relevance_score": 2
     },
     {
       "uid": "653e2c3e65ce",
@@ -8487,18 +8475,6 @@
       "relevance_score": 1
     },
     {
-      "uid": "81b875a9ce39",
-      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
-      "source": "Google News / devaluation",
-      "category": "devaluation",
-      "issuers": [],
-      "severity": "major",
-      "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
-      "relevance_score": 1
-    },
-    {
       "uid": "fe69b34e3393",
       "title": "Equitas PowerMiles Review: 9% Rewards or Tiered Trap?",
       "url": "https://creditcardz.in/equitas-powermiles-review-9-rewards-or-tiered-trap/?utm_source=rss&utm_medium=rss&utm_campaign=equitas-powermiles-review-9-rewards-or-tiered-trap",
@@ -8630,6 +8606,21 @@
       "relevance_score": 3
     },
     {
+      "uid": "6f1e3bbd0277",
+      "title": "Swiggy HDFC Credit Card split into BLCK and ORNGE variants: here is what changes - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVBjakthd0tHM0lsZ2RrU1hjN2JyYUg3Uk1jMHE4QmdVbWp3V3dOUlJJOUV2UUJPRE91b2VZYWtXeF9zYlZ3ajJaOHhTQVpqZXowOUJnYld0akZ3d1ZPSzRXd3RONUI0V1gtWnliMHJLaUdDSTdvLTJISS1jb2RnbE5KZk5zamw1d3FidHl0UmhKNlp0ZGhCR00ydnFqbDZoNnZzMG9hSUh1blJQ?oc=5",
+      "source": "Google News / devaluation",
+      "category": "benefit",
+      "issuers": [
+        "HDFC",
+        "Swiggy / HDFC"
+      ],
+      "severity": null,
+      "published": "2026-03-07T08:00:00+00:00",
+      "snippet": "Swiggy HDFC Credit Card split into BLCK and ORNGE variants: here is what changes Live From A Lounge",
+      "relevance_score": 1
+    },
+    {
       "uid": "3b4efe5aa948",
       "title": "From SBI, HDFC to ICICI Bank: Why credit card issuers are tightening their reward policies - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQkRySC1kZEZraTl4cmYwRXBlS2VKTXI2Mk5Qc1pueXY4cTVvOFN1OXd3X0RGOXRWQ2dTRHF1cGw3OUNaRlVNbm1uZ0RhQTYtcEF4ZWRGLWxIOVZBWjZud1o2Z19ZY19oc1FCNWxHU0s2UkV6dlREUDlBUnhPa3V1cVBxcGpuQnBwcktNcjZaeHNEeHZPMnlEeDJOVUo2eXQzRWp5SEZYdzkxNlJzSXNuU2twYXI5Y0NuYXBKLVhoNTRDQmNJZ3dZQi1lUERiSkVqT09xSFpzMDl3RUt1RkZiZ0ZKN2xzQWhoOXhz0gHwAUFVX3lxTFB5NDdlQU5hc25RaWo4endzdDV4U2NBbldoX1ZSTTZqVHF4Nzl1c1I0amRuRVQ5TUQyeWVYa2JvZXJNWWRiOWhiakMxci1TWjJPejBNX3UtVkpKaFVONmtWdjhkbnotVnhPUVItaVUwdHFYbV9QS2szY3dKcTFSU2FJQ1dZbHZ6U3Y0czlrNDl0Yk8wSlFBZWJkeFdMUUpvdWlQSkhFQ3owbTBDeU9NM1NIU3ItVWQycllfUmJSOG53NVVydzVkSUd6RzNOZHJvajd2TmhNTERnYmdxaElPeHlpQko0UUxnQkdDeFhOcFBKQg?oc=5",
@@ -8747,6 +8738,21 @@
       "relevance_score": 0
     },
     {
+      "uid": "d4976ec00578",
+      "title": "SBI, HDFC Bank, PNB and ICICI Bank changes kicking in February 2026: What customers should know - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeDA2emxGdGNDZXJwYTFadFhEcE9qT19VT2F0T2V1SURCTzhINnphNWwyVm8xWTE0VkpROE1qWW5wa095czBuSW02eXlDWURlNzU1MFlURjRWNHpKajRuV0pJMkdoT2xOalpTVENtQXhxbnJYbXUyQmJ2ZUh5aGltQlJ6U0g0MU9hemRMZVpIWkdkRGY3T1FnM2I3OHg3ZUJOZjlKVjdQYjVldVFhck9tejAxUlVnNGJJWFdIblpjZW1jSVQzTWd5VWVrMUlIOFFfaFRZWDFrcjBtOFFSeXBTWlRoWDBFaUdlaHVxU2NqZmZSb2N5bHh4eVNkV2EzTU1EYXZDSlQwY1hrX3lnNS1ad2tuX2gyQmVjc2pCT01Lbjl5NVRzMXJxM29IdzVVRzly?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "HDFC",
+        "ICICI Bank"
+      ],
+      "severity": null,
+      "published": "2026-01-30T08:00:00+00:00",
+      "snippet": "SBI, HDFC Bank, PNB and ICICI Bank changes kicking in February 2026: What customers should know The Economic Times",
+      "relevance_score": 0
+    },
+    {
       "uid": "bef03418579a",
       "title": "Best Grocery Credit Cards India 2026",
       "url": "https://creditcardz.in/best-grocery-credit-cards-india-2026/?utm_source=rss&utm_medium=rss&utm_campaign=best-grocery-credit-cards-india-2026",
@@ -8769,6 +8775,20 @@
       "published": "2026-01-23T08:00:00+00:00",
       "snippet": "Good news for employees and pensioners of PSGICs, NABARD, RBI: Salary, pension hike approved Upstox",
       "relevance_score": 0
+    },
+    {
+      "uid": "5b31645b2433",
+      "title": "HDFC Infinia Card rolls back changes to cut down on reward points - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOejJ0Rkw4U3Nvd0lucGRMTDBnT3pkczRoMEo1MjdZbUo4RjJxM1lUa2Q4ZTNuVFZQNWRXR2NDTVBMeHV5dHFfTTZHQ0lSYUV2TTZEcmdmM2hFMk9PNHg3b3JVeEVDUmE3LXYwY2NPRG03bDM3TlB5VXh4M192WDZxSGhhanVRS3RPT0NUMURoR01GcmE3MXhCaXR5UkJYVnIyWGRhVFVhdjRub2d3VzFxSGRzbFFONjZuZWxmWTk5ZHRTT0VuR1hsbnVjUEQxcHdHZ0VSWkE5bGwyQ2liR2Jz?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "severity": null,
+      "published": "2026-01-16T08:00:00+00:00",
+      "snippet": "HDFC Infinia Card rolls back changes to cut down on reward points Livemint Money",
+      "relevance_score": 2
     },
     {
       "uid": "13f589d92a9e",
@@ -9017,17 +9037,15 @@
       "relevance_score": 2
     },
     {
-      "uid": "bac632543a77",
-      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
+      "uid": "1348a4901afd",
+      "title": "Upcoming Smartphone Launches in India: Your 2025 Guide - Airtel",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFRxbWtkNl96U1hLTEV2bksyWjYwRWNlLUlkSDBucklKWVF2bHRJeTBucHRjN2ktY05zVzBySGktUWV3NXAzcTR2eXZqVGZWR3V4TlppUW91NFc1UDNaSVptVkI4RC1tOUd1MnZyTkNFenAyYkZJeVlpRTNXY1JjMVJ4Q1dqZmFyaEtNcklNY3QxQQ?oc=5",
       "source": "Google News / launch",
       "category": "launch",
-      "issuers": [
-        "Federal Bank"
-      ],
+      "issuers": [],
       "severity": null,
-      "published": "2025-11-04T08:00:00+00:00",
-      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard",
+      "published": "2025-10-13T07:00:00+00:00",
+      "snippet": "Upcoming Smartphone Launches in India: Your 2025 Guide Airtel",
       "relevance_score": 0
     },
     {
@@ -9209,6 +9227,18 @@
       "relevance_score": 2
     },
     {
+      "uid": "12d40fded746",
+      "title": "SBI’s Air India cobrand cards cut earnings on Air India Tickets - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk9NYjJ5T0xPTm8wS1BVNFRybjV3OFFlNzRubkdmMzk3OHB5clhFQ3ZDUkxzbUZjbmoxcDhKZkg5LVhyRXZxNkJvNHoxODZKcWgzNUtUNGp1QmRkYW9vUmhhbV9HZjI0QTBTMFFQZFUtZmJCSXM0Tkp1YWZZamdHc3BKNUNSaHdEcUk3ZXlDTmo5OUE2cEE?oc=5",
+      "source": "Google News / devaluation",
+      "category": "benefit",
+      "issuers": [],
+      "severity": null,
+      "published": "2025-03-01T08:00:00+00:00",
+      "snippet": "SBI’s Air India cobrand cards cut earnings on Air India Tickets Live From A Lounge",
+      "relevance_score": 0
+    },
+    {
       "uid": "ca8981b45f3f",
       "title": "HDFC Global Value Program – A Hidden Gem",
       "url": "https://creditcardz.in/hdfc-global-value-program-a-hidden-gem/?utm_source=rss&utm_medium=rss&utm_campaign=hdfc-global-value-program-a-hidden-gem",
@@ -9326,6 +9356,20 @@
       "relevance_score": 2
     },
     {
+      "uid": "9c280ab4804f",
+      "title": "ICICI Bank reduces benefits on 21 credit cards, imposes minimum card usage for airport lounge access - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ2tCZW5VYS1feHJEWTh2UV80dldlZGdWYWJlWUNxbkdZeTlDdFd3WmpGMTlZWG9GWU9nU0FqQTMxaTY5anZ6X2VIZ2syMTdKX1J1eTZ6cWF5aVlMYzJxdm5JOHlNaG0zRlRzbXFESXRMNnAyanJLY0RYYk5vMlRwVmN3ZlBrTGVuSEJueVk4eVRmdUkxMU5YTm9XNGZVNTNjZzNFSUZBb3poYW1TY1FxUVpZNDJnMTdlVFhLTUFzSXRVc2FTZjF2RHlPMm5OaDN6X2RWS09XZFhVYlQ5dHk3VjFnalZ0bGI1TjJ0ZThZNUVCRWRCMGY0Q0pQM0tsdTMyRnFN0gGIAkFVX3lxTE5VdlZIRTNSMkFhd0wzdEVqOWFJZ25LX2ZYSWZIb21SSDNzQjlaVUFWRnhfY2hxdmlwWFhJY3B3dmR2UmY0czNrNU15NkhIaDE3Z2RvRnFOUnVHMG9Tcl9YbkhCd254UmVhX1JBZTBad0JzR2VrTXdLWTJ1ZjJaMGpsNU4zOXdPODFmQ01EOXZmZk1aV1p3c1lUWHh0WlA3ZDIySWhVUUpGcEhPZUk1YnllSmJkRjZFN053ZUpUc0gyR29EYjdoR1VHZmd2elk3Zno1eEFYRnZMYTJlTThBamRuajBtc2F2WkNQWXVmaTNTQTNmM3U0OVFqTVR6QzFxQno1ZmZPaGpNNw?oc=5",
+      "source": "Google News / devaluation",
+      "category": "benefit",
+      "issuers": [
+        "ICICI Bank"
+      ],
+      "severity": null,
+      "published": "2024-01-05T08:00:00+00:00",
+      "snippet": "ICICI Bank reduces benefits on 21 credit cards, imposes minimum card usage for airport lounge access Moneycontrol.com",
+      "relevance_score": 3
+    },
+    {
       "uid": "9acfe5f879ed",
       "title": "Axis Magnus to SBI Aurum: Top premium lifestyle cards for high earners - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYTZJcUc2a01qcTk3emRmZzBGMFBJdXZGWE84aHZrWHhFM0ZoMzYtRng4Wk4zUjRyS3ktdXZyOHpQWEQtS2dFc284R1NWV1k3WnR5am01LV9uYXlKdFAzakw0eWpfREI4eHBmdU92UVhfNHY0WGk4azYwLWdpTVhYaHltNDRYNnZVTWhIWlhjU2RyZEdQb0JlSjJsQVhVcUREelU5cU5FZzI0aFpIWkxfNE83TjhCUmtFTEVIWkkxN01KSGJ5ZmZsWVh0VlQyb29KTXV2QjMzWVk4akJjZUtqdl9KWkVZY1XSAewBQVVfeXFMUFFUNGR5MWdWTU9RV1UzdHRZM1FsZlk4czNEcWFRRHBSano5ZzlQeGZlQTJXcVNpSndreFVybDI4dnFmeE5PYXVvQXVZc3E4dUNTTVFpSF9GOUxDU1l0akxPc0s5endTSG5IMk1FN2s4WE5Lb2lQRlVvZDFTNUxJNXp4NE9neFBXUUxOcUNZanNmRTVqNVV5blBTY2ZtT09nT0hJN3pDbHFBNnNSNVhoUWJhV3lxaU94c0xVaGJteXYtTkhXWGEyenZBcnkwVTVEekpuY2RQUzlWSTBHOUdSQ1RfdHM2UVA4YXRoSTQ?oc=5",
@@ -9368,6 +9412,35 @@
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
       "relevance_score": 3
+    },
+    {
+      "uid": "d0646810ad38",
+      "title": "Axis Bank's message is clear: Bank more to gain more - Forbes India",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDRRYzBRZjV5aTNHdmJoSGs2R0NGWUNPTmY5ei0tSUgzRk54V1NWV2R4RzJNc2V1ZVVnWEpVR0N2VFJmMUpRTXRyUzR5SDBKcFVYVjNPOXhFQW5CbUZEUW5QVFNQbFczLVJlSHlEVlh6eUh1X2I5Q1pkMXgzeTJkWjhiNll5RTBCaFhFS1NxdmRYb1JiazhnZHZiNFU0S01TT2pQYVhoanJqcDgwdTlmMHJyT05PSklvYlJGVkVlQWozZ9IBxwFBVV95cUxNeExNRDBmeWktdFF1NTl4VkIyRzZ1ZkxVSU1BU0hBUlBXQkpvbjhxMTRLUldMZ3BTQVNPck9pUVFXZEhnNDh3UkF5NjEzVUFXSUxZVEZJTUFYZDZqSDdOQnVpZ0lCd1BHUUppdXN2WUViY0F6bmN0V0hfbzJfUjhQY2ZlbnNtRlN3amliSlRWQUdYMXRBNUVqSUUzQUVBNnh6SV9JUjhJb0MzbDU2aFlJc3BwNmxjQ2tqaUpUcWVIbXhRbTd4MUdF?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "severity": null,
+      "published": "2023-08-04T07:00:00+00:00",
+      "snippet": "Axis Bank's message is clear: Bank more to gain more Forbes India",
+      "relevance_score": 0
+    },
+    {
+      "uid": "3d46db9a9abe",
+      "title": "Axis Bank reduces benefits on Flipkart Axis Bank Credit Card - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORV9jZ1VwN01lNjF0Ym9sdDE2dWZkUmtGdGZVZnZ5eVlCUVNWV2lQQm5waHpkd3k1YWVWbGVfMmV5XzVGOUxyVDhhMXZ2T09iSHJDTWppUGh6eHN6a2hkQTFJZFhjNmt3OG9BTURrYWwxVmY5djNzQ0ozeHZyS1ZVYmZCRk1YWHhtdUZ1dlB5RTFYZzNkLTNMS1dGX3B3MHg3RkVZZjhBODdyWG5sQjFxQUNSSmVBajRua0I0NW9mclVyVnZuVTRVVVVhWXlyZUJPUzM2eWhUdktsQkNxdnY3dklKQUdqeUdfbF930gHwAUFVX3lxTE9TX0hkbFlnQkNYeUxXdVd5bG55cmJNdVNXTmxKZzcybEFCRFFhVU1GcGI0R2M5ZUsxYWxtaVJpdVBIV19lNlp6ajRwRkptQ3ZHVk5wYkozaThZajA2clZhcXZwTHJwbEhIRWFNQXVDWXdCNzBaTHNjREVzdnJVRlJkUXlIbG9UbmRWMWNoSEh2WWhPdmY2TDh6RzdBWUlrVmprS3ozR1pNM0toQkl5cUxQRTBKTDBqal9GeWJqeUl2ekJwbVRtelZSSmVQX1ZDMnRrMHdEUE4xbl85ZXFWZXYyQmphNW1uVjhBTnFUSS1VMw?oc=5",
+      "source": "Google News / devaluation",
+      "category": "devaluation",
+      "issuers": [
+        "Axis Bank",
+        "Flipkart / Axis"
+      ],
+      "severity": null,
+      "published": "2023-07-12T07:00:00+00:00",
+      "snippet": "Axis Bank reduces benefits on Flipkart Axis Bank Credit Card Moneycontrol.com",
+      "relevance_score": 1
     },
     {
       "uid": "f04b5be7c5cb",
