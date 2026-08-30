@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T09:19:04.585037+00:00",
-  "count": 32,
+  "generated_at": "2026-08-30T08:30:22.013536+00:00",
+  "count": 34,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,21 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-29T09:18:48.417484+00:00",
+      "published": "2026-08-30T08:30:06.192402+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "3cd777a6fa74",
+      "title": "American Express to discontinue Reward Multiplier in India after 6 years — Here's what cardholders need to know",
+      "url": "https://www.livemint.com/money/personal-finance/american-express-to-discontinue-reward-multiplier-in-india-after-6-years-heres-what-cardholders-need-to-know-11788054591758.html",
+      "source": "Mint – Credit Card",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-30T02:54:09+00:00",
+      "snippet": "Amex Cardholders have until 11:59 PM on 29 September 2026 to maximise the programme.",
+      "severity": "critical"
     },
     {
       "uid": "fd9c57d2c0f5",
@@ -221,14 +233,16 @@
       "severity": "major"
     },
     {
-      "uid": "8951d125b1e7",
-      "title": "4 things cardholders should do to avoid credit card devaluation risk - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaktYRGhsQ1kzMGFheXdsNlB2cTBSSVhCUWVmNnI3ZFczYWVpUG5talpkVjJmMWdsNGpPQVNaOEZGdzFxRWgtMDVONERRcDJiUm52cTZTbTU5ZFppRTBHNTZXd3k5MDNQRTFjN2liUm5oSXdNQlJrYjU1NUxITUdFb2pQcjFYRjNEcTFiMmNzeHlVaFpwV0dUMnZhRlpScW9OMWl5QnZMZDVxb25hWXNIME44dTVOd2VBYmRoRE51Z19WdW1xYml4WEllVEx2YTJLWm82LXNubw?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-06-23T07:00:00+00:00",
-      "snippet": "4 things cardholders should do to avoid credit card devaluation risk Upstox",
-      "severity": "critical"
+      "uid": "316a5a06996a",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "IndusInd Bank"
+      ],
+      "published": "2026-06-05T07:00:00+00:00",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "severity": "major"
     },
     {
       "uid": "51eb98d6ec3f",
@@ -330,6 +344,16 @@
       ],
       "published": "2026-02-27T08:00:00+00:00",
       "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
+      "severity": "major"
+    },
+    {
+      "uid": "8db8ed65c7d8",
+      "title": "Base-year revision to facilitate calibrated policies: RBI Governor Malhotra - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVy1pVVdGTEw5M2lVN1FfTmZzU2x2blI2bXMtZm5IcGFEWXdKQXYwbnZUZloxa3l6ZDJTa1plSzV2eGpBdmR2VE5qbGFPdFVpU19DMGt2RjlJbUJuQXNRUUdWaG4wWlpJUUw1d2R5N0xLWUtJRjRXcFN2TkJDVENzV29uZnZHUVpZYjRPYXdWRXE2RnE2LURURlNVd01Vekt0VmdkZ2NNMEQ3SEZobW93ZnlCU3Q5TEFWYWVoOHBfeUJrelRCMksycUNTcUNDdlZtTFI3bUFmbW_SAd4BQVVfeXFMTlFrQ3J3NlBDWWNMYXFGb0wyU2pGTG16ck94TktpTDhvNzloaWhlT2h3QVU1LTJKMHBYWWkyMlBibERjUDVON2ZtWC10NWZOTmtNNEM2OWZMbWdVWDdDUy1RZlN6WjFiczVYb0hWQzczclAyRVc2ZW1vLVR5OWtNcm93WGJBeEN2VDBPSmItMWxZMWdSTGlRYW9SR3hzeUMwZWkzLS1IVXNKVDNvRVM3UWhUbnlzOVFNUEt6NWhPNkw4dmh0VElGZFRpTkE3amxsVVI4UkV1Qmk2a01fOUxR?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-01-16T08:00:00+00:00",
+      "snippet": "Base-year revision to facilitate calibrated policies: RBI Governor Malhotra Business Standard",
       "severity": "major"
     },
     {
