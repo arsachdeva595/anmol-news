@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-08-30T08:30:22.014486+00:00",
-  "count": 17,
+  "generated_at": "2026-08-31T08:51:11.327552+00:00",
+  "count": 19,
   "launches": [
-    {
-      "uid": "40737437d4b2",
-      "title": "Visa Launches Complimentary International SIM Card Offer for Forex Prepaid Cardholders",
-      "url": "https://cardinsider.com/blog/visa-launches-complimentary-international-sim-card-offer-forex-prepaid-cardholders/",
-      "source": "CardInsider",
-      "issuers": [],
-      "published": "2026-08-26T10:41:29+00:00",
-      "snippet": "In recent times, Visa has rolled out several exciting and rewarding offers for its cardholders. From the popular Visa Power Travel to the complimentary international SIM card offer, it seems Visa users are getting more than they could have asked for. When traveling internationally, an e-SIM has beco"
-    },
     {
       "uid": "a1a2f4438d5d",
       "title": "YES BANK launches ‘YES Essence’ - A credit card designed for today’s women - SMEStreet",
@@ -123,6 +114,26 @@
       "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex Livemint"
     },
     {
+      "uid": "8d420fab6324",
+      "title": "Google Launches First Ever Co-branded Credit Card in India - ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNV9XSUZyc3Y1a1J4R3YyNy1TcGduQjIwbml6Tl9ucHZpNVdGU0tnNlptRjliY1RJVzZNckNQRDhFcjN5NDFMUFFjRk5zR0J2c2I5RkhnVWR3RVJ2eXE1ZGJwbnJxeWhTbHNBM01DOU9Kd1R4OWl6SEQwRDhwNm5LRmpFZnVjUlJpTmJQRXpjLXJ3VU9jdHY2V0ZSbUVHQ3F2bTlr?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-12-17T08:00:00+00:00",
+      "snippet": "Google Launches First Ever Co-branded Credit Card in India ASHARQ AL-AWSAT English"
+    },
+    {
+      "uid": "9aed79031d2e",
+      "title": "Google Pay launches its first credit card with Axis Bank in India - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUMzbFpsZFAwV2k2TXVWZUVrZGlUb0xXQTducnlJZEhpaHViRlBJWW9GZHFrM1NVRGtUQ1pRcWNxeTk2cml6MkxMaGRrMENBai00dDNld1MxVG9HbFZkTXVGZ3FmUS14d2ZLLUxFclVLc09SV1ptd1FQY2VMcDRpQ0VBNzN0VzVRU3Awbk51RDdBQ3ZCYktvZk9jYw?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-12-17T08:00:00+00:00",
+      "snippet": "Google Pay launches its first credit card with Axis Bank in India YourStory.com"
+    },
+    {
       "uid": "80d8212a490d",
       "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3HSAeoBQVVfeXFMT2FWaHBFYUs5Q2xHSnJPSEk4TklaY29RTWFrdjVzc0xVTnprTnNhS2txVjRnaUJNRVFFSWRNRm1Wa3hrZXptbHZkc3BDR2JzSjNyQUUzazN0VlB4cEY5dDJsdkFoYXF6TmpuZ1B5UVhfSnc3OVo5M3g5VUZuSGZyOURoUVJBczY1WWZKX2pXRUhzNHdzbnlva1VOVWQ5VC1hOUZ6OFlfNmNWUnY1MEg1cGNydHZtM2dfUUZ2OGFSdHdTMWxscEhHRy1MNncydUN0RW9oUVR6dlJ3WTJIdXRseVhNckZhRXU3N1F3?oc=5",
@@ -132,44 +143,55 @@
       "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
     },
     {
-      "uid": "36d8c7a77d03",
-      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN0tpMm80NTVpVUY2Qm5lak0zaFJOM3VsbkdpRS1xWHBwUXRKcVQwbDktbVRSc1ZtTGJwSXlYRkQtMXFmYmtFTGhoajVXSElsd2Q0RUJFem5nSmloT0ZneEdIYThiNHFzY25QajF0M3pVSHEtZkpkNU9oV2VCdlptYy1vY3B5SnlQaEJXWEN0aFgtZGhiNE1SMy1RY0l2T3FzVG0xaE11Y0JkZWstWTFCRW9qMjVuUHlhZVRKNGM1Rm1uM2ZjSFA1bm1WVjFhZ1d1ZC16b0ZpeExUSmZkY2JUMEdqbXBETXdZZ2l4d29Fcw?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-12-10T08:00:00+00:00",
-      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card Passionate In Marketing"
-    },
-    {
-      "uid": "bac632543a77",
-      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2025-11-04T08:00:00+00:00",
-      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
-    },
-    {
-      "uid": "96befd6a2945",
-      "title": "DCB Bank and ZET Launch Innovative Secured Credit Card on RuPay Network - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUlWX0Z0cVJYanZRLVZPWmMwbkliaTh4aG5hSm1nY0U1VVpVT2VBSnNlVzJoNnVnQXJwVmxWakM2NXdkOFBHNzhRLUtMb0hIVmNTYVdzS3BsaDJyekNSUmpSZjM0NmpHNmlYWjhER1FBX0RJdUdIMzAyLUE4YktDT3lNZ2Q1U2pXOG5YelVsMXBMcXEybC0wbF9wNmlFWEF3aW5qWGo0VjEwam82TW9HSF84Zmtfamd6OU54NnE3MHlLOE9hbS14QTdqLTB4THFRSGc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-10-09T07:00:00+00:00",
-      "snippet": "DCB Bank and ZET Launch Innovative Secured Credit Card on RuPay Network scanx.trade"
-    },
-    {
-      "uid": "18d687637a88",
-      "title": "IndiGo, SBI Card launch new co-branded credit card for customers - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHNuRzc4dGtIeFVvbzRaZWNMbVQwTzUyU01HTjZ3OWgyM09SLVY5cDNyNUdZRXZKaUtPRnpXTmctVmc5Mjcycmh5dkM1Y2dwX21UUDdoMlA3VkZjeXp0c01SNWY3RUN4MS1oYUZlRjVkN1hwa3I5TF84cGpINE5WMnJCeVROVExQSWpZWi1URndfRGE4MlpyUXFoUV9JQUJSLUdLZkpKSUwzNE41T1YzdVc5UTFJYkJ4M215ME5rWkJoWl9wbzFOMjNyUGhoX0k5dXpCN2hOOFNIZ9IB3wFBVV95cUxPeWcxdEkwa0ZZZUxDWkxQWlIwY0Y5OE1HTXBsb1BEQ2tMYmVJbzQ1b1dDRFRqNXlkQWZ4WFFkS1BvQnJlZUxsYUZTNXBIYVkyaTMya1JZS2NGc0dHRHdrZDlWbE51NFk3UFhfaHEzb0RlaHVYMEhuYTRRWUFiZXdmbmZ1MTE2WXl0Vm81YS10WDJCcDVrWDZ3VDZ2WjVWd1pIQU9kaEhaVDZHUGVBM2wwR1BlLXhKUUt2VG1OMFRLT21VUHZSQWZkeU0xRXd0Z1BneG5yeGVMWlhCSWhkMjdr?oc=5",
+      "uid": "5e7afb7bfa89",
+      "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUXZIN2h3bnZRenhhZjJMWXJsTjdxWE5KX2t2MVN2bzlpckgyRXpUWk14LVdMelBLSEF3NlpiV3RmR2UzeS1PQ0EwOHFmaE1KOFdxVXhCSGZ2QndrWnRIb2NrRTV1eTJXTGRHa296bERzWWZCYi1xYnNIeXNYc0N6Z3BuTnJOSDBhYjZiWXNlZ3hKNTBPNnhubUFob0VURVM5MVQ4TXBCNzVmNTJHVkpnUDA2TG9zTmoyQ2Ffa3hhSmdDZFpfSDNPaENWQ0lvWFg1a0hUeXpkcWt3M2FKWGNqQ21FaTA1M29DR3BuU1ZvM2xQU2xsMVdQdVRB0gH_AUFVX3lxTE1ZeHFsRmxuLUlORkxaQi1zQ1cwMlpOV2FpSXdabHlPN2F5ZFRiakVXSnRmVjRaVnNBUHFEaTZoQlpwbWkwS3c1UTNvMzZWZDdZVG41bHpXYTRkLWY5REJYcVlmSlVhQWNJRXg5SkFaVHZqdjNhcUNoSGpqTVVHVzBpVU5GWWpJZjN2STV2SjZpLWVqZldjWDlkV2pnWHRxRmRKTlRyTEdHZ05famdEQThjY1BtQVplUi1ZMjFXVEhiS1k0V2k4VTZLZ191ZG5vRjJ2WDUzSkJtLVBTdC12UEM0bGstNWUtU1c0ejJoeHdZRkRTUjBjRDlwS2N1TlNvcw?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "SBI Card"
       ],
-      "published": "2025-09-25T07:00:00+00:00",
-      "snippet": "IndiGo, SBI Card launch new co-branded credit card for customers Business Standard"
+      "published": "2025-08-18T07:00:00+00:00",
+      "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled The Times of India"
+    },
+    {
+      "uid": "2b0fe3603910",
+      "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2025-07-28T07:00:00+00:00",
+      "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
+    },
+    {
+      "uid": "6d22fed2dce9",
+      "title": "IndiGo Launches Co-Branded Credit Card to Boost Loyalty Program - Skift",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVQ5ak90VUJRM0E3UTBxdG9SZTRaMWt3M09OSWE4ZTJfbFdBQWd2WDU0cC1ZbDYtSnd0VDlPeUc4blpLcEVPRzJCeDBSTmlIZ3ctcHhkNXh5RVR1TU5UbXhTckFEWlhHVnowZ1ZOOWQwNU1hWUVMeER5Y0NzalpEVnRaVVVTSVdSc0w1bi1HdzJHS3NpeUxwcg?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-07-14T07:00:00+00:00",
+      "snippet": "IndiGo Launches Co-Branded Credit Card to Boost Loyalty Program Skift"
+    },
+    {
+      "uid": "4307d55f5470",
+      "title": "Mastercard Collaborates with Eastern Bank PLC to Launch its Global First Biometric Metal Credit Card in Bangladesh - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObXBFSnlkdkFiNE5Cb045Qk1ndFA1YU1qMlBEQUhCWEljRWxSdXBvdktWM2N5NzFOb2hIdVpzWGU0S2ZZMXY5R0Qzd0NUbnpMMWYxSU5PZWU2TzZEd2dNb0VYWnByNmlUZWFwVktVWUl5UlVRamw0TDUtX1RrQnhFVW1lRnJDck8xWjBOczgtU3ozbi1ER2FYX3Fyc25vUm43RmZjWTc2dmUyTTZTVGY5XzN1bDE5ZzVJRS1ILWJhSmp1Ml82dnJXZ2xmRmR0dDJEejUtbjNFWFM4TlZQRzhzbU05MThLcmNIZC1vVFpEanlVZkRXZ0VOei1XSXJ0MWcyYTVGRXJEUVJUa011WkFxZzlOcw?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-07-05T07:00:00+00:00",
+      "snippet": "Mastercard Collaborates with Eastern Bank PLC to Launch its Global First Biometric Metal Credit Card in Bangladesh Mastercard"
+    },
+    {
+      "uid": "20fe08ccb291",
+      "title": "PhonePe and HDFC Bank Partner to Launch Co-Branded Credit Card - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25zSTFkbldBVGxaNHdHdDFzN19reEpQX3ZCYURELVlQbkhfRm1SSnV5NzhpSHBuZ2Q1MVg5NDdoQUVIcms2SE51eEI5Z2tLR3Y1aWJYMjdLa1VOSnBmRnZyZEM5cFgzVGxXQTF4QlJSclgwNEJLcUIyMl9ONE1QZ1pBYmFRS3pPVnphLU5aX1hWRVg4XzVaTVBqY1gwT29ULS0yNk1Wdk5UeUJVaGxlbzFhT2FNWHN1MWltbjVR0gHDAUFVX3lxTE1KN1lCU3dQVV9sSnFZQUJxV2x0bzU5NkxoaHY2ekR3eGU5bXlFSWl0NkVLN2tLVkVlU3BURHd0UTFFUjVtSVdPLTIxNmdMcjRhYWx5WGtER3lEUWE3M3R0aVdlY3o2YXl1Mld2UUxqVUpjN0Q0cF82VnM1SnpQZ1hDSG1iX0NoS2VlSnlKbUJJdzdxQzNPVUdpNkFJYVg5UUM1WlFWb01HQmNLUTNxSkx5V2t5R1JHdzJJYTR5U3MxRWt6UQ?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2025-06-26T07:00:00+00:00",
+      "snippet": "PhonePe and HDFC Bank Partner to Launch Co-Branded Credit Card Deccan Chronicle"
     }
   ]
 }
