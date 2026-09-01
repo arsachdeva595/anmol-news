@@ -1,77 +1,7 @@
 {
-  "generated_at": "2026-08-31T08:51:11.328004+00:00",
-  "count": 376,
+  "generated_at": "2026-09-01T07:57:47.611246+00:00",
+  "count": 320,
   "deals": [
-    {
-      "uid": "2730ba77c6ae",
-      "title": "10% instant discount up to ₹1,250 on Flipkart",
-      "url": "https://www.axis.bank.in/offers/flipkart-offers/10-percent-instant-discount-up-to-inr-1250",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "10% instant discount up to ₹1,250 on Flipkart",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "93210d53aba2",
-      "title": "Up to 22.5% instant discount on Samsung",
-      "url": "https://www.axis.bank.in/offers/samsung-offers/up-to-22-5-percent-instant-cashback",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 22.5% instant discount on Samsung",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "e16fa3a5179f",
-      "title": "15% instant discount on flights and hotel bookings on Goibibo",
-      "url": "https://www.axis.bank.in/offers/goibibo-offers/15-percent-instant-discount-on-flights-and-hotels-bookings",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "15% instant discount on flights and hotel bookings on Goibibo",
-      "deal_type": "discount",
-      "offer_category": "Travel Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "35081aecf047",
-      "title": "10% instant discount up to ₹1,250 on Amazon",
-      "url": "https://www.axis.bank.in/offers/amazon-offers/10-percent-instant-discount-up-to-inr-1250",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "10% instant discount up to ₹1,250 on Amazon",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "021468f9921d",
-      "title": "Up to ₹4,000 instant cashback on OnePlus",
-      "url": "https://www.axis.bank.in/offers/oneplus-offers/up-to-inr-4000-instant-cashback",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to ₹4,000 instant cashback on OnePlus",
-      "deal_type": "cashback",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
-    },
     {
       "uid": "ec6860060511",
       "title": "Get 20% discount on Sony LIV",
@@ -80,7 +10,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 20% discount on Sony LIV (Code: INS25)",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -94,7 +24,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Save up to ₹500 on bus bookings made on AbhiBus (Code: ABINS)",
       "deal_type": "benefit",
       "offer_category": "Exclusive Discounts",
@@ -108,7 +38,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 15% discount up to ₹20,000 on SaffronStays (Code: ADNETO20)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -122,7 +52,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 71% off on all ITR plans on ClearTax (Code: CTBADNETO)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -136,7 +66,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 5% instant discount up to ₹15,000 on Tata Steel Aashiyaana (Code: AXIS8526)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -150,7 +80,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat 28% off on all silver jewellery with no minimum order value on GIVA (Code: AXISADNETO28)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -164,7 +94,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 50% discount in making charges at Senco Gold (Code: SENADN101)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -178,7 +108,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds (Code: SPANEW)",
       "deal_type": "discount",
       "offer_category": "Grocery & Essentials",
@@ -192,7 +122,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze (Code: MBAD150)",
       "deal_type": "discount",
       "offer_category": "Health & Wellness",
@@ -206,7 +136,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store (Code: ADNETO5000)",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -220,7 +150,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 5% instant discount up to ₹11,000 on Pepperfry (Code: PEPAD10K)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -234,7 +164,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 18% off on all products at Nua (Code: NUAADBK18)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -248,7 +178,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant discount up to ₹15,000 at Apple",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -262,7 +192,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project (Code: BKTPP1K)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -276,7 +206,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 20% off on full body massage at Tattva Wellness Spa (Code: TTVADNETO20)",
       "deal_type": "discount",
       "offer_category": "Health & Wellness",
@@ -290,7 +220,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 10% off on eligible products at United Colors of Benetton",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -304,25 +234,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
       "valid_till": "2026-10-15"
-    },
-    {
-      "uid": "3aea9f312cc9",
-      "title": "Flat ₹7,000* off on Samsung Galaxy Fold8 series",
-      "url": "https://www.axis.bank.in/offers/samsung-offers/flat-inr-7000-off-on-samsung-galaxy-fold8-series",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Flat ₹7,000* off on Samsung Galaxy Fold8 series",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "88d4eaa4cbb8",
@@ -332,7 +248,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get additional 10% off on orders above ₹5,000 on Urban Ladder (Code: ULADN10)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -346,7 +262,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get ₹500 off on Yes Madam (Code: YMADN500)",
       "deal_type": "discount",
       "offer_category": "Health & Wellness",
@@ -360,7 +276,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO (Code: ADNAJIO)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -374,7 +290,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant discount offers on SNITCH",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -388,95 +304,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 25% discount up to ₹7,500 on Yatra (Code: YTDELIGHT)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "f46b9581c63a",
-      "title": "7.5% instant discount up to ₹5,000 on Balenciaga",
-      "url": "https://www.axis.bank.in/offers/balenciaga-offers/7-5-percent-instant-discount-up-to-inr-5000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹5,000 on Balenciaga",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "0b07460780a3",
-      "title": "7.5% instant discount up to ₹5,000 on LensCrafter",
-      "url": "https://www.axis.bank.in/offers/lenscrafter-offers/7-5-percent-instant-discount-up-to-inr-5000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹5,000 on LensCrafter",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "ab5db2afc278",
-      "title": "7.5% instant discount up to ₹5,000 on Michael Kors",
-      "url": "https://www.axis.bank.in/offers/michael-kors-offers/7-5-percent-instant-discount-up-to-inr-5000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹5,000 on Michael Kors",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "1e7e2655606a",
-      "title": "7.5% instant discount up to ₹5,000 on Boss",
-      "url": "https://www.axis.bank.in/offers/boss-offers/7-5-percent-instant-discount-up-to-inr-5000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹5,000 on Boss",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "0098cf7cae47",
-      "title": "7.5% instant discount up to ₹5,000 on Armani Exchange",
-      "url": "https://www.axis.bank.in/offers/armani-exchange-offers/7-5-percent-instant-discount-up-to-inr-5000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹5,000 on Armani Exchange",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "821bf08ca39b",
-      "title": "7.5% instant discount up to ₹5,000 on Scotch & Soda",
-      "url": "https://www.axis.bank.in/offers/scotch-and-soda-offers/7-5-percent-instant-discount-up-to-inr-5000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹5,000 on Scotch & Soda",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "f304cc5b08a7",
@@ -486,53 +318,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get ₹1,000 off on a minimum purchase of ₹1,00,000 at Indriya",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
       "valid_till": "2026-09-07"
-    },
-    {
-      "uid": "aa2ecaf8c0ce",
-      "title": "7.5% instant discount up to ₹2,000 on Mothercare",
-      "url": "https://www.axis.bank.in/offers/mothercare-offers/7-5-percent-instant-discount-up-to-inr-2000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹2,000 on Mothercare",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "5a3272f809e6",
-      "title": "Get 12% instant discount up to ₹1,500 on Tata Cliq Luxury",
-      "url": "https://www.axis.bank.in/offers/tata-cliq-luxury-offers/12-percent-instant-discount-up-to-inr-1500",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get 12% instant discount up to ₹1,500 on Tata Cliq Luxury",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "b7888546a59e",
-      "title": "7.5% instant discount up to ₹2,000 on Hamleys",
-      "url": "https://www.axis.bank.in/offers/hamleys-offers/7-5-percent-instant-discount-up-to-inr-2000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% instant discount up to ₹2,000 on Hamleys",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "9475f250bfde",
@@ -542,7 +332,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 25% off on hotels booked on FabHotels (Code: FABADN10)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -556,7 +346,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Earn up to 20%* rewards on your international spends on Visa",
       "deal_type": "discount",
       "offer_category": "Bonus & Reward Offers",
@@ -570,7 +360,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% off on total bill on Originate (Code: ORG10MASTER)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -584,7 +374,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "15% off on food & soft beverages on Chicago Pizza",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals",
@@ -598,7 +388,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 35% off on the annual subscription of The Wall Street Journal",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -612,7 +402,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Additional 20% off up to ₹150 on Hamleys (Code: ADNETO20)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -626,7 +416,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -640,7 +430,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna (Code: ADNG2000)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -654,7 +444,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 15% off on a minimum transaction of ₹499 on Bewakoof (Code: BKVISA15)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -668,7 +458,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -682,7 +472,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹150 off on Swiggy (Code: AMEX150)",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals",
@@ -696,25 +486,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-26"
-    },
-    {
-      "uid": "df5e1bc0e0c3",
-      "title": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
-      "url": "https://www.axis.bank.in/offers/travelxp-offers/offers-on-domestic-and-international-flights-booking",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get 12% instant discount on domestic flights and 10% instant discount on international flights on Travelxp",
-      "deal_type": "discount",
-      "offer_category": "Travel Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "041400e6bc0e",
@@ -724,25 +500,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get discount up to ₹10,000 on Cathay Pacific",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
       "valid_till": "2026-12-31"
-    },
-    {
-      "uid": "19863306a8a0",
-      "title": "Up to 26% instant cashback on LG",
-      "url": "https://www.axis.bank.in/offers/lg-offers/up-to-26-percent-instant-cashback",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 26% instant cashback on LG",
-      "deal_type": "cashback",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "7b38d968e4db",
@@ -752,7 +514,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 32% off on select DocOnline smart health plans",
       "deal_type": "discount",
       "offer_category": "Health & Wellness",
@@ -766,7 +528,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% off on minimum spends of ₹5,000  on ColorPlus",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -780,7 +542,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store (Code: ADNFNP)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -794,7 +556,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% off on minimum spends of ₹5000 on Raymond",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -808,7 +570,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 20% off up to  ₹20,000 on international flights and hotels (Code: MMTAXISBIZ)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -822,7 +584,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat 1.5% off on gold jewellery on GRT Jewellers (Code: GRTADN1500)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -836,7 +598,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% discount on all individual services on L'Occitane (Code: ADNL101)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -850,7 +612,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to ₹1,500 off on domestic flights at Musafir (Code: MUADHDDF)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -864,7 +626,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get ₹500 off on purchase of ₹2,500 & above on Colorbar",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -878,7 +640,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 30% off on international travel deals",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -892,25 +654,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds (Code: ADNS25NMS)",
       "deal_type": "discount",
       "offer_category": "Grocery & Essentials",
       "valid_till": "2026-12-31"
-    },
-    {
-      "uid": "5469d50af523",
-      "title": "Up to 25% instant discount on MakeMyTrip",
-      "url": "https://www.axis.bank.in/offers/makemytrip-offers/up-to-25-percent-instant-discount",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 25% instant discount on MakeMyTrip",
-      "deal_type": "discount",
-      "offer_category": "Travel Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "c4ac61644494",
@@ -920,7 +668,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -934,7 +682,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals",
@@ -948,7 +696,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get 50% off up to ₹125 on Oven Story",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals",
@@ -962,81 +710,11 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 20% savings on bed & breakfast rates on The Leela Palace Hotels & Resorts",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "d6070894d22e",
-      "title": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home",
-      "url": "https://www.axis.bank.in/offers/dry-fruits-home-offers/get-15-percent-off-on-minimum-purchase-value-of-inr-1000-on-dry-fruits-home",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get 15% OFF on a Minimum Purchase of ₹1000 at Dry Fruits Home (Code: TH15OFF)",
-      "deal_type": "discount",
-      "offer_category": "Grocery & Essentials",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "f3bf46084dd0",
-      "title": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra",
-      "url": "https://www.axis.bank.in/offers/yatra-offers/get-15-percent-off-up-to-rs-2500-on-domestic-flight",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get 15% OFF (Up to ₹2500) on Domestic Flights with Yatra (Code: YTDELIGHT)",
-      "deal_type": "discount",
-      "offer_category": "Travel Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "261e4acfa3fc",
-      "title": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000)",
-      "url": "https://www.axis.bank.in/offers/ixigo-offers/8-percent-off-on-flight-bookings-maximum-off-upto-rs-1000",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get 8% OFF on Flight Bookings with Ixigo (Up to ₹1000) (Code: IXIMS)",
-      "deal_type": "discount",
-      "offer_category": "Travel Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "08f728b059e6",
-      "title": "Get Up to 10% OFF on Satvik Store",
-      "url": "https://www.axis.bank.in/offers/satvik-offers/get-10-percent-off-on-satvik",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get Up to 10% OFF on Satvik Store (Code: STKRUPAY10)",
-      "deal_type": "discount",
-      "offer_category": "Grocery & Essentials",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "2b90e8fc2c99",
-      "title": "Up to 15% OFF at Lifestyle",
-      "url": "https://www.axis.bank.in/offers/lifestyle-offers/up-to-15-percent-off-on-lifestyle",
-      "source": "Axis Bank Offers",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 15% OFF at Lifestyle (Code: LIFEIN15)",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "1347ddd731a6",
@@ -1046,7 +724,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹150 off on Zomato (Code: AMEXWEEKEND)",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals",
@@ -1060,7 +738,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹150 off on Swiggy Instamart (Code: AMEX150)",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals",
@@ -1074,7 +752,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹150 off on Blinkit (Code: AMEXWEEKEND)",
       "deal_type": "discount",
       "offer_category": "Grocery & Essentials",
@@ -1088,7 +766,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "20% off on a minimum spend of ₹1,200 on IGP (Code: IGPINS20)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1102,7 +780,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat ₹500 off on orders worth ₹1,999 & above on Max (Code: REWARDS250)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1116,7 +794,7 @@
       "issuers": [
         "Axis Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹5000 off on domestic hotels (Code: YATRADNHOTEL)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1130,7 +808,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
       "deal_type": "benefit",
       "offer_category": "Electronics Deals"
@@ -1143,7 +821,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals"
@@ -1156,7 +834,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
       "deal_type": "discount",
       "offer_category": "Travel Deals"
@@ -1169,7 +847,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
       "deal_type": "discount",
       "offer_category": "Travel Deals"
@@ -1182,7 +860,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
       "deal_type": "discount",
       "offer_category": "Entertainment Deals"
@@ -1195,7 +873,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
       "deal_type": "discount",
       "offer_category": "Dining & Food Deals"
@@ -1208,7 +886,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Save 20%, up to INR15,000, when you spend INR25,000 or more. Just use coupon code: HSBCTAJTCL.",
       "deal_type": "discount",
       "offer_category": "Shopping Deals"
@@ -1221,7 +899,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 73% off on Cleartax ITR filing and services using Kotak Mahindra Bank credit and debit cards.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1235,7 +913,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat 25% instant discount on the base fare of hotel stays, exclusively for Kotak cardholders",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1249,7 +927,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get flat 200 off on minimum order value of ₹500 by using Kotak Mahindra Bank debit/credit card.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1263,11 +941,11 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 40% instant discount on evoucher of 200+ brands at GYFTR via Kotak Credit & Debit Cards",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
+      "valid_till": "2027-08-31"
     },
     {
       "uid": "2d53ebbd5562",
@@ -1277,7 +955,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 5000 off on Hotels, Domestic & International flights bookings.",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1291,7 +969,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% instant discount up to 50,000 on Kotak Cards.                                                                                                                                            For Solitaire Credit Card/Wealth Infinite Credit Card/White Reserve Credit Card - offer is 10% instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1305,7 +983,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 20% off on car services using Kotak Debit/Credit Cards.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1319,22 +997,22 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant discount up to ₹6,000 on Kotak Credit Card EMI. Book Now.",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "434b7a0cd44d",
-      "title": "Godrej: Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333368110/godrej.html",
+      "uid": "4d400f254ce1",
+      "title": "KTM: Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333359659/ktm.html",
       "source": "Kotak Offers",
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
@@ -1347,22 +1025,22 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant discount up to ₹ 10,000 on Kotak Credit Card EMI. Shop Now.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "4d400f254ce1",
-      "title": "KTM: Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333359659/ktm.html",
+      "uid": "434b7a0cd44d",
+      "title": "Godrej: Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333368110/godrej.html",
       "source": "Kotak Offers",
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
@@ -1375,22 +1053,8 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant discount up to ?10,000 on Kotak Credit Card EMI. Shop now.",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "70da312e9354",
-      "title": "Realme: Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333399850/realme.html",
-      "source": "Kotak Offers",
-      "issuers": [
-        "Kotak"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
@@ -1403,7 +1067,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail up to ₹2,500 instant discount on Kotak Credit Card EMI",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -1417,8 +1081,22 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail up to ₹5,000 instant discount on Kotak Credit Card EMI. Shop now.",
+      "deal_type": "discount",
+      "offer_category": "Electronics Deals",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "70da312e9354",
+      "title": "Realme: Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333399850/realme.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
@@ -1431,7 +1109,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -1445,7 +1123,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -1459,23 +1137,23 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Enjoy up to ₹30,000* instant discount with Kotak Credit Card EMI",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "6df8a07f1803",
-      "title": "IFB: 20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333312033/ifb.html",
+      "uid": "a393eff89556",
+      "title": "Whirlpool: Instant discount up to ₹5,000 on Kotak Credit Card EMI",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386453/whirlpool.html",
       "source": "Kotak Offers",
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
-      "deal_type": "cashback",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI",
+      "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
@@ -1487,37 +1165,9 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant cashback up to ?25,000 on Kotak Credit Card EMI",
       "deal_type": "cashback",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "9f589fa445b2",
-      "title": "Panasonic: Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333301513/panasonic.html",
-      "source": "Kotak Offers",
-      "issuers": [
-        "Kotak"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
-      "deal_type": "cashback",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "29dd6c965697",
-      "title": "JBL: Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333397193/jbl.html",
-      "source": "Kotak Offers",
-      "issuers": [
-        "Kotak"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
-      "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
@@ -1529,7 +1179,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Instant cashback up to ₹7,500 on Kotak Credit Card EMI",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -1543,39 +1193,53 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% instant cashback up to ₹3,000 on Kotak Credit Card EMI",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "a393eff89556",
-      "title": "Whirlpool: Instant discount up to ₹5,000 on Kotak Credit Card EMI",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333386453/whirlpool.html",
+      "uid": "9f589fa445b2",
+      "title": "Panasonic: Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333301513/panasonic.html",
       "source": "Kotak Offers",
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "offer_category": "Electronics Deals",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "29dd6c965697",
+      "title": "JBL: Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333397193/jbl.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "7362d147d8be",
-      "title": "Amazon: Get 7.5% Instant Discount on Kotak Mahindra Bank Credit card EMI only",
-      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234543581/amazon.html",
+      "uid": "6df8a07f1803",
+      "title": "IFB: 20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333312033/ifb.html",
       "source": "Kotak Offers",
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Get 7.5% Instant Discount on Kotak Mahindra Bank Credit card EMI only",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "20% instant cashback up to ₹9000 on Kotak Credit Card EMI",
+      "deal_type": "cashback",
+      "offer_category": "Electronics Deals",
+      "valid_till": "2026-09-30"
     },
     {
       "uid": "a6bb142ab223",
@@ -1585,7 +1249,7 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get Instant Discount & No Cost EMI at Goibibo via Kotak Credit Cards",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1599,10 +1263,24 @@
       "issuers": [
         "Kotak"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get upto 5,000 Instant discount on Kotak Credit Card EMI. Shop Now.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "57c23b5511a1",
+      "title": "MakeMyTrip: Get instant discount & No Cost EMI at MakeMyTrip via Kotak Credit Cards",
+      "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234570969/makemytrip.html",
+      "source": "Kotak Offers",
+      "issuers": [
+        "Kotak"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Get instant discount & No Cost EMI at MakeMyTrip via Kotak Credit Cards",
+      "deal_type": "discount",
+      "offer_category": "Travel Deals",
       "valid_till": "2026-09-30"
     },
     {
@@ -1613,7 +1291,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Validity 1st July to 30th Sep, 2026 (Code: Domestic Flights: IXIBOBEMI | International Flights: IXIBOBEMIN)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1627,7 +1305,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer valid till 30th Sep 2026 (Code: UCBOB)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1641,7 +1319,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Applicable on all Friday & Saturday till 30th Sep, 2026 (Code: Domestic Flights & Hotels: GOBOBEMI || International Flights & Hotels: GOBOBINTEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1655,7 +1333,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer valid all Tuesday & Friday till 30th Sep 2026 (Code: Domestic Flights, Domestic Hotels, Holiday: MMTBOBEMI || International Flights & Hotels: MMTBOBINTEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1669,7 +1347,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Applicable on Wednesday and Thursday only (Code: BOBEMI || BOB6EMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1683,7 +1361,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on EMI, every Wednesday & Thursday till 30th Sep 2026 (Code: Domestic: FLYBOB | International: INTLFLYBOB)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1697,7 +1375,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer valid on Saturday & Sunday | Valid till 13th Sep 2026 (Code: Promocode: Domestics Flights & Hotels: BOBEMIDOM and International flights & hotels: BOBEMIINT)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1711,7 +1389,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer valid on Saturday & Sunday | Till 27th Sep 2026 (Code: BOBEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1725,7 +1403,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: 1st July to 30th Sep 2026 | Applicable on Monday and Tuesday (Code: YRBOBCCEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -1739,7 +1417,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1753,7 +1431,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1767,7 +1445,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -1781,7 +1459,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "From pantry picks to party prep — save more with BOBCARD",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1795,7 +1473,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 15th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -1809,25 +1487,11 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 15th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
       "valid_till": "2026-09-15"
-    },
-    {
-      "uid": "18697dcc6a6b",
-      "title": "10% instant discount on Amazon",
-      "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/10-instant-discount-on-amazon/",
-      "source": "BOBCard Offers",
-      "issuers": [
-        "BOB Financial (BOBCard)"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: 13th Aug to 31st Aug 2026",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "2f86dc6da022",
@@ -1837,7 +1501,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -1851,7 +1515,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1865,7 +1529,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -1879,7 +1543,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1893,7 +1557,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -1907,7 +1571,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -1921,7 +1585,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -1935,7 +1599,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -1949,7 +1613,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -1963,7 +1627,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -1977,7 +1641,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -1991,25 +1655,11 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "68fe84017040",
-      "title": "Upto ₹ 4000 instant Cashback on Realme",
-      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/10-cashback-on-realme/",
-      "source": "BOBCard Offers",
-      "issuers": [
-        "BOB Financial (BOBCard)"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Avail on BOBCARD EMI | Valid till 31st Aug 2026",
-      "deal_type": "cashback",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "6d9c2ac848ce",
@@ -2019,7 +1669,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -2033,25 +1683,11 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "172ff11444f9",
-      "title": "10% instant discount on JBL",
-      "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/10-cashback-on-jbl/",
-      "source": "BOBCard Offers",
-      "issuers": [
-        "BOB Financial (BOBCard)"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer valid till 31st August 2026",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "62ba52c4b624",
@@ -2061,7 +1697,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -2075,7 +1711,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -2089,7 +1725,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Travel Deals",
@@ -2103,7 +1739,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -2117,7 +1753,7 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th September 2026",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -2131,11 +1767,39 @@
       "issuers": [
         "BOB Financial (BOBCard)"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
       "deal_type": "cashback",
       "offer_category": "Health & Wellness",
       "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "f191b86c116d",
+      "title": "City-Bazaar-Metro: 5% Instant Discount",
+      "url": "https://www.sbicard.com/en/personal/offer/city-bazaar-metro.page",
+      "source": "SBI Card Offers",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "5% Instant Discount",
+      "deal_type": "discount",
+      "offer_category": "Exclusive Discounts",
+      "valid_till": "2026-10-31"
+    },
+    {
+      "uid": "0bbd9ed461a0",
+      "title": "Apna-Mart: Up to 5% Extra Cashback",
+      "url": "https://www.sbicard.com/en/personal/offer/Apnamart-aug26.page",
+      "source": "SBI Card Offers",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Up to 5% Extra Cashback",
+      "deal_type": "cashback",
+      "offer_category": "Exclusive Discounts",
+      "valid_till": "2026-09-08"
     },
     {
       "uid": "fee27b02e4ce",
@@ -2145,7 +1809,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 10000 Instant Discount Offer – Big C Mobiles",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -2159,25 +1823,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 10000 Instant Discount Offer – LOT Mobiles",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "2af645fa2862",
-      "title": "Flipkart: 10% Instant Discount at Flipkart",
-      "url": "https://www.sbicard.com/en/personal/offer/flipkart-18aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "10% Instant Discount at Flipkart",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "5bb568103729",
@@ -2187,25 +1837,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant Discount at Amazon",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
       "valid_till": "2026-09-18"
-    },
-    {
-      "uid": "89befcda8c53",
-      "title": "Pothys: Up to 5% Instant discount Offer",
-      "url": "https://www.sbicard.com/en/personal/offer/pothys-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 5% Instant discount Offer",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "0db8db78add6",
@@ -2215,7 +1851,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 10% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -2229,7 +1865,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹6500 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2243,7 +1879,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹9000 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2257,7 +1893,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 8,000 Instant Discount at RB Zone",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2271,25 +1907,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 16000 Instant Discount at PAI International",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-13"
-    },
-    {
-      "uid": "4bafb6c3df75",
-      "title": "Sangeeta Electronics: Up to 7.5% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Sangeeta-Electronics-27may26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 7.5% Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "a6d7106d2dac",
@@ -2299,25 +1921,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs. 750 Extra Cashback.",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-20"
-    },
-    {
-      "uid": "28eabd4a78fd",
-      "title": "Sanmati-Traders: Up to 7.5% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Sanmati-Traders-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 7.5% Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "7765afeedbef",
@@ -2327,7 +1935,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹7000 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -2341,7 +1949,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 6,500 Instant Discount.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2355,7 +1963,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Extra Cashback",
       "deal_type": "cashback",
       "offer_category": "Shopping Deals",
@@ -2369,7 +1977,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Extra Cashback",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -2383,8 +1991,36 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 25000 Instant Discount Offer",
+      "deal_type": "discount",
+      "offer_category": "Exclusive Discounts",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "26ac3f13c98a",
+      "title": "Tv Palace: Up to Rs 7,000 Instant Discount.",
+      "url": "https://www.sbicard.com/en/personal/offer/TV-Palace-13aug26.page",
+      "source": "SBI Card Offers",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Up to Rs 7,000 Instant Discount.",
+      "deal_type": "discount",
+      "offer_category": "Exclusive Discounts",
+      "valid_till": "2026-09-06"
+    },
+    {
+      "uid": "d0b68e62f1e5",
+      "title": "Homelane: Flat 5% Instant Discount Offer",
+      "url": "https://www.sbicard.com/en/personal/offer/Homelane-13aug26.page",
+      "source": "SBI Card Offers",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Flat 5% Instant Discount Offer",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
@@ -2397,53 +2033,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹ 6,000 Instant Discount.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-06"
-    },
-    {
-      "uid": "26ac3f13c98a",
-      "title": "Tv Palace: Up to Rs 7,000 Instant Discount.",
-      "url": "https://www.sbicard.com/en/personal/offer/TV-Palace-13aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 7,000 Instant Discount.",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-09-06"
-    },
-    {
-      "uid": "e7b9669e301c",
-      "title": "Surya-Electronics: 7.5% Instant Discount at Surya Electronics stores.",
-      "url": "https://www.sbicard.com/en/personal/offer/Surya-Electronics-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% Instant Discount at Surya Electronics stores.",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "d0b68e62f1e5",
-      "title": "Homelane: Flat 5% Instant Discount Offer",
-      "url": "https://www.sbicard.com/en/personal/offer/Homelane-13aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Flat 5% Instant Discount Offer",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-09-30"
     },
     {
       "uid": "839e5eff5e00",
@@ -2453,7 +2047,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Cashback at MALL OF TRAVANCORE, THIRUVANANTHAPURAM",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -2467,7 +2061,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Cashback at HiLITE Mall, Kozhikode",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -2481,25 +2075,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Cashback at HiLITE Mall, Thrissur",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-06"
-    },
-    {
-      "uid": "f92e67ca615f",
-      "title": "Suvidha Super: Up to ₹400 Extra Cashback",
-      "url": "https://www.sbicard.com/en/personal/offer/Suvidha-Supermarket-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to ₹400 Extra Cashback",
-      "deal_type": "cashback",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "773e5faefb47",
@@ -2509,7 +2089,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹5500 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2523,95 +2103,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 15000 Instant Discount Offer",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "9995d7a5e407",
-      "title": "Amrit: Up to Rs 6,000 Instant Discount.",
-      "url": "https://www.sbicard.com/en/personal/offer/Amrit-Mobiles-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 6,000 Instant Discount.",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "490d62d1f233",
-      "title": "Motorola: Up to INR 6,500 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/motorola-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to INR 6,500 Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "c696012350e1",
-      "title": "Birla Opus: 7.5% Instant Discount at Birla Opus",
-      "url": "https://www.sbicard.com/en/personal/offer/Birla-Opus-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% Instant Discount at Birla Opus",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "204b48fa1f45",
-      "title": "Bonito: 5% Instant Discount at Bonito Designs stores.",
-      "url": "https://www.sbicard.com/en/personal/offer/Bonito-Designs-13aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "5% Instant Discount at Bonito Designs stores.",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "d658821012e0",
-      "title": "Nilkamal: 5% Instant Discount at Nilkamal Homes stores",
-      "url": "https://www.sbicard.com/en/personal/offer/Nilkamal-Homes-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "5% Instant Discount at Nilkamal Homes stores",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "eaa751fa2cff",
-      "title": "Ss-Mobiles: 7.5% Instant Discount.",
-      "url": "https://www.sbicard.com/en/personal/offer/ss-mobiles-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "7.5% Instant Discount.",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "c57a67554bb3",
@@ -2621,7 +2117,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹7500 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -2635,25 +2131,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 16000 Instant Discount  Offer – myG Mobiles",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-15"
-    },
-    {
-      "uid": "80d8430f21bb",
-      "title": "Ravi: Up to Rs. 10,000 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Ravi-Electronics-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs. 10,000 Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "a92ea979632e",
@@ -2663,7 +2145,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs. 6,000 Instant Discount.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2677,7 +2159,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹7500 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2691,7 +2173,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹ 10000 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2705,53 +2187,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 7,500 Instant Discount at Kensha Mobiles (Mehta Telecom).",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-01"
-    },
-    {
-      "uid": "7ebc87bc9eab",
-      "title": "Umiya: Up to Rs 8,500 Instant Discount.",
-      "url": "https://www.sbicard.com/en/personal/offer/Umiya-Mobiles-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 8,500 Instant Discount.",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "c135c7b98ce8",
-      "title": "Lotus: Up to Rs. 8,000 Instant Discount at Lotus Electronics stores",
-      "url": "https://www.sbicard.com/en/personal/offer/Lotus-Electronics-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs. 8,000 Instant Discount at Lotus Electronics stores",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "232047c7e04b",
-      "title": "Gujrat Mobiles: Up to Rs 7,500 Instant Discount at Gujarat Mobile stores.",
-      "url": "https://www.sbicard.com/en/personal/offer/Gujrat-Mobiles-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 7,500 Instant Discount at Gujarat Mobile stores.",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "909028934a71",
@@ -2761,7 +2201,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 6,500 Instant Discount at Mundada Corporation.",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2775,25 +2215,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹7500 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-06"
-    },
-    {
-      "uid": "582bd02e7278",
-      "title": "Nandilath: Up to Rs 16000 Instant Discount at Nandilath G Mart",
-      "url": "https://www.sbicard.com/en/personal/offer/Nandilath-31july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 16000 Instant Discount at Nandilath G Mart",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "3fd9c821d418",
@@ -2803,7 +2229,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -2817,7 +2243,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 10000 Instant Discount at Pittappilill Agencies",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2831,25 +2257,25 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 1000 Extra Cashback",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-20"
     },
     {
-      "uid": "d6394ae72b5e",
-      "title": "Ganpati-Mob: Up to ₹5500 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/ganpati-mobiles-5aug26.page",
+      "uid": "4fcef6d8220a",
+      "title": "Jalaans: Up to Rs.500 Cashback",
+      "url": "https://www.sbicard.com/en/personal/offer/Jalan-aug26.page",
       "source": "SBI Card Offers",
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to ₹5500 Instant Discount",
-      "deal_type": "discount",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Up to Rs.500 Cashback",
+      "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
+      "valid_till": "2026-09-06"
     },
     {
       "uid": "88d224aa5437",
@@ -2859,7 +2285,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs. 300 Extra Cashback at Bansal Supermarket stores.",
       "deal_type": "cashback",
       "offer_category": "Grocery & Essentials",
@@ -2873,7 +2299,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 6,000 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2887,53 +2313,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs. 200 Extra Cashback",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-06"
-    },
-    {
-      "uid": "d1da9830af16",
-      "title": "Harsha: Up to Rs 15000 Instant discount",
-      "url": "https://www.sbicard.com/en/personal/offer/harsha-31july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 15000 Instant discount",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "e30c4a54658b",
-      "title": "Woodland: 5% Extra Cashback",
-      "url": "https://www.sbicard.com/en/personal/offer/Woodland-5aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "5% Extra Cashback",
-      "deal_type": "cashback",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "24107298bd21",
-      "title": "Wave Mall: 5% Cashback at Wave Mall, Jammu",
-      "url": "https://www.sbicard.com/en/personal/offer/Wave-Mall-aug26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "5% Cashback at Wave Mall, Jammu",
-      "deal_type": "cashback",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "b693b5a0904b",
@@ -2943,7 +2327,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat ₹ 200 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2957,25 +2341,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Grocery & Essentials",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "22c54809736e",
-      "title": "Raj Electronics: Up to 7.5% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Raj-Electronics-27may26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 7.5% Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "bda634ac96bc",
@@ -2985,7 +2355,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 10% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -2999,7 +2369,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Flat Rs.100 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -3013,39 +2383,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 8,000 Instant Discount.",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-01"
-    },
-    {
-      "uid": "4f615a115344",
-      "title": "Bajaj: Up to Rs 15000 Instant discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Bajaj-27july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 15000 Instant discount",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "a8f3ed6bd479",
-      "title": "Sangeetha: 10% Instant Discount at Sangeetha Mobiles",
-      "url": "https://www.sbicard.com/en/personal/offer/Sangeetha-27july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "10% Instant Discount at Sangeetha Mobiles",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "faf9833c821a",
@@ -3055,7 +2397,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3069,7 +2411,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3083,7 +2425,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3097,7 +2439,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3111,25 +2453,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 6,000 Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "e9cd898f33d6",
-      "title": "Furnishka: Up to Rs 10000 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/Furnishka-24july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 10000 Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "cfe044cc5371",
@@ -3139,7 +2467,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs. 10,000 Instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3153,25 +2481,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 500 Extra Cashback",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "9c18c5f5cbab",
-      "title": "V-Care: 5% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/V-Care-22july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "5% Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "e0c00748710b",
@@ -3181,25 +2495,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 10% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "129c27e5a64c",
-      "title": "Darling-Digital: Up to Rs 15000 Instant Discount at Darling Digital",
-      "url": "https://www.sbicard.com/en/personal/offer/Darling-Digital-22july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to Rs 15000 Instant Discount at Darling Digital",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "25e79dd114a4",
@@ -3209,7 +2509,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "7.5% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3223,7 +2523,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3237,7 +2537,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 72% Off",
       "deal_type": "discount",
       "offer_category": "Health & Wellness",
@@ -3251,7 +2551,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 7.5% Instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3265,7 +2565,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "7.5% Instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3279,7 +2579,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "15% Instant discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3293,10 +2593,24 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 7.5% Instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "9bd8e87d0c3c",
+      "title": "Bosch: Up to 15% Instant Discount",
+      "url": "https://www.sbicard.com/en/personal/offer/bosch-6july26.page",
+      "source": "SBI Card Offers",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Up to 15% Instant Discount",
+      "deal_type": "discount",
+      "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
     {
@@ -3307,7 +2621,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 27.5% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3321,7 +2635,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 20% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3335,7 +2649,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs. 10,000 Instant discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3349,25 +2663,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 25% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "43815023cd99",
-      "title": "Hp: Up to INR 15,000 Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/hp-8july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to INR 15,000 Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "c19316c53c16",
@@ -3377,7 +2677,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 10% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3391,7 +2691,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3405,7 +2705,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 27.50% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3419,7 +2719,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 15% Instant discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3433,7 +2733,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 12.50% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3447,25 +2747,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant Discount / Flat discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "592bf6d7559e",
-      "title": "Lenevo: Up to 10% Instant Cashback",
-      "url": "https://www.sbicard.com/en/personal/offer/lenovo-15july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 10% Instant Cashback",
-      "deal_type": "cashback",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "e00b42960219",
@@ -3475,7 +2761,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 26% Instant discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3489,22 +2775,8 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 20% Instant discount",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "9bd8e87d0c3c",
-      "title": "Bosch: Up to 15% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/bosch-6july26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 15% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
@@ -3517,7 +2789,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to Rs 15,000 Instant discount at Apple",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3531,25 +2803,11 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "5% Instant discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "3bb086dabc9f",
-      "title": "Travelxp: Up to 15% Instant Discount",
-      "url": "https://www.sbicard.com/en/personal/offer/travel-xp-jul26.page",
-      "source": "SBI Card Offers",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Up to 15% Instant Discount",
-      "deal_type": "discount",
-      "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "1588c21938a4",
@@ -3559,7 +2817,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "20% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -3573,7 +2831,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "20% Instant Discount",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3587,7 +2845,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 75% Off",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3601,7 +2859,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to 50% off for Akshay Tritiya Festival",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3615,7 +2873,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant Discount on Food at Hotel Orchid.",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -3629,7 +2887,7 @@
       "issuers": [
         "SBI Card"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% Instant Discount on Food at Hotel Orchid.",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -3643,7 +2901,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Up to ₹15,000 instant cashback",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -3657,7 +2915,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "20% off on all tax related services",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3671,7 +2929,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "10% off",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3685,7 +2943,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "20% off",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -3699,11 +2957,11 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Aug 20 to Aug 31, 2026 Valid on Credit Card & Credit Card EMIs",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Offer Validity: Aug 20 to Sep 30, 2026 Valid on Credit Card & Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
-      "valid_till": "2026-08-31"
+      "valid_till": "2026-09-30"
     },
     {
       "uid": "bf70c54ed44a",
@@ -3713,7 +2971,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Card EMIs",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -3727,7 +2985,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -3741,7 +2999,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3755,7 +3013,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICIINT)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3769,39 +3027,25 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "80d8e4d968ea",
-      "title": "10% off up to ₹4,750 on a minimum purchase of ₹7,490 on amazon",
-      "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/amazon.html",
-      "source": "ICICI Bank Bonanza Offers",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Aug 04 to Aug 31, 2026 Valid on Credit Card EMIs",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
-    },
-    {
-      "uid": "41b71b48b8be",
-      "title": "Up to ₹4,000 off on select OnePlus products",
+      "uid": "62eeacb4abf0",
+      "title": "Up to ₹3,500 off on select OnePlus products",
       "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/oneplus.html",
       "source": "ICICI Bank Bonanza Offers",
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Aug 01 to Aug 31, 2026 Valid on Credit Card & Credit Card EMIs",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Offer Validity: Sep 01 to Sep 30, 2026 Valid on Credit Cards & Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
+      "valid_till": "2026-09-30"
     },
     {
       "uid": "ccfca4758aae",
@@ -3811,7 +3055,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3825,7 +3069,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -3839,7 +3083,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -3853,7 +3097,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "cashback",
       "offer_category": "Electronics Deals",
@@ -3867,7 +3111,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -3881,7 +3125,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "cashback",
       "offer_category": "Exclusive Discounts",
@@ -3895,25 +3139,25 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "4c8e26879e18",
-      "title": "Up to ₹15,000 off on a minimum purchase of ₹69,999 on HP",
+      "uid": "9afef3544544",
+      "title": "Up to ₹18,000 off on a minimum purchase of ₹69,999 on HP",
       "url": "https://www.icici.bank.in/campaigns/bonanza/index",
       "source": "ICICI Bank Bonanza Offers",
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Jul 01 to Aug 31, 2026 Valid on Credit Card EMIs",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Offer Validity: Sep 01 to Nov 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
+      "valid_till": "2026-11-30"
     },
     {
       "uid": "2d24b6e8a011",
@@ -3923,7 +3167,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -3937,7 +3181,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3951,7 +3195,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3965,7 +3209,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 28 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3979,7 +3223,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -3993,7 +3237,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Dec 31, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4007,21 +3251,21 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
     },
     {
-      "uid": "3049bbcf20cb",
-      "title": "Up to 15% off up to ₹5,000 on minimum purchase of ₹15,000 on godrej",
+      "uid": "4824f01d8179",
+      "title": "Up to 15% off up to ₹5,500 on minimum purchase of ₹15,000 on godrej",
       "url": "https://www.icici.bank.in/campaigns/bonanza/index",
       "source": "ICICI Bank Bonanza Offers",
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4035,25 +3279,25 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 06 to Dec 31, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-12-31"
     },
     {
-      "uid": "4ebc44c49b90",
-      "title": "Up to 10% off on minimum purchase of 10,000 on bose",
+      "uid": "d8d6536efa1f",
+      "title": "Up to ₹6,000 off on a minimum purchase of ₹10,000 on bose",
       "url": "https://www.icici.bank.in/campaigns/bonanza/index",
       "source": "ICICI Bank Bonanza Offers",
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Aug 07 to Aug 31, 2026 Valid on Credit Card EMIs",
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Offer Validity: Sep 01 to Sep 20, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
+      "valid_till": "2026-09-20"
     },
     {
       "uid": "3e9161d29b59",
@@ -4063,25 +3307,11 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 03 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "f02a0dcb9d42",
-      "title": "Up to 10% off up to ₹8,000 on JBL",
-      "url": "https://www.icici.bank.in/campaigns/bonanza/index",
-      "source": "ICICI Bank Bonanza Offers",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Jul 23 to Aug 31, 2026 Valid on Credit Card EMIs",
-      "deal_type": "discount",
-      "offer_category": "Electronics Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "6701bc88ad18",
@@ -4091,7 +3321,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4105,7 +3335,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4119,7 +3349,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 14 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4133,7 +3363,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4147,7 +3377,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4161,7 +3391,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4175,7 +3405,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 09 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4189,7 +3419,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4203,7 +3433,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 01 to Dec 31, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4217,7 +3447,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4231,7 +3461,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4245,7 +3475,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 02 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4259,7 +3489,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 25 to Sep 30, 2026 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4273,7 +3503,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -4287,7 +3517,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4301,7 +3531,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4315,7 +3545,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: FLYMON)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4329,7 +3559,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4343,7 +3573,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: ICICILUXURY)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4357,7 +3587,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4371,7 +3601,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: ICICILUXURYINT)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4385,7 +3615,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4399,7 +3629,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4413,7 +3643,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4427,7 +3657,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4441,7 +3671,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4455,7 +3685,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4469,7 +3699,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4483,7 +3713,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4497,7 +3727,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4511,7 +3741,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4525,7 +3755,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4539,7 +3769,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4553,7 +3783,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4567,7 +3797,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4581,7 +3811,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4595,7 +3825,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFESTINT)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4609,7 +3839,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4623,7 +3853,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFESTINT)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4637,7 +3867,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4651,7 +3881,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4665,7 +3895,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4679,7 +3909,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4693,7 +3923,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4707,7 +3937,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4721,7 +3951,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4735,7 +3965,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4749,7 +3979,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 21 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4763,7 +3993,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 21 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4777,7 +4007,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: YTICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4791,7 +4021,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: YTICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4805,7 +4035,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs (Code: FLYICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4819,7 +4049,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs (Code: INTICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4833,7 +4063,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4847,7 +4077,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4861,7 +4091,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMIN)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4875,7 +4105,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMIN)",
       "deal_type": "discount",
       "offer_category": "Travel Deals",
@@ -4889,7 +4119,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 02 to Sep 30, 2026 Valid on Credit Card EMIs (Code: PYTICICI2026)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4903,7 +4133,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: May 02 to Oct 31, 2026 Valid on Credit Card EMIs, Credit & Debit Cards and Internet Banking (Code: ICICI10, ICICINCEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4917,7 +4147,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: May 02 to Oct 31, 2026 Valid on Credit Card EMIs, Credit & Debit Cards and Internet Banking (Code: ICICI10, ICICINCEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -4931,7 +4161,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 14 to Nov 30, 2026 Valid on Credit Card EMIs (Code: TCFICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -4945,7 +4175,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 14 to Nov 30, 2026 Valid on Credit Card EMIs (Code: TCLICICIEMI)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -4959,7 +4189,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -4973,25 +4203,11 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 07 to Sep 30, 2026 Valid on Amazon Pay ICICI Bank Credit Cards",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "4023faaf5929",
-      "title": "5% off on a minimum order value of ₹299 on food delivery orders on swiggy",
-      "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/swiggyfood.html",
-      "source": "ICICI Bank Bonanza Offers",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Aug 13 to Aug 31, 2026 Valid on Amazon Pay ICICI Bank Credit Cards",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "6bfadfc8e78b",
@@ -5001,7 +4217,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICI10K)",
       "deal_type": "discount",
       "offer_category": "Shopping Deals",
@@ -5015,7 +4231,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -5029,7 +4245,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -5043,7 +4259,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 04, 2026 to May 14, 2027 Valid on Credit Cards and Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -5057,25 +4273,11 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jun 29 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
       "valid_till": "2026-09-30"
-    },
-    {
-      "uid": "544979884bf5",
-      "title": "Up to ₹4,750 instant discount on a minimum purchase of ₹7,490 on Flipkart",
-      "url": "https://www.icici.bank.in/campaigns/bonanza/index",
-      "source": "ICICI Bank Bonanza Offers",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
-      "snippet": "Offer Validity: Aug 16 to Aug 31, 2026 Valid on Credit Card EMIs",
-      "deal_type": "discount",
-      "offer_category": "Shopping Deals",
-      "valid_till": "2026-08-31"
     },
     {
       "uid": "9f801f4d4ced",
@@ -5085,7 +4287,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 13, 2026 to Mar 31, 2027 Valid on Credit Card EMIs (Code: ICICISHOPEMI; ICICIAPAYSHOPEMI)",
       "deal_type": "discount",
       "offer_category": "Exclusive Discounts",
@@ -5099,7 +4301,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 04 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -5113,7 +4315,7 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 15 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Electronics Deals",
@@ -5127,8 +4329,22 @@
       "issuers": [
         "ICICI Bank"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Offer Validity: Jul 15 to Sep 30, 2026 Valid on Credit Card EMIs",
+      "deal_type": "discount",
+      "offer_category": "Grocery & Essentials",
+      "valid_till": "2026-09-30"
+    },
+    {
+      "uid": "14dffa07441c",
+      "title": "5% off up to ₹4,000 on a minimum purchase of ₹3,001 on Zepto",
+      "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/Zepto.html",
+      "source": "ICICI Bank Bonanza Offers",
+      "issuers": [
+        "ICICI Bank"
+      ],
+      "published": "2026-09-01T07:57:33.220256+00:00",
+      "snippet": "Offer Validity: Aug 04 to Sep 30, 2026 Valid on Credit Card EMIs",
       "deal_type": "discount",
       "offer_category": "Grocery & Essentials",
       "valid_till": "2026-09-30"

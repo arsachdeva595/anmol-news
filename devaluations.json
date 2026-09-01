@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T08:51:11.326800+00:00",
-  "count": 26,
+  "generated_at": "2026-09-01T07:57:47.610065+00:00",
+  "count": 33,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,8 +10,42 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-08-31T08:50:54.905860+00:00",
+      "published": "2026-09-01T07:57:33.220256+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
+    {
+      "uid": "fd9c57d2c0f5",
+      "title": "Axis Bank Revises Debit Card Benefits Across Multiple Variants",
+      "url": "https://cardinsider.com/blog/axis-bank-revises-debit-card-benefits-across-multiple-variants/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-28T09:30:49+00:00",
+      "snippet": "Debit cards have become more than just a way for customers to withdraw cash or make payments. Over the years, banks have added several benefits to their debit cards, such as reward points, complimentary airport lounge access, movie offers, discounts, and other lifestyle privileges. Axis Bank offers ",
+      "severity": "critical"
+    },
+    {
+      "uid": "111c2f6dac06",
+      "title": "American Express India to Discontinue Reward Multiplier Program From September 30, 2026",
+      "url": "https://cardinsider.com/blog/american-express-india-to-discontinue-reward-multiplier-program/",
+      "source": "CardInsider",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-27T12:38:18+00:00",
+      "snippet": "American Express India is discontinuing its Reward Multiplier program from September 30, 2026, bringing an end to the 5X/3X/2X Membership Rewards points earning opportunity on purchases with select brands. The change was communicated to Card Members in an email dated August 26, with American Express",
+      "severity": "critical"
+    },
+    {
+      "uid": "c530b119a0b5",
+      "title": "J&K Bank Revamps Credit Card Portfolio With New Eminent, Platinum & Platinum Privilege Credit Cards",
+      "url": "https://cardinsider.com/blog/jk-bank-revamps-credit-card-portfolio-new-credit-cards/",
+      "source": "CardInsider",
+      "issuers": [],
+      "published": "2026-08-26T10:45:45+00:00",
+      "snippet": "J&K Bank has revamped its credit card portfolio by launching three upgraded credit card variants: Eminent, Platinum, and Platinum Privilege. The new cards are designed for different customer segments, with benefits across travel, dining, shopping, rewards, and lifestyle spends. The three cards targe",
       "severity": "major"
     },
     {
@@ -79,6 +113,30 @@
       "published": "2026-08-18T04:45:40+00:00",
       "snippet": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 CNBC TV18",
       "severity": "major"
+    },
+    {
+      "uid": "aa7514aa6f36",
+      "title": "Scapia ₹20,000 Spend Milestone: What Counts for Lounge Access?",
+      "url": "https://cardmaven.in/scapia-milestone-spend-guide/",
+      "source": "CardMaven",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-08-15T20:12:21+00:00",
+      "snippet": "Scapia now requires ₹20,000 of spending in a billing cycle to unlock Airport Privileges. That’s quite a jump from the old ₹10,000 requirement on the Visa card, especially if Scapia isn’t your primary credit card. Thankfully, you don’t need ₹20,000 of reward-eligible spends. Scapia counts most actual",
+      "severity": "major"
+    },
+    {
+      "uid": "e48caeaa4960",
+      "title": "American Express Platinum Travel Devaluation 2026: What Changed",
+      "url": "https://cardmaven.in/amex-platinum-travel-devaluation-2026/",
+      "source": "CardMaven",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-10T18:22:02+00:00",
+      "snippet": "American Express is making another round of changes to the Platinum Travel Credit Card, around six months after the last devaluation. From 10 September 2026, the ₹1.9 lakh milestone will be removed completely, while the ₹7 lakh milestone will lose its Membership Rewards component in favour of a high",
+      "severity": "critical"
     },
     {
       "uid": "c88348b6e626",
@@ -153,6 +211,16 @@
       "severity": "major"
     },
     {
+      "uid": "8951d125b1e7",
+      "title": "4 things cardholders should do to avoid credit card devaluation risk - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaktYRGhsQ1kzMGFheXdsNlB2cTBSSVhCUWVmNnI3ZFczYWVpUG5talpkVjJmMWdsNGpPQVNaOEZGdzFxRWgtMDVONERRcDJiUm52cTZTbTU5ZFppRTBHNTZXd3k5MDNQRTFjN2liUm5oSXdNQlJrYjU1NUxITUdFb2pQcjFYRjNEcTFiMmNzeHlVaFpwV0dUMnZhRlpScW9OMWl5QnZMZDVxb25hWXNIME44dTVOd2VBYmRoRE51Z19WdW1xYml4WEllVEx2YTJLWm82LXNubw?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "4 things cardholders should do to avoid credit card devaluation risk Upstox",
+      "severity": "critical"
+    },
+    {
       "uid": "316a5a06996a",
       "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
@@ -172,6 +240,18 @@
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
+      "severity": "critical"
+    },
+    {
+      "uid": "cab49c17e317",
+      "title": "What to do with Amex Platinum Travel in 2026?",
+      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
+      "source": "CreditCardz",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-04-15T02:35:39+00:00",
+      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
       "severity": "critical"
     },
     {
