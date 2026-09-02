@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:57:47.610065+00:00",
+  "generated_at": "2026-09-02T07:17:28.728855+00:00",
   "count": 33,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-09-01T07:57:33.220256+00:00",
+      "published": "2026-09-02T07:17:15.630239+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -139,16 +139,14 @@
       "severity": "critical"
     },
     {
-      "uid": "c88348b6e626",
-      "title": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ3pzNkdUSzZTcUJzekNPV0FDMGtha1ZfQkNHRXVqengtb09RM1FKTk4zQnE5eDlKYjlhQnpvQnNLbHdGdW0yb3YtcTl4eE0welg4U0tIcmJfVkg0QVdnRkN1T3NrZW9seUNVQkZ1MzJUYTZQWkswQU1vUlprckdsNkV3Z2dmcVFjM09mNWJiQWxvS0JHT2RkaGFKX1ZDVmZ3cFJiaW1qVGZUYk4yY3ViSm80QzMtbVplUXJjRGk3d25oYWtNWUhGcEIzYzFFS3NSeVRCd21uQkk4WjFsSldXWl8yNTg0amQwT1N0R3pRMGU4b2pCczQ4ZjA1QjU0MEQtUXB5YXBONXFONUh3T2JNeEZMd3Y5REp2c1d2Rg?oc=5",
+      "uid": "1e2e1d989134",
+      "title": "Study says Muslims disproportionately targeted in India voter roll revision - Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM20wcnF5b0NscVpQQkxxcnktN3FDWTZ4QnVUN3c0cE4yazBNMkFXcm9XU2RwS2dmbW9pNktsZkQ5Nkc0S1JCazlBYkNjVVJUbWRCS1VGRHplLTF5MnYwYXdjV3c5STFFV2hnbG5GVWFxSW1PeUVUM29odkZCWm9VeDJEVWFiemVLU0xka21Tcjlhd1Rxc1Z5NWk4VnB6blJFRnlNZ3hRLTg?oc=5",
       "source": "Google News / devaluation",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition Live From A Lounge",
-      "severity": "critical"
+      "issuers": [],
+      "published": "2026-07-16T07:00:00+00:00",
+      "snippet": "Study says Muslims disproportionately targeted in India voter roll revision Muslim Network TV",
+      "severity": "major"
     },
     {
       "uid": "c0f0640c91f9",
@@ -188,14 +186,14 @@
     },
     {
       "uid": "5af20fd2ff56",
-      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
+      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - livefromalounge.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
+      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today livefromalounge.com",
       "severity": "critical"
     },
     {
@@ -267,6 +265,16 @@
       "severity": "major"
     },
     {
+      "uid": "81b875a9ce39",
+      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-04-03T07:00:00+00:00",
+      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
+      "severity": "major"
+    },
+    {
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
@@ -302,24 +310,14 @@
     },
     {
       "uid": "fe5bc2719360",
-      "title": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 - Live From A Lounge",
+      "title": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 - livefromalounge.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Va0J1bzV6c1VqTkF3Z3QyaFc3VDE0RzFiS3dmcnpqX2VSRjJXd2RFRUI4UnpqNGo4Tmplc2xJZ3JoQU41LWx5djBzLVZnNXAwX1VxajJBTFNSbk1QOGFUUXBBZE9Zb2xaZ2swTXdYTTRSc0Z3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 Live From A Lounge",
-      "severity": "critical"
-    },
-    {
-      "uid": "1e6c0e18e697",
-      "title": "Why your premium credit card perks just got devalued: The big squeeze on banks - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTlPLUlmWFo1QUd0MFFCTVo0cU9ydl9VUDRlTXhKVEJsN3NRd2FsXzc5NHVDN1c5Z0NMVWlJNTFWT3o2WjdzZVJYQ1EzWVZFM1o5Rm9YTGFoVksycWduNVd3VW1ISms2RnY3ZUUzWVkzd19Qa1lkUTZ3VzBvbDNFV3ZPZUlCNmNTRFZOQnR1Um5IQVB1VEtyRG9GU2RHRDVaanFZUjYybDdGRUdvSl9kVVFqdzV6dGlHelM4UnFXQmRUcUM4eUE3WWxnaDA4Q0RwcUxWNFZ5VE91RnY2Q2xaZURraEgzZ1gyTFI5WktPbENDdGJLMXdCQmVkZG9EV0J2RDdhMHNBVGjSAY4CQVVfeXFMTVN0RV96eDdIWWRpUGRXUG9uaDRzUlUyb2pvZGRwaXZBZnJhUlFDNzl0X2QzTTNnQ1hPcDFMSzhGci1iNFJ4RS1senVBM0pzRnU1SlpZeXJyVF9qcms1azZCNU43LVBQZjlIdjFxalJ3dkhPbVRDZVlSYmF2V2Z0TGVqd3diWjFyZ0ViemZxWjZqRzFVYTAzbTNHaDBnWnNUeVl4WXBQZU1DQmpybUxNcU9hem85Q2xObkp5OE9Ld0lVcW1Sb25XcUxjek1acTRmUmpXczc2UnFkSFUtMElrdmZ1MHpORC1aVUxxTWxMeGUxTUQybE8tN2tIU1cyR2FLd0RudkpjMW02bjh5Zl9B?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-03-02T08:00:00+00:00",
-      "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks Livemint",
+      "snippet": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 livefromalounge.com",
       "severity": "critical"
     },
     {
@@ -335,13 +333,15 @@
       "severity": "major"
     },
     {
-      "uid": "8db8ed65c7d8",
-      "title": "Base-year revision to facilitate calibrated policies: RBI Governor Malhotra - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVy1pVVdGTEw5M2lVN1FfTmZzU2x2blI2bXMtZm5IcGFEWXdKQXYwbnZUZloxa3l6ZDJTa1plSzV2eGpBdmR2VE5qbGFPdFVpU19DMGt2RjlJbUJuQXNRUUdWaG4wWlpJUUw1d2R5N0xLWUtJRjRXcFN2TkJDVENzV29uZnZHUVpZYjRPYXdWRXE2RnE2LURURlNVd01Vekt0VmdkZ2NNMEQ3SEZobW93ZnlCU3Q5TEFWYWVoOHBfeUJrelRCMksycUNTcUNDdlZtTFI3bUFmbW_SAd4BQVVfeXFMTlFrQ3J3NlBDWWNMYXFGb0wyU2pGTG16ck94TktpTDhvNzloaWhlT2h3QVU1LTJKMHBYWWkyMlBibERjUDVON2ZtWC10NWZOTmtNNEM2OWZMbWdVWDdDUy1RZlN6WjFiczVYb0hWQzczclAyRVc2ZW1vLVR5OWtNcm93WGJBeEN2VDBPSmItMWxZMWdSTGlRYW9SR3hzeUMwZWkzLS1IVXNKVDNvRVM3UWhUbnlzOVFNUEt6NWhPNkw4dmh0VElGZFRpTkE3amxsVVI4UkV1Qmk2a01fOUxR?oc=5",
+      "uid": "9b4843ec7e80",
+      "title": "Axis Bank's credit card new rules: Changes from June to October 2025 explained - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVnhEclpsSVBEWVBMM0ZlZUJzX19mUzloRnZiMW1qNjhleUZMYWFOZnkySU9GNkFPenpjU3p2alExYzhBY3htX283VTJFakVjQ2x1WFRaQzFTbjRXb1JnYUMxemg1MkVaNEFsN0NSeEdTbFFLand4c3dxUEMyMmNTWm0zaWhKVDhMdUtxakh0UGdJLXA4OGVyTDFMeUZSUnU4RzFDYTZ2dVZ0dWpIYmN1RENnNXFQRWNTcXZJdTlQSDg1LW44UzREREJmTkJYZG5wMEZoMWhGLVM2VjkzV090UNIB5gFBVV95cUxONlpFS1BFMjMwSnYwdFNOZWg0TzFKTzRMX1A1b1hZbUFYaXl6WXU3TzhLWkxGNXZuVXFIY0JUS2JTUW10M2Q4OVZZekttNFZtRXo1V2E5aHdtdExsR3BMQk1PdThiNVJfc2pVRWhPOE5IX0QtaVU2Wk5EcE5acDk4M2VJdy1oTmxSamFSMHZ2VkZWTEMtQm4wb09CODNWdXUyVmFoTnMyS2NnUi1kQzJVOUp1M0ZyUHJlRl9IcGp3Z0hlM3FEWFV4RUIwSVN3ZTQ5a3U2LXc2UmV1RU5OVmRibVViWXM1Zw?oc=5",
       "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-01-16T08:00:00+00:00",
-      "snippet": "Base-year revision to facilitate calibrated policies: RBI Governor Malhotra Business Standard",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-05-23T07:00:00+00:00",
+      "snippet": "Axis Bank's credit card new rules: Changes from June to October 2025 explained CNBC TV18",
       "severity": "major"
     },
     {
