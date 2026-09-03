@@ -27,8 +27,11 @@ jobs:
       - name: Classify feeds
         run: python classify_feeds.py
 
+      - name: Split deals by issuer
+        run: node scripts/split-deals-by-issuer.js
+
       - name: Commit updated feed.json, deals.json, devaluations.json and launches.json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update feed.json, deals.json, devaluations.json and launches.json [skip ci]'
-          file_pattern: feed.json deals.json devaluations.json launches.json
+          file_pattern: feed.json deals.json devaluations.json launches.json deals/by-issuer/
