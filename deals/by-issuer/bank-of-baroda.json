@@ -7,7 +7,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Validity 1st July to 30th Sep, 2026 (Code: Domestic Flights: IXIBOBEMI | International Flights: IXIBOBEMIN)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -21,7 +21,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer valid till 30th Sep 2026 (Code: UCBOB)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -35,7 +35,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Applicable on all Friday & Saturday till 30th Sep, 2026 (Code: Domestic Flights & Hotels: GOBOBEMI || International Flights & Hotels: GOBOBINTEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -49,7 +49,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer valid all Tuesday & Friday till 30th Sep 2026 (Code: Domestic Flights, Domestic Hotels, Holiday: MMTBOBEMI || International Flights & Hotels: MMTBOBINTEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -63,7 +63,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Applicable on Wednesday and Thursday only (Code: BOBEMI || BOB6EMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -77,11 +77,25 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on EMI, every Wednesday & Thursday till 30th Sep 2026 (Code: Domestic: FLYBOB | International: INTLFLYBOB)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
     "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "d20ebfb28069",
+    "title": "Upto 20% Off on Flipkart Travel",
+    "url": "https://www.bobcard.co.in/credit-card-offers/travel/upto-20-off-on-flipkart-travel/",
+    "source": "BOBCard Offers",
+    "issuers": [
+      "BOB Financial (BOBCard)"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer valid on Saturday & Sunday | Valid till 13th Sep 2026 (Code: Promocode: Domestics Flights & Hotels: BOBEMIDOM and International flights & hotels: BOBEMIINT)",
+    "deal_type": "discount",
+    "offer_category": "Travel Deals",
+    "valid_till": "2026-09-13"
   },
   {
     "uid": "ed790be4bc3f",
@@ -91,7 +105,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer valid on Saturday & Sunday | Till 27th Sep 2026 (Code: BOBEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -105,7 +119,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: 1st July to 30th Sep 2026 | Applicable on Monday and Tuesday (Code: YRBOBCCEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -119,7 +133,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -133,7 +147,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -147,7 +161,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -161,11 +175,39 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "From pantry picks to party prep — save more with BOBCARD",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-12-31"
+  },
+  {
+    "uid": "bfd75428eaa3",
+    "title": "10% Instant Discount on Flipkart",
+    "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/10-instant-discount-on-flipkart/",
+    "source": "BOBCard Offers",
+    "issuers": [
+      "BOB Financial (BOBCard)"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Avail on BOBCARD EMI | Valid till 15th Sep 2026",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals",
+    "valid_till": "2026-09-15"
+  },
+  {
+    "uid": "2d6e3b4ab0f9",
+    "title": "Flat ₹6000 off on Flipkart 2-Wheelers",
+    "url": "https://www.bobcard.co.in/credit-card-offers/online-shopping/flat-6000-off-on-flipkart-2-wheelers/",
+    "source": "BOBCard Offers",
+    "issuers": [
+      "BOB Financial (BOBCard)"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Avail on BOBCARD EMI | Valid till 15th Sep 2026",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals",
+    "valid_till": "2026-09-15"
   },
   {
     "uid": "2f86dc6da022",
@@ -175,7 +217,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -189,7 +231,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -203,7 +245,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -217,7 +259,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -231,7 +273,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -245,7 +287,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Applicable on BOBCARD EMI | Till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -259,7 +301,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -273,7 +315,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -287,7 +329,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -301,7 +343,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -315,7 +357,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -329,7 +371,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -343,7 +385,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -357,7 +399,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -371,22 +413,8 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer valid till 30th Sep 2026",
-    "deal_type": "cashback",
-    "offer_category": "Electronics Deals",
-    "valid_till": "2026-09-30"
-  },
-  {
-    "uid": "7f9f76752807",
-    "title": "Upto 10% cashback on Daikin",
-    "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-10-cashback-on-daikin/",
-    "source": "BOBCard Offers",
-    "issuers": [
-      "BOB Financial (BOBCard)"
-    ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
-    "snippet": "Avail on BOBCARD EMI | Offer valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-09-30"
@@ -399,7 +427,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -413,7 +441,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Travel Deals",
@@ -427,7 +455,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -441,7 +469,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Avail on BOBCARD EMI | Valid till 30th September 2026",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -455,10 +483,23 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
-    "snippet": "Avail on BOBCARD EMI | Valid till 30th September 2026",
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Avail on BOBCARD EMI | Valid till 30th Sep 2026",
     "deal_type": "cashback",
     "offer_category": "Health & Wellness",
     "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "88df048ad979",
+    "title": "BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till September 2026",
+    "url": "https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/",
+    "source": "CardInsider",
+    "issuers": [
+      "BOB Financial (BOBCard)"
+    ],
+    "published": "2026-09-02T04:30:13+00:00",
+    "snippet": "BOBCARD has announced a limited-period welcome miles offer on its Etihad Guest co-branded credit cards for new customers. The offer is valid for cardholders until 30th September and is available for a limited time. Under this offer, new BOBCARD Etihad Guest Credit Card holders can earn up to 7,500 b",
+    "deal_type": "benefit",
+    "offer_category": "Exclusive Discounts"
   }
 ]

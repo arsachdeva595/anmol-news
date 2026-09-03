@@ -7,7 +7,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
     "deal_type": "benefit",
     "offer_category": "Electronics Deals"
@@ -20,7 +20,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals"
@@ -33,7 +33,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
     "deal_type": "discount",
     "offer_category": "Travel Deals"
@@ -46,23 +46,10 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
     "deal_type": "discount",
     "offer_category": "Travel Deals"
-  },
-  {
-    "uid": "f59edcc39cad",
-    "title": "FirstCry",
-    "url": "https://www.hsbc.co.in/offers/",
-    "source": "HSBC Offers",
-    "issuers": [
-      "HSBC"
-    ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
-    "snippet": "Get 10% instant discount up to INR 500.",
-    "deal_type": "discount",
-    "offer_category": "Shopping Deals"
   },
   {
     "uid": "1f6e814159dd",
@@ -72,7 +59,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
     "deal_type": "discount",
     "offer_category": "Entertainment Deals"
@@ -85,35 +72,22 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals"
   },
   {
-    "uid": "0784bbff0f4d",
-    "title": "HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time",
-    "url": "https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/",
-    "source": "CardInsider",
+    "uid": "4a8910f3a2d3",
+    "title": "Tata CliQ Luxury",
+    "url": "https://www.hsbc.co.in/offers/",
+    "source": "HSBC Offers",
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-08-19T05:52:55+00:00",
-    "snippet": "After teasing a 0% forex mark-up offer earlier this month, HSBC has now officially rolled out the promotion for its credit cardholders in India. Under the limited-period offer, eligible HSBC credit cardholders can make foreign currency transactions without paying the usual foreign exchange mark-up f",
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Save 20%, up to INR15,000, when you spend INR25,000 or more. Just use coupon code: HSBCTAJTCL.",
     "deal_type": "discount",
-    "offer_category": "Travel Deals"
-  },
-  {
-    "uid": "db07e676a96d",
-    "title": "HSBC x Accor ALL Bonus Offer: Is It Worth Spending ₹1 Lakh?",
-    "url": "https://cardmaven.in/hsbc-accor-all-bonus-offer/",
-    "source": "CardMaven",
-    "issuers": [
-      "HSBC"
-    ],
-    "published": "2026-08-05T17:38:52+00:00",
-    "snippet": "HSBC has announced a limited-period transfer bonus for Accor ALL. Eligible cardholders can receive up to 50% bonus Accor ALL Reward Points when transferring HSBC Reward Points. However, the offer comes with a ₹1 lakh spend requirement, mandatory registration and a narrow transfer window. While the h",
-    "deal_type": "discount",
-    "offer_category": "Bonus & Reward Offers"
+    "offer_category": "Shopping Deals"
   }
 ]

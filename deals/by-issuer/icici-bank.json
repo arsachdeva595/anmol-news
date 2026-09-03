@@ -7,7 +7,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Up to ₹15,000 instant cashback",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -21,7 +21,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "20% off on all tax related services",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -35,7 +35,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "10% off",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -49,22 +49,22 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "20% off",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
     "valid_till": "2027-03-31"
   },
   {
-    "uid": "1c37cfa4d159",
-    "title": "Up to ₹10,000 off on Google Pixel 10",
+    "uid": "3ce9a23f9480",
+    "title": "Up to ₹10,000 off on Google Pixel 11",
     "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/GooglePixel.html",
     "source": "ICICI Bank Bonanza Offers",
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
-    "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card & Credit Card EMIs",
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Aug 20 to Sep 30, 2026 Valid on Credit Card & Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-09-30"
@@ -77,7 +77,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Card EMIs",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -91,7 +91,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -105,7 +105,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -119,7 +119,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICIINT)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -133,8 +133,22 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "62eeacb4abf0",
+    "title": "Up to ₹3,500 off on select OnePlus products",
+    "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/oneplus.html",
+    "source": "ICICI Bank Bonanza Offers",
+    "issuers": [
+      "ICICI Bank"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Sep 01 to Sep 30, 2026 Valid on Credit Cards & Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-09-30"
@@ -147,7 +161,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -161,7 +175,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -175,7 +189,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -189,7 +203,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -203,7 +217,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -217,7 +231,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 26, 2026 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -231,11 +245,25 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "9afef3544544",
+    "title": "Up to ₹18,000 off on a minimum purchase of ₹69,999 on HP",
+    "url": "https://www.icici.bank.in/campaigns/bonanza/index",
+    "source": "ICICI Bank Bonanza Offers",
+    "issuers": [
+      "ICICI Bank"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Sep 01 to Nov 30, 2026 Valid on Credit Card EMIs",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-30"
   },
   {
     "uid": "2d24b6e8a011",
@@ -245,7 +273,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -259,7 +287,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -273,7 +301,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -287,7 +315,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 28 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -301,7 +329,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -315,7 +343,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Dec 31, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -329,21 +357,21 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-09-30"
   },
   {
-    "uid": "3049bbcf20cb",
-    "title": "Up to 15% off up to ₹5,000 on minimum purchase of ₹15,000 on godrej",
+    "uid": "4824f01d8179",
+    "title": "Up to 15% off up to ₹5,500 on minimum purchase of ₹15,000 on godrej",
     "url": "https://www.icici.bank.in/campaigns/bonanza/index",
     "source": "ICICI Bank Bonanza Offers",
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -357,11 +385,25 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 06 to Dec 31, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-12-31"
+  },
+  {
+    "uid": "d8d6536efa1f",
+    "title": "Up to ₹6,000 off on a minimum purchase of ₹10,000 on bose",
+    "url": "https://www.icici.bank.in/campaigns/bonanza/index",
+    "source": "ICICI Bank Bonanza Offers",
+    "issuers": [
+      "ICICI Bank"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Sep 01 to Sep 20, 2026 Valid on Credit Card EMIs",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-09-20"
   },
   {
     "uid": "3e9161d29b59",
@@ -371,7 +413,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 03 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -385,7 +427,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -399,7 +441,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -413,7 +455,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 14 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -427,7 +469,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -441,7 +483,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -455,7 +497,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -469,7 +511,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Aug 09 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -483,7 +525,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -497,7 +539,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Aug 01 to Dec 31, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -511,7 +553,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -525,7 +567,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -539,7 +581,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 02 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -553,7 +595,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 25 to Sep 30, 2026 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -567,7 +609,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -581,7 +623,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -595,7 +637,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -609,7 +651,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: FLYMON)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -623,7 +665,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -637,7 +679,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: ICICILUXURY)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -651,7 +693,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -665,7 +707,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: ICICILUXURYINT)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -679,7 +721,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -693,7 +735,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -707,7 +749,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -721,7 +763,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -735,7 +777,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -749,7 +791,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -763,7 +805,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -777,7 +819,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -791,7 +833,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -805,7 +847,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: MMTICICI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -819,7 +861,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -833,7 +875,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -847,7 +889,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -861,7 +903,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -875,7 +917,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -889,7 +931,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFESTINT)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -903,7 +945,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIINTEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -917,7 +959,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFESTINT)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -931,7 +973,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -945,7 +987,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -959,7 +1001,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -973,7 +1015,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -987,7 +1029,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1001,7 +1043,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 (every Monday) Valid on Credit Cards (Code: GOICICIFEST)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1015,7 +1057,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1029,7 +1071,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1043,7 +1085,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 21 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1057,7 +1099,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 21 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1071,7 +1113,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: YTICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1085,7 +1127,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: YTICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1099,7 +1141,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs (Code: FLYICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1113,7 +1155,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 08 to Sep 30, 2026 Valid on Credit Card EMIs (Code: INTICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1127,7 +1169,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1141,7 +1183,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMI)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1155,7 +1197,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMIN)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1169,7 +1211,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICIEMIN)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1183,7 +1225,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 02 to Sep 30, 2026 Valid on Credit Card EMIs (Code: PYTICICI2026)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1197,7 +1239,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: May 02 to Oct 31, 2026 Valid on Credit Card EMIs, Credit & Debit Cards and Internet Banking (Code: ICICI10, ICICINCEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1211,11 +1253,39 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: May 02 to Oct 31, 2026 Valid on Credit Card EMIs, Credit & Debit Cards and Internet Banking (Code: ICICI10, ICICINCEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-10-31"
+  },
+  {
+    "uid": "2bc7088abee0",
+    "title": "12% off up to ₹1,000 on a minimum purchase of ₹3,000 on Tata Cliq Fashion",
+    "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/tatacliqfashion.html",
+    "source": "ICICI Bank Bonanza Offers",
+    "issuers": [
+      "ICICI Bank"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Aug 14 to Nov 30, 2026 Valid on Credit Card EMIs (Code: TCFICICIEMI)",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals",
+    "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "46cbfc53d87b",
+    "title": "12% off up to ₹2,000 on a minimum purchase of ₹5,000 on Tata Cliq Luxury",
+    "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/tatacliqluxury.html",
+    "source": "ICICI Bank Bonanza Offers",
+    "issuers": [
+      "ICICI Bank"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Aug 14 to Nov 30, 2026 Valid on Credit Card EMIs (Code: TCLICICIEMI)",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals",
+    "valid_till": "2026-11-30"
   },
   {
     "uid": "671f2119e7e7",
@@ -1225,7 +1295,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -1239,7 +1309,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 07 to Sep 30, 2026 Valid on Amazon Pay ICICI Bank Credit Cards",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -1253,7 +1323,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs (Code: ICICI10K)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -1267,7 +1337,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Aug 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1281,7 +1351,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 01 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1295,7 +1365,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 04, 2026 to May 14, 2027 Valid on Credit Cards and Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1309,7 +1379,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jun 29 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1323,7 +1393,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 13, 2026 to Mar 31, 2027 Valid on Credit Card EMIs (Code: ICICISHOPEMI; ICICIAPAYSHOPEMI)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1337,7 +1407,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 04 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1351,7 +1421,7 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 15 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1365,8 +1435,22 @@
     "issuers": [
       "ICICI Bank"
     ],
-    "published": "2026-08-20T07:31:28.157717+00:00",
+    "published": "2026-09-03T07:20:52.011340+00:00",
     "snippet": "Offer Validity: Jul 15 to Sep 30, 2026 Valid on Credit Card EMIs",
+    "deal_type": "discount",
+    "offer_category": "Grocery & Essentials",
+    "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "14dffa07441c",
+    "title": "5% off up to ₹4,000 on a minimum purchase of ₹3,001 on Zepto",
+    "url": "https://www.icici.bank.in/campaigns/bonanza/disclaimer/Zepto.html",
+    "source": "ICICI Bank Bonanza Offers",
+    "issuers": [
+      "ICICI Bank"
+    ],
+    "published": "2026-09-03T07:20:52.011340+00:00",
+    "snippet": "Offer Validity: Aug 04 to Sep 30, 2026 Valid on Credit Card EMIs",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
     "valid_till": "2026-09-30"
