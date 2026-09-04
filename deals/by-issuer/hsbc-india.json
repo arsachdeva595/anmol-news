@@ -7,7 +7,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
     "deal_type": "benefit",
     "offer_category": "Electronics Deals"
@@ -20,7 +20,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals"
@@ -33,7 +33,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
     "deal_type": "discount",
     "offer_category": "Travel Deals"
@@ -46,7 +46,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
     "deal_type": "discount",
     "offer_category": "Travel Deals"
@@ -59,7 +59,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
     "deal_type": "discount",
     "offer_category": "Entertainment Deals"
@@ -72,7 +72,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals"
@@ -85,9 +85,22 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-03T07:20:52.011340+00:00",
+    "published": "2026-09-04T07:23:09.572003+00:00",
     "snippet": "Save 20%, up to INR15,000, when you spend INR25,000 or more. Just use coupon code: HSBCTAJTCL.",
     "deal_type": "discount",
     "offer_category": "Shopping Deals"
+  },
+  {
+    "uid": "5031cdb29198",
+    "title": "HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal",
+    "url": "https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/",
+    "source": "CardInsider",
+    "issuers": [
+      "HSBC"
+    ],
+    "published": "2026-09-03T06:30:12+00:00",
+    "snippet": "HSBC has been expanding aggressively in the Indian credit card market with card revamps, new launches, and attractive offers. As a result, HSBC credit cards are now among the most rewarding options available to many users. Adding to its list of offers, HSBC has launched a limited-time promotion that",
+    "deal_type": "benefit",
+    "offer_category": "Electronics Deals"
   }
 ]
