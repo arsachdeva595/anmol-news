@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T07:16:32.956Z",
+  "generated_at": "2026-09-07T07:30:38.208Z",
   "source": "deals.json",
   "issuers": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "slug": "sbi-card",
-      "count": 75
+      "count": 58
     }
   ]
 }
