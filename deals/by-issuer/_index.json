@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:32:17.943Z",
+  "generated_at": "2026-09-10T07:28:41.650Z",
   "source": "deals.json",
   "issuers": [
     {
@@ -12,11 +12,11 @@
     },
     {
       "slug": "bank-of-baroda",
-      "count": 35
+      "count": 36
     },
     {
       "slug": "hsbc-india",
-      "count": 9
+      "count": 8
     },
     {
       "slug": "icici-bank",
@@ -28,7 +28,7 @@
     },
     {
       "slug": "sbi-card",
-      "count": 64
+      "count": 66
     }
   ]
 }
