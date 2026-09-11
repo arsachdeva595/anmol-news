@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-09-10T07:28:41.140454+00:00",
-  "count": 23,
+  "generated_at": "2026-09-11T07:27:01.341428+00:00",
+  "count": 24,
   "launches": [
+    {
+      "uid": "38202765d243",
+      "title": "Elixir’s Upcoming Wellness Credit Card to Offer Premium Spa Benefits via DreamFolks",
+      "url": "https://cardinsider.com/blog/elixir-wellness-credit-card-offer-premium-spa-benefits-via-dreamfolks/",
+      "source": "CardInsider",
+      "issuers": [],
+      "published": "2026-09-10T10:30:00+00:00",
+      "snippet": "Elixir is set to launch a new wellness-focused credit card that will offer premium spa benefits powered by DreamFolks Services Limited. The partnership was unveiled at the Global Fintech Fest on September 9, 2026, with DreamFolks confirmed as the official provider of spa benefits for the upcoming ca"
+    },
     {
       "uid": "61091036615f",
       "title": "Visa, AU SFB and CheQ launches India’s first LED-enabled credit card - IBS Intelligence",
@@ -44,20 +53,8 @@
       "snippet": "Scapia, Axis Bank Launch Co-Branded Card Targeting India’s New-Age Travellers Deccan Chronicle"
     },
     {
-      "uid": "253805403f7d",
-      "title": "Axis Bank, Scapia launch travel-focused co-branded credit card - TravelBiz Monitor",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnpXb1FzbDZaTkVPZmYzWGN3c1gzR0p5NEJZeGNpR21NLVI4dEg5UjM5cVJmZDNuQ2lacVpEM0RLcDV2eW44MEhlcmdkVXByQ2JLMnBDMmwwYVhHQVRJdGxvZkotNElUb3kwVG02R2NXbGJxZFFzTU85SHRzVXhaRTVKR3dUdzkwT0NrRnJ0eUx6a2htNXN6V2RJN2M1VEd5Uk8xZ0VB?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Axis Bank",
-        "Federal Bank"
-      ],
-      "published": "2026-09-04T12:47:02+00:00",
-      "snippet": "Axis Bank, Scapia launch travel-focused co-branded credit card TravelBiz Monitor"
-    },
-    {
       "uid": "7fa54a747b2b",
-      "title": "Axis Bank and Scapia launch co-branded credit card for travel-focused consumers - Indiatimes",
+      "title": "Axis Bank and Scapia launch co-branded credit card for travel-focused consumers - ET TravelWorld",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcjNnOFhscVRCc1V6Sk9YdEVqbktnQk9QeFdTcms5MWt0UEJmUEFxUjVCeU9aS0gyMVVOdU16QlVTbFpwLWU2MHpuZHBQY2d3RWNXSlNhMXYwUW5jdExGQ0paaXp4UGY2SmRFOHQ5NlY1TngzVmNHVC1uSDF5Ry1YSXZ6WENoajQ1M3IzbS1UX0tDbkdEeTdqVkx2Tk10eDdnM0hXZzNLRks5T3ZaM1htSS1nNTNhLUpsQ1V0VkRoby1PQ2JKLUdoS3kyR1VFY2xfWmRWZi1xMTJXR0FSMHk1T0J0SdIB5wFBVV95cUxNX2FaMWFuSnhnZ2RaVWFkd0cwTDJSajRQY1FUdGRLSE83a0U1aGpfVnJxZ3NKazFYakktcUsyd1B1ZUpabXkzV2JvTjJYVnc0RWpYSXZjM1dPaGJvZ09HTEplU1UxOUF4Sm51TXZyZXYtZV9XcjA3bkZjaGJoM3J5Z1pQV0RJdEpNYkVWRUttTDUxUVhNdGUzSnlTTmlnRFp0TzQ1dzNMT19tQ3ItdHc0aHZrQUpDcWdULWViNi1CZ2w0UjZKR3NQaXJxSTJVdm5iQlZzMVFieWU0czItVV9oQXhlcnJUeDQ?oc=5",
       "source": "Google News / launch",
       "issuers": [
@@ -65,11 +62,11 @@
         "Federal Bank"
       ],
       "published": "2026-09-04T07:44:36+00:00",
-      "snippet": "Axis Bank and Scapia launch co-branded credit card for travel-focused consumers Indiatimes"
+      "snippet": "Axis Bank and Scapia launch co-branded credit card for travel-focused consumers ET TravelWorld"
     },
     {
       "uid": "6502ce866594",
-      "title": "From Tap to Takeoff: Axis Bank and Scapia Launch Co-Branded Credit Card for India’s New Generation of Travellers - passionateinmarketing.com",
+      "title": "From Tap to Takeoff: Axis Bank and Scapia Launch Co-Branded Credit Card for India’s New Generation of Travellers - Passionate In Marketing",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNURBemtjbVFGcWZlcXZxMTFLMTZ0NUxtSGpmOWtBRGRWbDktTmpmSldsbzdNRWpxaVRPemROdE1hWldlb25razZmWVp4akpWWm9Na2RaVXNyVU9ycUdJUWp6a1cwcU94dWZIS19vSFB3X0I0STJQa2JjdFMxMnFLeXU5amRxa2E4b3pSZzJadnlSOGREclE1UzNEbVBOeXpPb0dWNFNhaEwxTE1FT3ozdlo1SG9UZkhRMW96ZkoxcHJXSk9ZajgwNnF6RlZ1Wm5RVWw5SlFqVHVNYUFQMmxLd2NSYw?oc=5",
       "source": "Google News / launch",
       "issuers": [
@@ -77,7 +74,7 @@
         "Federal Bank"
       ],
       "published": "2026-09-04T02:19:25+00:00",
-      "snippet": "From Tap to Takeoff: Axis Bank and Scapia Launch Co-Branded Credit Card for India’s New Generation of Travellers passionateinmarketing.com"
+      "snippet": "From Tap to Takeoff: Axis Bank and Scapia Launch Co-Branded Credit Card for India’s New Generation of Travellers Passionate In Marketing"
     },
     {
       "uid": "f4ced7d6fbe1",
@@ -137,14 +134,14 @@
     },
     {
       "uid": "53f02f558a82",
-      "title": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card - passionateinmarketing.com",
+      "title": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card - Passionate In Marketing",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnFCMkItU01XdGpoeUlGbENLVkszTDhCTjgtUlhNWVdFUjVhUXVmdE83YkkxZXN2V1B0N2hLTXh4MTFvbXEtclo5R18zRVFDeDJTcmxDMkotazBQeGxBWDg3a3prT3g0dUdUMmZYeTlGQ28xaDZLSW1Mb09nUHd3blR4TXptY3dWMTRWdkYxUEdjUWRlZEZzY0Noc3R6REFZTi1sdWt5ekNxbVVyeWNWQWg1aFZxNFU?oc=5",
       "source": "Google News / offer",
       "issuers": [
         "AU Small Finance Bank"
       ],
       "published": "2026-07-10T07:00:00+00:00",
-      "snippet": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card passionateinmarketing.com"
+      "snippet": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card Passionate In Marketing"
     },
     {
       "uid": "3b031a3c5a59",
@@ -190,12 +187,12 @@
     },
     {
       "uid": "958919bef8c1",
-      "title": "Google Pay Launches Digital Credit Card in India - pymnts.com",
+      "title": "Google Pay Launches Digital Credit Card in India - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW4yOEI4dUwwbU9JYXhxVWtReV9EcFhCcGpxSlhwVUFxWXlud2RpWlNHVDdDb3dSTXNIWkgwWGpZUXc0ZXRtSUNveHlGUnhjRVl1QzVrTkNtU0pZenllUXZTXzE3WF9KV3VmR3YxZ3dXUngwNjhNWGstZm1ZWklJd080RmU2YmFvMEMwZ3dTOGk?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay Launches Digital Credit Card in India pymnts.com"
+      "snippet": "Google Pay Launches Digital Credit Card in India PYMNTS.com"
     },
     {
       "uid": "e0d5597d48cb",
@@ -219,12 +216,12 @@
     },
     {
       "uid": "36d8c7a77d03",
-      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - passionateinmarketing.com",
+      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - Passionate In Marketing",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN0tpMm80NTVpVUY2Qm5lak0zaFJOM3VsbkdpRS1xWHBwUXRKcVQwbDktbVRSc1ZtTGJwSXlYRkQtMXFmYmtFTGhoajVXSElsd2Q0RUJFem5nSmloT0ZneEdIYThiNHFzY25QajF0M3pVSHEtZkpkNU9oV2VCdlptYy1vY3B5SnlQaEJXWEN0aFgtZGhiNE1SMy1RY0l2T3FzVG0xaE11Y0JkZWstWTFCRW9qMjVuUHlhZVRKNGM1Rm1uM2ZjSFA1bm1WVjFhZ1d1ZC16b0ZpeExUSmZkY2JUMEdqbXBETXdZZ2l4d29Fcw?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-10T08:00:00+00:00",
-      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card passionateinmarketing.com"
+      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card Passionate In Marketing"
     },
     {
       "uid": "bac632543a77",
@@ -247,6 +244,17 @@
       ],
       "published": "2025-09-25T07:00:00+00:00",
       "snippet": "IndiGo, SBI Card launch new co-branded credit card for customers Business Standard"
+    },
+    {
+      "uid": "c35b2589b93b",
+      "title": "Amazon Pay and ICICI Bank Renew Partnership, Enhance India’s Most-adopted Co-branded Credit Card - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlEwRnNFVTkwOWNMVlh6RU1qbklwX1ZBOFhCWm5nb0QyUXFPRE1QbkxEckVIZUZYTm9INVZVelpacHh5dE9nLWg5Z1lwMWZ4aFpRWDFWUGg1SElReUlqemw0UkdyM2xDTF93M0t5Uy1yWTU2QkJGYmpXNXNCTlZpZHFZSnRvdVlDZXpiYjNubUQ5dDNtZXlMZGxsN0l2TlozZm9Ya3ZMMy15WG9qUjRqdk5aMFFZQTJkQmc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "ICICI Bank"
+      ],
+      "published": "2025-09-10T07:00:00+00:00",
+      "snippet": "Amazon Pay and ICICI Bank Renew Partnership, Enhance India’s Most-adopted Co-branded Credit Card FF News"
     }
   ]
 }
