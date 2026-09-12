@@ -1,5 +1,19 @@
 [
   {
+    "uid": "651899f14e52",
+    "title": "Anantara Vacation: Upto 80% instant discount at Anantara Vacation Club via Kotak Solitaire & White Reserve Credit Cards",
+    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333323831/anantara-vacation-club.html",
+    "source": "Kotak Offers",
+    "issuers": [
+      "Kotak"
+    ],
+    "published": "2026-09-12T07:18:59.738100+00:00",
+    "snippet": "Upto 80% instant discount at Anantara Vacation Club via Kotak Solitaire & White Reserve Credit Cards",
+    "deal_type": "discount",
+    "offer_category": "Travel Deals",
+    "valid_till": "2026-12-20"
+  },
+  {
     "uid": "0615cae4825b",
     "title": "PVR INOX: Get PVR Voucher worth 400 on PVR INOX card approval through the PVR app",
     "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234583111/pvr-inox.html",
@@ -7,11 +21,25 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get PVR Voucher worth 400 on PVR INOX card approval through the PVR app",
     "deal_type": "discount",
     "offer_category": "Entertainment Deals",
     "valid_till": "2026-12-31"
+  },
+  {
+    "uid": "4fc0a4c34280",
+    "title": "Eco Mobility: Get up to 20% off on car services using Kotak Debit/Credit Cards.",
+    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333310921/eco-mobility.html",
+    "source": "Kotak Offers",
+    "issuers": [
+      "Kotak"
+    ],
+    "published": "2026-09-12T07:18:59.738100+00:00",
+    "snippet": "Get up to 20% off on car services using Kotak Debit/Credit Cards.",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2027-06-30"
   },
   {
     "uid": "7c25d6efc6f9",
@@ -21,7 +49,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "15% instant discount up to INR 750 on Min Bill Value of INR 3000 via Kotak Mahindra Bank Select Credit Cards",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -35,7 +63,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get up to 73% off on Cleartax ITR filing and services using Kotak Mahindra Bank credit and debit cards.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -49,7 +77,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Up to 15%  instant discount upto ₹20,000 on Kotak Mahindra Bank Select  Credit Cards",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -63,7 +91,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Flat 25% instant discount on the base fare of hotel stays, exclusively for Kotak cardholders",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -77,7 +105,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get flat 200 off on minimum order value of ₹500 by using Kotak Mahindra Bank debit/credit card.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -91,7 +119,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get up to 40% instant discount on evoucher of 200+ brands at GYFTR via Kotak Credit & Debit Cards",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -105,7 +133,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get up to 5000 off on Hotels, Domestic & International flights bookings.",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -119,25 +147,11 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "10% instant discount up to 50,000 on Kotak Cards.                                                                                                                                            For Solitaire Credit Card/Wealth Infinite Credit Card/White Reserve Credit Card - offer is 10% instant discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-10-07"
-  },
-  {
-    "uid": "4fc0a4c34280",
-    "title": "Eco Mobility: Get up to 20% off on car services using Kotak Debit/Credit Cards.",
-    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333310921/eco-mobility.html",
-    "source": "Kotak Offers",
-    "issuers": [
-      "Kotak"
-    ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
-    "snippet": "Get up to 20% off on car services using Kotak Debit/Credit Cards.",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2027-06-30"
   },
   {
     "uid": "fa827d0b59e8",
@@ -147,24 +161,10 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant discount up to ₹6,000 on Kotak Credit Card EMI. Book Now.",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
-    "valid_till": "2026-09-30"
-  },
-  {
-    "uid": "434b7a0cd44d",
-    "title": "Godrej: Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
-    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333368110/godrej.html",
-    "source": "Kotak Offers",
-    "issuers": [
-      "Kotak"
-    ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
-    "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
-    "deal_type": "discount",
-    "offer_category": "Electronics Deals",
     "valid_till": "2026-09-30"
   },
   {
@@ -175,22 +175,22 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop Now.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-09-30"
   },
   {
-    "uid": "4d400f254ce1",
-    "title": "KTM: Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
-    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333359659/ktm.html",
+    "uid": "434b7a0cd44d",
+    "title": "Godrej: Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
+    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333368110/godrej.html",
     "source": "Kotak Offers",
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
-    "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+    "published": "2026-09-12T07:18:59.738100+00:00",
+    "snippet": "Instant discount up to ₹9,000 on Kotak Credit Card EMI. Shop Now.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-09-30"
@@ -203,7 +203,21 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
+    "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "4d400f254ce1",
+    "title": "KTM: Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
+    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/3333359659/ktm.html",
+    "source": "Kotak Offers",
+    "issuers": [
+      "Kotak"
+    ],
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant discount up to ₹10,000 on Kotak Credit Card EMI. Shop now.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -217,7 +231,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Avail up to ₹4,000 instant discount on Kotak Credit Card EMI. Shop Now.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -231,7 +245,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Avail up to ₹2,500 instant discount on Kotak Credit Card EMI",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -245,7 +259,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Avail up to ₹12,000 instant discount on Kotak Credit Card EMI. Shop now.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -259,7 +273,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get up to ?5000 instant discount on Kotak Credit Card EMI",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -273,7 +287,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Get up to ₹5000 instant discount on Kotak Credit Card EMI",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -287,7 +301,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Enjoy up to ₹30,000* instant discount with Kotak Credit Card EMI",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -301,7 +315,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "20% instant cashback up to ?9000 on Kotak Credit Card EMI",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -315,7 +329,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant cashback up to ₹25,000 on Kotak Credit Card EMI",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -329,7 +343,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant cashback up to ₹15,000 on Kotak Credit Card EMI",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -343,7 +357,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Avail Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -357,7 +371,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant cashback up to ₹7,500 on Kotak Credit Card EMI",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -371,7 +385,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "10% instant cashback up to ₹3,000 on Kotak Credit Card EMI",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -385,7 +399,7 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant cashback up to ₹6,500 on Kotak Credit Card EMI",
     "deal_type": "cashback",
     "offer_category": "Electronics Deals",
@@ -399,38 +413,51 @@
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
+    "published": "2026-09-12T07:18:59.738100+00:00",
     "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-09-30"
   },
   {
-    "uid": "fe90719a8d15",
-    "title": "Oneplus: Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
-    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234516354/oneplus.html",
+    "uid": "4efddbcf2ba1",
+    "title": "Reliance Digital: Ganesh Chaturthi Offer | Up to ?6000 instant discount with select Kotak Mahindra Bank Credit Cards and Credit Cards EMI transactions",
+    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234593524/reliance-digital.html",
     "source": "Kotak Offers",
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
-    "snippet": "Instant discount up to ₹5,000 on Kotak Credit Card EMI. Shop Now.",
+    "published": "2026-09-12T07:18:59.738100+00:00",
+    "snippet": "Ganesh Chaturthi Offer | Up to ?6000 instant discount with select Kotak Mahindra Bank Credit Cards and Credit Cards EMI transactions",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
-    "valid_till": "2026-09-30"
+    "valid_till": "2026-09-20"
   },
   {
-    "uid": "f3f6fbb6f0cf",
-    "title": "Zepto: Get 5% off upto Rs. 4000 on EMI orders above Rs. 3000 on select Electronics and Appliances, on Kotak Credit Card EMI.",
-    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234578360/zepto.html",
+    "uid": "beadfc3d4abe",
+    "title": "EaseMyTrip: Instant Discount up to ₹8,000 on Kotak Credit Card EMI. Avail Now.",
+    "url": "https://www.kotak.com/content/kotakcl/en/offers/offer-details/1234559545/easemytrip.html",
     "source": "Kotak Offers",
     "issuers": [
       "Kotak"
     ],
-    "published": "2026-09-11T07:26:45.976263+00:00",
-    "snippet": "Get 5% off upto Rs. 4000 on EMI orders above Rs. 3000 on select Electronics and Appliances, on Kotak Credit Card EMI.",
+    "published": "2026-09-12T07:18:59.738100+00:00",
+    "snippet": "Instant Discount up to ₹8,000 on Kotak Credit Card EMI. Avail Now.",
     "deal_type": "discount",
-    "offer_category": "Electronics Deals",
-    "valid_till": "2026-12-30"
+    "offer_category": "Travel Deals",
+    "valid_till": "2026-12-31"
+  },
+  {
+    "uid": "99a679f14c36",
+    "title": "Amazon Pay Kotak Business Credit Card Announced With 5% Cashback - livefromalounge.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeXRpUGg3NTVBWGFDdVlqZlVYLTNtUkdrZzNfRWxpQmFnOHpiVnd3eTJpdndCeHkxRUxGTGhBSk4wT2h2MzF1WU1WcXhQYmw2R2FsUXhXd0tYZHNuVGxlV3hMWU5yOTJ5aEFQdVh6Y2MxZDR5anc?oc=5",
+    "source": "Google News / benefit",
+    "issuers": [
+      "Kotak"
+    ],
+    "published": "2026-09-11T10:06:10+00:00",
+    "snippet": "Amazon Pay Kotak Business Credit Card Announced With 5% Cashback livefromalounge.com",
+    "deal_type": "cashback",
+    "offer_category": "Shopping Deals"
   }
 ]
