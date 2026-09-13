@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:19:14.505394+00:00",
-  "count": 25,
+  "generated_at": "2026-09-13T07:37:36.969117+00:00",
+  "count": 26,
   "launches": [
     {
       "uid": "0bb484b4d695",
@@ -55,15 +55,6 @@
       "snippet": "Elixir is set to launch a new wellness-focused credit card that will offer premium spa benefits powered by DreamFolks Services Limited. The partnership was unveiled at the Global Fintech Fest on September 9, 2026, with DreamFolks confirmed as the official provider of spa benefits for the upcoming ca"
     },
     {
-      "uid": "61091036615f",
-      "title": "Visa, AU SFB and CheQ launches India’s first LED-enabled credit card - IBS Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckZlOHB6Q1NiT19DNjBCZjd2WUZlc1F1aEdWYi1jMmJJU3BicWZuMFM0akRTYVJfQ0Z5TW5hQXlDT3VuTW9tNGlDMmF0SnhUcEtnZG1sS1pJWDB2cWNwVHdaQ2xlc3Y4WkpTWmZWNjVpZ1NMVmV6bGhRb2VwRnZrSkFDN01ZaXRyUkl1by1YcTk1RExBQm8wcEtOT09xUE1DV1Y0YU1QdzI?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2026-09-10T07:03:11+00:00",
-      "snippet": "Visa, AU SFB and CheQ launches India’s first LED-enabled credit card IBS Intelligence"
-    },
-    {
       "uid": "c59a4f990dfc",
       "title": "Amazon Pay and Kotak Mahindra Bank Launch Amazon Pay Kotak Business Credit Card for Small Businesses",
       "url": "https://cardinsider.com/blog/amazon-pay-kotak-mahindra-bank-launch-amazon-pay-kotak-business-credit-card/",
@@ -96,6 +87,18 @@
       "snippet": "Axis Bank and Scapia launch co-branded credit card for travel-focused consumers ET TravelWorld"
     },
     {
+      "uid": "3df39fca2ffa",
+      "title": "Scapia Ties up with Axis Bank to launch their credit card on the MasterCard platform - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkNvdGhCbENyUldRY0std1JNTzNRbWYtelFVbEs2VmtZUzlycmk1bTBicV9YbFFEUzBXaDI2d3FOQjdtaGhlSVFvLVZQbjFwR19YNFllWHVLX1plQThSQXdoMmxKSDBpMlJqTk9xeHAycTJidjhVMHBkdXpGVHREd0NBckh3NmM?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank",
+        "Federal Bank"
+      ],
+      "published": "2026-09-03T07:00:00+00:00",
+      "snippet": "Scapia Ties up with Axis Bank to launch their credit card on the MasterCard platform Live From A Lounge"
+    },
+    {
       "uid": "f4ced7d6fbe1",
       "title": "Scapia partners Axis Bank to launch co-branded credit card for young travellers - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd1JQUG9hRGNHNHVtdl85WDA2bE1SbFJxMlhlNlpLNk5GdlJwRXVQYlVkd0Fob1JlWWZsd3VPd2Y4ellKVERTYXRlWVZHX0lNZGhLb1FHQXJTMGZ6akxZaU9SMTE5Mi1sUnBNWkx5cHJDalpVeTVlUzFKYnRPWkI2cS1qaVEtSXRXNU5oMVB1SXNTR0ZOZmVZc3k1T3dxQmZ3VXZ5aHRDRVdEeW5OYjhYOWtaZDZNMmpfTEc3WkJtVEMxT3haYl9UMlZKLUVjTW05NFBTQUNsUDdLTW5IYi1XOGRETVdFMjNEQWRSOHlRNGJTWVlSYjk4RNIB_gFBVV95cUxQcnZha3J3aUJBRDZ4SzJZbWtNdXhUcndTYUVXZXhQX19uMWtOc1hPZllxOVI0RG5wUGthNER4YURyY3hoSFRaUTdzd09CSDBSc3h1X1pna0Q2V1NvVFJpemFBRFdyRlNZdE11U001WURWLTl1aU5aX0FsUUlDb09iSjJfM0FWSEY5c0dVcmpLMVpWYmlzcjlYanhxWEpqS092WWYwMGJJUDdtRk0wRFlFRF8yOXZKVTVXY3NtVkZXNnZ1WWpQdkw1M3BkNlpiNExfYXVsOFlSTlh5NlpYZHdrR05NZFhQNE5fQ20tTml1WVl4aHh0MTI0ZTMzcW1Fdw?oc=5",
@@ -104,20 +107,19 @@
         "Axis Bank",
         "Federal Bank"
       ],
-      "published": "2026-09-03T17:34:00+00:00",
+      "published": "2026-09-03T07:00:00+00:00",
       "snippet": "Scapia partners Axis Bank to launch co-branded credit card for young travellers The Times of India"
     },
     {
-      "uid": "3df39fca2ffa",
-      "title": "Scapia Ties up with Axis Bank to launch their credit card on the MasterCard platform - livefromalounge.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkNvdGhCbENyUldRY0std1JNTzNRbWYtelFVbEs2VmtZUzlycmk1bTBicV9YbFFEUzBXaDI2d3FOQjdtaGhlSVFvLVZQbjFwR19YNFllWHVLX1plQThSQXdoMmxKSDBpMlJqTk9xeHAycTJidjhVMHBkdXpGVHREd0NBckh3NmM?oc=5",
+      "uid": "bdf650456c26",
+      "title": "SBI Card, Google Pay launch co-branded credit card for everyday digital spending - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0pmVm05TXhNSjFBN29mOFRGUGR3MGVNbVM3VFVnYlE1MlN3bzBRMVJyN2hIbXAyR1p6ZWYyQXpfS3puT1VIMEtjS0lueDM4ZDVRemp5dWcwbWVOLVRYUkxTUXgxRUppenhMdmNxSmlMSWNrbFM4alN0ZEdxTnRxcm5fZkhtd1R3VXFCLWZwOE5sdTc0YWliZmNKNjB3UTVCZ2pGZTZOcDM4OE9CTkVydTYwdlNmTzl0dkJieHFFbTZ4bnFnZnRfNU9zSnc1ZXBsaC1SaDM3RmhhV1JkYThlVmc2NE9rVWJ5MHfSAfABQVVfeXFMT0RCc3ZpZEpjS1JuWFRMbDVaRXgyem91TFV0cTBNUU41ZGVUZ3FDYTJpR1dZMEMxRzFRcnZieHZhb1IzUjFmdTJoaU1WYkFtcnhCMmFLUmdUU29HbnM5bkN0ZTFZeG1hSXAtdGUyX0VrbGgxX0s1MTZFSVR5aGZnVV9xcV9vN2k4dTJBTkNOd0dtb1dYWU56eDdSenRIQ2FuNVhvWDJNazZ3emFHWjFvbHdGOVMwa0tVZGpubkZMUVZFd0kwVlJqVVdzSlJQWDBhWnZqQ3RuMk5JMGJzaEZ5NkczTzZEWWVLd1dGMFRmQ2V0?oc=5",
       "source": "Google News / launch",
       "issuers": [
-        "Axis Bank",
-        "Federal Bank"
+        "SBI Card"
       ],
-      "published": "2026-09-03T07:00:00+00:00",
-      "snippet": "Scapia Ties up with Axis Bank to launch their credit card on the MasterCard platform livefromalounge.com"
+      "published": "2026-08-07T07:00:00+00:00",
+      "snippet": "SBI Card, Google Pay launch co-branded credit card for everyday digital spending BusinessLine"
     },
     {
       "uid": "ac8ff76d079b",
@@ -138,6 +140,15 @@
       ],
       "published": "2026-07-10T07:00:00+00:00",
       "snippet": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card Passionate In Marketing"
+    },
+    {
+      "uid": "4631d06f04a8",
+      "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRtUUFWbk44enJMLTNCSXBRVVlCZHA1bjlEUmdnSm1Ua2tSZVZfREY0MWU2WFNIU005WEt1TnR1NE5oMmtmTG1xTEV2dFdxTTJxQ080STg4YXJ2b2w2UjlqS25EUEJ4dG9BZXpKOEZUTFdUc1FLR2hBZHh4b2FhVEU1aUFtQ2wyOWNHUkRjZEl5SWlLckpEVXlSMUg0c1l6Z2loTHN0RVp4TFJkQTFfSHpzLXpUUVJ5Wmg2WDhibGVYbV9wd3hXYmZPT2lpeGRjSElEVtIB2gFBVV95cUxQVnhUekU0X0xqUEtoMUwzblV4T0owNzZJV1RqM1RzM1VKck85eUtZSXVrTmpoX3c2cDllcTZOTGdCTFB4Wl83MEM3MFFQQTBFTl9CMjN3Wk9SYlByTEdpT3ZnNmRPTjFmdlU5U1Rqb0FtSl9IOVJ5UXR4ZHRMYkpTbktUQ0NacFNQUF9OODRZWVYzcWYzY3l1WFlyZW45Y2RjOUhycDNUbTdPMzZOamdXVWlLNDA4Q2xUM3ludjluWF8tNDBTUU4xVzBXTU1vemhQSmptM1hrVGltdw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-06-25T07:00:00+00:00",
+      "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card ThePrint"
     },
     {
       "uid": "3b031a3c5a59",
@@ -203,14 +214,14 @@
     },
     {
       "uid": "9aed79031d2e",
-      "title": "Google Pay launches its first credit card with Axis Bank in India - YourStory.com",
+      "title": "Google Pay launches its first credit card with Axis Bank in India - yourstory.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUMzbFpsZFAwV2k2TXVWZUVrZGlUb0xXQTducnlJZEhpaHViRlBJWW9GZHFrM1NVRGtUQ1pRcWNxeTk2cml6MkxMaGRrMENBai00dDNld1MxVG9HbFZkTXVGZ3FmUS14d2ZLLUxFclVLc09SV1ptd1FQY2VMcDRpQ0VBNzN0VzVRU3Awbk51RDdBQ3ZCYktvZk9jYw?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay launches its first credit card with Axis Bank in India YourStory.com"
+      "snippet": "Google Pay launches its first credit card with Axis Bank in India yourstory.com"
     },
     {
       "uid": "80d8212a490d",
