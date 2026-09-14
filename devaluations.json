@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:37:36.968381+00:00",
-  "count": 31,
+  "generated_at": "2026-09-14T08:04:24.680275+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-09-13T07:37:24.021840+00:00",
+      "published": "2026-09-14T08:04:10.265969+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -155,6 +155,18 @@
       "severity": "major"
     },
     {
+      "uid": "c0a89db48e61",
+      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeUlBWl9MOXRsVjJQNW0xQTFYTDVSOUpMWC10OTRrY2FTY2ZFUzI5ZHFUYllUcHFzY2QzSTNtZklOZ29oMVpadmFtZ2hHb2I5ZVQ3d2YwaWNvLUgta0NGX3VzMVpXR0hQcjNTSkFaSER6bDZzdHVpT0t1TXBYUnU5TW5tdmJJck5UVkQ1TVFJVWpMU0JxRXl3Y2tSdDF2cFl6eTUta1NXdjZmQkNzVFVLcUdTS1ctRmM2SzdYN2pMNDZ6ZVlnMl9jcTRwcC1ubFFGc2dsbEhxOGFNUGpXM2I4eEU5enFZakplY3BjYkJUZjk5RHZ0MTI40gH_AUFVX3lxTE9KTDJzTExzaTF2VE1wWWJqcGpQMkQ1MGFyRzBrdXBjR1paZ2EwQUJtOTUxR0I3eG9CR2FianZSNE5XTG12OE9aVEhRT1ZtcEdKSUQycHJLc0ZzOVNXNlREU0E5ZzN3SEJ4Q3BVX1ZXZjQ0RTBoVTdaYkhxTDhwYXFmS0pCbXVfaEY2d2ZjNUV4RGFPS3BKal9paWxodHhpRFVFTTNuaGVVN2NOeFJ0cGwwLWhDTTkwWlRuREVHd0duV2xteUxoQU9sR3pSZU5JSXdrSkEwUjI1SmhMR0tCaWN4OWF6bkVxWXgxbkNxaGFnaVFjSkFJdkpJdzJycXg2RQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
+      "severity": "major"
+    },
+    {
       "uid": "f239e00dd270",
       "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
@@ -191,14 +203,14 @@
       "severity": "major"
     },
     {
-      "uid": "23c03cd08d24",
-      "title": "July 1 financial changes: Higher costs, new rules and deadlines explained - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOam1aakIyVzhiRjQ5aU96eU9ma0NjOHhDcV9LQmJLWWo2MEYxTjFjZ3pZVGFQbU1lSVdWdERLRE5sMUhEbjREOWdYMjZxLVdVdDlsRVN1WTYzRXZoek05TWlSbmZEUlcwVHA3UXlyT1JqQm1WUWhjZDRreWt3SEFLT3VOZ29IWDgzWmt3bjRGYWpRMnZaVFNHZkFxbGRtTzdNMFlLME5aYVpVUlRKdmlOa2ZDeTRiRmoyMXQtWDdsMnBxbkxJc003ZWlLNXJaRVlqbXF1MjY3SEpKNlQyZGQ3T2NDTjnSAeoBQVVfeXFMT1JJa3FjcjFWRkpKYklSQnppemZrdEtJRUtYck5Wd3RJTlU1V1NvMzc5cU5tVUVrN0ZkYmV2Nkc2UGJqQ05pQm4wSEQxU0RGNlJxc0pvNjhVVXNialRwT3kzWldqLTJHUHZ0dEczUXpyak1Gd182dUhHS1BZNnExdHV0cHFSWjdWN3g2ZXlJS0hGZlJIZEpCSExSeGZ4Mmtzbk5oZUpzbDN4Vms5WUFhQWJ2MmE3MWlHb0NQYV92TUZqV2ZVRm80czRFSHMyUC1RZ2pHLTU3NVFUbnR4LVVtSmptVDZIbXdTd1dB?oc=5",
+      "uid": "8951d125b1e7",
+      "title": "4 things cardholders should do to avoid credit card devaluation risk - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaktYRGhsQ1kzMGFheXdsNlB2cTBSSVhCUWVmNnI3ZFczYWVpUG5talpkVjJmMWdsNGpPQVNaOEZGdzFxRWgtMDVONERRcDJiUm52cTZTbTU5ZFppRTBHNTZXd3k5MDNQRTFjN2liUm5oSXdNQlJrYjU1NUxITUdFb2pQcjFYRjNEcTFiMmNzeHlVaFpwV0dUMnZhRlpScW9OMWl5QnZMZDVxb25hWXNIME44dTVOd2VBYmRoRE51Z19WdW1xYml4WEllVEx2YTJLWm82LXNubw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
-      "published": "2026-06-30T07:00:00+00:00",
-      "snippet": "July 1 financial changes: Higher costs, new rules and deadlines explained Business Standard",
-      "severity": "major"
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "4 things cardholders should do to avoid credit card devaluation risk Upstox",
+      "severity": "critical"
     },
     {
       "uid": "51eb98d6ec3f",
@@ -218,18 +230,6 @@
       "issuers": [],
       "published": "2026-05-28T07:00:00+00:00",
       "snippet": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access News18",
-      "severity": "critical"
-    },
-    {
-      "uid": "056d24fc97c5",
-      "title": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjItMEVVd2dGdlZfbTVXNldaQVFUTW00ZC1kZTVMdnlCTng3eGlFNXJUb3V5Y2lIcWozSzFwWll0WmlvOUptbWMtc2ZKSkU3Y1B3Zjdzcy1fY0hBT0ZMNEE3WUVzWHZDM2JRMDAydFJQczFONVdHakM0Vk5CQ0tUUnhWaUhyQWs0ekhGVld5UnliNDNSbmlSSElxUnBFcERIX1AxY25OanpjMXFkc1ZPc2dQbjJzTF92a004bkF2dHZzMFlubGdfLXp30gHPAUFVX3lxTFBwZzIxWklwbTdETko2clBweVM1RGZ6V3BhZjJZamszeHl6dlRsS05xQy1oRkEwYTdydjIwS2VXaWY5V0cyN29BTXpDdW5qdF93cEZnM3BpUjdtdDBMZkJiNjU2c0NXWE16elo0TmE0Y0lHVVdMT1dScThZc2o1YklRQU1EVGhGd0VKOHBKWUsyUENVMkJqU2RaQ0lBSVROQVQ3MWVLWERTNFplTHAyMkZiWlZwT2FSaUlLcDZyU0d3ZnBDWnZWS2oxeS1rNXZyVQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-05-18T07:00:00+00:00",
-      "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know CNBC TV18",
       "severity": "critical"
     },
     {
@@ -332,6 +332,19 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
+      "severity": "critical"
+    },
+    {
+      "uid": "7972da1e6e78",
+      "title": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2M1Rm1kWm01VDJJQS1qdThKaXNkMTQxb3VhRHJLT0Zza2g5ak1Db1ZQV0pKdVphek5VMlRBNmUtZVRMRlhZMEMzSWJUS0FsNzNIci1ISFVocHdsUkFjM2FiZndfamtUMlB6bmVHQ3ZjRGpYRjhoVEdTdjNfeHhNeFlSbGFlNUJQcTl3cVlfWlNZdWtncldwUGxHUmllVVI0RXA5TFMzRHYxRGNxdUozSkpDbWZqazFzVng4YTFWbWdCU09WZ29tMVRNZnlDdDNXQXV5UlNBTm45SGs?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank",
+        "IDFC First"
+      ],
+      "published": "2024-04-12T07:00:00+00:00",
+      "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
       "severity": "critical"
     },
     {
