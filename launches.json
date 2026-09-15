@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-09-14T08:04:24.680969+00:00",
-  "count": 26,
+  "generated_at": "2026-09-15T07:59:35.850037+00:00",
+  "count": 25,
   "launches": [
+    {
+      "uid": "a00a87063f59",
+      "title": "KVB launches premium Visa credit card portfolio - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1hwQzdhdXVPUDRvUjRzWjVJcHk2N25IQ3Q5YmZ6Vl9UVDZiS3l3elp3MFZpNS11OWR3SlhGRWpxX1lVYW14S2t6OWRXUnZfdHV2MDdSYUxrODdDbDlRWmRFc2VRVWZ2YzNEZTQydG9ydlhHSGJrenU4Q0s2YjFFNWg0UDRpN1N0eDA1dVBsQnFJUV9oam1GRTZQTjZKeTFOdkJRd005RTg2UjBlZFNPYjR3UUxLVG9O?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2026-09-13T18:56:23+00:00",
+      "snippet": "KVB launches premium Visa credit card portfolio scanx.trade"
+    },
     {
       "uid": "0bb484b4d695",
       "title": "IndusInd Bank Launches Overdraft and Cash Credit Linked Corporate Credit Card for Businesses - Passionate In Marketing",
@@ -87,18 +96,6 @@
       "snippet": "Axis Bank and Scapia launch co-branded credit card for travel-focused consumers ET TravelWorld"
     },
     {
-      "uid": "69815d7b2b5d",
-      "title": "Axis Bank, Scapia launch co-branded travel credit card - MediaBrief",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWZBWDNKQXNzMU1GTzRaTHI2V2pvVXdNZExJRFZwWUNwVkkzSW5iNTNtRzB3QUswMTgtd2JsQTZvSV9FSkk1NmpEZlJHNGM3aVotbEQtMUxVamUxWlNCQlNpUm5XTDVoWXJmaG9IYlhLdWw0bzN2T3lLcjllSGpYczhwNNIBiAFBVV95cUxPaFVsd05zTHd6WnB3bGZtZThoV0RYZkUyUVlNTkhGTzJ5OWFwWGJxZ2h1R1JCTHIxb2lZakdDWVFlWThJbUJDakhFTHFhM3hLNUdrUXNRM3dZVHZSc3FUczlfT2c5T0xnTEZMSkZWOHZEX0JKSVI4TzdIRGxrQjdCS2V6RzBfRTF3?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Axis Bank",
-        "Federal Bank"
-      ],
-      "published": "2026-09-04T07:00:00+00:00",
-      "snippet": "Axis Bank, Scapia launch co-branded travel credit card MediaBrief"
-    },
-    {
       "uid": "3df39fca2ffa",
       "title": "Scapia Ties up with Axis Bank to launch their credit card on the MasterCard platform - Live From A Lounge",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkNvdGhCbENyUldRY0std1JNTzNRbWYtelFVbEs2VmtZUzlycmk1bTBicV9YbFFEUzBXaDI2d3FOQjdtaGhlSVFvLVZQbjFwR19YNFllWHVLX1plQThSQXdoMmxKSDBpMlJqTk9xeHAycTJidjhVMHBkdXpGVHREd0NBckh3NmM?oc=5",
@@ -130,17 +127,6 @@
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
-    },
-    {
-      "uid": "53f02f558a82",
-      "title": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card - Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnFCMkItU01XdGpoeUlGbENLVkszTDhCTjgtUlhNWVdFUjVhUXVmdE83YkkxZXN2V1B0N2hLTXh4MTFvbXEtclo5R18zRVFDeDJTcmxDMkotazBQeGxBWDg3a3prT3g0dUdUMmZYeTlGQ28xaDZLSW1Mb09nUHd3blR4TXptY3dWMTRWdkYxUEdjUWRlZEZzY0Noc3R6REFZTi1sdWt5ekNxbVVyeWNWQWg1aFZxNFU?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "AU Small Finance Bank"
-      ],
-      "published": "2026-07-10T07:00:00+00:00",
-      "snippet": "AU Small Finance Bank and Zaggle Launch Customizable Co-Branded Credit Card Passionate In Marketing"
     },
     {
       "uid": "3b031a3c5a59",
@@ -186,12 +172,12 @@
     },
     {
       "uid": "c4e4afb3142d",
-      "title": "Google Pay Launches Its First Credit Card in India - paymentsjournal.com",
+      "title": "Google Pay Launches Its First Credit Card in India - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEE0ZEZhdERNSzhVelE4ejVhTTFST053UkxERVNyOEpodXprMzlMMklyempPSkc5VUhfdkROTVplclpWUXdaVS1xeUd6ZzNWQ1hOUXdNTXNTeTdnbld4UVVlaFJPa2ViS2M0cFpiakQ2a3ZTVDdKcllULVd5UDBqSGdHUkhSczFIMlRZ0gGQAUFVX3lxTE85aGo4NDdmU01lVHFPZG45TVJfUnZXcm90S0RmMWkwU3NVOXBHbVBtQVhwSHNYV0VSU0FHQk1XUGpUYVg0czNRYnVGZTFNUG42N1pReThybkM5VWtiOFJMTk1UdDljTERrRk0wVW5lZDBlNGkwOVlXQ19XQnJhWWQxMGRMTHRMSktkV2FsX1NZQw?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay Launches Its First Credit Card in India paymentsjournal.com"
+      "snippet": "Google Pay Launches Its First Credit Card in India PaymentsJournal"
     },
     {
       "uid": "958919bef8c1",
