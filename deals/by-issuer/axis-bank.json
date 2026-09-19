@@ -1,5 +1,61 @@
 [
   {
+    "uid": "f86fae80b2af",
+    "title": "Flat 10% instant discount up to ₹5,000 on flight ticket bookings on Paytm Travel",
+    "url": "https://www.axis.bank.in/offers/paytm-travel-offers/flat-8-percent-instant-discount-up-to-inr-5000-on-flight-ticket-bookings",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "Flat 10% instant discount up to ₹5,000 on flight ticket bookings on Paytm Travel (Code: FLYAXISEMI)",
+    "deal_type": "discount",
+    "offer_category": "Travel Deals",
+    "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "8825376bea14",
+    "title": "25% instant discount up to ₹10,000 on Lloyd",
+    "url": "https://www.axis.bank.in/offers/lloyd-offers/10-percent-instant-discount-up-to-inr-4000",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "25% instant discount up to ₹10,000 on Lloyd",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "b8d2711a3b58",
+    "title": "15% instant discount up to ₹5,000 on Voltas",
+    "url": "https://www.axis.bank.in/offers/voltas-offers/15-percent-instant-discount-up-to-inr-5000",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "15% instant discount up to ₹5,000 on Voltas",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "11609ec765eb",
+    "title": "Up to ₹2,500 discount on EMI orders above ₹40,000 on Swiggy",
+    "url": "https://www.axis.bank.in/offers/swiggy-offers/up-to-inr-2500-discount-on-emi-orders-above-inr-40000",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "Up to ₹2,500 discount on EMI orders above ₹40,000 on Swiggy",
+    "deal_type": "discount",
+    "offer_category": "Dining & Food Deals",
+    "valid_till": "2026-09-30"
+  },
+  {
     "uid": "cc3754784717",
     "title": "Additional 25% off on jewellery on Giva",
     "url": "https://www.axis.bank.in/offers/giva-offers/additional-25-percent-off-on-jewellery-on-giva",
@@ -7,7 +63,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Additional 25% off on jewellery on Giva (Code: RUPAYADNETO25)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -21,7 +77,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat 15% off on JBL bestsellers (Code: JBLTRDYTRUPAY15)",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -35,7 +91,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get ₹500 off on order value ₹2,499 and above on Lifestyle (Code: RUPAYINS500)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -49,7 +105,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get up to ₹500 off on bus bookings on redBus (Code: RBINDIA500)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -63,11 +119,53 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 30% off on orders above ₹249 at Eatsure (Code: INES30)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2027-07-31"
+  },
+  {
+    "uid": "93210d53aba2",
+    "title": "Up to 22.5% instant discount on Samsung",
+    "url": "https://www.axis.bank.in/offers/samsung-offers/up-to-22-5-percent-instant-cashback",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "Up to 22.5% instant discount on Samsung",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "e16fa3a5179f",
+    "title": "15% instant discount on flights and hotel bookings on Goibibo",
+    "url": "https://www.axis.bank.in/offers/goibibo-offers/15-percent-instant-discount-on-flights-and-hotels-bookings",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "15% instant discount on flights and hotel bookings on Goibibo (Code: GOAXISEMI)",
+    "deal_type": "discount",
+    "offer_category": "Travel Deals",
+    "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "35081aecf047",
+    "title": "10% instant discount up to ₹1,250 on Amazon",
+    "url": "https://www.axis.bank.in/offers/amazon-offers/10-percent-instant-discount-up-to-inr-1250",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "10% instant discount up to ₹1,250 on Amazon",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals",
+    "valid_till": "2026-09-30"
   },
   {
     "uid": "ec6860060511",
@@ -77,7 +175,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 20% discount on Sony LIV (Code: INS25)",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -91,7 +189,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Save up to ₹500 on bus bookings made on AbhiBus (Code: ABINS)",
     "deal_type": "benefit",
     "offer_category": "Exclusive Discounts",
@@ -105,7 +203,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 15% discount up to ₹20,000 on SaffronStays (Code: ADNETO20)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -119,7 +217,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get up to 71% off on all ITR plans on ClearTax (Code: CTBADNETO)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -133,7 +231,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 5% instant discount up to ₹15,000 on Tata Steel Aashiyaana (Code: AXIS8526)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -147,7 +245,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat 28% off on all silver jewellery with no minimum order value on GIVA (Code: AXISADNETO28)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -161,7 +259,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get up to 50% discount in making charges at Senco Gold (Code: SENADN101)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -175,7 +273,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 12% discount on medicines across the platform plus 10% extra discount for new users on Netmeds (Code: SPANEW)",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
@@ -189,7 +287,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat ₹150 off on a minimum order value of  ₹1,999 on Muscleblaze (Code: MBAD150)",
     "deal_type": "discount",
     "offer_category": "Health & Wellness",
@@ -203,7 +301,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get additional ₹5,000 off on PCs/laptops at Lenovo online store (Code: ADNETO5000)",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -217,7 +315,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 5% instant discount up to ₹11,000 on Pepperfry (Code: PEPAD10K)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -231,7 +329,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 18% off on all products at Nua (Code: NUAADBK18)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -245,7 +343,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Instant discount up to ₹15,000 at Apple",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -259,7 +357,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get ₹1,000 off on orders above ₹5,000 on The Pant Project (Code: BKTPP1K)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -273,7 +371,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 20% off on full body massage at Tattva Wellness Spa (Code: TTVADNETO20)",
     "deal_type": "discount",
     "offer_category": "Health & Wellness",
@@ -287,7 +385,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 10% off on eligible products at United Colors of Benetton",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -301,7 +399,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get ₹500 off on minimum shopping of ₹2,999 on Bata",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -315,7 +413,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get additional 10% off on orders above ₹5,000 on Urban Ladder (Code: ULADN10)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -329,7 +427,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get ₹500 off on Yes Madam (Code: YMADN500)",
     "deal_type": "discount",
     "offer_category": "Health & Wellness",
@@ -343,7 +441,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat ₹150 off on minimum order value of ₹1,299 on AJIO (Code: ADNAJIO)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -357,7 +455,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Instant discount offers on SNITCH",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -371,7 +469,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 25% discount up to ₹7,500 on Yatra (Code: YTDELIGHT)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -385,7 +483,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 25% off on hotels booked on FabHotels (Code: FABADN10)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -399,7 +497,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Earn up to 20%* rewards on your international spends on Visa",
     "deal_type": "discount",
     "offer_category": "Bonus & Reward Offers",
@@ -413,7 +511,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "10% off on total bill on Originate (Code: ORG10MASTER)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -427,7 +525,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "15% off on food & soft beverages on Chicago Pizza",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -441,7 +539,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 35% off on the annual subscription of The Wall Street Journal",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -455,7 +553,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Additional 20% off up to ₹150 on Hamleys (Code: ADNETO20)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -469,7 +567,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get ₹1,000 off on a minimum purchase of ₹4,999 on Hush Puppies",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -483,11 +581,39 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat ₹2,000 off on a minimum purchase of ₹25,000 at Gehna (Code: ADNG2000)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-10-15"
+  },
+  {
+    "uid": "db785640e951",
+    "title": "10% instant discount up to ₹4,000 on Daikin",
+    "url": "https://www.axis.bank.in/offers/daikin-offers/10-percent-instant-discount-up-to-inr-4000",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "10% instant discount up to ₹4,000 on Daikin",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-09-30"
+  },
+  {
+    "uid": "b4c9392281bd",
+    "title": "10% instant discount up to ₹1,500 on Flipkart",
+    "url": "https://www.axis.bank.in/offers/flipkart-offers/10-percent-instant-discount-up-to-inr-1500",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "10% instant discount up to ₹1,500 on Flipkart",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals",
+    "valid_till": "2026-09-30"
   },
   {
     "uid": "90de5427cc43",
@@ -497,7 +623,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 15% off on a minimum transaction of ₹499 on Bewakoof (Code: BKVISA15)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -511,7 +637,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat ₹500 off on a minimum purchase of ₹1,499 on GIVA",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -525,7 +651,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to ₹150 off on Swiggy (Code: AMEX150)",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -539,7 +665,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get instant discount up to ₹15,000* at Apple authorised reseller stores",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -553,11 +679,25 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get discount up to ₹10,000 on Cathay Pacific",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
     "valid_till": "2026-12-31"
+  },
+  {
+    "uid": "19863306a8a0",
+    "title": "Up to 26% instant cashback on LG",
+    "url": "https://www.axis.bank.in/offers/lg-offers/up-to-26-percent-instant-cashback",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "Up to 26% instant cashback on LG",
+    "deal_type": "cashback",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-30"
   },
   {
     "uid": "7b38d968e4db",
@@ -567,7 +707,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to 32% off on select DocOnline smart health plans",
     "deal_type": "discount",
     "offer_category": "Health & Wellness",
@@ -581,7 +721,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "5% off on minimum spends of ₹5,000  on ColorPlus",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -595,7 +735,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 20% off on a minimum transaction of ₹1,299 at Ferns N Petals online store (Code: ADNFNP)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -609,7 +749,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "5% off on minimum spends of ₹5000 on Raymond",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -623,7 +763,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 20% off up to  ₹20,000 on international flights and hotels (Code: MMTAXISBIZ)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -637,7 +777,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat 1.5% off on gold jewellery on GRT Jewellers (Code: GRTADN1500)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -651,7 +791,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "10% discount on all individual services on L'Occitane (Code: ADNL101)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -665,7 +805,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get up to ₹1,500 off on domestic flights at Musafir (Code: MUADHDDF)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -679,7 +819,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get ₹500 off on purchase of ₹2,500 & above on Colorbar",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -693,7 +833,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to 30% off on international travel deals",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -707,11 +847,25 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Additional 8% off on prescription medicines plus 12% website discount on Netmeds (Code: ADNS25NMS)",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
     "valid_till": "2026-12-31"
+  },
+  {
+    "uid": "5469d50af523",
+    "title": "Up to 25% instant discount on MakeMyTrip",
+    "url": "https://www.axis.bank.in/offers/makemytrip-offers/up-to-25-percent-instant-discount",
+    "source": "Axis Bank Offers",
+    "issuers": [
+      "Axis Bank"
+    ],
+    "published": "2026-09-19T07:30:46.376146+00:00",
+    "snippet": "Up to 25% instant discount on MakeMyTrip (Code: AXISEMI & AXISINTEMI)",
+    "deal_type": "discount",
+    "offer_category": "Travel Deals",
+    "valid_till": "2026-11-30"
   },
   {
     "uid": "c4ac61644494",
@@ -721,7 +875,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "20% discount on making charges for gold, diamond and silver jewellery from the barcode rate on Joyalukkas",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -735,7 +889,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Flat 10% off on prescription medicines on Apollo Pharmacy (Code: 10098)",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
@@ -749,7 +903,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 30% off up to ₹125 on orders above ₹249 on Behrouz Biryani",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -763,7 +917,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get 50% off up to ₹125 on Oven Story",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -777,7 +931,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "10% instant discount up to ₹1,000 on Tira",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -791,7 +945,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to 20% savings on bed & breakfast rates on The Leela Palace Hotels & Resorts",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -805,7 +959,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to ₹150 off on Zomato (Code: AMEXWEEKEND)",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -819,7 +973,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to ₹150 off on Swiggy Instamart (Code: AMEX150)",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -833,7 +987,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to ₹150 off on Blinkit (Code: AMEXWEEKEND)",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
@@ -847,7 +1001,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "20% off on a minimum spend of ₹1,200 on IGP (Code: IGPINS20)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -861,7 +1015,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Get flat ₹500 off on orders worth ₹1,999 & above on Max (Code: REWARDS250)",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -875,7 +1029,7 @@
     "issuers": [
       "Axis Bank"
     ],
-    "published": "2026-09-18T07:34:51.032888+00:00",
+    "published": "2026-09-19T07:30:46.376146+00:00",
     "snippet": "Up to ₹5000 off on domestic hotels (Code: YATRADNHOTEL)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
