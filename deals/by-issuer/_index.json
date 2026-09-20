@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:31:01.510Z",
+  "generated_at": "2026-09-20T07:54:00.734Z",
   "source": "deals.json",
   "issuers": [
     {
@@ -23,12 +23,16 @@
       "count": 108
     },
     {
+      "slug": "indusind-bank",
+      "count": 1
+    },
+    {
       "slug": "kotak-mahindra-bank",
       "count": 35
     },
     {
       "slug": "sbi-card",
-      "count": 79
+      "count": 80
     }
   ]
 }
