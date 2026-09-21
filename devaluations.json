@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:54:00.575567+00:00",
+  "generated_at": "2026-09-21T08:09:51.159241+00:00",
   "count": 30,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-09-20T07:53:44.392414+00:00",
+      "published": "2026-09-21T08:09:36.521999+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -66,7 +66,7 @@
       "uid": "0d8b993ee7fc",
       "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
-      "source": "Google News / launch",
+      "source": "Google News / offer",
       "issuers": [
         "Federal Bank"
       ],
@@ -168,14 +168,14 @@
     },
     {
       "uid": "c0a89db48e61",
-      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - NDTV Profit",
+      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - ndtvprofit.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeUlBWl9MOXRsVjJQNW0xQTFYTDVSOUpMWC10OTRrY2FTY2ZFUzI5ZHFUYllUcHFzY2QzSTNtZklOZ29oMVpadmFtZ2hHb2I5ZVQ3d2YwaWNvLUgta0NGX3VzMVpXR0hQcjNTSkFaSER6bDZzdHVpT0t1TXBYUnU5TW5tdmJJck5UVkQ1TVFJVWpMU0JxRXl3Y2tSdDF2cFl6eTUta1NXdjZmQkNzVFVLcUdTS1ctRmM2SzdYN2pMNDZ6ZVlnMl9jcTRwcC1ubFFGc2dsbEhxOGFNUGpXM2I4eEU5enFZakplY3BjYkJUZjk5RHZ0MTI40gH_AUFVX3lxTE9KTDJzTExzaTF2VE1wWWJqcGpQMkQ1MGFyRzBrdXBjR1paZ2EwQUJtOTUxR0I3eG9CR2FianZSNE5XTG12OE9aVEhRT1ZtcEdKSUQycHJLc0ZzOVNXNlREU0E5ZzN3SEJ4Q3BVX1ZXZjQ0RTBoVTdaYkhxTDhwYXFmS0pCbXVfaEY2d2ZjNUV4RGFPS3BKal9paWxodHhpRFVFTTNuaGVVN2NOeFJ0cGwwLWhDTTkwWlRuREVHd0duV2xteUxoQU9sR3pSZU5JSXdrSkEwUjI1SmhMR0tCaWN4OWF6bkVxWXgxbkNxaGFnaVFjSkFJdkpJdzJycXg2RQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
+      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You ndtvprofit.com",
       "severity": "major"
     },
     {
@@ -213,16 +213,6 @@
       "severity": "critical"
     },
     {
-      "uid": "a25b568788f2",
-      "title": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access - News18",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS21pbndibS1jVlQxRmZCbUUxMnh5ZGEzM01pay1oLTVDcFotc3NxeE9CRTgwY3QtQmkyb2lrRldqRk1KcGhjNjBQaGV2TkRXaGotX3kwaUQ2Q0V0WE9GYk52X0pyWm94SXJId0pSQ1lYVll6TVpYSGNPbC1sTUVtSVRDQzhmMW5KUE1BOEpFdlVqaUU3UnRGTUxIZWFlMmNlQnhvQWdHWHJEU2dDMnZ0a0g5TU5jcllrcUtnRE5LYTlib25lT1NPRW0zbmkyTktzRUEzRzZpdnFQNG5pWFVELTAyei13SndKdjJv0gHwAUFVX3lxTE0xQ2dWVGpBRlg0ZElxMkxmOXE1a2p5a2ptc3NhLXNpZXEwT09fQ3Vfa2lveUpxRHNzRUZqdkhBc0FBNnhZVVdwX1o2aU1VNDMxZWwtcEdzX2d3SFdBZ0ZUNlZlRHYtdWQ2dGszTTdEZUpDV2NCWGJ4VElOakN0WG5yLTNOckhTNlF3VlRfb181RExvdlQ1VlAyaG9DeWhJOEF4cks4SGNWMUdTMmtCWm9EN3FET2tVclJCSkg1c29LUThKYWdqQWpRUjg5TE9fYkJUazQwUUN2V3NPYzlNeTdaREhwRzZXbkpITmdHNzhjSQ?oc=5",
-      "source": "Google News / offer",
-      "issuers": [],
-      "published": "2026-05-28T07:00:00+00:00",
-      "snippet": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access News18",
-      "severity": "critical"
-    },
-    {
       "uid": "cab49c17e317",
       "title": "What to do with Amex Platinum Travel in 2026?",
       "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
@@ -235,13 +225,25 @@
       "severity": "critical"
     },
     {
+      "uid": "ba8476c40031",
+      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-04-07T07:00:00+00:00",
+      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
+      "severity": "major"
+    },
+    {
       "uid": "81b875a9ce39",
-      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - caclubindia.com",
+      "title": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 - CAclubindia",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3MyY1VSRXR4VUZfSXV2dTg1Mkt6Y20ySE5BWlRJc0UxdEl2eEJ3QWFfdlNXcVFLRmF4Zl9fMnVYZVFNdGZwd1NIWTZZXy1EeHpkclFKV05pWEI3VG9sTGNiTC1MYTdvaGtoeEZMaWlmM3NvU0VJNkxiajlZd19sQ3NCQkRiQzdYNDdPb3BWR1pWdjZUdE5hSnYzWE4yRHlGZ2JmM3I2ZWFVSi1DeDZ1ejR3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-04-03T07:00:00+00:00",
-      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 caclubindia.com",
+      "snippet": "Revised Late Payment Charges on SBI Credit Card From 1st May 2026 CAclubindia",
       "severity": "major"
     },
     {
