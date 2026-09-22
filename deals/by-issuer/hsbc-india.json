@@ -7,8 +7,8 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
-    "snippet": "Enjoy up to 6X reward points on Apple products with select HSBC credit cards.",
+    "published": "2026-09-22T07:55:00.864676+00:00",
+    "snippet": "Enjoy 2X reward points on newly launched Apple products and up to 6X reward points on existing Apple products with select HSBC credit cards on purchases via the HSBC Unicorn portal.",
     "deal_type": "benefit",
     "offer_category": "Electronics Deals"
   },
@@ -20,7 +20,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
+    "published": "2026-09-22T07:55:00.864676+00:00",
     "snippet": "Up to INR 1,000 instant discount on Mobiles, Home, Furniture and other categories when you convert your transaction to EMI.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals"
@@ -33,7 +33,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
+    "published": "2026-09-22T07:55:00.864676+00:00",
     "snippet": "Enjoy up to INR 40,000 off holiday bookings and up to 15% off hotel and flight bookings.",
     "deal_type": "discount",
     "offer_category": "Travel Deals"
@@ -46,7 +46,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
+    "published": "2026-09-22T07:55:00.864676+00:00",
     "snippet": "Enjoy up to 15% off domestic and international hotel and flight bookings on their website or app.",
     "deal_type": "discount",
     "offer_category": "Travel Deals"
@@ -59,7 +59,7 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
+    "published": "2026-09-22T07:55:00.864676+00:00",
     "snippet": "Enjoy 10% off live events and get buy-one-get-one-free movie tickets on Saturdays with your HSBC credit card.",
     "deal_type": "discount",
     "offer_category": "Entertainment Deals"
@@ -72,10 +72,23 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
+    "published": "2026-09-22T07:55:00.864676+00:00",
     "snippet": "It starts with a SIP! Apply for an HSBC credit card and get Rs.200 off on your next Starbucks purchase.",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals"
+  },
+  {
+    "uid": "5ab8d3ea1ce7",
+    "title": "Klook",
+    "url": "https://www.hsbc.co.in/offers/",
+    "source": "HSBC Offers",
+    "issuers": [
+      "HSBC"
+    ],
+    "published": "2026-09-22T07:55:00.864676+00:00",
+    "snippet": "Enjoy 20% off up to INR 2,500",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts"
   },
   {
     "uid": "4a8910f3a2d3",
@@ -85,22 +98,35 @@
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-21T08:09:36.521999+00:00",
-    "snippet": "Save 20%, up to INR15,000, when you spend INR25,000 or more. Just use coupon code: HSBCTAJTCL.",
+    "published": "2026-09-22T07:55:00.864676+00:00",
+    "snippet": "Enjoy 20% off up to INR 15,000",
     "deal_type": "discount",
     "offer_category": "Shopping Deals"
   },
   {
-    "uid": "0784bbff0f4d",
-    "title": "HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time",
-    "url": "https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/",
+    "uid": "d771e5aa288f",
+    "title": "Nykaa Beauty",
+    "url": "https://www.hsbc.co.in/offers/",
+    "source": "HSBC Offers",
+    "issuers": [
+      "HSBC"
+    ],
+    "published": "2026-09-22T07:55:00.864676+00:00",
+    "snippet": "Enjoy 20% off up to INR 2,000",
+    "deal_type": "discount",
+    "offer_category": "Shopping Deals"
+  },
+  {
+    "uid": "5031cdb29198",
+    "title": "HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal",
+    "url": "https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/",
     "source": "CardInsider",
     "issuers": [
       "HSBC"
     ],
-    "published": "2026-09-17T06:30:55+00:00",
-    "snippet": "HSBC has officially rolled out its rewarding zero-forex promotion for credit cardholders in India. Under the limited-period offer, eligible HSBC credit cardholders can make foreign currency transactions without paying the usual foreign exchange mark-up fee between 15 August and 30 September 2026. Th",
-    "deal_type": "discount",
-    "offer_category": "Travel Deals"
+    "published": "2026-09-21T11:30:12+00:00",
+    "snippet": "HSBC has been expanding aggressively in the Indian credit card market with card revamps, new launches, and attractive offers. As a result, HSBC credit cards are now among the most rewarding options available to many users. Adding to its list of offers, HSBC has launched a limited-time promotion that",
+    "deal_type": "benefit",
+    "offer_category": "Electronics Deals"
   }
 ]

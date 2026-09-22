@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T08:09:51.159241+00:00",
-  "count": 30,
+  "generated_at": "2026-09-22T07:55:28.920017+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,31 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-09-21T08:09:36.521999+00:00",
+      "published": "2026-09-22T07:55:00.864676+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "89a2cef0ceec",
+      "title": "These three credit cards can earn upto 10% cashback on UPI spends",
+      "url": "https://www.livemint.com/money/personal-finance/upi-credit-cards-rupay-credit-cards-upi-payments-credit-card-rewards-cashback-merchant-discount-rate-mdr-11790041014289.html",
+      "source": "Mint – Credit Card",
+      "issuers": [],
+      "published": "2026-09-22T04:39:07+00:00",
+      "snippet": "UPI-linked credit cards are making everyday QR payments more rewarding, but higher cashback often comes with app restrictions, spending thresholds, caps and exclusions.",
+      "severity": "major"
+    },
+    {
+      "uid": "741fd7c3de3e",
+      "title": "IDFC FIRST Club Vistara Credit Card to Be Discontinued; Existing Cardholders to Be Upgraded to Diamond Reserve",
+      "url": "https://cardinsider.com/blog/idfc-first-club-vistara-card-discontinued-diamond-reserve-upgrade/",
+      "source": "CardInsider",
+      "issuers": [
+        "IDFC First"
+      ],
+      "published": "2026-09-21T09:30:50+00:00",
+      "snippet": "The Club Vistara IDFC FIRST Credit Card is finally coming to an end, nearly two years after the merger of Vistara and Air India. After the airline merger, Vistara discontinued new issuances of Vistara-branded credit cards, but existing cardholders could continue using them. That arrangement is now e",
+      "severity": "critical"
     },
     {
       "uid": "f00a623acf1a",
@@ -48,18 +70,6 @@
       ],
       "published": "2026-09-14T12:46:59+00:00",
       "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends Press Trust of India",
-      "severity": "major"
-    },
-    {
-      "uid": "2f3480769ddd",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T09:30:08+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
       "severity": "major"
     },
     {
@@ -138,7 +148,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM20wcnF5b0NscVpQQkxxcnktN3FDWTZ4QnVUN3c0cE4yazBNMkFXcm9XU2RwS2dmbW9pNktsZkQ5Nkc0S1JCazlBYkNjVVJUbWRCS1VGRHplLTF5MnYwYXdjV3c5STFFV2hnbG5GVWFxSW1PeUVUM29odkZCWm9VeDJEVWFiemVLU0xka21Tcjlhd1Rxc1Z5NWk4VnB6blJFRnlNZ3hRLTg?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
-      "published": "2026-07-16T07:00:00+00:00",
+      "published": "2026-07-16T20:21:59+00:00",
       "snippet": "Study says Muslims disproportionately targeted in India voter roll revision Muslim Network TV",
       "severity": "major"
     },
@@ -168,14 +178,14 @@
     },
     {
       "uid": "c0a89db48e61",
-      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - ndtvprofit.com",
+      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeUlBWl9MOXRsVjJQNW0xQTFYTDVSOUpMWC10OTRrY2FTY2ZFUzI5ZHFUYllUcHFzY2QzSTNtZklOZ29oMVpadmFtZ2hHb2I5ZVQ3d2YwaWNvLUgta0NGX3VzMVpXR0hQcjNTSkFaSER6bDZzdHVpT0t1TXBYUnU5TW5tdmJJck5UVkQ1TVFJVWpMU0JxRXl3Y2tSdDF2cFl6eTUta1NXdjZmQkNzVFVLcUdTS1ctRmM2SzdYN2pMNDZ6ZVlnMl9jcTRwcC1ubFFGc2dsbEhxOGFNUGpXM2I4eEU5enFZakplY3BjYkJUZjk5RHZ0MTI40gH_AUFVX3lxTE9KTDJzTExzaTF2VE1wWWJqcGpQMkQ1MGFyRzBrdXBjR1paZ2EwQUJtOTUxR0I3eG9CR2FianZSNE5XTG12OE9aVEhRT1ZtcEdKSUQycHJLc0ZzOVNXNlREU0E5ZzN3SEJ4Q3BVX1ZXZjQ0RTBoVTdaYkhxTDhwYXFmS0pCbXVfaEY2d2ZjNUV4RGFPS3BKal9paWxodHhpRFVFTTNuaGVVN2NOeFJ0cGwwLWhDTTkwWlRuREVHd0duV2xteUxoQU9sR3pSZU5JSXdrSkEwUjI1SmhMR0tCaWN4OWF6bkVxWXgxbkNxaGFnaVFjSkFJdkpJdzJycXg2RQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You ndtvprofit.com",
+      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
       "severity": "major"
     },
     {
@@ -210,6 +220,18 @@
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
+      "severity": "critical"
+    },
+    {
+      "uid": "056d24fc97c5",
+      "title": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjItMEVVd2dGdlZfbTVXNldaQVFUTW00ZC1kZTVMdnlCTng3eGlFNXJUb3V5Y2lIcWozSzFwWll0WmlvOUptbWMtc2ZKSkU3Y1B3Zjdzcy1fY0hBT0ZMNEE3WUVzWHZDM2JRMDAydFJQczFONVdHakM0Vk5CQ0tUUnhWaUhyQWs0ekhGVld5UnliNDNSbmlSSElxUnBFcERIX1AxY25OanpjMXFkc1ZPc2dQbjJzTF92a004bkF2dHZzMFlubGdfLXp30gHPAUFVX3lxTFBwZzIxWklwbTdETko2clBweVM1RGZ6V3BhZjJZamszeHl6dlRsS05xQy1oRkEwYTdydjIwS2VXaWY5V0cyN29BTXpDdW5qdF93cEZnM3BpUjdtdDBMZkJiNjU2c0NXWE16elo0TmE0Y0lHVVdMT1dScThZc2o1YklRQU1EVGhGd0VKOHBKWUsyUENVMkJqU2RaQ0lBSVROQVQ3MWVLWERTNFplTHAyMkZiWlZwT2FSaUlLcDZyU0d3ZnBDWnZWS2oxeS1rNXZyVQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-05-18T07:00:00+00:00",
+      "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know CNBC TV18",
       "severity": "critical"
     },
     {

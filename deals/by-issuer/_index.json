@@ -1,22 +1,18 @@
 {
-  "generated_at": "2026-09-21T08:09:51.643Z",
+  "generated_at": "2026-09-22T07:55:29.168Z",
   "source": "deals.json",
   "issuers": [
-    {
-      "slug": "amex",
-      "count": 1
-    },
     {
       "slug": "axis-bank",
       "count": 75
     },
     {
       "slug": "bank-of-baroda",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "hsbc-india",
-      "count": 8
+      "count": 10
     },
     {
       "slug": "icici-bank",
@@ -24,15 +20,15 @@
     },
     {
       "slug": "indusind-bank",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "kotak-mahindra-bank",
-      "count": 35
+      "count": 36
     },
     {
       "slug": "sbi-card",
-      "count": 78
+      "count": 83
     }
   ]
 }
