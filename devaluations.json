@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T07:55:28.920017+00:00",
-  "count": 32,
+  "generated_at": "2026-09-23T07:56:06.362382+00:00",
+  "count": 28,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,55 +10,21 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-09-22T07:55:00.864676+00:00",
+      "published": "2026-09-23T07:55:49.644446+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
     {
-      "uid": "89a2cef0ceec",
-      "title": "These three credit cards can earn upto 10% cashback on UPI spends",
-      "url": "https://www.livemint.com/money/personal-finance/upi-credit-cards-rupay-credit-cards-upi-payments-credit-card-rewards-cashback-merchant-discount-rate-mdr-11790041014289.html",
-      "source": "Mint – Credit Card",
-      "issuers": [],
-      "published": "2026-09-22T04:39:07+00:00",
-      "snippet": "UPI-linked credit cards are making everyday QR payments more rewarding, but higher cashback often comes with app restrictions, spending thresholds, caps and exclusions.",
-      "severity": "major"
-    },
-    {
-      "uid": "741fd7c3de3e",
-      "title": "IDFC FIRST Club Vistara Credit Card to Be Discontinued; Existing Cardholders to Be Upgraded to Diamond Reserve",
-      "url": "https://cardinsider.com/blog/idfc-first-club-vistara-card-discontinued-diamond-reserve-upgrade/",
+      "uid": "289c67b657d6",
+      "title": "Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed",
+      "url": "https://cardinsider.com/blog/axis-bank-edge-rewards-miles-major-changes/",
       "source": "CardInsider",
       "issuers": [
-        "IDFC First"
+        "Axis Bank"
       ],
-      "published": "2026-09-21T09:30:50+00:00",
-      "snippet": "The Club Vistara IDFC FIRST Credit Card is finally coming to an end, nearly two years after the merger of Vistara and Air India. After the airline merger, Vistara discontinued new issuances of Vistara-branded credit cards, but existing cardholders could continue using them. That arrangement is now e",
+      "published": "2026-09-23T05:00:03+00:00",
+      "snippet": "While earning rewards through a credit card is a major factor to consider, points redemption is equally important. A while ago, Axis Bank was a favorite among credit card users for EDGE Reward Points/EDGE Miles redemption, as cardholders could transfer their rewards to popular partners such as Accor",
       "severity": "critical"
-    },
-    {
-      "uid": "f00a623acf1a",
-      "title": "Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card",
-      "url": "https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/",
-      "source": "CardInsider",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-09-18T06:30:07+00:00",
-      "snippet": "Amazon Pay ICICI Credit Card has been coming up with some rewarding and interesting spend-based offers recently. After recently launching an offer where cardholders could earn rewards on offline spends, the card now has another offer that lets users earn Amazon Pay Travel Vouchers worth up to ₹2,000",
-      "severity": "major"
-    },
-    {
-      "uid": "f4f870356948",
-      "title": "Amazon Pay ICICI Bank Credit Card ₹1,000 Cashback Offer",
-      "url": "https://cardinsider.com/blog/amazon-pay-icici-bank-credit-card-cashback-offer/",
-      "source": "CardInsider",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-09-18T05:30:35+00:00",
-      "snippet": "Amazon Pay ICICI Bank Credit Card is one of the most popular cashback and online shopping credit cards in the country, with a consistent history of offering up to 5% cashback on Amazon spends. The card has now come up with a limited-period offer for select cardholders who make two offline transactio",
-      "severity": "major"
     },
     {
       "uid": "d2e7e29e258d",
@@ -85,6 +51,18 @@
       "severity": "major"
     },
     {
+      "uid": "33fe0ef1bc40",
+      "title": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOempWN2dZc2MxdEI5c2NqTEF6SXdReC1yTVlkam5Bd2RqOVE1R3l6NDZCYlg1MWFmS2RESDhWcVZhUGdXRmRXMnBvTzdTNE9xNVVrU1RIazJLaFZsbVpnYkZBRnkycGc3ZFpZUUF5UmVONElDUDNKS19PaGZiVHZGb21HRHZ2c0s4QS1sckY5b1p2SmVZR2NaMGpfTWVCeVBibzZBZlBFWF91UEE4OWN1QkZIaDU2NFpvSW1tWVR3ay1rdFVvd19EaUpuODJUV2R2bGFtWURJNC1hUUVLVTVWOXZNZzRFMW0zYjlmQmhMZkRkdEFfTEd5aUE4YkJaRW9FekVuUE5R0gGLAkFVX3lxTE5ZMUwxdGllQ1NiUTg4c3Z6ajhEZktoRHo2QXI5YThaZXhiVmp4RTFlUUU2X1htM1RKWjRSSllDQ29PcXJuOEllVHdudmxHX2N6RkR0ZmppZ3lMejBRWEZKUDFSMlVaRk52amU5WUx4ZnhabWJNenBGUlhhOXl3SG5EdXdfQlZvZF9tZTlqZDBJeENGVW9oenpJSkQ5QTN6N1RVZWR1eTNIdzhhY002UE9RQzFnZW1iVHJXem1PZ2FjMF9wa3ozMlQ0S1VXLU1WaDdRaTJyQnlqWktEQVlPOWs3ODJnOVNEWUJVTFZDb2lySkdmZGVodnVGS2hWNjZSczhfRlg0T3VkTF9SQQ?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-11T07:00:00+00:00",
+      "snippet": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends The Times of India",
+      "severity": "major"
+    },
+    {
       "uid": "3deacba7b25c",
       "title": "Credit card rewards get harder to earn: The major devaluations of 2026 - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMlNOdUpjQUdaZndlQTJackRuODhUY1dKcXlpUDBUQzBkd2t5S2tMRWtCQXMyYVVob2ZEU09KSi1uS2dQREk5cnRPS3NfSWlPSFB4eVJSdzMxZGdSVGZGaDdyRTF1aTQybWtfV25YNFpaN2l1UG1BY0lXYkVRTm90RDJJOFRkZjZRMXh3clRVSEQ5OWRhd1VXalFLMHBORkxKaGlGcUFyTlh2UzlMVmU4V1YzQU9GV1JmeHNBOHh6NGZaenh2c1lfR0d4UldLVnFkY3A1TFZpSXU0ODg?oc=5",
@@ -95,9 +73,9 @@
       "severity": "critical"
     },
     {
-      "uid": "389c889d7876",
+      "uid": "932b2f156480",
       "title": "Axis Bank credit card rule changes: Check new charges, revised lounge access and reward rules from August 28, 2026 - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNaHR4TEZLYThuVkdreUxKeWpMNUxuZTRkQjVOb0dIeXBOYjVsM3d6M1FxaGFLUDh1Z1FIcWxCVUREZTlKMTZqeG0tY0I1eF9XZUdLWTJjZXdVQ3FYVGgydEMzd3hmRmpYWDJFOGtGYkQxbEJDLUVFZ2NfVG1rYmJWME5TOUN2Yll1MWFWQk1NR0dsb05qY0piN3lBUVQ5Z05iUFJQYkU3TVJ6OUxDZUxPSW9NWm0yQkNKZzliVzFQamJ1VVhIeUV2WkcwTGp4b2hONFo2clhYVE9ySkxPdTlpUUYwcXVUeU5XcUpoOXVGRFlYUWJmMUFFNEZiSVVoUnZXWmNxSU9EYk5uVnVOZFZmb0RmLVVpQnBYUlFXa1V3VVRnczRSWTNOOE9HQk1lY2NMM2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQUjE2WDZxZzJFc3FiV3R3Mk5ueTMyNm1rT1BTT0p5eVdOb0tZUE5nSTM3SHNuN3dRYUpJWWNHX0YyME1JR1ItQ3FtMmJZODZMVDdnV1I0b1dfcGl2ZVFaWEFvMWVnckRPeFlHczZZdExmbk1BLXNlcXdUSFFBZVgzTWUzTEgwNTVTNERlRVRCY202RkVjLUhzRlBOLTBnOVVONTlkbzU3empkU1FxMTN4bjlqbTRCdWs1QzczRzBVcm85SFU0S2Fwc0JfSXA5R01OMWxXRXdQQ2Z3TlBBSG9VOS1Jb2FSZTdDb0tvdk5pTEF4VDJQYzhmbXNHN1ZsYy1abC1LZkJDOWZ1SkFvbTJsQTFRRERpeERVUm1IWXc4UlFBcVo2X19TdXJVTV9ZTGtT?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
@@ -141,16 +119,6 @@
       "published": "2026-08-10T07:00:00+00:00",
       "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition Live From A Lounge",
       "severity": "critical"
-    },
-    {
-      "uid": "1e2e1d989134",
-      "title": "Study says Muslims disproportionately targeted in India voter roll revision - Muslim Network TV",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM20wcnF5b0NscVpQQkxxcnktN3FDWTZ4QnVUN3c0cE4yazBNMkFXcm9XU2RwS2dmbW9pNktsZkQ5Nkc0S1JCazlBYkNjVVJUbWRCS1VGRHplLTF5MnYwYXdjV3c5STFFV2hnbG5GVWFxSW1PeUVUM29odkZCWm9VeDJEVWFiemVLU0xka21Tcjlhd1Rxc1Z5NWk4VnB6blJFRnlNZ3hRLTg?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-07-16T20:21:59+00:00",
-      "snippet": "Study says Muslims disproportionately targeted in India voter roll revision Muslim Network TV",
-      "severity": "major"
     },
     {
       "uid": "c0f0640c91f9",
@@ -220,18 +188,6 @@
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
-      "severity": "critical"
-    },
-    {
-      "uid": "056d24fc97c5",
-      "title": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjItMEVVd2dGdlZfbTVXNldaQVFUTW00ZC1kZTVMdnlCTng3eGlFNXJUb3V5Y2lIcWozSzFwWll0WmlvOUptbWMtc2ZKSkU3Y1B3Zjdzcy1fY0hBT0ZMNEE3WUVzWHZDM2JRMDAydFJQczFONVdHakM0Vk5CQ0tUUnhWaUhyQWs0ekhGVld5UnliNDNSbmlSSElxUnBFcERIX1AxY25OanpjMXFkc1ZPc2dQbjJzTF92a004bkF2dHZzMFlubGdfLXp30gHPAUFVX3lxTFBwZzIxWklwbTdETko2clBweVM1RGZ6V3BhZjJZamszeHl6dlRsS05xQy1oRkEwYTdydjIwS2VXaWY5V0cyN29BTXpDdW5qdF93cEZnM3BpUjdtdDBMZkJiNjU2c0NXWE16elo0TmE0Y0lHVVdMT1dScThZc2o1YklRQU1EVGhGd0VKOHBKWUsyUENVMkJqU2RaQ0lBSVROQVQ3MWVLWERTNFplTHAyMkZiWlZwT2FSaUlLcDZyU0d3ZnBDWnZWS2oxeS1rNXZyVQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-05-18T07:00:00+00:00",
-      "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know CNBC TV18",
       "severity": "critical"
     },
     {
