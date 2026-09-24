@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-23T07:56:06.363126+00:00",
-  "count": 11,
+  "generated_at": "2026-09-24T07:47:03.469610+00:00",
+  "count": 13,
   "launches": [
+    {
+      "uid": "cac1a99c7b0d",
+      "title": "SBI Card launches FD-backed credit cards on YONO: Who is eligible? What does it offer? Check variants &amp; other details",
+      "url": "https://www.livemint.com/money/personal-finance/sbi-card-launches-fd-backed-credit-cards-on-yono-who-is-eligibility-what-does-it-offer-check-variants-key-detai-11790171194481.html",
+      "source": "Mint – Credit Card",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-09-23T15:13:28+00:00",
+      "snippet": "SBI Card has launched a new secured credit card linked to a fixed deposit, available for online applications via the SBI YONO platform in just 10 minutes, aiming to assist customers in building or enhancing their credit history."
+    },
     {
       "uid": "ac8ff76d079b",
       "title": "Samsung launches first Galaxy credit card with up to 5% cash rewards - The Indian Express",
@@ -110,6 +121,17 @@
       ],
       "published": "2025-11-04T08:00:00+00:00",
       "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
+    },
+    {
+      "uid": "c35b2589b93b",
+      "title": "Amazon Pay and ICICI Bank Renew Partnership, Enhance India’s Most-adopted Co-branded Credit Card - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlEwRnNFVTkwOWNMVlh6RU1qbklwX1ZBOFhCWm5nb0QyUXFPRE1QbkxEckVIZUZYTm9INVZVelpacHh5dE9nLWg5Z1lwMWZ4aFpRWDFWUGg1SElReUlqemw0UkdyM2xDTF93M0t5Uy1yWTU2QkJGYmpXNXNCTlZpZHFZSnRvdVlDZXpiYjNubUQ5dDNtZXlMZGxsN0l2TlozZm9Ya3ZMMy15WG9qUjRqdk5aMFFZQTJkQmc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "ICICI Bank"
+      ],
+      "published": "2025-09-10T07:00:00+00:00",
+      "snippet": "Amazon Pay and ICICI Bank Renew Partnership, Enhance India’s Most-adopted Co-branded Credit Card FF News"
     }
   ]
 }
