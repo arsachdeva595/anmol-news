@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T08:54:38.616681+00:00",
-  "count": 30,
+  "generated_at": "2026-09-29T08:58:38.228973+00:00",
+  "count": 28,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-09-28T08:54:23.531505+00:00",
+      "published": "2026-09-29T08:58:22.543397+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -39,18 +39,6 @@
       "severity": "critical"
     },
     {
-      "uid": "5cce26f8729b",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbVVKNEMtQTVGQzZZZG92TGhiTHBIZVlUS05La0VfZE9KbjladTg3c0o4VzJjX3FSbS1iTnc5U240VmQ3NmFRS0M0LVpXdWNSZW1ZaTZMdDFMb0dIdlhlRzBwbkF2MXVDb2FmaDd4UjZ4TktydXFNLVllRzBHZGVvb004R29oc09pejZGN2owQzFQS0lVZ21INC1XMkpQdGtwSVl0NUNOVmh5eWNORFB5c1BKaGNXT2JBTXZRaVE4eXVCbzUydzJNNjBSMVR3WkpTLWxMQ3lkcHJ0ak5sdUxTSdIB5AFBVV95cUxNTWZtLU40WDRCdjAwR3hWXzA4OWtmRDF4OTh6U3ZZWUJMRGd4Y0tlcWdrOWtDMFltRmt0amRNcHktNXpvTDhNc3ZhY1dIdjNTaDI0bnJ6MDZ2ZjZITDJvWk1DM1Q0TThXc3lEZDQ2TlVSRnJvMTkzSmhrSU1hX05BQlQ5Nk1pQmlVdEYta3NZajhEMTBxdHp2VndCX2lrTWdTQ0FCMjFOak5uRS13U0VoNkRySktFM1oxZXZpU242Z0RZY3hUdk54VDdpZUZrNnlnOHZTN2pVYlJyNUYtdFdpaTltcjA?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends The Tribune",
-      "severity": "major"
-    },
-    {
       "uid": "0d8b993ee7fc",
       "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
@@ -61,18 +49,6 @@
       "published": "2026-09-14T07:00:00+00:00",
       "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
       "severity": "major"
-    },
-    {
-      "uid": "7a00de506b2f",
-      "title": "American Express to discontinue two card features in India: What changes from September 16 - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUktvUTUwUHI4R2ZiYkRVT1FwVUNzaWltY0R2aWNtUHRPU0J1QlplX2Z3bUtiRnFVRDJpNW94cHN3YjgwYjd4S200WWY3MjFsSktzbG05UVgxWGVjOUlUUEx4Mlc5MDNkMnRoMFZVN1M5bzQzS2QxZnVDalplTGFoMTBNWjdGS3o5ZktrdU9ZRVB5ZzVvZzJrMHh6c3Jhck5ja1dIMTRoYzZwLVJkUDZVenM1RFJTRjMyQklCemRjOUNiUmlJbFNuVXBwSFFOcURLTG40RDNFVC1DNmhoaFpzYTM4UWFSTmFQeGxpeDJYOGR5ZUZobVHSAfsBQVVfeXFMUDRFZ3BPbkRjSk0tR2NkeXV0UHNMRGxRUWZnOXpsU0dHcVBMakUxSFdyMW43aHlzSUdSS01Xa0NaV2w0ZkdOM1FFZG16Y2RaZlIxbFZ5WWZRUEJKYmZfZnFoS0ozeC1tcW00MHFUSW5LWVN1eHd0UDJNYTZua1ByN09ZamJVN1lsVjhrZnRBcm9PV1R2ZjZrMk5WZlhKY3dLbTFMTEhiTVpRa2tYbmJEMHJJaW5CbFk2TjFTQmtsX05CMk1nenY0dnJYTXBVUFlvX1ZxSFFsZ1p6eHpNYzNSdWpJRjRlc000c0lIak8wMFpJVFpvLUlzWE5JVTg?oc=5",
-      "source": "Google News / benefit",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-09-02T07:00:00+00:00",
-      "snippet": "American Express to discontinue two card features in India: What changes from September 16 Moneycontrol.com",
-      "severity": "critical"
     },
     {
       "uid": "3deacba7b25c",
@@ -134,14 +110,14 @@
     },
     {
       "uid": "f239e00dd270",
-      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - Livemint",
+      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? Livemint",
+      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? livemint.com",
       "severity": "major"
     },
     {
@@ -182,24 +158,24 @@
     },
     {
       "uid": "316a5a06996a",
-      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - livemintmoney.com",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
       "source": "Google News / benefit",
       "issuers": [
         "IndusInd Bank"
       ],
       "published": "2026-06-05T07:00:00+00:00",
-      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details livemintmoney.com",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
       "severity": "major"
     },
     {
       "uid": "51eb98d6ec3f",
-      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - livemintmoney.com",
+      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
-      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July livemintmoney.com",
+      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
       "severity": "critical"
     },
     {
@@ -228,14 +204,14 @@
     },
     {
       "uid": "ba8476c40031",
-      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - livemintmoney.com",
+      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here livemintmoney.com",
+      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
       "severity": "major"
     },
     {
@@ -298,12 +274,12 @@
     },
     {
       "uid": "1e6c0e18e697",
-      "title": "Why your premium credit card perks just got devalued: The big squeeze on banks - Livemint",
+      "title": "Why your premium credit card perks just got devalued: The big squeeze on banks - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTlPLUlmWFo1QUd0MFFCTVo0cU9ydl9VUDRlTXhKVEJsN3NRd2FsXzc5NHVDN1c5Z0NMVWlJNTFWT3o2WjdzZVJYQ1EzWVZFM1o5Rm9YTGFoVksycWduNVd3VW1ISms2RnY3ZUUzWVkzd19Qa1lkUTZ3VzBvbDNFV3ZPZUlCNmNTRFZOQnR1Um5IQVB1VEtyRG9GU2RHRDVaanFZUjYybDdGRUdvSl9kVVFqdzV6dGlHelM4UnFXQmRUcUM4eUE3WWxnaDA4Q0RwcUxWNFZ5VE91RnY2Q2xaZURraEgzZ1gyTFI5WktPbENDdGJLMXdCQmVkZG9EV0J2RDdhMHNBVGjSAY4CQVVfeXFMTVN0RV96eDdIWWRpUGRXUG9uaDRzUlUyb2pvZGRwaXZBZnJhUlFDNzl0X2QzTTNnQ1hPcDFMSzhGci1iNFJ4RS1senVBM0pzRnU1SlpZeXJyVF9qcms1azZCNU43LVBQZjlIdjFxalJ3dkhPbVRDZVlSYmF2V2Z0TGVqd3diWjFyZ0ViemZxWjZqRzFVYTAzbTNHaDBnWnNUeVl4WXBQZU1DQmpybUxNcU9hem85Q2xObkp5OE9Ld0lVcW1Sb25XcUxjek1acTRmUmpXczc2UnFkSFUtMElrdmZ1MHpORC1aVUxxTWxMeGUxTUQybE8tN2tIU1cyR2FLd0RudkpjMW02bjh5Zl9B?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-03-02T08:00:00+00:00",
-      "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks Livemint",
+      "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks livemint.com",
       "severity": "critical"
     },
     {

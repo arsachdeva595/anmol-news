@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-28T08:54:38.617467+00:00",
-  "count": 15,
+  "generated_at": "2026-09-29T08:58:38.230097+00:00",
+  "count": 16,
   "launches": [
+    {
+      "uid": "fa11890d6cf8",
+      "title": "Marriott Bonvoy HDFC Bank Credit Card offering up to 30,000 points bonus on spends",
+      "url": "https://livefromalounge.com/marriott-bonvoy-hdfc-bank-credit-card-2026/",
+      "source": "LiveFromALounge",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-09-28T15:47:04+00:00",
+      "snippet": "HDFC Bank and Marriott Bonvoy have a co-branded credit card. Now, the card has a new promotional offer where one can earn up to 30,000 bonus Marriott Bonvoy points. Here are the details. The post Marriott Bonvoy HDFC Bank Credit Card offering up to 30,000 points bonus on spends appeared first on Liv"
+    },
     {
       "uid": "0b2ab8cc011d",
       "title": "SBI Card Launches Fixed Deposit Backed Secured Advantage SBI Card on SBI YONO - Metro Vaartha",
@@ -23,13 +34,15 @@
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
     },
     {
-      "uid": "4631d06f04a8",
-      "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRtUUFWbk44enJMLTNCSXBRVVlCZHA1bjlEUmdnSm1Ua2tSZVZfREY0MWU2WFNIU005WEt1TnR1NE5oMmtmTG1xTEV2dFdxTTJxQ080STg4YXJ2b2w2UjlqS25EUEJ4dG9BZXpKOEZUTFdUc1FLR2hBZHh4b2FhVEU1aUFtQ2wyOWNHUkRjZEl5SWlLckpEVXlSMUg0c1l6Z2loTHN0RVp4TFJkQTFfSHpzLXpUUVJ5Wmg2WDhibGVYbV9wd3hXYmZPT2lpeGRjSElEVtIB2gFBVV95cUxQVnhUekU0X0xqUEtoMUwzblV4T0owNzZJV1RqM1RzM1VKck85eUtZSXVrTmpoX3c2cDllcTZOTGdCTFB4Wl83MEM3MFFQQTBFTl9CMjN3Wk9SYlByTEdpT3ZnNmRPTjFmdlU5U1Rqb0FtSl9IOVJ5UXR4ZHRMYkpTbktUQ0NacFNQUF9OODRZWVYzcWYzY3l1WFlyZW45Y2RjOUhycDNUbTdPMzZOamdXVWlLNDA4Q2xUM3ludjluWF8tNDBTUU4xVzBXTU1vemhQSmptM1hrVGltdw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [],
-      "published": "2026-06-25T07:00:00+00:00",
-      "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card ThePrint"
+      "uid": "cd84d0bc8e29",
+      "title": "Google launches UPI-linked credit card in India with Axis Bank, here is how it works - indiatoday.in",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTXNGODhjcWhfNGVLU1JyTkdDZEpvT3VnVFZkdmRVNkxXWjhjcG1XM3N4eU5yNlhYNTMtZWtzVGtmZHZrSUdBcnlZRHh0ZDhsZ1BfZGx4dXFlLUoya24xd20xREVRSEtXRTV6TFQwbjlqWTUzOU1SX3dEdTd2TUJvU09XeUQ1Nm5mUkhlWnJzWjJfT1lZcjZiQkpVVjhQalR6MGwyYlpXQ2VZbFROZkRmRWpwRms3Qi1Od1Q2a19WZUgyaUNWZWZaU09OWG5IS1hsdGZFSE9WdGlPXzQyeFpXM28xUULSAeoBQVVfeXFMTWJTV0ExQ2I1ZTljNFUwZ1hiYnFJdmlSR09qTlZIeVhFb3VYcGhOUDhCZGs4aDlkUkRtYWgyajFYUEFXLWJJdjRqZ1E0RnpuT3dxeElHRjh2dnFYa0lOV3JqT0VkLXJJaFR4T1NBUFFDekdLeHpTU2MxU0VWS2tydk4zZ20ySGJlWjJnU0w0Wi1xZzFfeWFNT3Q0Vko1cGJ5VENTcjVudnVyY09QVlhib1UyMS10S2dMNGNQT0p4WHdXSDBaUXdpankzRXJpVWZ5Nk5vZC1aM3BPTmZaNWdLYkpPMFlMQnpMR2V3?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-12-18T08:00:00+00:00",
+      "snippet": "Google launches UPI-linked credit card in India with Axis Bank, here is how it works indiatoday.in"
     },
     {
       "uid": "462552427e11",
@@ -75,23 +88,23 @@
     },
     {
       "uid": "e0d5597d48cb",
-      "title": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex - Livemint",
+      "title": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOTMyTFo2c0NvT3Y5Z3BJN05mZ20xc29PWHY0UmdMVE9MYWg1cjdRZ2dibDBJUzIyeUFQVGYtN0oxQzc0cVh1VHEtQ1l6eUd0Nmh2OHFjOTQ2SGxnei1JdXkxUG12YUhsZXo4STFtMjQ3LXdoMlI2aVlaR3FWQXZBUm83MW1MUW53NU1WcDBveTdfNHBLdVRSMWdnTVc1b2VMS3hlem5LQnJsY1h3aWFJcEdjOWlNd1cyX1h1WFBKM1ZIelVaUFlYRWN0Wkg3WTZmc0JhU1JOSmh3ejJSaUhDRE9nLV9ReGZh0gHuAUFVX3lxTE1lZFhZREVzd1VaMllHMmpIeFItMV9pVUduN0FwdXRLOFhTT09QWHBVZUZWXzlZTnRxSmRYdFVTZWc1T0RCV3RtVEs1YUtjYVYwa2t0dEhYUFA4LU80RlpkQ3pQbGtGYU5vVzViUmk4cUt4clo0Q3c4XzNjZmRvZ0k4VDdrMDFOblJvOEUtVE8zRDhZVmR3enFad2tDNkxJd2s2MWFGa0FIWERNazdPRHhfY3N1eUxBZ3FrTk1mcGJLd05NejdhMG1Xd2t5VFpUVnV0VnduclJKLS1za25URHJ3NFVhbV9KUUQzeV9tcGc?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex Livemint"
+      "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex livemint.com"
     },
     {
       "uid": "958919bef8c1",
-      "title": "Google Pay Launches Digital Credit Card in India - PYMNTS.com",
+      "title": "Google Pay Launches Digital Credit Card in India - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW4yOEI4dUwwbU9JYXhxVWtReV9EcFhCcGpxSlhwVUFxWXlud2RpWlNHVDdDb3dSTXNIWkgwWGpZUXc0ZXRtSUNveHlGUnhjRVl1QzVrTkNtU0pZenllUXZTXzE3WF9KV3VmR3YxZ3dXUngwNjhNWGstZm1ZWklJd080RmU2YmFvMEMwZ3dTOGk?oc=5",
       "source": "Google News / launch",
       "issuers": [],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay Launches Digital Credit Card in India PYMNTS.com"
+      "snippet": "Google Pay Launches Digital Credit Card in India pymnts.com"
     },
     {
       "uid": "80d8212a490d",
@@ -110,6 +123,26 @@
       "issuers": [],
       "published": "2025-12-10T08:00:00+00:00",
       "snippet": "Zaggle Signs 5 Year Referral Agreement with Mastercard to Launch New Credit Card Solutions India Infoline"
+    },
+    {
+      "uid": "36d8c7a77d03",
+      "title": "SalarySe and CUB Launch India’s First UPI Credit Card - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN0tpMm80NTVpVUY2Qm5lak0zaFJOM3VsbkdpRS1xWHBwUXRKcVQwbDktbVRSc1ZtTGJwSXlYRkQtMXFmYmtFTGhoajVXSElsd2Q0RUJFem5nSmloT0ZneEdIYThiNHFzY25QajF0M3pVSHEtZkpkNU9oV2VCdlptYy1vY3B5SnlQaEJXWEN0aFgtZGhiNE1SMy1RY0l2T3FzVG0xaE11Y0JkZWstWTFCRW9qMjVuUHlhZVRKNGM1Rm1uM2ZjSFA1bm1WVjFhZ1d1ZC16b0ZpeExUSmZkY2JUMEdqbXBETXdZZ2l4d29Fcw?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-12-10T08:00:00+00:00",
+      "snippet": "SalarySe and CUB Launch India’s First UPI Credit Card Passionate In Marketing"
+    },
+    {
+      "uid": "bac632543a77",
+      "title": "Share credit without losing control: Scapia-Federal Bank launch add-on card - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUtoUDNzTnJBRWFGNTBIQjdfRnlTS3h4cGRVN0hDSEx3ZVNaUVFmVVdMeDJ1Mkc3enEwVUc2bTdTRTNnWVE3d0ZHUm5jdFpZakk1bVhQTDlTalFtMVlqOFBCaC1ZSUtOTGNvSkFXdExzZmRmSWE2OVU2V01BbklPd0pFeEM5d0pRYm8ybzBENmYxazJfM2d0eWZ2WFRLQUtpTHNNZ3kxSUhoS1VoNF9aY2F5SUxKd0FSWFlpT2VvWm5CbFlSRDhWR3FRbEstbl9NTG5XbE5SQzdUMWJTdy1IN2hOaFF3R25m0gHuAUFVX3lxTE1Ia0pIMVYtOGY2ODFZNm9lc3BMd1hZWFN4ZXdLVUNKd2R1Tm1rOXpHcWlBWlZGUTUtTWlqYVcyVHBmZjhaQ1pRalR0U25lVnA0YjNhNnJ3MlFxdnM0U2ZNcmx0MFR1dnh2WUtOOVhHU2NNaXliTFB3VlV5ZlFkVVRjXy1oSmZOa0M0R3F6LVl5RzVfSGFoZU5Cb2tjLWlRdEZ5VS02eEhPQm1ZdkVEN0RzTlladjR5TGlHZ0pudWo5RDhyVkw5RElvRFNrMnhhUG1rb1Y3Z2tTT0oybHYwMjZVdzVyYjMyN004X2dJbHc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2025-11-04T08:00:00+00:00",
+      "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
     },
     {
       "uid": "eddd98191d2c",
@@ -132,28 +165,6 @@
       ],
       "published": "2025-09-10T07:00:00+00:00",
       "snippet": "Amazon Pay and ICICI Bank Renew Partnership, Enhance India’s Most-adopted Co-branded Credit Card FF News"
-    },
-    {
-      "uid": "2b0fe3603910",
-      "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2025-07-28T07:00:00+00:00",
-      "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
-    },
-    {
-      "uid": "20fe08ccb291",
-      "title": "PhonePe and HDFC Bank Partner to Launch Co-Branded Credit Card - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25zSTFkbldBVGxaNHdHdDFzN19reEpQX3ZCYURELVlQbkhfRm1SSnV5NzhpSHBuZ2Q1MVg5NDdoQUVIcms2SE51eEI5Z2tLR3Y1aWJYMjdLa1VOSnBmRnZyZEM5cFgzVGxXQTF4QlJSclgwNEJLcUIyMl9ONE1QZ1pBYmFRS3pPVnphLU5aX1hWRVg4XzVaTVBqY1gwT29ULS0yNk1Wdk5UeUJVaGxlbzFhT2FNWHN1MWltbjVR0gHDAUFVX3lxTE1KN1lCU3dQVV9sSnFZQUJxV2x0bzU5NkxoaHY2ekR3eGU5bXlFSWl0NkVLN2tLVkVlU3BURHd0UTFFUjVtSVdPLTIxNmdMcjRhYWx5WGtER3lEUWE3M3R0aVdlY3o2YXl1Mld2UUxqVUpjN0Q0cF82VnM1SnpQZ1hDSG1iX0NoS2VlSnlKbUJJdzdxQzNPVUdpNkFJYVg5UUM1WlFWb01HQmNLUTNxSkx5V2t5R1JHdzJJYTR5U3MxRWt6UQ?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2025-06-26T07:00:00+00:00",
-      "snippet": "PhonePe and HDFC Bank Partner to Launch Co-Branded Credit Card Deccan Chronicle"
     }
   ]
 }
