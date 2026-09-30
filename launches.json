@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-09-29T08:58:38.230097+00:00",
-  "count": 16,
+  "generated_at": "2026-09-30T08:55:23.576975+00:00",
+  "count": 17,
   "launches": [
+    {
+      "uid": "f00321d61306",
+      "title": "Apple launches Apple Pay in India with Axis Bank credit card support - The Federal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHFRc2lqTmZHaU85OXlyN0QxXzhvanRFQW45eHlfUlFsMW45R2JMcTNtXzdHbHA2SEtZdjU4ZnV3dXRCbTRTdVJRdGJ1SUEzRHdLQlJkc3NXQWNRMnBHdG16alNTZkNlRGdTcmVBRmVCbnBpVEdQWEF5ZmQySEpwcm5vV1Zqd0d2NnJlNXBNUXRzUjh4LW90dDhmN1U5dVdyYXNZeTFNeXQyQWE4X3lXdko1aHhmWFk?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-09-30T06:17:48+00:00",
+      "snippet": "Apple launches Apple Pay in India with Axis Bank credit card support The Federal"
+    },
+    {
+      "uid": "cd0714af7630",
+      "title": "Apple Pay launches in India with Axis Bank credit card support - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVRMVnU3TUtDcmNmZi1IRW81b0pCSG1mcFZaSGJwWnQxQ2hrVDc2YW1pRE1TU1NTLVFFMDcyQklqUDlRRjJOa2QtZkl6UTlLenZQVVBuWTczNEdadE9RTU9QbGEzS1BEd1JEOTBIQzRsWDBsTXlUYVFHQVN0WTBHUGpUeTI4Sml3aWRDQnJpRzJGUjhWLWxzY0RtUW42WXhuOUVWNURoR1RBYXlKUVRYdDJtONIBwAFBVV95cUxQekVYbElrVWVoT0Z6bFMxZXFYTVhRV2RfbnBnN29WNEpKVF9XT3dOZ1dEUnU3cDZmR3NFMHhsRFNGd3MzSFdYTzQ3Sl9PN01uNmRWeEFyM3BfUDhlZEdKNEp3WURNaFNvanp6MXFwSV9rdDNLVHFOdTdWSXRFRWY3WDFfTlNsbnNiNzUzRmhmN2pQQ1FjeWczMUNXX05faVAzT3FHeTBEaWdxTUdRZkNEa1JubUo1R1RRQ0hqWk0yT1c?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-09-30T06:06:35+00:00",
+      "snippet": "Apple Pay launches in India with Axis Bank credit card support The New Indian Express"
+    },
+    {
+      "uid": "f852326bc695",
+      "title": "IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders",
+      "url": "https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank",
+        "IDFC First",
+        "BOB Financial (BOBCard)"
+      ],
+      "published": "2026-09-30T05:50:29+00:00",
+      "snippet": "From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits. July has turned out to be a particularly rewarding month for those looking to apply for an airline co-branded credit card. From the BOBCARD Etihad Guest Credit Cards and IndiG"
+    },
     {
       "uid": "fa11890d6cf8",
       "title": "Marriott Bonvoy HDFC Bank Credit Card offering up to 30,000 points bonus on spends",
@@ -14,20 +49,9 @@
       "snippet": "HDFC Bank and Marriott Bonvoy have a co-branded credit card. Now, the card has a new promotional offer where one can earn up to 30,000 bonus Marriott Bonvoy points. Here are the details. The post Marriott Bonvoy HDFC Bank Credit Card offering up to 30,000 points bonus on spends appeared first on Liv"
     },
     {
-      "uid": "0b2ab8cc011d",
-      "title": "SBI Card Launches Fixed Deposit Backed Secured Advantage SBI Card on SBI YONO - Metro Vaartha",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEJXTUhWdWF4akdON09jWXU1YUt3cTRLeS0wd2d5Q3JldE5qOEU3VlBUcm5yWHdJT2dDRUZkb3Y0LVlkazRFczhLRnlXN0ZncHZJVGItZFV2OVV6Z3dZbTItZDZvMm9tejVGcHg0cnBMd0Z5SGdJbl9lQUxtNWxCbVd3TmZmeVZwOU9IYXZPZUdtakx2Y1ZIeFQ1VVBWbEZFakFEdkRyaDhYRGZqS3BnbDB1dlhwSDFMcUlFaUpIRlpVNi1zV1HSAdMBQVVfeXFMUFFGeW9Bd1ZZMnV4R0JubWRkak9qQ0Q0bkdra2RIa0J2ekJWV29PRUZSaHl3UTlTbkEzLVFENEpra1RRRW9ITVZPMFliNGxDYUNBaWVrMkl0N3JXQjBGYUVxNkRBdHJsRl9iZGlBalRJb3R5TFFSQUloNkZmTjBOcU9wcGU1RlhMOExxTGQtRzh2d1R1MUppN1N0ZWUzaHVjeWdTem5pTURwck02YXpwSGZwdGIxUHcxZXRzVTRQREtLQ0JFa2puZXJ3Q1pEZ0NaMW93NA?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2026-09-24T20:09:23+00:00",
-      "snippet": "SBI Card Launches Fixed Deposit Backed Secured Advantage SBI Card on SBI YONO Metro Vaartha"
-    },
-    {
-      "uid": "ac8ff76d079b",
+      "uid": "fd003bd17509",
       "title": "Samsung launches first Galaxy credit card with up to 5% cash rewards - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWtnMEU0elZObG9aRlFEdTRTQTBCQ2ZWeVc5YmF1WU5zUUhaZFdtZmxQaUR4Yldtb0s2b0swSWxiYkRXb3Bja2hEZ1BPR2RDUzZGQkxDRnJrcVc2UjZPcjFNUGdyd3pnY2gxYlpCLS1sSE9yOU0taHNjWktkN3dDSkY4c0RoYnJaVUJBUnE3WlRfQVcxMDB6NXREeTktVEl5RTZ2QmJQazV3RlpDY2hMY0hDekZjT1J1YkNpV0ZQYXQ5VXNoUFJQdTUweHVRLVYtX0RXcDNQZ0t4d0HSAeIBQVVfeXFMTzUxOFdxZ01kUEhRSzZoUHFRZWRncDNid3g2TkZDTEx0M3BvYzZDTWdwbVhHaHlIS3FsU0F4Uk8tS3BWNEtfRDhwd09na1RGbVgwM21wN3RZZm80bGFJSmExSG1EbUZtTnc0aVkwbDZSZllCNVh1TWpuQ015QTBFcXVWWUtZbWhjd3EtYU5famhJT21TRDdOeDBqQnhoUUU1S2ZSMVhvV254bTJqTkh0dGt3NGFsd2NBckFXSlg3VFBvVXN5WjVPN0NoMEhUMlM0N2J5a015QkNxSV84aEFtZWhaZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWtnMEU0elZObG9aRlFEdTRTQTBCQ2ZWeVc5YmF1WU5zUUhaZFdtZmxQaUR4Yldtb0s2b0swSWxiYkRXb3Bja2hEZ1BPR2RDUzZGQkxDRnJrcVc2UjZPcjFNUGdyd3pnY2gxYlpCLS1sSE9yOU0taHNjWktkN3dDSkY4c0RoYnJaVUJBUnE3WlRfQVcxMDB6NXREeTktVEl5RTZ2QmJQazV3RlpDY2hMY0hDekZjT1J1YkNpV0ZQYXQ5VXNoUFJQdTUweHVRLVYtX0RXcDNQZ0t4d0E?oc=5",
       "source": "Google News / offer",
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
@@ -35,14 +59,14 @@
     },
     {
       "uid": "cd84d0bc8e29",
-      "title": "Google launches UPI-linked credit card in India with Axis Bank, here is how it works - indiatoday.in",
+      "title": "Google launches UPI-linked credit card in India with Axis Bank, here is how it works - India Today",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTXNGODhjcWhfNGVLU1JyTkdDZEpvT3VnVFZkdmRVNkxXWjhjcG1XM3N4eU5yNlhYNTMtZWtzVGtmZHZrSUdBcnlZRHh0ZDhsZ1BfZGx4dXFlLUoya24xd20xREVRSEtXRTV6TFQwbjlqWTUzOU1SX3dEdTd2TUJvU09XeUQ1Nm5mUkhlWnJzWjJfT1lZcjZiQkpVVjhQalR6MGwyYlpXQ2VZbFROZkRmRWpwRms3Qi1Od1Q2a19WZUgyaUNWZWZaU09OWG5IS1hsdGZFSE9WdGlPXzQyeFpXM28xUULSAeoBQVVfeXFMTWJTV0ExQ2I1ZTljNFUwZ1hiYnFJdmlSR09qTlZIeVhFb3VYcGhOUDhCZGs4aDlkUkRtYWgyajFYUEFXLWJJdjRqZ1E0RnpuT3dxeElHRjh2dnFYa0lOV3JqT0VkLXJJaFR4T1NBUFFDekdLeHpTU2MxU0VWS2tydk4zZ20ySGJlWjJnU0w0Wi1xZzFfeWFNT3Q0Vko1cGJ5VENTcjVudnVyY09QVlhib1UyMS10S2dMNGNQT0p4WHdXSDBaUXdpankzRXJpVWZ5Nk5vZC1aM3BPTmZaNWdLYkpPMFlMQnpMR2V3?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-18T08:00:00+00:00",
-      "snippet": "Google launches UPI-linked credit card in India with Axis Bank, here is how it works indiatoday.in"
+      "snippet": "Google launches UPI-linked credit card in India with Axis Bank, here is how it works India Today"
     },
     {
       "uid": "462552427e11",
@@ -87,33 +111,24 @@
       "snippet": "Google Pay Launches Its First Credit Card in India PaymentsJournal"
     },
     {
+      "uid": "958919bef8c1",
+      "title": "Google Pay Launches Digital Credit Card in India - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW4yOEI4dUwwbU9JYXhxVWtReV9EcFhCcGpxSlhwVUFxWXlud2RpWlNHVDdDb3dSTXNIWkgwWGpZUXc0ZXRtSUNveHlGUnhjRVl1QzVrTkNtU0pZenllUXZTXzE3WF9KV3VmR3YxZ3dXUngwNjhNWGstZm1ZWklJd080RmU2YmFvMEMwZ3dTOGk?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-12-17T08:00:00+00:00",
+      "snippet": "Google Pay Launches Digital Credit Card in India PYMNTS.com"
+    },
+    {
       "uid": "e0d5597d48cb",
-      "title": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex - livemint.com",
+      "title": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOTMyTFo2c0NvT3Y5Z3BJN05mZ20xc29PWHY0UmdMVE9MYWg1cjdRZ2dibDBJUzIyeUFQVGYtN0oxQzc0cVh1VHEtQ1l6eUd0Nmh2OHFjOTQ2SGxnei1JdXkxUG12YUhsZXo4STFtMjQ3LXdoMlI2aVlaR3FWQXZBUm83MW1MUW53NU1WcDBveTdfNHBLdVRSMWdnTVc1b2VMS3hlem5LQnJsY1h3aWFJcEdjOWlNd1cyX1h1WFBKM1ZIelVaUFlYRWN0Wkg3WTZmc0JhU1JOSmh3ejJSaUhDRE9nLV9ReGZh0gHuAUFVX3lxTE1lZFhZREVzd1VaMllHMmpIeFItMV9pVUduN0FwdXRLOFhTT09QWHBVZUZWXzlZTnRxSmRYdFVTZWc1T0RCV3RtVEs1YUtjYVYwa2t0dEhYUFA4LU80RlpkQ3pQbGtGYU5vVzViUmk4cUt4clo0Q3c4XzNjZmRvZ0k4VDdrMDFOblJvOEUtVE8zRDhZVmR3enFad2tDNkxJd2s2MWFGa0FIWERNazdPRHhfY3N1eUxBZ3FrTk1mcGJLd05NejdhMG1Xd2t5VFpUVnV0VnduclJKLS1za25URHJ3NFVhbV9KUUQzeV9tcGc?oc=5",
       "source": "Google News / launch",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex livemint.com"
-    },
-    {
-      "uid": "958919bef8c1",
-      "title": "Google Pay Launches Digital Credit Card in India - pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW4yOEI4dUwwbU9JYXhxVWtReV9EcFhCcGpxSlhwVUFxWXlud2RpWlNHVDdDb3dSTXNIWkgwWGpZUXc0ZXRtSUNveHlGUnhjRVl1QzVrTkNtU0pZenllUXZTXzE3WF9KV3VmR3YxZ3dXUngwNjhNWGstZm1ZWklJd080RmU2YmFvMEMwZ3dTOGk?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-12-17T08:00:00+00:00",
-      "snippet": "Google Pay Launches Digital Credit Card in India pymnts.com"
-    },
-    {
-      "uid": "80d8212a490d",
-      "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3HSAeoBQVVfeXFMT2FWaHBFYUs5Q2xHSnJPSEk4TklaY29RTWFrdjVzc0xVTnprTnNhS2txVjRnaUJNRVFFSWRNRm1Wa3hrZXptbHZkc3BDR2JzSjNyQUUzazN0VlB4cEY5dDJsdkFoYXF6TmpuZ1B5UVhfSnc3OVo5M3g5VUZuSGZyOURoUVJBczY1WWZKX2pXRUhzNHdzbnlva1VOVWQ5VC1hOUZ6OFlfNmNWUnY1MEg1cGNydHZtM2dfUUZ2OGFSdHdTMWxscEhHRy1MNncydUN0RW9oUVR6dlJ3WTJIdXRseVhNckZhRXU3N1F3?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2025-12-10T08:00:00+00:00",
-      "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
+      "snippet": "Google launches Credit Card with Axis Bank — Here's what you need to know about Pay Flex Livemint"
     },
     {
       "uid": "8080f012a5be",
@@ -123,6 +138,15 @@
       "issuers": [],
       "published": "2025-12-10T08:00:00+00:00",
       "snippet": "Zaggle Signs 5 Year Referral Agreement with Mastercard to Launch New Credit Card Solutions India Infoline"
+    },
+    {
+      "uid": "80d8212a490d",
+      "title": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnB3bjFKVDFhdkFSbjcwZllkYkkxWVZ6LUdYeGVQWjc4dW5xOW82Rm9MeGVTUkNzbDA2STQ0WXNRSHFWUHljZXU5bXBhbHNwVngxZVRIRElfaHY4NFhqRzBkMGFyZ1dBQWgyV3RjNkJyU0ZMX19pRXBiT0Y4Zlp4RXQ0Nm9aSUtQYXpwbDVzOUdpM1NDZ01zLVdIUmJEdUw4SVRldjRHRmlOdFZRQVBEdFlOZlN6dFZRU3ZRVHRLbkp3SVFnQU9rMGc3eDJVdXhmeGdRYzF2VVRzNGRVcXljVEtEM3HSAeoBQVVfeXFMT2FWaHBFYUs5Q2xHSnJPSEk4TklaY29RTWFrdjVzc0xVTnprTnNhS2txVjRnaUJNRVFFSWRNRm1Wa3hrZXptbHZkc3BDR2JzSjNyQUUzazN0VlB4cEY5dDJsdkFoYXF6TmpuZ1B5UVhfSnc3OVo5M3g5VUZuSGZyOURoUVJBczY1WWZKX2pXRUhzNHdzbnlva1VOVWQ5VC1hOUZ6OFlfNmNWUnY1MEg1cGNydHZtM2dfUUZ2OGFSdHdTMWxscEhHRy1MNncydUN0RW9oUVR6dlJ3WTJIdXRseVhNckZhRXU3N1F3?oc=5",
+      "source": "Google News / launch",
+      "issuers": [],
+      "published": "2025-12-10T08:00:00+00:00",
+      "snippet": "Pay Day just got pricier: New credit card offers 37.5% Salary Day rewards Business Standard"
     },
     {
       "uid": "36d8c7a77d03",
@@ -143,17 +167,6 @@
       ],
       "published": "2025-11-04T08:00:00+00:00",
       "snippet": "Share credit without losing control: Scapia-Federal Bank launch add-on card Business Standard"
-    },
-    {
-      "uid": "eddd98191d2c",
-      "title": "Fi and Federal Bank Unveil MagniFi – India’s Ultimate Weekend Credit Card - FF News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ21ycFM5MEI1VWRaeXJXRnkxeFd1VXBmR0J1UWd1bkVVdUhrRWViMTVGQTZRaDdzc3VzYmdOcFJWZVZlNEU2dDlWV2JyQlpBRmJjWUtLcUdTcDFkWEx1Uzk2aGEwTFByYlF5Nk1qVDFQWEI1ZFEzRW9qYnQ3OGZrelB5WlVkbHNsWkRIZXc2SERpNVhNME9yT3lB?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2025-10-13T07:00:00+00:00",
-      "snippet": "Fi and Federal Bank Unveil MagniFi – India’s Ultimate Weekend Credit Card FF News"
     },
     {
       "uid": "c35b2589b93b",
