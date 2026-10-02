@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-01T09:19:16.063Z",
+  "generated_at": "2026-10-02T08:52:35.569Z",
   "source": "deals.json",
   "issuers": [
     {
       "slug": "amex",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "axis-bank",
-      "count": 63
+      "count": 62
     },
     {
       "slug": "bank-of-baroda",
@@ -32,11 +32,11 @@
     },
     {
       "slug": "kotak-mahindra-bank",
-      "count": 24
+      "count": 37
     },
     {
       "slug": "sbi-card",
-      "count": 56
+      "count": 60
     }
   ]
 }

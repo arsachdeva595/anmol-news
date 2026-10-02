@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T09:19:15.781436+00:00",
-  "count": 30,
+  "generated_at": "2026-10-02T08:52:35.393396+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,8 +10,20 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-01T09:19:02.152734+00:00",
+      "published": "2026-10-02T08:52:21.299840+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
+    {
+      "uid": "d5926f67fdd0",
+      "title": "HDFC Bank SmartBuy Credit Card Offers",
+      "url": "https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/",
+      "source": "CardInsider",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-10-01T09:30:46+00:00",
+      "snippet": "HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers. Depending on the card type, users can typically earn accelerated rewards (such as 5X or 10X) on eligible t",
       "severity": "major"
     },
     {
@@ -37,6 +49,18 @@
       "published": "2026-09-23T05:00:03+00:00",
       "snippet": "While earning rewards through a credit card is a major factor to consider, points redemption is equally important. A while ago, Axis Bank was a favorite among credit card users for EDGE Reward Points/EDGE Miles redemption, as cardholders could transfer their rewards to popular partners such as Accor",
       "severity": "critical"
+    },
+    {
+      "uid": "5cce26f8729b",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbVVKNEMtQTVGQzZZZG92TGhiTHBIZVlUS05La0VfZE9KbjladTg3c0o4VzJjX3FSbS1iTnc5U240VmQ3NmFRS0M0LVpXdWNSZW1ZaTZMdDFMb0dIdlhlRzBwbkF2MXVDb2FmaDd4UjZ4TktydXFNLVllRzBHZGVvb004R29oc09pejZGN2owQzFQS0lVZ21INC1XMkpQdGtwSVl0NUNOVmh5eWNORFB5c1BKaGNXT2JBTXZRaVE4eXVCbzUydzJNNjBSMVR3WkpTLWxMQ3lkcHJ0ak5sdUxTSdIB5AFBVV95cUxNTWZtLU40WDRCdjAwR3hWXzA4OWtmRDF4OTh6U3ZZWUJMRGd4Y0tlcWdrOWtDMFltRmt0amRNcHktNXpvTDhNc3ZhY1dIdjNTaDI0bnJ6MDZ2ZjZITDJvWk1DM1Q0TThXc3lEZDQ2TlVSRnJvMTkzSmhrSU1hX05BQlQ5Nk1pQmlVdEYta3NZajhEMTBxdHp2VndCX2lrTWdTQ0FCMjFOak5uRS13U0VoNkRySktFM1oxZXZpU242Z0RZY3hUdk54VDdpZUZrNnlnOHZTN2pVYlJyNUYtdFdpaTltcjA?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends The Tribune",
+      "severity": "major"
     },
     {
       "uid": "0d8b993ee7fc",
@@ -86,26 +110,26 @@
     },
     {
       "uid": "6f32b4046ad4",
-      "title": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 - cnbctv18.com",
+      "title": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkswUjNEWW8tRzY2NkxPTGpQR1JGYUEtUjFlNkdmMV9oS1FaQnp5Z2tadXRBSWo0VVhxVG9iY1g0QzhSLW1wdllaQmJtU1B6dXM5YWhaVk9aZU0xR1BXX3hyVWtpSXVfSHJrdWRuRXhVQzdwSUJuTXVhZlpoWGNjd2ZPQ09wNHhKYzVmUURHQ2xqTzVxNzh0UUNIZTVuUy1aWUwtUmQ1TXRnYmdTRXpCNXFpZWlEOGtRQmxyUVpSWDN1eEtOYVBEeDI3b09EV1dXUFHSAdcBQVVfeXFMT2dmVjloVU9fbHlOOVcxUDdmM2dGeG84OXVQUHBkM24tUnoxZG82dFFPdDhPRnAyZGhiWmZuOTZGdVFMTTRrckhPLUNiclBSQWNaZy0xczNCYlljRjVnNlVKQ2FuZlYzTE9FUnNUVW9uZVl4OGdyTHdZNHprVXpYSnM3ZU53bjlYZEluZTdseDlhM21GSWo2VkY1MWxHRUxEemJpZktIRXh6SFNiaTRGYlBiM3k1YzhQbGUtbXVYWE5nM1RvQU5vaF9mZWx4WUZkSkFiNUZGQ1k?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2026-08-18T07:00:00+00:00",
-      "snippet": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 cnbctv18.com",
+      "snippet": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 CNBC TV18",
       "severity": "major"
     },
     {
       "uid": "c88348b6e626",
-      "title": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition - Live From A Lounge",
+      "title": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition - livefromalounge.com",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ3pzNkdUSzZTcUJzekNPV0FDMGtha1ZfQkNHRXVqengtb09RM1FKTk4zQnE5eDlKYjlhQnpvQnNLbHdGdW0yb3YtcTl4eE0welg4U0tIcmJfVkg0QVdnRkN1T3NrZW9seUNVQkZ1MzJUYTZQWkswQU1vUlprckdsNkV3Z2dmcVFjM09mNWJiQWxvS0JHT2RkaGFKX1ZDVmZ3cFJiaW1qVGZUYk4yY3ViSm80QzMtbVplUXJjRGk3d25oYWtNWUhGcEIzYzFFS3NSeVRCd21uQkk4WjFsSldXWl8yNTg0amQwT1N0R3pRMGU4b2pCczQ4ZjA1QjU0MEQtUXB5YXBONXFONUh3T2JNeEZMd3Y5REp2c1d2Rg?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "American Express"
       ],
       "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition Live From A Lounge",
+      "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition livefromalounge.com",
       "severity": "critical"
     },
     {
@@ -134,26 +158,26 @@
     },
     {
       "uid": "c0a89db48e61",
-      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - NDTV Profit",
+      "title": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You - ndtvprofit.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeUlBWl9MOXRsVjJQNW0xQTFYTDVSOUpMWC10OTRrY2FTY2ZFUzI5ZHFUYllUcHFzY2QzSTNtZklOZ29oMVpadmFtZ2hHb2I5ZVQ3d2YwaWNvLUgta0NGX3VzMVpXR0hQcjNTSkFaSER6bDZzdHVpT0t1TXBYUnU5TW5tdmJJck5UVkQ1TVFJVWpMU0JxRXl3Y2tSdDF2cFl6eTUta1NXdjZmQkNzVFVLcUdTS1ctRmM2SzdYN2pMNDZ6ZVlnMl9jcTRwcC1ubFFGc2dsbEhxOGFNUGpXM2I4eEU5enFZakplY3BjYkJUZjk5RHZ0MTI40gH_AUFVX3lxTE9KTDJzTExzaTF2VE1wWWJqcGpQMkQ1MGFyRzBrdXBjR1paZ2EwQUJtOTUxR0I3eG9CR2FianZSNE5XTG12OE9aVEhRT1ZtcEdKSUQycHJLc0ZzOVNXNlREU0E5ZzN3SEJ4Q3BVX1ZXZjQ0RTBoVTdaYkhxTDhwYXFmS0pCbXVfaEY2d2ZjNUV4RGFPS3BKal9paWxodHhpRFVFTTNuaGVVN2NOeFJ0cGwwLWhDTTkwWlRuREVHd0duV2xteUxoQU9sR3pSZU5JSXdrSkEwUjI1SmhMR0tCaWN4OWF6bkVxWXgxbkNxaGFnaVFjSkFJdkpJdzJycXg2RQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You NDTV Profit",
+      "snippet": "Have A HDFC Bank Credit Card? SmartBuy Brand Voucher Rewards Capped From July 1 — What Changes For You ndtvprofit.com",
       "severity": "major"
     },
     {
       "uid": "5af20fd2ff56",
-      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
+      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - livefromalounge.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
+      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today livefromalounge.com",
       "severity": "critical"
     },
     {
@@ -170,46 +194,46 @@
     },
     {
       "uid": "316a5a06996a",
-      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - livemintmoney.com",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
       "source": "Google News / benefit",
       "issuers": [
         "IndusInd Bank"
       ],
       "published": "2026-06-05T07:00:00+00:00",
-      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details livemintmoney.com",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
       "severity": "major"
     },
     {
       "uid": "51eb98d6ec3f",
-      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - livemintmoney.com",
+      "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
-      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July livemintmoney.com",
+      "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
       "severity": "critical"
     },
     {
       "uid": "a25b568788f2",
-      "title": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access - News18",
+      "title": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access - news18.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS21pbndibS1jVlQxRmZCbUUxMnh5ZGEzM01pay1oLTVDcFotc3NxeE9CRTgwY3QtQmkyb2lrRldqRk1KcGhjNjBQaGV2TkRXaGotX3kwaUQ2Q0V0WE9GYk52X0pyWm94SXJId0pSQ1lYVll6TVpYSGNPbC1sTUVtSVRDQzhmMW5KUE1BOEpFdlVqaUU3UnRGTUxIZWFlMmNlQnhvQWdHWHJEU2dDMnZ0a0g5TU5jcllrcUtnRE5LYTlib25lT1NPRW0zbmkyTktzRUEzRzZpdnFQNG5pWFVELTAyei13SndKdjJv0gHwAUFVX3lxTE0xQ2dWVGpBRlg0ZElxMkxmOXE1a2p5a2ptc3NhLXNpZXEwT09fQ3Vfa2lveUpxRHNzRUZqdkhBc0FBNnhZVVdwX1o2aU1VNDMxZWwtcEdzX2d3SFdBZ0ZUNlZlRHYtdWQ2dGszTTdEZUpDV2NCWGJ4VElOakN0WG5yLTNOckhTNlF3VlRfb181RExvdlQ1VlAyaG9DeWhJOEF4cks4SGNWMUdTMmtCWm9EN3FET2tVclJCSkg1c29LUThKYWdqQWpRUjg5TE9fYkJUazQwUUN2V3NPYzlNeTdaREhwRzZXbkpITmdHNzhjSQ?oc=5",
       "source": "Google News / benefit",
       "issuers": [],
       "published": "2026-05-28T07:00:00+00:00",
-      "snippet": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access News18",
+      "snippet": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access news18.com",
       "severity": "critical"
     },
     {
       "uid": "056d24fc97c5",
-      "title": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know - cnbctv18.com",
+      "title": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjItMEVVd2dGdlZfbTVXNldaQVFUTW00ZC1kZTVMdnlCTng3eGlFNXJUb3V5Y2lIcWozSzFwWll0WmlvOUptbWMtc2ZKSkU3Y1B3Zjdzcy1fY0hBT0ZMNEE3WUVzWHZDM2JRMDAydFJQczFONVdHakM0Vk5CQ0tUUnhWaUhyQWs0ekhGVld5UnliNDNSbmlSSElxUnBFcERIX1AxY25OanpjMXFkc1ZPc2dQbjJzTF92a004bkF2dHZzMFlubGdfLXp30gHPAUFVX3lxTFBwZzIxWklwbTdETko2clBweVM1RGZ6V3BhZjJZamszeHl6dlRsS05xQy1oRkEwYTdydjIwS2VXaWY5V0cyN29BTXpDdW5qdF93cEZnM3BpUjdtdDBMZkJiNjU2c0NXWE16elo0TmE0Y0lHVVdMT1dScThZc2o1YklRQU1EVGhGd0VKOHBKWUsyUENVMkJqU2RaQ0lBSVROQVQ3MWVLWERTNFplTHAyMkZiWlZwT2FSaUlLcDZyU0d3ZnBDWnZWS2oxeS1rNXZyVQ?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-05-18T07:00:00+00:00",
-      "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know cnbctv18.com",
+      "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know CNBC TV18",
       "severity": "critical"
     },
     {
@@ -226,48 +250,48 @@
     },
     {
       "uid": "ba8476c40031",
-      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - livemintmoney.com",
+      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here livemintmoney.com",
+      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
       "severity": "major"
     },
     {
       "uid": "e1c3c58360dd",
-      "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - cnbctv18.com",
+      "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "HDFC"
       ],
       "published": "2026-04-06T07:00:00+00:00",
-      "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards cnbctv18.com",
+      "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18",
       "severity": "major"
     },
     {
       "uid": "fd3b6890bf8e",
-      "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - cnbctv18.com",
+      "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-03-13T07:00:00+00:00",
-      "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates cnbctv18.com",
+      "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates CNBC TV18",
       "severity": "major"
     },
     {
       "uid": "66038b0414b8",
-      "title": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed - cnbctv18.com",
+      "title": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWDVTZzFhcXBtNmp4ZnkzUm9zT2daM2pDNzNzUEZtaWJxdEtUdWcyT1FUYTUtdE1pN2xmMUwxZlFxM2NyZTUyZmN5TU9jZEl6aHJSQ3dST0V4N2pNZ2I0ZFg4YUVpazdGbHpYeF9LZC00Vm5MY2Q4ZXRPVTlDS3RpVTFoQXZlY2ViSExHb0p2c0FseE4zSnd2MzFBWGszR2s5MG9PRzBpLWpsTnRsR1RsdGk4c0oyUWI3Vkdya1U4bXNHWEljSWIwR0Rha2l0QWtnemxkWVl0aU1kYy050gHiAUFVX3lxTE9SRVdWcldYVXRfaU5RcEhKRGJvdVlRRXNKYjN4c1g4ZERqUDZ6X2hUWVBZOEx5MXExZXZJN0lTcktJV3haWGphMFRyMVhLcEdYUzRpMldwd2lQc2l4V0VIWkNFQzhIUHdyYlFYeFVMdzVPcmk2VVotMllHMUs1X01DVTVPZVR1OTJsYjRsNHNPWjd3Z2dhMTRjN0xTRE5vVkpzQnVwWTM1dndLUnp3S0xtX0R4LXdxbmJ3dW1LNjF5Zi04MzgyLTBOdDJyRTd0Sk5JTHhyUzNWQWNqTi1TREtrOXc?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2026-03-11T07:00:00+00:00",
-      "snippet": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed cnbctv18.com",
+      "snippet": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed CNBC TV18",
       "severity": "critical"
     },
     {
@@ -284,14 +308,14 @@
     },
     {
       "uid": "fe5bc2719360",
-      "title": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 - Live From A Lounge",
+      "title": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 - livefromalounge.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Va0J1bzV6c1VqTkF3Z3QyaFc3VDE0RzFiS3dmcnpqX2VSRjJXd2RFRUI4UnpqNGo4Tmplc2xJZ3JoQU41LWx5djBzLVZnNXAwX1VxajJBTFNSbk1QOGFUUXBBZE9Zb2xaZ2swTXdYTTRSc0Z3?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
         "Axis Bank"
       ],
       "published": "2026-03-10T07:00:00+00:00",
-      "snippet": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 Live From A Lounge",
+      "snippet": "Axis Bank’s Airtel Credit Card Devalued: Lounge Access Removed, Cashback Structure Reworked from April 2026 livefromalounge.com",
       "severity": "critical"
     },
     {
