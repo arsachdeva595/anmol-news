@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T08:29:03.404959+00:00",
-  "count": 30,
+  "generated_at": "2026-10-04T08:41:29.460165+00:00",
+  "count": 31,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-03T08:28:49.756050+00:00",
+      "published": "2026-10-04T08:41:11.730099+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -49,6 +49,18 @@
       "published": "2026-09-23T05:00:03+00:00",
       "snippet": "While earning rewards through a credit card is a major factor to consider, points redemption is equally important. A while ago, Axis Bank was a favorite among credit card users for EDGE Reward Points/EDGE Miles redemption, as cardholders could transfer their rewards to popular partners such as Accor",
       "severity": "critical"
+    },
+    {
+      "uid": "bb7a2c24ec6e",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOFZNYVp4cEkta2pMb1RuWUc5TG1jUDNyeTYwcEk5S2s4aUFjOVpRbVZOS0M1ZEVIcG41eFFObUlzX3N1Sl91UmdxcWJHbmhtTnFJT1phRXZXeGRqbXQtM2U5Yzk5YUowVC14TWxpWUNRMmdpWkVPUVdncFhvYVZaWFpyNnJmSWxTWXFjd2xrajYxSjlpalhVSGt0SEE2a21YcXAzazJjcWRfcEdibGF6UUk0ODdxTlFpcXFPZVpCYWlvSlh3aHEyY05NVTNDaUoxY1JJazRVckU2LTg5VGtsYXFFYw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ANI News",
+      "severity": "major"
     },
     {
       "uid": "0d8b993ee7fc",
