@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T09:09:31.611787+00:00",
-  "count": 33,
+  "generated_at": "2026-10-08T09:22:15.959147+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-07T09:09:13.919006+00:00",
+      "published": "2026-10-08T09:22:02.065661+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -49,15 +49,27 @@
       "severity": "critical"
     },
     {
-      "uid": "5cce26f8729b",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbVVKNEMtQTVGQzZZZG92TGhiTHBIZVlUS05La0VfZE9KbjladTg3c0o4VzJjX3FSbS1iTnc5U240VmQ3NmFRS0M0LVpXdWNSZW1ZaTZMdDFMb0dIdlhlRzBwbkF2MXVDb2FmaDd4UjZ4TktydXFNLVllRzBHZGVvb004R29oc09pejZGN2owQzFQS0lVZ21INC1XMkpQdGtwSVl0NUNOVmh5eWNORFB5c1BKaGNXT2JBTXZRaVE4eXVCbzUydzJNNjBSMVR3WkpTLWxMQ3lkcHJ0ak5sdUxTSdIB5AFBVV95cUxNTWZtLU40WDRCdjAwR3hWXzA4OWtmRDF4OTh6U3ZZWUJMRGd4Y0tlcWdrOWtDMFltRmt0amRNcHktNXpvTDhNc3ZhY1dIdjNTaDI0bnJ6MDZ2ZjZITDJvWk1DM1Q0TThXc3lEZDQ2TlVSRnJvMTkzSmhrSU1hX05BQlQ5Nk1pQmlVdEYta3NZajhEMTBxdHp2VndCX2lrTWdTQ0FCMjFOak5uRS13U0VoNkRySktFM1oxZXZpU242Z0RZY3hUdk54VDdpZUZrNnlnOHZTN2pVYlJyNUYtdFdpaTltcjA?oc=5",
+      "uid": "ff15272197d4",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbk5WMHZrOGZoQmpNeHMtUEx0aHJKMkp5Q0VYZmt1VnkwaWtyXzNFZkp4Y3lsS05abzFqZ3p6SHZyenB6WlFsY0w5bHJsYk8zcUhqN3FudVJTaDdPX1dBYm9EWGVNSzhLMUNwOVZ6eUJCQ0Nqb1lVbVpCYTd5SWhlX1F1UmRWekpWcTFSdDJlNlBIaWN1MzFSUDA4RDFmZUNGbDdQUUpldjBJWjg0dG02QWR6OTJlWERQLXRvNWdITmxjdDdBU1M1Sjg4TnZOS2xyYzc5MUZWRFF0Mk8wYW9yVDc5TDFnY3lEVEUwOHV6UVdGRDZhdGpXSVJ0LWswX1BVVEYyYnhrd3JzWUNm0gGSAkFVX3lxTE1PRTJwaktxSlFFYVY2c25jcTZJLTJiLTMtU1BzbnFZVng1cFM1M1BuUEpDbU9lazB2elFnX3BINDg4SklYSi10U2Zxdm1wUngxVkpUQW94bFZQZkJZcEhzcXVsTG9EYXMtZzVobl9qRnhVSTNZSXUybFNTVUZ4cng1T1V3LXpad3RmZXc2M3RWMlNtZEc4eFcxdkxkd3ktaUVkMGJMbHd3N1hFV0JBNHcxdjlwSjNacUVUc3puaWhyWG4yT1ZKMXJxZmptRkt1OG1HX1ZOdEg2c2EtbU91MEZCck9GZGZBemc0Z2V0NEhMQVZ6QXNyWkNRTHZlc08weUcxYk9heGNoV0pZNjYwcG1ENEE?oc=5",
       "source": "Google News / offer",
       "issuers": [
         "Federal Bank"
       ],
       "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends The Tribune",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends Business Standard",
+      "severity": "major"
+    },
+    {
+      "uid": "2f3480769ddd",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
       "severity": "major"
     },
     {
@@ -191,6 +203,16 @@
       "severity": "major"
     },
     {
+      "uid": "8951d125b1e7",
+      "title": "4 things cardholders should do to avoid credit card devaluation risk - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaktYRGhsQ1kzMGFheXdsNlB2cTBSSVhCUWVmNnI3ZFczYWVpUG5talpkVjJmMWdsNGpPQVNaOEZGdzFxRWgtMDVONERRcDJiUm52cTZTbTU5ZFppRTBHNTZXd3k5MDNQRTFjN2liUm5oSXdNQlJrYjU1NUxITUdFb2pQcjFYRjNEcTFiMmNzeHlVaFpwV0dUMnZhRlpScW9OMWl5QnZMZDVxb25hWXNIME44dTVOd2VBYmRoRE51Z19WdW1xYml4WEllVEx2YTJLWm82LXNubw?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "4 things cardholders should do to avoid credit card devaluation risk Upstox",
+      "severity": "critical"
+    },
+    {
       "uid": "316a5a06996a",
       "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
@@ -210,28 +232,6 @@
       "issuers": [],
       "published": "2026-06-01T07:00:00+00:00",
       "snippet": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July Livemint Money",
-      "severity": "critical"
-    },
-    {
-      "uid": "a25b568788f2",
-      "title": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access - News18",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS21pbndibS1jVlQxRmZCbUUxMnh5ZGEzM01pay1oLTVDcFotc3NxeE9CRTgwY3QtQmkyb2lrRldqRk1KcGhjNjBQaGV2TkRXaGotX3kwaUQ2Q0V0WE9GYk52X0pyWm94SXJId0pSQ1lYVll6TVpYSGNPbC1sTUVtSVRDQzhmMW5KUE1BOEpFdlVqaUU3UnRGTUxIZWFlMmNlQnhvQWdHWHJEU2dDMnZ0a0g5TU5jcllrcUtnRE5LYTlib25lT1NPRW0zbmkyTktzRUEzRzZpdnFQNG5pWFVELTAyei13SndKdjJv0gHwAUFVX3lxTE0xQ2dWVGpBRlg0ZElxMkxmOXE1a2p5a2ptc3NhLXNpZXEwT09fQ3Vfa2lveUpxRHNzRUZqdkhBc0FBNnhZVVdwX1o2aU1VNDMxZWwtcEdzX2d3SFdBZ0ZUNlZlRHYtdWQ2dGszTTdEZUpDV2NCWGJ4VElOakN0WG5yLTNOckhTNlF3VlRfb181RExvdlQ1VlAyaG9DeWhJOEF4cks4SGNWMUdTMmtCWm9EN3FET2tVclJCSkg1c29LUThKYWdqQWpRUjg5TE9fYkJUazQwUUN2V3NPYzlNeTdaREhwRzZXbkpITmdHNzhjSQ?oc=5",
-      "source": "Google News / benefit",
-      "issuers": [],
-      "published": "2026-05-28T07:00:00+00:00",
-      "snippet": "Is The Golden Era Of Credit Card Ending? Why Banks Are Cutting Cashback And Lounge Access News18",
-      "severity": "critical"
-    },
-    {
-      "uid": "056d24fc97c5",
-      "title": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjItMEVVd2dGdlZfbTVXNldaQVFUTW00ZC1kZTVMdnlCTng3eGlFNXJUb3V5Y2lIcWozSzFwWll0WmlvOUptbWMtc2ZKSkU3Y1B3Zjdzcy1fY0hBT0ZMNEE3WUVzWHZDM2JRMDAydFJQczFONVdHakM0Vk5CQ0tUUnhWaUhyQWs0ekhGVld5UnliNDNSbmlSSElxUnBFcERIX1AxY25OanpjMXFkc1ZPc2dQbjJzTF92a004bkF2dHZzMFlubGdfLXp30gHPAUFVX3lxTFBwZzIxWklwbTdETko2clBweVM1RGZ6V3BhZjJZamszeHl6dlRsS05xQy1oRkEwYTdydjIwS2VXaWY5V0cyN29BTXpDdW5qdF93cEZnM3BpUjdtdDBMZkJiNjU2c0NXWE16elo0TmE0Y0lHVVdMT1dScThZc2o1YklRQU1EVGhGd0VKOHBKWUsyUENVMkJqU2RaQ0lBSVROQVQ3MWVLWERTNFplTHAyMkZiWlZwT2FSaUlLcDZyU0d3ZnBDWnZWS2oxeS1rNXZyVQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-05-18T07:00:00+00:00",
-      "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know CNBC TV18",
       "severity": "critical"
     },
     {
@@ -337,18 +337,6 @@
       "published": "2026-02-27T08:00:00+00:00",
       "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
       "severity": "major"
-    },
-    {
-      "uid": "27e23e04f49b",
-      "title": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDdWZnhHMzRTNTJjTWkxbmg1R0NKYWpSdF95Q1NvYzF6Uk9PUTBFdUtRV1hwUGJOdFNEeFY2Qk9idG9qRUl3UHFhQk1vbjF4V1lvQXVpNDFVUG9kSmVvcFluajIwMHZDNlhXMGR6ajZ4OVlwcDF3Y3JscktDc21IeC13YkFTeEhFZ2wxMVZRWmpiTlhodmw4Nl9aTWd4LXh3ekl6RTcyWkxZeUVPdFUwMHlvdTVVZnFKdWQwVVRHTXlSZHMxUllvWmg1bULSAdIBQVVfeXFMT2pETmJKYlB5YTlvRjJjTmk2YXBSZ21mQkNaUnZoTzgwRmVaaG82NWVQeThKRlNZN2hxSGo3Z0Z0eUVDcFAyT0JtZ1FrTVFDRUswaFJEb0lfQ0VZWmVfOWRhWG9ybkdFUkExZVhFWk5ZcEZMRTloSmgwd2F6NjJtLWh6OURjd1BGejRfQnVfSklvbzUwQ0NpWmc0LWV1N1hZUzJyQkpOVDJXNkR2ZVEwOWZVY3k2M2FzR043YXFtSmdlQWgxMnBCRjd2QTh5WVdVZ2t3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-01-15T08:00:00+00:00",
-      "snippet": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 CNBC TV18",
-      "severity": "critical"
     },
     {
       "uid": "583699af58bf",
