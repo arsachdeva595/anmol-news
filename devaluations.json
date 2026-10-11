@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T08:51:07.968718+00:00",
-  "count": 33,
+  "generated_at": "2026-10-11T09:12:41.861428+00:00",
+  "count": 30,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-10T08:50:51.415828+00:00",
+      "published": "2026-10-11T09:12:27.256988+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -58,18 +58,6 @@
       ],
       "published": "2026-09-14T07:00:00+00:00",
       "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
-      "severity": "major"
-    },
-    {
-      "uid": "2f3480769ddd",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
       "severity": "major"
     },
     {
@@ -223,18 +211,6 @@
       "severity": "critical"
     },
     {
-      "uid": "960ac5da6062",
-      "title": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOLWhfcFdoaVJQRmZnZVRIOFJGTnR3SVBoNjN2TXFBOEI3eGttRjJFeEdwUy00TUNjQUR5SnhVUnd3ZkQtc3BiZldRRWFhUzNlcUhiaDE2d045MUxFdlJiejZrYXRzaDdHNzNKXy0zN0tfeDBHMzNZdFR4anlkXzJESnh0Ym9SaHNGN21BcklRakZadDNORGZJdXNPbDFTeC10N2dYd0QzQWVPX1F3eTFtS05vTlR1XzlZcGxSMUhGbW5ZVFVOaHpoRmNzd29QUDN3UFk5M09ZeGwyNW82TlptX3p3WDZMLXdxOWtPVmFIdGlnOGUzeDhWd0lfX1Y3S2pwLWEyVENPSVU0MUZqOWlmUVFHaWg2SDA5RzRBdk43X3lwcG1Wa2pIS2NURmo3MFEyYm9ZS0hhak1tQkhq?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-04-27T07:00:00+00:00",
-      "snippet": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules The Economic Times",
-      "severity": "major"
-    },
-    {
       "uid": "cab49c17e317",
       "title": "What to do with Amex Platinum Travel in 2026?",
       "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
@@ -336,18 +312,6 @@
       ],
       "published": "2026-02-27T08:00:00+00:00",
       "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
-      "severity": "major"
-    },
-    {
-      "uid": "9857f803c756",
-      "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2025-05-23T07:00:00+00:00",
-      "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
       "severity": "major"
     },
     {
