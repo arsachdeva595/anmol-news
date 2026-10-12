@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-11T09:12:41.862344+00:00",
+  "generated_at": "2026-10-12T09:39:01.150725+00:00",
   "count": 19,
   "launches": [
+    {
+      "uid": "91e6ea5c8a68",
+      "title": "1838 Reserve ICICI Bank Credit Card Launched",
+      "url": "https://cardinsider.com/blog/1838-reserve-icici-bank-credit-card-launched/",
+      "source": "CardInsider",
+      "issuers": [
+        "ICICI Bank"
+      ],
+      "published": "2026-10-12T06:00:59+00:00",
+      "snippet": "ICICI Bank has officially launched the much-awaited 1838 Reserve Credit Card, an ultra-premium offering designed for high-net-worth individuals. While the card has plenty of exciting benefits, its steep joining and annual fees mean it will likely appeal to a select group of customers. The 1838 Reser"
+    },
     {
       "uid": "f852326bc695",
       "title": "IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders",
@@ -56,15 +67,6 @@
       "issuers": [],
       "published": "2026-07-22T07:00:00+00:00",
       "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
-    },
-    {
-      "uid": "4631d06f04a8",
-      "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRtUUFWbk44enJMLTNCSXBRVVlCZHA1bjlEUmdnSm1Ua2tSZVZfREY0MWU2WFNIU005WEt1TnR1NE5oMmtmTG1xTEV2dFdxTTJxQ080STg4YXJ2b2w2UjlqS25EUEJ4dG9BZXpKOEZUTFdUc1FLR2hBZHh4b2FhVEU1aUFtQ2wyOWNHUkRjZEl5SWlLckpEVXlSMUg0c1l6Z2loTHN0RVp4TFJkQTFfSHpzLXpUUVJ5Wmg2WDhibGVYbV9wd3hXYmZPT2lpeGRjSElEVtIB2gFBVV95cUxQVnhUekU0X0xqUEtoMUwzblV4T0owNzZJV1RqM1RzM1VKck85eUtZSXVrTmpoX3c2cDllcTZOTGdCTFB4Wl83MEM3MFFQQTBFTl9CMjN3Wk9SYlByTEdpT3ZnNmRPTjFmdlU5U1Rqb0FtSl9IOVJ5UXR4ZHRMYkpTbktUQ0NacFNQUF9OODRZWVYzcWYzY3l1WFlyZW45Y2RjOUhycDNUbTdPMzZOamdXVWlLNDA4Q2xUM3ludjluWF8tNDBTUU4xVzBXTU1vemhQSmptM1hrVGltdw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [],
-      "published": "2026-06-25T07:00:00+00:00",
-      "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card ThePrint"
     },
     {
       "uid": "cd84d0bc8e29",
@@ -182,17 +184,6 @@
       "snippet": "Amazon Pay and ICICI Bank Renew Partnership, Enhance India’s Most-adopted Co-branded Credit Card FF News"
     },
     {
-      "uid": "5e7afb7bfa89",
-      "title": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUXZIN2h3bnZRenhhZjJMWXJsTjdxWE5KX2t2MVN2bzlpckgyRXpUWk14LVdMelBLSEF3NlpiV3RmR2UzeS1PQ0EwOHFmaE1KOFdxVXhCSGZ2QndrWnRIb2NrRTV1eTJXTGRHa296bERzWWZCYi1xYnNIeXNYc0N6Z3BuTnJOSDBhYjZiWXNlZ3hKNTBPNnhubUFob0VURVM5MVQ4TXBCNzVmNTJHVkpnUDA2TG9zTmoyQ2Ffa3hhSmdDZFpfSDNPaENWQ0lvWFg1a0hUeXpkcWt3M2FKWGNqQ21FaTA1M29DR3BuU1ZvM2xQU2xsMVdQdVRB0gH_AUFVX3lxTE1ZeHFsRmxuLUlORkxaQi1zQ1cwMlpOV2FpSXdabHlPN2F5ZFRiakVXSnRmVjRaVnNBUHFEaTZoQlpwbWkwS3c1UTNvMzZWZDdZVG41bHpXYTRkLWY5REJYcVlmSlVhQWNJRXg5SkFaVHZqdjNhcUNoSGpqTVVHVzBpVU5GWWpJZjN2STV2SjZpLWVqZldjWDlkV2pnWHRxRmRKTlRyTEdHZ05famdEQThjY1BtQVplUi1ZMjFXVEhiS1k0V2k4VTZLZ191ZG5vRjJ2WDUzSkJtLVBTdC12UEM0bGstNWUtU1c0ejJoeHdZRkRTUjBjRDlwS2N1TlNvcw?oc=5",
-      "source": "Google News / launch",
-      "issuers": [
-        "SBI Card"
-      ],
-      "published": "2025-08-18T07:00:00+00:00",
-      "snippet": "Banking-TieUp: BoM, SBI Card launch co-branded credit card; three variants unveiled The Times of India"
-    },
-    {
       "uid": "2b0fe3603910",
       "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
@@ -202,6 +193,17 @@
       ],
       "published": "2025-07-28T07:00:00+00:00",
       "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
+    },
+    {
+      "uid": "20fe08ccb291",
+      "title": "PhonePe and HDFC Bank Partner to Launch Co-Branded Credit Card - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25zSTFkbldBVGxaNHdHdDFzN19reEpQX3ZCYURELVlQbkhfRm1SSnV5NzhpSHBuZ2Q1MVg5NDdoQUVIcms2SE51eEI5Z2tLR3Y1aWJYMjdLa1VOSnBmRnZyZEM5cFgzVGxXQTF4QlJSclgwNEJLcUIyMl9ONE1QZ1pBYmFRS3pPVnphLU5aX1hWRVg4XzVaTVBqY1gwT29ULS0yNk1Wdk5UeUJVaGxlbzFhT2FNWHN1MWltbjVR0gHDAUFVX3lxTE1KN1lCU3dQVV9sSnFZQUJxV2x0bzU5NkxoaHY2ekR3eGU5bXlFSWl0NkVLN2tLVkVlU3BURHd0UTFFUjVtSVdPLTIxNmdMcjRhYWx5WGtER3lEUWE3M3R0aVdlY3o2YXl1Mld2UUxqVUpjN0Q0cF82VnM1SnpQZ1hDSG1iX0NoS2VlSnlKbUJJdzdxQzNPVUdpNkFJYVg5UUM1WlFWb01HQmNLUTNxSkx5V2t5R1JHdzJJYTR5U3MxRWt6UQ?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2025-06-26T07:00:00+00:00",
+      "snippet": "PhonePe and HDFC Bank Partner to Launch Co-Branded Credit Card Deccan Chronicle"
     }
   ]
 }
