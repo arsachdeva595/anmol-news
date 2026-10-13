@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:39:01.674Z",
+  "generated_at": "2026-10-13T09:41:56.481Z",
   "source": "deals.json",
   "issuers": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "slug": "hdfc-bank",
-      "count": 3
+      "count": 2
     },
     {
       "slug": "hsbc-india",
@@ -33,6 +33,10 @@
     {
       "slug": "kotak-mahindra-bank",
       "count": 36
+    },
+    {
+      "slug": "sbi-card",
+      "count": 1
     }
   ]
 }
