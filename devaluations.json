@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:41:53.042853+00:00",
+  "generated_at": "2026-10-14T07:56:47.593036+00:00",
   "count": 29,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-13T09:41:31.023004+00:00",
+      "published": "2026-10-14T07:56:33.533216+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -47,18 +47,6 @@
       "published": "2026-09-24T03:34:10+00:00",
       "snippet": "In September 2026, Axis Bank made major changes to how its credit card Edge Miles convert into airmiles and hotel points — and for Axis Atlas and Magnus for Burgundy users, this September 2026 devaluation is a heavy one. 😳  If you’ve been earning Edge Miles specifically to transfer them to airline a",
       "severity": "critical"
-    },
-    {
-      "uid": "0d8b993ee7fc",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
-      "severity": "major"
     },
     {
       "uid": "3deacba7b25c",
@@ -324,6 +312,18 @@
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? The Core",
+      "severity": "critical"
+    },
+    {
+      "uid": "6705aebf986a",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2023-11-29T08:00:00+00:00",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard",
       "severity": "critical"
     },
     {
