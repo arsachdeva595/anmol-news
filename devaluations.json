@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:56:47.593036+00:00",
-  "count": 29,
+  "generated_at": "2026-10-15T07:41:10.254300+00:00",
+  "count": 30,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-14T07:56:33.533216+00:00",
+      "published": "2026-10-15T07:40:54.436543+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -25,18 +25,6 @@
       "severity": "major"
     },
     {
-      "uid": "d5926f67fdd0",
-      "title": "HDFC Bank SmartBuy Credit Card Offers",
-      "url": "https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/",
-      "source": "CardInsider",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-10-01T09:30:46+00:00",
-      "snippet": "HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers. Depending on the card type, users can typically earn accelerated rewards (such as 5X or 10X) on eligible t",
-      "severity": "major"
-    },
-    {
       "uid": "a37007067418",
       "title": "Axis Atlas & Magnus Devaluation (September 2026): What   Edge Miles Users Need to Know",
       "url": "https://spendwisely.in/axis-atlas-magnus-devaluation-september-2026-what-edge-miles-users-need-to-know/",
@@ -47,6 +35,30 @@
       "published": "2026-09-24T03:34:10+00:00",
       "snippet": "In September 2026, Axis Bank made major changes to how its credit card Edge Miles convert into airmiles and hotel points — and for Axis Atlas and Magnus for Burgundy users, this September 2026 devaluation is a heavy one. 😳  If you’ve been earning Edge Miles specifically to transfer them to airline a",
       "severity": "critical"
+    },
+    {
+      "uid": "0d8b993ee7fc",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
+      "severity": "major"
+    },
+    {
+      "uid": "2f3480769ddd",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
+      "severity": "major"
     },
     {
       "uid": "3deacba7b25c",

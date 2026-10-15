@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:56:47.593604+00:00",
-  "count": 19,
+  "generated_at": "2026-10-15T07:41:10.255207+00:00",
+  "count": 23,
   "launches": [
     {
       "uid": "91e6ea5c8a68",
@@ -60,6 +60,36 @@
       "snippet": "Apple Pay launches in India for Axis Bank credit card holders on iPhone, iPad and Apple Watch t2ONLINE"
     },
     {
+      "uid": "5134d5dc47c5",
+      "title": "Amazon Pay launches business credit card in India - www.insideflyer.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWd1T3VxX3FIWHlKSGo3Q2NjRURWaWtwT0FHaXZHUXU2WGk0WnZCNmFrSVFySENXamduQTIxak5UZC1ENlgyeF9HSmpFQlBJbW15aGV2aFFwTW95N2ZuWmlQSzdqeWhzSlBJNUFCakpVakRST2xEdFpNZXVTMEUxeDJNaDExOUIyVXlOQg?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-09-11T07:00:00+00:00",
+      "snippet": "Amazon Pay launches business credit card in India www.insideflyer.com"
+    },
+    {
+      "uid": "fc97b26b90fe",
+      "title": "Axis Bank and travel fintech Scapia have launched the co-branded Scapia Axis Bank Credit Card for digitally native travellers in India. Available on Mastercard and RuPay networks, the card integrates payments, rewards and travel services through the Scapia - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44bkNuaFdNU1RYVlNWWlBmdV9XMTF5UnpJZUNncGJoaUVDTGhnQXJNS09JeHBnV3Bxc00tOHc0R0dhLXRZR2g4LWlsU0ZwZmZXbFE?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "Axis Bank",
+        "Federal Bank"
+      ],
+      "published": "2026-09-05T07:00:00+00:00",
+      "snippet": "Axis Bank and travel fintech Scapia have launched the co-branded Scapia Axis Bank Credit Card for digitally native travellers in India. Available on Mastercard and RuPay networks, the card integrates payments, rewards and travel services through the Scapia Instagram"
+    },
+    {
+      "uid": "ac8ff76d079b",
+      "title": "Samsung launches first Galaxy credit card with up to 5% cash rewards - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWtnMEU0elZObG9aRlFEdTRTQTBCQ2ZWeVc5YmF1WU5zUUhaZFdtZmxQaUR4Yldtb0s2b0swSWxiYkRXb3Bja2hEZ1BPR2RDUzZGQkxDRnJrcVc2UjZPcjFNUGdyd3pnY2gxYlpCLS1sSE9yOU0taHNjWktkN3dDSkY4c0RoYnJaVUJBUnE3WlRfQVcxMDB6NXREeTktVEl5RTZ2QmJQazV3RlpDY2hMY0hDekZjT1J1YkNpV0ZQYXQ5VXNoUFJQdTUweHVRLVYtX0RXcDNQZ0t4d0HSAeIBQVVfeXFMTzUxOFdxZ01kUEhRSzZoUHFRZWRncDNid3g2TkZDTEx0M3BvYzZDTWdwbVhHaHlIS3FsU0F4Uk8tS3BWNEtfRDhwd09na1RGbVgwM21wN3RZZm80bGFJSmExSG1EbUZtTnc0aVkwbDZSZllCNVh1TWpuQ015QTBFcXVWWUtZbWhjd3EtYU5famhJT21TRDdOeDBqQnhoUUU1S2ZSMVhvV254bTJqTkh0dGt3NGFsd2NBckFXSlg3VFBvVXN5WjVPN0NoMEhUMlM0N2J5a015QkNxSV84aEFtZWhaZw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-07-22T07:00:00+00:00",
+      "snippet": "Samsung launches first Galaxy credit card with up to 5% cash rewards The Indian Express"
+    },
+    {
       "uid": "4631d06f04a8",
       "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRtUUFWbk44enJMLTNCSXBRVVlCZHA1bjlEUmdnSm1Ua2tSZVZfREY0MWU2WFNIU005WEt1TnR1NE5oMmtmTG1xTEV2dFdxTTJxQ080STg4YXJ2b2w2UjlqS25EUEJ4dG9BZXpKOEZUTFdUc1FLR2hBZHh4b2FhVEU1aUFtQ2wyOWNHUkRjZEl5SWlLckpEVXlSMUg0c1l6Z2loTHN0RVp4TFJkQTFfSHpzLXpUUVJ5Wmg2WDhibGVYbV9wd3hXYmZPT2lpeGRjSElEVtIB2gFBVV95cUxQVnhUekU0X0xqUEtoMUwzblV4T0owNzZJV1RqM1RzM1VKck85eUtZSXVrTmpoX3c2cDllcTZOTGdCTFB4Wl83MEM3MFFQQTBFTl9CMjN3Wk9SYlByTEdpT3ZnNmRPTjFmdlU5U1Rqb0FtSl9IOVJ5UXR4ZHRMYkpTbktUQ0NacFNQUF9OODRZWVYzcWYzY3l1WFlyZW45Y2RjOUhycDNUbTdPMzZOamdXVWlLNDA4Q2xUM3ludjluWF8tNDBTUU4xVzBXTU1vemhQSmptM1hrVGltdw?oc=5",
@@ -67,6 +97,15 @@
       "issuers": [],
       "published": "2026-06-25T07:00:00+00:00",
       "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card ThePrint"
+    },
+    {
+      "uid": "2174ee97311e",
+      "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNC1IVWlfMmljR3ZKNTk0WHk1SG52LU9wOUlJc1NqcmZheFI2UVpPWWxtSE5sTUtBSks1SklsUHpMTHVxbWF6VS1ZSnY0RXpwbWx5VW9vU0NDTHlvUWR1RnJfNmdoSnZZb1hMMWtWSzNNa2NybEg3aURHdmdDeFBaTW5wNXUzRnU4WWV6UHBkMWlxNjA5Q3NTQlExci0ySy16T2F0amV4ZXRvdE5pak1UbGs0MzFXWFVQTXFmdW1aS3Y2S0h1OGxELWMyVFpsVndtQkZOVENuV2U?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-06-25T07:00:00+00:00",
+      "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card ANI News"
     },
     {
       "uid": "cd84d0bc8e29",
