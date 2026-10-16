@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T07:41:10.254300+00:00",
-  "count": 30,
+  "generated_at": "2026-10-16T07:30:15.215528+00:00",
+  "count": 33,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,8 +10,18 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-15T07:40:54.436543+00:00",
+      "published": "2026-10-16T07:29:59.888783+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
+      "severity": "major"
+    },
+    {
+      "uid": "0bb28e9019ee",
+      "title": "Google Pay Flex Credit Card Rewards Revised: Google One Members Get Higher Returns - Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2JHaE4xNGZWOWxad2RfRHVnWU1hNndXcGE4M3cwcWNVNU56ci1CVzBBWmlVYk9mTHllMlduRzhoTy1rc25uVmxxMUdhVlJ5NWhiZ05ZeGVnSUNmMEt3TTc4X2dja1VuUHYtQkRfNm1TWmQ4UkZBS0RlbXdSd2p1akM5aFRTVmJqVFdDQlYyR3dRaFZnSUZCSTJDU2xLLXFHd3NmM2RoZUI3d1ludGFNQWUtd3NKOTZCclBV0gHIAUFVX3lxTE45dWVzRWtmcWI4VUJTVDh5bTNtSmhIS2xMc2FHYnhuZVFrX2hnZUstaTd3dl9KMnFfcnI5MllNeGJIQVBTc0ZHWmVxUlEwUVRNcXhneHN4R2ZtSzZ6ejdFTWNpOGtxX0hpOEpUbmxpeHVMb3V6X0FJUkpFWkw3Zi1SYjM4N21YMU1RSEdZRjhzLXA5Yno1QmFscmluTGVHWUZkWVlRNTd4a0FfNVZQaDdJWFB5b09yaXQ2LW1jXzJvSEtWbGJObW5s?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-10-14T10:15:00+00:00",
+      "snippet": "Google Pay Flex Credit Card Rewards Revised: Google One Members Get Higher Returns Analytics Insight",
       "severity": "major"
     },
     {
@@ -225,18 +235,6 @@
       "severity": "critical"
     },
     {
-      "uid": "ba8476c40031",
-      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
-      "severity": "major"
-    },
-    {
       "uid": "e1c3c58360dd",
       "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
@@ -317,6 +315,30 @@
       "severity": "major"
     },
     {
+      "uid": "9857f803c756",
+      "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-05-23T07:00:00+00:00",
+      "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
+      "severity": "major"
+    },
+    {
+      "uid": "9b4cdbc3f2c8",
+      "title": "Interest rates to fees: Axis Bank credit card rule changes start Friday - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWN4Zjhia2xWdUZNd0tPV0I2bzYzUk9VOTRfUHZWV3VTaE10bG82VXR0OVU2ZEd2eWpKYjNwNy1aVTkyWGhZV3lYNVZoeG5Xc0pkNnBHRjl4dmxBNUZVUXpHMm56bW9WWVk2TDlIV19WMHlZTEIwUHNEOHloT0JRWnN6elh4NEJrU3VyZE9EN1dTVEE5aFZtWTRDbHRGTnZzTU5oRTBTU3ZqdUxQbFlyOWNfb2FQa2JCYVdWZmN1Yy1QZVlwaFMxNXZZWkd6Y2F4VU1uMU94VXFPSW91ay1VWG1fY9IB6AFBVV95cUxPT0txNmlrSTBHcXlmaVc2c2h4SnZMLUoxMXMxRXExcGlfSDRZVWNURldvZ05SSlgzRlhXUFo4cTFaWVJvY2xJMFVTWFRNeDVfb3FVOVg2RjhiUEI2TVVUUlZYRUlydm51MnZJZ2dTdFc1c2xOS0lqTUhDVGhxVm5vUDFmeENhd0ZGOVZKX3l5QzZZOU9lMFlxLWZEY25FY2VqcGY0MGpIWTY5U3NlVTlDeUhScHNxTDdNeFNNcWhTZ2JmZmdzdVF6YmtMQ2VCLXVneHMzbGRHZjRMUTBTUDRpOXVTQ3FVQ05H?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-12-19T08:00:00+00:00",
+      "snippet": "Interest rates to fees: Axis Bank credit card rule changes start Friday Business Standard",
+      "severity": "major"
+    },
+    {
       "uid": "583699af58bf",
       "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - The Core",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdrdmRfOC1jTERlc3dOWl9YbUY2NGstZTR1azgxN2piR1ByU19TM0J2UExGc3p1c2ZXamRDWEU3QlRCSmc2c1lXVXJ1R2xPS083ZHdVaTdJS0lsVTlJUUhseWgzbEZqSXBUU1RCMGRXcXQ0cXlaZ25PWms1d2tOTjNfQTNleXlhcDdiUHNZYXNScU9pWWNvWmYwQ2Y2dFg1NktaQlJyaE4?oc=5",
@@ -325,6 +347,18 @@
       "published": "2024-11-20T08:00:00+00:00",
       "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? The Core",
       "severity": "critical"
+    },
+    {
+      "uid": "17383bad2461",
+      "title": "Axis Magnus Credit Card changes: Reward points revision from April 20, new lounge access rules from May 1 - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX0Y1Z1VKRzZlbUM0WmJaaXF0MFMxZDNMQzdKQVZoSE5CLVpRZXZGTDBLSFlWY2p4RC1zUzl2NTV3ZUdVUkt5a0llaTFza2MteW81WmN6MldILWxZR1ZIV1dVdEVsdFRQZ3A3M2hJdkNFam5LXzY2angzWVlPWkNBS3hjWGJVUHIxT2F1Z3RjN0REZ3Y0SG5BTXotekxYRUQtTy1yYXZyS25MTVFPNHpGaGN6MDI5cFF1Sjc5dEdZbjE3RXI5T0Joa191akRzX2lrZnBmTVZiV1NjeFXSAeABQVVfeXFMUHctb0pITk9DeWM2X0NBTzZCdU1Vb1hEVjMzZkpHU2tTNWVmQ3hQN2RycExNTWlUMmdEVW5ycUgyUVVFT0RNeG9ZcWRxYkM4ME40eFYzbzZUdjlEc05ETlZyV0hqUk8yWFlRZWxVU29BZ2xPWVNrdjYwMFQ2amtXN2gyc1dsNFd0TGFZQWZZQnloZE1CUkZNMFFsWTd4SC1YdjJaSU56ekhuSFd5ZmNFTENTbG4weGpzYWhlMlBtR2dONVZrMEhTZkM1QkpkQ29HNF9UWjEtRkg2STFMMXZFUGg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-03-20T07:00:00+00:00",
+      "snippet": "Axis Magnus Credit Card changes: Reward points revision from April 20, new lounge access rules from May 1 CNBC TV18",
+      "severity": "major"
     },
     {
       "uid": "6705aebf986a",
