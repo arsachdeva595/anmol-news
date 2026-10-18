@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T07:09:11.121037+00:00",
-  "count": 31,
+  "generated_at": "2026-10-18T07:25:37.209202+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,18 +10,18 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-17T07:08:52.861813+00:00",
+      "published": "2026-10-18T07:25:20.361961+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
     {
-      "uid": "0bb28e9019ee",
-      "title": "Google Pay Flex Credit Card Rewards Revised: Google One Members Get Higher Returns - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2JHaE4xNGZWOWxad2RfRHVnWU1hNndXcGE4M3cwcWNVNU56ci1CVzBBWmlVYk9mTHllMlduRzhoTy1rc25uVmxxMUdhVlJ5NWhiZ05ZeGVnSUNmMEt3TTc4X2dja1VuUHYtQkRfNm1TWmQ4UkZBS0RlbXdSd2p1akM5aFRTVmJqVFdDQlYyR3dRaFZnSUZCSTJDU2xLLXFHd3NmM2RoZUI3d1ludGFNQWUtd3NKOTZCclBV0gHIAUFVX3lxTE45dWVzRWtmcWI4VUJTVDh5bTNtSmhIS2xMc2FHYnhuZVFrX2hnZUstaTd3dl9KMnFfcnI5MllNeGJIQVBTc0ZHWmVxUlEwUVRNcXhneHN4R2ZtSzZ6ejdFTWNpOGtxX0hpOEpUbmxpeHVMb3V6X0FJUkpFWkw3Zi1SYjM4N21YMU1RSEdZRjhzLXA5Yno1QmFscmluTGVHWUZkWVlRNTd4a0FfNVZQaDdJWFB5b09yaXQ2LW1jXzJvSEtWbGJObW5s?oc=5",
-      "source": "Google News / devaluation",
+      "uid": "0a360adb3d64",
+      "title": "Visa Power Travel Offer 2026: Earn Up to 20% Rewards on International Spends",
+      "url": "https://cardmaven.in/visa-power-travel-offer/",
+      "source": "CardMaven",
       "issuers": [],
-      "published": "2026-10-14T10:15:00+00:00",
-      "snippet": "Google Pay Flex Credit Card Rewards Revised: Google One Members Get Higher Returns Analytics Insight",
+      "published": "2026-10-17T13:08:49+00:00",
+      "snippet": "International spending is usually where credit cards become expensive. Even cards with good rewards can lose much of their value to forex markup fees. Visa Power Travel changes the equation a little. It offers additional rewards on overseas spending, including a ₹10,000 bonus when you spend ₹1 lakh ",
       "severity": "major"
     },
     {
@@ -347,6 +347,18 @@
       ],
       "published": "2024-04-12T07:00:00+00:00",
       "snippet": "Axis Bank and IDFC set to devalue popular credit cards: what does it mean? Upstox",
+      "severity": "critical"
+    },
+    {
+      "uid": "6705aebf986a",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2023-11-29T08:00:00+00:00",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard",
       "severity": "critical"
     },
     {
