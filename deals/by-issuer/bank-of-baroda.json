@@ -7,7 +7,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "Offer Validity: From 18th to 27th Oct, 2026 (Code: Domestic, Bus, Cab & Holiday Bookings: MMTBOBCC, International Bookings, Tourist & Attractions: MMTBOBCCINT)",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -21,7 +21,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "Offer Validity: 7th - 24th October 2026",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -35,7 +35,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -49,7 +49,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "Offer valid on Friday, Saturday & Sunday | Till 27th Dec 2026 (Code: BOBCARD75)",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
@@ -63,7 +63,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "From pantry picks to party prep — save more with BOBCARD",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -77,11 +77,39 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "Offer Valid till 29th March 2027 (Code: BOBCARD1000)",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
     "valid_till": "2027-03-29"
+  },
+  {
+    "uid": "da1ea8e14cee",
+    "title": "10% Cashback on Acer",
+    "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/10-cashback-on-acer/",
+    "source": "BOBCard Offers",
+    "issuers": [
+      "BOB Financial (BOBCard)"
+    ],
+    "published": "2026-10-20T07:52:30.145779+00:00",
+    "snippet": "Offer valid till 31st Oct 2026",
+    "deal_type": "cashback",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-10-31"
+  },
+  {
+    "uid": "1cf93e77bd1f",
+    "title": "Upto ₹27500 on Sony",
+    "url": "https://www.bobcard.co.in/credit-card-offers/electronics-and-others/upto-27500-on-sony/",
+    "source": "BOBCard Offers",
+    "issuers": [
+      "BOB Financial (BOBCard)"
+    ],
+    "published": "2026-10-20T07:52:30.145779+00:00",
+    "snippet": "Offer valid till 31st Dec 2026",
+    "deal_type": "benefit",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-12-31"
   },
   {
     "uid": "33b49f6aea49",
@@ -91,7 +119,7 @@
     "issuers": [
       "BOB Financial (BOBCard)"
     ],
-    "published": "2026-10-19T08:02:16.301103+00:00",
+    "published": "2026-10-20T07:52:30.145779+00:00",
     "snippet": "Offer applicable on Friday, Saturday & Sunday | Valid till 27th Dec 2026 (Code: BOBCARD100)",
     "deal_type": "discount",
     "offer_category": "Dining & Food Deals",
