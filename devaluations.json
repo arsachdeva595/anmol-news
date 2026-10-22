@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:56:17.679756+00:00",
+  "generated_at": "2026-10-22T07:53:00.543031+00:00",
   "count": 31,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-21T07:56:01.591876+00:00",
+      "published": "2026-10-22T07:52:45.651224+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -55,18 +55,6 @@
       "published": "2026-09-24T03:34:10+00:00",
       "snippet": "In September 2026, Axis Bank made major changes to how its credit card Edge Miles convert into airmiles and hotel points — and for Axis Atlas and Magnus for Burgundy users, this September 2026 devaluation is a heavy one. 😳  If you’ve been earning Edge Miles specifically to transfer them to airline a",
       "severity": "critical"
-    },
-    {
-      "uid": "0d8b993ee7fc",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
-      "severity": "major"
     },
     {
       "uid": "3deacba7b25c",
@@ -125,6 +113,18 @@
       "published": "2026-08-10T07:00:00+00:00",
       "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition Live From A Lounge",
       "severity": "critical"
+    },
+    {
+      "uid": "a8d5967e2047",
+      "title": "Amex Platinum Travel Card loses INR 1.9L milestone, lounge access now requires spend - www.insideflyer.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmJkTl8zX0xuTzNGUlBPUVZNNkhCeXZaREhHc3k4bDVBaHhyM2xpXzZqX2Y3MnRoX3N3c3JMMXVLU1h2aXhpNXJUVkVpT2hLZ1Zra2xlQVhHVGpBVlhsa2phOGZONlFhNVotUFVLMURLZElKTTJKWW9XSFE5OEtOTVdYbUlXN2dJOWRRdTMtbXdhNm1MV1VNdjgyMUtpc0hXN3c5bzlzY3UxeUY4YlluNlowdG1HQQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Amex Platinum Travel Card loses INR 1.9L milestone, lounge access now requires spend www.insideflyer.com",
+      "severity": "major"
     },
     {
       "uid": "c0f0640c91f9",
