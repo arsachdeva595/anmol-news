@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T07:33:22.037496+00:00",
-  "count": 33,
+  "generated_at": "2026-10-25T07:46:34.811866+00:00",
+  "count": 31,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-24T07:33:08.202920+00:00",
+      "published": "2026-10-25T07:46:19.110467+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -55,42 +55,6 @@
       "published": "2026-09-24T03:34:10+00:00",
       "snippet": "In September 2026, Axis Bank made major changes to how its credit card Edge Miles convert into airmiles and hotel points — and for Axis Atlas and Magnus for Burgundy users, this September 2026 devaluation is a heavy one. 😳  If you’ve been earning Edge Miles specifically to transfer them to airline a",
       "severity": "critical"
-    },
-    {
-      "uid": "0d8b993ee7fc",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
-      "severity": "major"
-    },
-    {
-      "uid": "2f3480769ddd",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
-      "severity": "major"
-    },
-    {
-      "uid": "33fe0ef1bc40",
-      "title": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOempWN2dZc2MxdEI5c2NqTEF6SXdReC1yTVlkam5Bd2RqOVE1R3l6NDZCYlg1MWFmS2RESDhWcVZhUGdXRmRXMnBvTzdTNE9xNVVrU1RIazJLaFZsbVpnYkZBRnkycGc3ZFpZUUF5UmVONElDUDNKS19PaGZiVHZGb21HRHZ2c0s4QS1sckY5b1p2SmVZR2NaMGpfTWVCeVBibzZBZlBFWF91UEE4OWN1QkZIaDU2NFpvSW1tWVR3ay1rdFVvd19EaUpuODJUV2R2bGFtWURJNC1hUUVLVTVWOXZNZzRFMW0zYjlmQmhMZkRkdEFfTEd5aUE4YkJaRW9FekVuUE5R0gGLAkFVX3lxTE5ZMUwxdGllQ1NiUTg4c3Z6ajhEZktoRHo2QXI5YThaZXhiVmp4RTFlUUU2X1htM1RKWjRSSllDQ29PcXJuOEllVHdudmxHX2N6RkR0ZmppZ3lMejBRWEZKUDFSMlVaRk52amU5WUx4ZnhabWJNenBGUlhhOXl3SG5EdXdfQlZvZF9tZTlqZDBJeENGVW9oenpJSkQ5QTN6N1RVZWR1eTNIdzhhY002UE9RQzFnZW1iVHJXem1PZ2FjMF9wa3ozMlQ0S1VXLU1WaDdRaTJyQnlqWktEQVlPOWs3ODJnOVNEWUJVTFZDb2lySkdmZGVodnVGS2hWNjZSczhfRlg0T3VkTF9SQQ?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-11T07:00:00+00:00",
-      "snippet": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends The Times of India",
-      "severity": "major"
     },
     {
       "uid": "3deacba7b25c",
@@ -223,6 +187,18 @@
       "severity": "major"
     },
     {
+      "uid": "316a5a06996a",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "IndusInd Bank"
+      ],
+      "published": "2026-06-05T07:00:00+00:00",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "severity": "major"
+    },
+    {
       "uid": "51eb98d6ec3f",
       "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
@@ -337,15 +313,15 @@
       "severity": "critical"
     },
     {
-      "uid": "43da3d1eb0eb",
-      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXF3TkI0cUlHejhzSm1iMHVyZEdLS01NTDkwX0EzWmw2dExCWWhHS1lCZ2l0TlNrWDMyQWJqQ2ZWbkZaVXpOTTdkMnVVUENTeTlJb0pNQTJnRWVQaHVZTTNiTmFqOWtKekJUX1lnVUFiblZWVDZHeVgzcGRsemN6S0hmM3ZSVTV2N01xRTJxeEk5WVJQYlV4blNoN3pxZHZOTGloLXNYZEhFVUxJT1QwLVE1Yk00ZnNVRm1SXzRVU0NnaUVzYmNDaUdPdGRKYmpRUERiNmRmWm1nakQ4OWdIMFE0UU9KSm5aQnFiRjRUT3NRVXlxd3hV0gH8AUFVX3lxTFBQX3pQQ1ZCTmFyYS1kWVJlRmZ2MzN6TXd4TW9mSTllSkcwcFZjUU5kdGJOdkJmRm9vUmNkSzVtSDRxWEI0N0dod3VzVkQtMjRSVG1GWTFkWXNyc2MwZkNGWFg3bVBURG5VYm5wQzRVTUVqMFZadlB2UDRNVklMZmZ4WlRyWlZybnE5a0JCYVRBU1FNUDNsRnZ2bFRoVTMxTWtZZWpSR3AzQWN4WkxucU9JUDBFWk1SdG9oQzB3bnJMVkRZbmdMaVhZSVplSVRWN0xnN3hnMGdEa1ZtZW9HME9kX1ZzTWlfc05ZZ1lESFltanVmTFdSS3pLbnVtMg?oc=5",
+      "uid": "9857f803c756",
+      "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
-        "SBI Card"
+        "Axis Bank"
       ],
-      "published": "2026-02-27T08:00:00+00:00",
-      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
+      "published": "2025-05-23T07:00:00+00:00",
+      "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
       "severity": "major"
     },
     {
