@@ -1,13 +1,9 @@
 {
-  "generated_at": "2026-10-29T08:48:42.302Z",
+  "generated_at": "2026-10-30T08:59:06.972Z",
   "source": "deals.json",
   "issuers": [
     {
       "slug": "amex",
-      "count": 1
-    },
-    {
-      "slug": "au-sfb",
       "count": 1
     },
     {
@@ -24,7 +20,7 @@
     },
     {
       "slug": "hdfc-bank",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "hsbc-india",
@@ -44,7 +40,7 @@
     },
     {
       "slug": "sbi-card",
-      "count": 163
+      "count": 161
     }
   ]
 }

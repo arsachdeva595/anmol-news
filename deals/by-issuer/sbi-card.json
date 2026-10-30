@@ -1,5 +1,33 @@
 [
   {
+    "uid": "b3987f56320d",
+    "title": "Aditya: Up to Rs 10000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/Aditya-Vision-29oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 10000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "ac106afcb402",
+    "title": "Madan: 5% Extra Cashback",
+    "url": "https://www.sbicard.com/en/personal/offer/Madan-Collections-oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "5% Extra Cashback",
+    "deal_type": "cashback",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-12-03"
+  },
+  {
     "uid": "31986d474edd",
     "title": "Flipkart: 10% Instant Discount",
     "url": "https://www.sbicard.com/en/personal/offer/flipkart-festive-oct26.page",
@@ -7,7 +35,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "10% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -21,7 +49,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 5000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -35,7 +63,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 7500 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -49,7 +77,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "10% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -63,7 +91,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Shopping Deals",
@@ -77,7 +105,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -91,7 +119,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 8,500 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -105,7 +133,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 9,000 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -119,25 +147,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-17"
-  },
-  {
-    "uid": "0d1efcda1cd9",
-    "title": "Lotus: Up to Rs. 7,500 Instant Discount.",
-    "url": "https://www.sbicard.com/en/personal/offer/Lotus-Electronics-27oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs. 7,500 Instant Discount.",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-16"
   },
   {
     "uid": "b93d05d20e9e",
@@ -147,8 +161,22 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-16"
+  },
+  {
+    "uid": "0d1efcda1cd9",
+    "title": "Lotus: Up to Rs. 7,500 Instant Discount.",
+    "url": "https://www.sbicard.com/en/personal/offer/Lotus-Electronics-27oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs. 7,500 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-16"
@@ -161,7 +189,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 8,500 Instant Discount at Maharashtra Electronics Corporation.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -175,7 +203,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
@@ -189,10 +217,24 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "8f534b2894ed",
+    "title": "Eagle: Up to Rs 16,000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/Eagle-Electronics-oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 16,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
@@ -203,25 +245,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹ 20000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-11-01"
-  },
-  {
-    "uid": "8f534b2894ed",
-    "title": "Eagle: Up to Rs 16,000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/Eagle-Electronics-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 16,000 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-15"
   },
   {
     "uid": "9cd3c0cb1352",
@@ -231,7 +259,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹1500 Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -245,7 +273,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -259,7 +287,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Flat Rs.100 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -273,7 +301,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -287,7 +315,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -301,7 +329,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹18000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -315,7 +343,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -329,7 +357,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "10% / Flat Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -343,25 +371,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 10% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "b311ac525680",
-    "title": "Apna-Mart: Up to 5% Extra Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/Apna-Mart-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to 5% Extra Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-10-29"
   },
   {
     "uid": "93a06e818aa6",
@@ -371,7 +385,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -385,7 +399,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹ 11,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -399,39 +413,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 50,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "e535682be442",
-    "title": "Monte Carlo: 5% Extra Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/monte-carlo-16oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "5% Extra Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-10-29"
-  },
-  {
-    "uid": "f8fa0d5392aa",
-    "title": "Omega Sports: Up to Rs.9000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/omega-sports-and-radio-works-16oct.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs.9000 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-16"
   },
   {
     "uid": "2d287d328090",
@@ -441,11 +427,25 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to RS 5000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-10-30"
+  },
+  {
+    "uid": "f8fa0d5392aa",
+    "title": "Omega Sports: Up to Rs.9000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/omega-sports-and-radio-works-16oct.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs.9000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-16"
   },
   {
     "uid": "b627f4ce3926",
@@ -455,7 +455,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 5000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -469,7 +469,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Earn 10X Accelerated Rewards",
     "deal_type": "benefit",
     "offer_category": "Entertainment Deals",
@@ -483,11 +483,25 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 1000 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-29"
+  },
+  {
+    "uid": "7029a3ba74d7",
+    "title": "Taori: Up to Rs 8,500 Instant Discount at Taori Marketing.",
+    "url": "https://www.sbicard.com/en/personal/offer/Taori-Marketing-oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 8,500 Instant Discount at Taori Marketing.",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-15"
   },
   {
     "uid": "929fba11d865",
@@ -497,7 +511,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -511,24 +525,10 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10,000 Instant Discount at Snehanjali Electronics.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
-    "valid_till": "2026-11-15"
-  },
-  {
-    "uid": "7029a3ba74d7",
-    "title": "Taori: Up to Rs 8,500 Instant Discount at Taori Marketing.",
-    "url": "https://www.sbicard.com/en/personal/offer/Taori-Marketing-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 8,500 Instant Discount at Taori Marketing.",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
@@ -539,7 +539,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -553,7 +553,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16000 Instant Discount Offer – myG Mobiles",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -567,7 +567,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 8,500 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -581,39 +581,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 1500 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-20"
-  },
-  {
-    "uid": "7d8aca1ad2a9",
-    "title": "Amartex: 5% Extra Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/Amartex-Family-Mart-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "5% Extra Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-19"
-  },
-  {
-    "uid": "3be9f7d35886",
-    "title": "Suvidha: 5% Extra Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/suvidha-stores-8oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "5% Extra Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-13"
   },
   {
     "uid": "3c7a4261d2f8",
@@ -623,10 +595,24 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10000 Instant Discount at Happi Mobile",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "c22f9e62039f",
+    "title": "Lulu: Up to Rs 16,000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/lulu-hypermarket-9oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 16,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
@@ -637,7 +623,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -651,25 +637,39 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
-    "uid": "c22f9e62039f",
-    "title": "Lulu: Up to Rs 16,000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/lulu-hypermarket-9oct26.page",
+    "uid": "7d8aca1ad2a9",
+    "title": "Amartex: 5% Extra Cashback",
+    "url": "https://www.sbicard.com/en/personal/offer/Amartex-Family-Mart-oct26.page",
     "source": "SBI Card Offers",
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 16,000 Instant Discount",
-    "deal_type": "discount",
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "5% Extra Cashback",
+    "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-15"
+    "valid_till": "2026-11-19"
+  },
+  {
+    "uid": "3be9f7d35886",
+    "title": "Suvidha: 5% Extra Cashback",
+    "url": "https://www.sbicard.com/en/personal/offer/suvidha-stores-8oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "5% Extra Cashback",
+    "deal_type": "cashback",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-13"
   },
   {
     "uid": "e4ed43a92b25",
@@ -679,7 +679,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹8500 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -693,25 +693,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-12-09"
-  },
-  {
-    "uid": "eb2ad8f5a88a",
-    "title": "Vasanth: Up to Rs 16,000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/Vasanth-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 16,000 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-15"
   },
   {
     "uid": "ee95ba92849c",
@@ -721,10 +707,24 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "7.5% Instant Discount at SS Retail Ltd stores.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "eb2ad8f5a88a",
+    "title": "Vasanth: Up to Rs 16,000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/Vasanth-oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 16,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
@@ -735,7 +735,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 9,000 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -749,7 +749,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -763,7 +763,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -777,53 +777,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
-  },
-  {
-    "uid": "d9525550b696",
-    "title": "Smile-Store: 5% Extra Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/smile-store-sep26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "5% Extra Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-13"
-  },
-  {
-    "uid": "cd1b1c30c3f0",
-    "title": "Sonovision: Up to Rs 10,000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/sonovision-5oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 10,000 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-15"
-  },
-  {
-    "uid": "6abc5b0b07f1",
-    "title": "Ganpati-Mob: Up to ₹6,500 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/ganpati-mobile-5oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to ₹6,500 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-13"
   },
   {
     "uid": "a542e665011f",
@@ -833,7 +791,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹9000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -847,7 +805,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 10000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -861,7 +819,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹9,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -875,11 +833,53 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹9000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "cd1b1c30c3f0",
+    "title": "Sonovision: Up to Rs 10,000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/sonovision-5oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 10,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "6abc5b0b07f1",
+    "title": "Ganpati-Mob: Up to ₹6,500 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/ganpati-mobile-5oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to ₹6,500 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-13"
+  },
+  {
+    "uid": "d9525550b696",
+    "title": "Smile-Store: 5% Extra Cashback",
+    "url": "https://www.sbicard.com/en/personal/offer/smile-store-sep26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "5% Extra Cashback",
+    "deal_type": "cashback",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-13"
   },
   {
     "uid": "76dd98b966a4",
@@ -889,7 +889,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹1000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -903,7 +903,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹10,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -917,7 +917,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹6,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -931,7 +931,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16,000 Instant discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -945,7 +945,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -959,7 +959,21 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 16,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "fd36f01633e5",
+    "title": "Poorvika: Up to Rs 16,000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/Poorvika-oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -973,25 +987,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 15,000 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-10"
-  },
-  {
-    "uid": "fd36f01633e5",
-    "title": "Poorvika: Up to Rs 16,000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/Poorvika-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 16,000 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-15"
   },
   {
     "uid": "8d8c895f8069",
@@ -1001,7 +1001,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 15,000 Instant Discount Offer",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1015,7 +1015,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹6000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1029,7 +1029,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹8000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1043,7 +1043,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs.1500 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1057,7 +1057,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 750 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1071,7 +1071,21 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 10,000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
+    "valid_till": "2026-11-15"
+  },
+  {
+    "uid": "6f4287a41eb3",
+    "title": "Touch-Mobile: Up to Rs 10,000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/touch-mobile-13oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1085,25 +1099,25 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
-    "uid": "6f4287a41eb3",
-    "title": "Touch-Mobile: Up to Rs 10,000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/touch-mobile-13oct26.page",
+    "uid": "819adcfeae99",
+    "title": "Umiya: Up to Rs 9,000 Instant Discount.",
+    "url": "https://www.sbicard.com/en/personal/offer/Umiya-Mobile-oct26.page",
     "source": "SBI Card Offers",
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 10,000 Instant Discount",
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 9,000 Instant Discount.",
     "deal_type": "discount",
-    "offer_category": "Electronics Deals",
-    "valid_till": "2026-11-15"
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-11"
   },
   {
     "uid": "e5d7be6634d8",
@@ -1113,7 +1127,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to INR 15,000 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1127,7 +1141,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1141,7 +1155,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 10,000 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1155,25 +1169,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to INR 15,000 Instant Discount at DIGI1 Electronics stores.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-11-12"
-  },
-  {
-    "uid": "819adcfeae99",
-    "title": "Umiya: Up to Rs 9,000 Instant Discount.",
-    "url": "https://www.sbicard.com/en/personal/offer/Umiya-Mobile-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 9,000 Instant Discount.",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-11"
   },
   {
     "uid": "c65e22787e73",
@@ -1183,7 +1183,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount at Nilkamal Homes",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1197,7 +1197,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 8,000 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -1211,7 +1211,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Cashback at AVANI MALL HOWRAH",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1225,7 +1225,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Cashback at GOLDIGHI MALL SILCHAR",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1239,8 +1239,22 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Cashback at VR MALL SURAT",
+    "deal_type": "cashback",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-11"
+  },
+  {
+    "uid": "92e2c4288cd6",
+    "title": "Central-Mall-Guwahati: 5% Cashback",
+    "url": "https://www.sbicard.com/en/personal/offer/central-mall-guwahati-16oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "5% Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-11"
@@ -1253,8 +1267,22 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Cashback at COSMOS MALL SILIGURI",
+    "deal_type": "cashback",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-11"
+  },
+  {
+    "uid": "8c8acd30005e",
+    "title": "Nexus-Ahmedabad-One: 5% Cashback",
+    "url": "https://www.sbicard.com/en/personal/offer/nexus-ahmedabad-one-mall-16oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "5% Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-11"
@@ -1267,7 +1295,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Cashback at MALL OF MYSORE",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1281,39 +1309,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 50,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "92e2c4288cd6",
-    "title": "Central-Mall-Guwahati: 5% Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/central-mall-guwahati-16oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "5% Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-11"
-  },
-  {
-    "uid": "8c8acd30005e",
-    "title": "Nexus-Ahmedabad-One: 5% Cashback",
-    "url": "https://www.sbicard.com/en/personal/offer/nexus-ahmedabad-one-mall-16oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "5% Cashback",
-    "deal_type": "cashback",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-11"
   },
   {
     "uid": "f2ad072cf283",
@@ -1323,7 +1323,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1337,7 +1337,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1351,7 +1351,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1365,7 +1365,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹ 20000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1379,7 +1379,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 1,000 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1393,7 +1393,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹ 25000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1407,7 +1407,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 10,000 Instant Discount on Air India website/App",
     "deal_type": "discount",
     "offer_category": "Travel Deals",
@@ -1421,7 +1421,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹8000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1435,7 +1435,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 12,500 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1449,7 +1449,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to ₹9000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1463,7 +1463,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 7,000 Instant Discount.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1477,7 +1477,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 750 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1491,7 +1491,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 750 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1505,7 +1505,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 1500 Extra Cashback at NAGARMAL SHEONARAIN AND SONS",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1519,7 +1519,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 500 Instant Discount at SHEKHAR SUPERMARKET",
     "deal_type": "discount",
     "offer_category": "Grocery & Essentials",
@@ -1533,7 +1533,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 16000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1547,7 +1547,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 7.5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1561,7 +1561,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount at Godrej Interio",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1575,7 +1575,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount at Home Centre",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
@@ -1589,10 +1589,24 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 20% Instant discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "682f7175dc70",
+    "title": "Samsung: Up to 27.5% Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/samsung-25sep26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to 27.5% Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
   },
   {
@@ -1603,7 +1617,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 10% Instant Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1617,7 +1631,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 25% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1631,22 +1645,8 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 20% Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Electronics Deals",
-    "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "682f7175dc70",
-    "title": "Samsung: Up to 27.5% Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/samsung-25sep26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to 27.5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
@@ -1659,7 +1659,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 20% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1673,7 +1673,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "10% Instant Discount / Flat discount.",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1687,7 +1687,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to INR 18,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1701,7 +1701,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 12.50% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1715,7 +1715,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 20% Instant discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1729,7 +1729,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 6,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1743,7 +1743,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 10% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1757,7 +1757,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to INR 12,500 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1771,7 +1771,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 26% Instant discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1785,7 +1785,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 10,000 Instant discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1799,25 +1799,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Instant discount Up to Rs. 20,000 per card",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "151ea4ec3016",
-    "title": "Chandamama: Up to Rs 2000 Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/chandamama-1oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to Rs 2000 Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-09"
   },
   {
     "uid": "26e253af9d98",
@@ -1827,7 +1813,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 15% Instant discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -1841,11 +1827,25 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 27.50% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "151ea4ec3016",
+    "title": "Chandamama: Up to Rs 2000 Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/chandamama-1oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to Rs 2000 Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-09"
   },
   {
     "uid": "288a96558d00",
@@ -1855,7 +1855,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 500 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -1869,24 +1869,24 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 5% Instant Discount at Marri Retail",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-15"
   },
   {
-    "uid": "b5681026edb6",
-    "title": "Hero: Up to 7.5% Instant discount",
-    "url": "https://www.sbicard.com/en/personal/offer/hero-14oct26.page",
+    "uid": "0ef0a7675cd2",
+    "title": "Dyson: 10% Instant discount",
+    "url": "https://www.sbicard.com/en/personal/offer/dyson-oct26.page",
     "source": "SBI Card Offers",
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to 7.5% Instant discount",
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "10% Instant discount",
     "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
+    "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
   },
   {
@@ -1897,7 +1897,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Upto Rs 1000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1911,24 +1911,10 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 7.5% Instant discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
-    "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "0ef0a7675cd2",
-    "title": "Dyson: 10% Instant discount",
-    "url": "https://www.sbicard.com/en/personal/offer/dyson-oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "10% Instant discount",
-    "deal_type": "discount",
-    "offer_category": "Electronics Deals",
     "valid_till": "2026-11-30"
   },
   {
@@ -1939,11 +1925,39 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-08"
+  },
+  {
+    "uid": "b5681026edb6",
+    "title": "Hero: Up to 7.5% Instant discount",
+    "url": "https://www.sbicard.com/en/personal/offer/hero-14oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to 7.5% Instant discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-30"
+  },
+  {
+    "uid": "22d2f37c2929",
+    "title": "River Ev: Up to 7.5% Instant discount",
+    "url": "https://www.sbicard.com/en/personal/offer/river-ev-14oct26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "Up to 7.5% Instant discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
+    "valid_till": "2026-11-30"
   },
   {
     "uid": "7fb0e1770671",
@@ -1953,7 +1967,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -1967,24 +1981,10 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "10% Instant Discount on Pepperfry",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
-    "valid_till": "2026-11-30"
-  },
-  {
-    "uid": "22d2f37c2929",
-    "title": "River Ev: Up to 7.5% Instant discount",
-    "url": "https://www.sbicard.com/en/personal/offer/river-ev-14oct26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "Up to 7.5% Instant discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
     "valid_till": "2026-11-30"
   },
   {
@@ -1995,7 +1995,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2009,7 +2009,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs. 1,500 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -2023,7 +2023,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 4,000 Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2037,7 +2037,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "7.5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2051,7 +2051,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 9000 Instant Discount at BHAJANLAL COMMERCIAL PVT LTD",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2065,7 +2065,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 5% Cashback at Easybuy",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -2079,7 +2079,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 1000 Extra Cashback at INDERA TEXTILES",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -2093,7 +2093,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 7.5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -2107,7 +2107,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 7.5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2121,7 +2121,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 1500 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -2135,7 +2135,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 1000 Extra Cashback",
     "deal_type": "cashback",
     "offer_category": "Exclusive Discounts",
@@ -2149,7 +2149,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to Rs 15,000 Instant discount at Apple",
     "deal_type": "discount",
     "offer_category": "Electronics Deals",
@@ -2163,7 +2163,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "5% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2177,24 +2177,10 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 72% Off",
     "deal_type": "discount",
     "offer_category": "Health & Wellness",
-    "valid_till": "2027-03-31"
-  },
-  {
-    "uid": "f5504bb6315a",
-    "title": "Igp: 20% Instant Discount",
-    "url": "https://www.sbicard.com/en/personal/offer/igp-1june26.page",
-    "source": "SBI Card Offers",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
-    "snippet": "20% Instant Discount",
-    "deal_type": "discount",
-    "offer_category": "Exclusive Discounts",
     "valid_till": "2027-03-31"
   },
   {
@@ -2205,10 +2191,24 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "20% Instant Discount",
     "deal_type": "discount",
     "offer_category": "Shopping Deals",
+    "valid_till": "2027-03-31"
+  },
+  {
+    "uid": "f5504bb6315a",
+    "title": "Igp: 20% Instant Discount",
+    "url": "https://www.sbicard.com/en/personal/offer/igp-1june26.page",
+    "source": "SBI Card Offers",
+    "issuers": [
+      "SBI Card"
+    ],
+    "published": "2026-10-30T08:58:51.151830+00:00",
+    "snippet": "20% Instant Discount",
+    "deal_type": "discount",
+    "offer_category": "Exclusive Discounts",
     "valid_till": "2027-03-31"
   },
   {
@@ -2219,7 +2219,7 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 75% Off",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
@@ -2233,37 +2233,11 @@
     "issuers": [
       "SBI Card"
     ],
-    "published": "2026-10-29T08:48:25.897797+00:00",
+    "published": "2026-10-30T08:58:51.151830+00:00",
     "snippet": "Up to 50% off for Akshay Tritiya Festival",
     "deal_type": "discount",
     "offer_category": "Exclusive Discounts",
     "valid_till": "2027-04-18"
-  },
-  {
-    "uid": "e7ec61818b59",
-    "title": "5 most elite credit cards in India: Joining fees go up to ₹5 lakh; what do you get? - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxON2d2Qm9wMTZDLXFPZkROTUtsRzZFTHJzd2hBOEFfSThFYU9hUU1pOGg4VWg5OEJhSmhuNDJfTHRkYnRBNW9HUy03M3hzVi1qVHg5dWtrYnBqcFZBNjhMNlZKSXdhZ28wRnExa1NkX00zQW5GVUh4Wlc3Y3oyQ0JpWEtVblNkMEJtaHVPSmVCUVg4QzB2WElQczk4SGtkNnRhTUZnVmE1N1N2VWJEN3F0TE9lSUpCYVRYcktvM1ZCckhXRzVLR3g3cWpyVFpzdHZHOG9SdlM4R2ZyMnlRbEZwZXRhY2l6QkJSeE92RXNLQ2RYVUR1dl9xc1NzSC1WT0dXemw4dVJpUkJuYmpmWGpqMEZNYjI0Uks5UVkyYWln?oc=5",
-    "source": "Google News / offer",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-27T11:14:07+00:00",
-    "snippet": "5 most elite credit cards in India: Joining fees go up to ₹5 lakh; what do you get? The Economic Times",
-    "deal_type": "benefit",
-    "offer_category": "Card & EMI Offers"
-  },
-  {
-    "uid": "dc60a33996df",
-    "title": "5 most elite credit cards in India: Joining fees go up to ₹5 lakh; what do you get? - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONWhqbkQ2N3ZsSHRvVFZ2ZGpRYnFFQ2NHWFBPS1JYNGhXMTJKRWF0bXk1dkhJMng4TVFHVzd1R1AyU1BodzhvejFVU3hqeUJpbk5TTWhZaWswSC1ld2g4ZjBQTGVXQVdzZmZVSlFvX09ocmlSTU4xM2k1bGQtMjBuWWhrRTE2MmFvZnNucUpoOE5KbklnZlFRYTk3c0x6UnNBZy1XUEI5NEw5VVdRSlJBVTZrRzlMY3I2RVRYRFdTMHE5T05RMzNMX3RYc0VjRjJ6TGlHdi1DYWlmUFdHTWdxS2phaTVfc01IcXdOM1JBTHN3THFWSHZUdXRQeUdtZnhGUnVZLTRn?oc=5",
-    "source": "Google News / benefit",
-    "issuers": [
-      "SBI Card"
-    ],
-    "published": "2026-10-27T11:12:55+00:00",
-    "snippet": "5 most elite credit cards in India: Joining fees go up to ₹5 lakh; what do you get? The Economic Times",
-    "deal_type": "benefit",
-    "offer_category": "Card & EMI Offers"
   },
   {
     "uid": "2178a5979fd4",
