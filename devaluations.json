@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T08:59:06.142768+00:00",
-  "count": 32,
+  "generated_at": "2026-10-31T08:44:09.725474+00:00",
+  "count": 35,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,29 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-30T08:58:51.151830+00:00",
+      "published": "2026-10-31T08:43:53.017399+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "acd5b26e0442",
+      "title": "5 key money rule changes from tomorrow, 1 November 2026: What pensioners, taxpayers and bank customers should know",
+      "url": "https://www.livemint.com/money/personal-finance/5-key-money-rule-changes-from-tomorrow-1-november-2026-what-pensioners-taxpayers-and-bank-customers-should-know-11793431283609.html",
+      "source": "Mint – Credit Card",
+      "issuers": [],
+      "published": "2026-10-31T08:18:54+00:00",
+      "snippet": "Several money-related changes will take effect from 1 November 2026, affecting pensioners, taxpayers, credit cardholders, and savings account customers. Here are five key developments taxpayers and bank customers should know about and how they could affect their finances.",
+      "severity": "major"
+    },
+    {
+      "uid": "6f72d8e1fcf2",
+      "title": "PNB credit card holders alert: Check new ATM withdrawal, late payment and utility bill charges from November 1",
+      "url": "https://www.livemint.com/money/personal-finance/pnb-credit-card-holders-alert-check-new-atm-withdrawal-late-payment-and-utility-bill-charges-from-november-1-11793411280197.html",
+      "source": "Mint – Credit Card",
+      "issuers": [],
+      "published": "2026-10-31T02:20:45+00:00",
+      "snippet": "PNB credit card charges will change from November 1, 2026, for Visa and RuPay users. Check revised ATM withdrawal fees, late payment charges, utility bill transaction fees, reward point redemption costs and other important changes affecting cardholders.",
+      "severity": "critical"
     },
     {
       "uid": "d9f48a4c5ac2",
@@ -24,18 +44,6 @@
       ],
       "published": "2026-10-28T06:30:12+00:00",
       "snippet": "SBI Card has announced new charges on high-value transportation and fuel transactions for its credit cardholders, effective December 1, 2026. The card issuer has published notices on its website, and cardholders have also received email communications regarding the changes. Under the revised terms, ",
-      "severity": "major"
-    },
-    {
-      "uid": "d33dfa501c3d",
-      "title": "Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards",
-      "url": "https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/",
-      "source": "CardInsider",
-      "issuers": [
-        "Kotak"
-      ],
-      "published": "2026-10-27T11:00:06+00:00",
-      "snippet": "From launching new co-branded credit cards to rolling out exclusive limited-time offers, Kotak Mahindra Bank is steadily making its way back into the credit card game. The bank has now introduced a special cashback offer for select Kotak Credit Card holders. Customers who spend ₹15,000 or more on th",
       "severity": "major"
     },
     {
@@ -69,6 +77,42 @@
       "published": "2026-09-24T03:34:10+00:00",
       "snippet": "In September 2026, Axis Bank made major changes to how its credit card Edge Miles convert into airmiles and hotel points — and for Axis Atlas and Magnus for Burgundy users, this September 2026 devaluation is a heavy one. 😳  If you’ve been earning Edge Miles specifically to transfer them to airline a",
       "severity": "critical"
+    },
+    {
+      "uid": "0d8b993ee7fc",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
+      "severity": "major"
+    },
+    {
+      "uid": "2f3480769ddd",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
+      "severity": "major"
+    },
+    {
+      "uid": "33fe0ef1bc40",
+      "title": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOempWN2dZc2MxdEI5c2NqTEF6SXdReC1yTVlkam5Bd2RqOVE1R3l6NDZCYlg1MWFmS2RESDhWcVZhUGdXRmRXMnBvTzdTNE9xNVVrU1RIazJLaFZsbVpnYkZBRnkycGc3ZFpZUUF5UmVONElDUDNKS19PaGZiVHZGb21HRHZ2c0s4QS1sckY5b1p2SmVZR2NaMGpfTWVCeVBibzZBZlBFWF91UEE4OWN1QkZIaDU2NFpvSW1tWVR3ay1rdFVvd19EaUpuODJUV2R2bGFtWURJNC1hUUVLVTVWOXZNZzRFMW0zYjlmQmhMZkRkdEFfTEd5aUE4YkJaRW9FekVuUE5R0gGLAkFVX3lxTE5ZMUwxdGllQ1NiUTg4c3Z6ajhEZktoRHo2QXI5YThaZXhiVmp4RTFlUUU2X1htM1RKWjRSSllDQ29PcXJuOEllVHdudmxHX2N6RkR0ZmppZ3lMejBRWEZKUDFSMlVaRk52amU5WUx4ZnhabWJNenBGUlhhOXl3SG5EdXdfQlZvZF9tZTlqZDBJeENGVW9oenpJSkQ5QTN6N1RVZWR1eTNIdzhhY002UE9RQzFnZW1iVHJXem1PZ2FjMF9wa3ozMlQ0S1VXLU1WaDdRaTJyQnlqWktEQVlPOWs3ODJnOVNEWUJVTFZDb2lySkdmZGVodnVGS2hWNjZSczhfRlg0T3VkTF9SQQ?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-11T07:00:00+00:00",
+      "snippet": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends The Times of India",
+      "severity": "major"
     },
     {
       "uid": "7a00de506b2f",
@@ -141,6 +185,18 @@
       "severity": "critical"
     },
     {
+      "uid": "a8d5967e2047",
+      "title": "Amex Platinum Travel Card loses INR 1.9L milestone, lounge access now requires spend - www.insideflyer.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmJkTl8zX0xuTzNGUlBPUVZNNkhCeXZaREhHc3k4bDVBaHhyM2xpXzZqX2Y3MnRoX3N3c3JMMXVLU1h2aXhpNXJUVkVpT2hLZ1Zra2xlQVhHVGpBVlhsa2phOGZONlFhNVotUFVLMURLZElKTTJKWW9XSFE5OEtOTVdYbUlXN2dJOWRRdTMtbXdhNm1MV1VNdjgyMUtpc0hXN3c5bzlzY3UxeUY4YlluNlowdG1HQQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-08-10T07:00:00+00:00",
+      "snippet": "Amex Platinum Travel Card loses INR 1.9L milestone, lounge access now requires spend www.insideflyer.com",
+      "severity": "major"
+    },
+    {
       "uid": "c0f0640c91f9",
       "title": "HDFC bank credit card caps SmartBuy reward points on brand vouchers from July 1 - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc0RPWGlORVIzNlU3U0N3Y3FENU5mLVVXRWpLX1dVcHVDeklmcnZyZE9rYmlWYWVLbHUySkpqRlBITFJDckNxTUs3bDd2SzNvZnEzanFTZ1BvVTJlTHNabnJEMkkxd2dIUnU2M0lFWkRQZ2dZemRPZl9WV3BZYlpEVzJWUGdMWE9iUm81Q19aaDNqb1l4VDRsaUlpZXowSC1EeTRQQ3NtakhjN001OXY1N0E4UWZHSXFCUEdpWEdBMVFhQmswcFhIWWFnSF94VlloRTBlcHZGUi3SAd4BQVVfeXFMUHJrMElBbWl5aWxHaUpTa1h3OGdtWkViaUJwdXUwZDE5OVc4WDZvZ1FsQTYtc19Zb3RhRTd3YWxhQW1rZlp6dlMzRWhQNUp0LVhldzg5OWYwR3VZXzByYTFYbEk4amI4Q0pHMUF4ak5rY0FJRWRhNWltdHN3blZDX0FPM3Itbk1jdkdxZV9yNk1PcnNrX3hUeE5jbTRXUm0wNjdWN1JqcXB5al93OHJ0M3lxVGJ2SzVWR3RscG1HSnNRYkVjWnN3Z3RxOHZoS09jbVRXVFJGQVlhS09jaHBn?oc=5",
@@ -210,16 +266,6 @@
       ],
       "published": "2026-06-05T07:00:00+00:00",
       "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
-      "severity": "major"
-    },
-    {
-      "uid": "cc8f8ccc720c",
-      "title": "Govt unveils new IIP series with revision of base year - Manorama Yearbook",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmdGYVhZSllCS2NwdUhOUXRzQlJxdTVod1laZzVUNGpKcEFyNDlZV09sV21PUzRDLXA3cWVIWUtyazV6aDVjX0NXZ0RXZlFabzVfM21IUTlETHhMa0U5NmQwTjRqMUV1Z055TnRXdFBQYVBzVE5ybmlvZ3pzZkN6OXcyR3R3cWdNVHJCbEpCZDNEczRVZWF4WlNYNVVJMWNKaEh4cmNVYlNOTXc?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-06-02T07:00:00+00:00",
-      "snippet": "Govt unveils new IIP series with revision of base year Manorama Yearbook",
       "severity": "major"
     },
     {
@@ -337,25 +383,13 @@
       "severity": "critical"
     },
     {
-      "uid": "122683528444",
-      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HSBC"
-      ],
-      "published": "2025-02-22T08:00:00+00:00",
-      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
-      "severity": "critical"
-    },
-    {
       "uid": "583699af58bf",
-      "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - The Core",
+      "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - thecore.in",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdrdmRfOC1jTERlc3dOWl9YbUY2NGstZTR1azgxN2piR1ByU19TM0J2UExGc3p1c2ZXamRDWEU3QlRCSmc2c1lXVXJ1R2xPS083ZHdVaTdJS0lsVTlJUUhseWgzbEZqSXBUU1RCMGRXcXQ0cXlaZ25PWms1d2tOTjNfQTNleXlhcDdiUHNZYXNScU9pWWNvWmYwQ2Y2dFg1NktaQlJyaE4?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
       "published": "2024-11-20T08:00:00+00:00",
-      "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? The Core",
+      "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
       "severity": "critical"
     },
     {
