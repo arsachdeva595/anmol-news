@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:44:09.725474+00:00",
+  "generated_at": "2026-11-01T09:34:16.234577+00:00",
   "count": 35,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-10-31T08:43:53.017399+00:00",
+      "published": "2026-11-01T09:34:00.623005+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -23,16 +23,6 @@
       "published": "2026-10-31T08:18:54+00:00",
       "snippet": "Several money-related changes will take effect from 1 November 2026, affecting pensioners, taxpayers, credit cardholders, and savings account customers. Here are five key developments taxpayers and bank customers should know about and how they could affect their finances.",
       "severity": "major"
-    },
-    {
-      "uid": "6f72d8e1fcf2",
-      "title": "PNB credit card holders alert: Check new ATM withdrawal, late payment and utility bill charges from November 1",
-      "url": "https://www.livemint.com/money/personal-finance/pnb-credit-card-holders-alert-check-new-atm-withdrawal-late-payment-and-utility-bill-charges-from-november-1-11793411280197.html",
-      "source": "Mint – Credit Card",
-      "issuers": [],
-      "published": "2026-10-31T02:20:45+00:00",
-      "snippet": "PNB credit card charges will change from November 1, 2026, for Visa and RuPay users. Check revised ATM withdrawal fees, late payment charges, utility bill transaction fees, reward point redemption costs and other important changes affecting cardholders.",
-      "severity": "critical"
     },
     {
       "uid": "d9f48a4c5ac2",
@@ -185,18 +175,6 @@
       "severity": "critical"
     },
     {
-      "uid": "a8d5967e2047",
-      "title": "Amex Platinum Travel Card loses INR 1.9L milestone, lounge access now requires spend - www.insideflyer.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmJkTl8zX0xuTzNGUlBPUVZNNkhCeXZaREhHc3k4bDVBaHhyM2xpXzZqX2Y3MnRoX3N3c3JMMXVLU1h2aXhpNXJUVkVpT2hLZ1Zra2xlQVhHVGpBVlhsa2phOGZONlFhNVotUFVLMURLZElKTTJKWW9XSFE5OEtOTVdYbUlXN2dJOWRRdTMtbXdhNm1MV1VNdjgyMUtpc0hXN3c5bzlzY3UxeUY4YlluNlowdG1HQQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-08-10T07:00:00+00:00",
-      "snippet": "Amex Platinum Travel Card loses INR 1.9L milestone, lounge access now requires spend www.insideflyer.com",
-      "severity": "major"
-    },
-    {
       "uid": "c0f0640c91f9",
       "title": "HDFC bank credit card caps SmartBuy reward points on brand vouchers from July 1 - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc0RPWGlORVIzNlU3U0N3Y3FENU5mLVVXRWpLX1dVcHVDeklmcnZyZE9rYmlWYWVLbHUySkpqRlBITFJDckNxTUs3bDd2SzNvZnEzanFTZ1BvVTJlTHNabnJEMkkxd2dIUnU2M0lFWkRQZ2dZemRPZl9WV3BZYlpEVzJWUGdMWE9iUm81Q19aaDNqb1l4VDRsaUlpZXowSC1EeTRQQ3NtakhjN001OXY1N0E4UWZHSXFCUEdpWEdBMVFhQmswcFhIWWFnSF94VlloRTBlcHZGUi3SAd4BQVVfeXFMUHJrMElBbWl5aWxHaUpTa1h3OGdtWkViaUJwdXUwZDE5OVc4WDZvZ1FsQTYtc19Zb3RhRTd3YWxhQW1rZlp6dlMzRWhQNUp0LVhldzg5OWYwR3VZXzByYTFYbEk4amI4Q0pHMUF4ak5rY0FJRWRhNWltdHN3blZDX0FPM3Itbk1jdkdxZV9yNk1PcnNrX3hUeE5jbTRXUm0wNjdWN1JqcXB5al93OHJ0M3lxVGJ2SzVWR3RscG1HSnNRYkVjWnN3Z3RxOHZoS09jbVRXVFJGQVlhS09jaHBn?oc=5",
@@ -257,15 +235,13 @@
       "severity": "major"
     },
     {
-      "uid": "316a5a06996a",
-      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
-      "source": "Google News / benefit",
-      "issuers": [
-        "IndusInd Bank"
-      ],
-      "published": "2026-06-05T07:00:00+00:00",
-      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "uid": "cc8f8ccc720c",
+      "title": "Govt unveils new IIP series with revision of base year - Manorama Yearbook",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmdGYVhZSllCS2NwdUhOUXRzQlJxdTVod1laZzVUNGpKcEFyNDlZV09sV21PUzRDLXA3cWVIWUtyazV6aDVjX0NXZ0RXZlFabzVfM21IUTlETHhMa0U5NmQwTjRqMUV1Z055TnRXdFBQYVBzVE5ybmlvZ3pzZkN6OXcyR3R3cWdNVHJCbEpCZDNEczRVZWF4WlNYNVVJMWNKaEh4cmNVYlNOTXc?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-06-02T07:00:00+00:00",
+      "snippet": "Govt unveils new IIP series with revision of base year Manorama Yearbook",
       "severity": "major"
     },
     {
@@ -301,18 +277,6 @@
       "published": "2026-04-15T02:35:39+00:00",
       "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
       "severity": "critical"
-    },
-    {
-      "uid": "ba8476c40031",
-      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-04-07T07:00:00+00:00",
-      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
-      "severity": "major"
     },
     {
       "uid": "e1c3c58360dd",
@@ -383,13 +347,51 @@
       "severity": "critical"
     },
     {
-      "uid": "583699af58bf",
-      "title": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? - thecore.in",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdrdmRfOC1jTERlc3dOWl9YbUY2NGstZTR1azgxN2piR1ByU19TM0J2UExGc3p1c2ZXamRDWEU3QlRCSmc2c1lXVXJ1R2xPS083ZHdVaTdJS0lsVTlJUUhseWgzbEZqSXBUU1RCMGRXcXQ0cXlaZ25PWms1d2tOTjNfQTNleXlhcDdiUHNZYXNScU9pWWNvWmYwQ2Y2dFg1NktaQlJyaE4?oc=5",
+      "uid": "43da3d1eb0eb",
+      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXF3TkI0cUlHejhzSm1iMHVyZEdLS01NTDkwX0EzWmw2dExCWWhHS1lCZ2l0TlNrWDMyQWJqQ2ZWbkZaVXpOTTdkMnVVUENTeTlJb0pNQTJnRWVQaHVZTTNiTmFqOWtKekJUX1lnVUFiblZWVDZHeVgzcGRsemN6S0hmM3ZSVTV2N01xRTJxeEk5WVJQYlV4blNoN3pxZHZOTGloLXNYZEhFVUxJT1QwLVE1Yk00ZnNVRm1SXzRVU0NnaUVzYmNDaUdPdGRKYmpRUERiNmRmWm1nakQ4OWdIMFE0UU9KSm5aQnFiRjRUT3NRVXlxd3hV0gH8AUFVX3lxTFBQX3pQQ1ZCTmFyYS1kWVJlRmZ2MzN6TXd4TW9mSTllSkcwcFZjUU5kdGJOdkJmRm9vUmNkSzVtSDRxWEI0N0dod3VzVkQtMjRSVG1GWTFkWXNyc2MwZkNGWFg3bVBURG5VYm5wQzRVTUVqMFZadlB2UDRNVklMZmZ4WlRyWlZybnE5a0JCYVRBU1FNUDNsRnZ2bFRoVTMxTWtZZWpSR3AzQWN4WkxucU9JUDBFWk1SdG9oQzB3bnJMVkRZbmdMaVhZSVplSVRWN0xnN3hnMGdEa1ZtZW9HME9kX1ZzTWlfc05ZZ1lESFltanVmTFdSS3pLbnVtMg?oc=5",
       "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2024-11-20T08:00:00+00:00",
-      "snippet": "The Devaluation Effect: Are Credit Card Rewards Losing Their Luster? thecore.in",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-02-27T08:00:00+00:00",
+      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
+      "severity": "major"
+    },
+    {
+      "uid": "9857f803c756",
+      "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2025-05-23T07:00:00+00:00",
+      "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
+      "severity": "major"
+    },
+    {
+      "uid": "122683528444",
+      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2025-02-22T08:00:00+00:00",
+      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
+      "severity": "critical"
+    },
+    {
+      "uid": "6705aebf986a",
+      "title": "No CV points for govt, utility spends: Axis Vistara credit card devalued - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFIQ3J6dWdBLWdMSnlkVzJGblE4d29pdVlCTEpKbW5FMTFxQkdMeC1pd3MtQlFuOElOUlRsd2oweUNRdk85MzAzUDd4YTNubU9wRWZ2eEtfajhlal9RRzNQUWRaQ1plUjZ2blNqWG9JNHZsNVltNmZkX3lwakFzTTJRVE1maWVEOVBIVXV4QVZHa3o2RzBJOXYzNWpMZjZWOE1JbHhiLWtVNDlZcXNLbVp1SzJRWjd2ZV9FZ3FUbWY0TUVWZDhNRmR1QjNzTkJ3aThhc3NaRHpmM2FDeThvRXdJTUxRQdIB6wFBVV95cUxNZjJTUVd3dGdwbXVjYVlwci1sWGp2RW1RX3JsM2xDMHRkV0Ezd054R1p0TDJCbWtNWlIySXVaaHFJTVhXMGlOOEZOOG9rLV95dGhTZG1XZFV2MVExN184OEJLVDB0LWIxRzJNdENRUHlLcHNFVzQwMnQ0QVY4ZmdwNzljVDI0czNsNngwOHotU3c1bFRmOTdSMzM3TnZlUFB3ZVNBVU1ENlRiUzFCc1kzT0NEYkJLd2xHcFNOdVZOYkJkTjJrNHlCTy1KZlpLQmJpSXA3bUpiTHgzVFNXcmtqRUNSSGIwUXM2MGN3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2023-11-29T08:00:00+00:00",
+      "snippet": "No CV points for govt, utility spends: Axis Vistara credit card devalued Business Standard",
       "severity": "critical"
     },
     {
