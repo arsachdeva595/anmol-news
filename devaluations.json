@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:55:23.510853+00:00",
+  "generated_at": "2026-11-04T09:42:38.448342+00:00",
   "count": 30,
   "devaluations": [
     {
@@ -10,28 +10,8 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-03T09:55:08.289242+00:00",
+      "published": "2026-11-04T09:42:22.140529+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
-      "severity": "major"
-    },
-    {
-      "uid": "69899833e89b",
-      "title": "Credit card cash withdrawal: Why withdrawing  ₹10,000 can cost you more than expected in fees, interest and other charges",
-      "url": "https://www.livemint.com/money/personal-finance/credit-card-cash-withdrawal-why-withdrawing-10-000-can-cost-you-more-than-expected-in-fees-interest-and-other-charges-11793612615472.html",
-      "source": "Mint – Credit Card",
-      "issuers": [],
-      "published": "2026-11-02T10:35:15+00:00",
-      "snippet": "Withdrawing  ₹10,000 using a credit card can cost more than expected. Understand cash advance fees, interest rates, GST, repayment calculations and why credit card cash withdrawals can become an expensive borrowing option.",
-      "severity": "critical"
-    },
-    {
-      "uid": "0a360adb3d64",
-      "title": "Visa Power Travel Offer 2026: Earn Up to 20% Rewards on International Spends",
-      "url": "https://cardmaven.in/visa-power-travel-offer/",
-      "source": "CardMaven",
-      "issuers": [],
-      "published": "2026-10-17T13:08:49+00:00",
-      "snippet": "International spending is usually where credit cards become expensive. Even cards with good rewards can lose much of their value to forex markup fees. Visa Power Travel changes the equation a little. It offers additional rewards on overseas spending, including a ₹10,000 bonus when you spend ₹1 lakh ",
       "severity": "major"
     },
     {
@@ -57,16 +37,40 @@
       "severity": "critical"
     },
     {
-      "uid": "7a00de506b2f",
-      "title": "American Express to discontinue two card features in India: What changes from September 16 - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUktvUTUwUHI4R2ZiYkRVT1FwVUNzaWltY0R2aWNtUHRPU0J1QlplX2Z3bUtiRnFVRDJpNW94cHN3YjgwYjd4S200WWY3MjFsSktzbG05UVgxWGVjOUlUUEx4Mlc5MDNkMnRoMFZVN1M5bzQzS2QxZnVDalplTGFoMTBNWjdGS3o5ZktrdU9ZRVB5ZzVvZzJrMHh6c3Jhck5ja1dIMTRoYzZwLVJkUDZVenM1RFJTRjMyQklCemRjOUNiUmlJbFNuVXBwSFFOcURLTG40RDNFVC1DNmhoaFpzYTM4UWFSTmFQeGxpeDJYOGR5ZUZobVHSAfsBQVVfeXFMUDRFZ3BPbkRjSk0tR2NkeXV0UHNMRGxRUWZnOXpsU0dHcVBMakUxSFdyMW43aHlzSUdSS01Xa0NaV2w0ZkdOM1FFZG16Y2RaZlIxbFZ5WWZRUEJKYmZfZnFoS0ozeC1tcW00MHFUSW5LWVN1eHd0UDJNYTZua1ByN09ZamJVN1lsVjhrZnRBcm9PV1R2ZjZrMk5WZlhKY3dLbTFMTEhiTVpRa2tYbmJEMHJJaW5CbFk2TjFTQmtsX05CMk1nenY0dnJYTXBVUFlvX1ZxSFFsZ1p6eHpNYzNSdWpJRjRlc000c0lIak8wMFpJVFpvLUlzWE5JVTg?oc=5",
-      "source": "Google News / benefit",
+      "uid": "0d8b993ee7fc",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
+      "source": "Google News / offer",
       "issuers": [
-        "American Express"
+        "Federal Bank"
       ],
-      "published": "2026-09-02T07:00:00+00:00",
-      "snippet": "American Express to discontinue two card features in India: What changes from September 16 Moneycontrol.com",
-      "severity": "critical"
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
+      "severity": "major"
+    },
+    {
+      "uid": "2f3480769ddd",
+      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR05WVktfYmJqelI5bWtic2NicTNJOG5jWDBTcnhRdExwM1R4SWxfMXo1SlBjTDZweTEyT2ozT2IwSklsT01vNlQ3UnYzb0FtejVUQjMyRHNGSWdSdjBSSEN3Z2RBcHNzOVJnVlg5bDNvblpQeW5JWms5V2d1cDdNNmliQTU3YVhoVUs5WTNEVFp1WVFqTHhoZTdHSHM2dHJ1NVpvUWdzUl82STdqQ2ZZSW40NGttQk9FRjlsa2dlM1NZN05SX3dBWUxlREtSX1lHeUxPQlBOQVBkRjFHQ2NqWGFYM3p5ZGJORVVad3BESXRiaVk4WEE40gH8AUFVX3lxTE9Yb0hXMWcwa1NjUmY4NGhZUE9QWllvU2ZHdmVTZUZ5RnlxTnpyU0Npc1N1OHdMdVpLRWdvNFlndG13MnAtTUtaQ29hbS1nZ3hIOG54U3BpWjZzVW5Ia0h2UFZMTU9yUzlJb0tKWVhNS09RXzVkMTZNc2g3eE9Vc0U3Z1czQk96YnRDT2REazhRQkE5RkhkTHp4YWxSb1oySjQzbEhZMm4xYWdGYW1QeW5pLTdacGpMVXZ3V09SYU53QUZTakg5MWU2bkp2X1pUMEZWZ3V6a2pqOWdYSVF1WlRYWE0wUml2eVpaUzJFOHZLTncxTmVVLTY3RTZWMw?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-14T07:00:00+00:00",
+      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
+      "severity": "major"
+    },
+    {
+      "uid": "33fe0ef1bc40",
+      "title": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOempWN2dZc2MxdEI5c2NqTEF6SXdReC1yTVlkam5Bd2RqOVE1R3l6NDZCYlg1MWFmS2RESDhWcVZhUGdXRmRXMnBvTzdTNE9xNVVrU1RIazJLaFZsbVpnYkZBRnkycGc3ZFpZUUF5UmVONElDUDNKS19PaGZiVHZGb21HRHZ2c0s4QS1sckY5b1p2SmVZR2NaMGpfTWVCeVBibzZBZlBFWF91UEE4OWN1QkZIaDU2NFpvSW1tWVR3ay1rdFVvd19EaUpuODJUV2R2bGFtWURJNC1hUUVLVTVWOXZNZzRFMW0zYjlmQmhMZkRkdEFfTEd5aUE4YkJaRW9FekVuUE5R0gGLAkFVX3lxTE5ZMUwxdGllQ1NiUTg4c3Z6ajhEZktoRHo2QXI5YThaZXhiVmp4RTFlUUU2X1htM1RKWjRSSllDQ29PcXJuOEllVHdudmxHX2N6RkR0ZmppZ3lMejBRWEZKUDFSMlVaRk52amU5WUx4ZnhabWJNenBGUlhhOXl3SG5EdXdfQlZvZF9tZTlqZDBJeENGVW9oenpJSkQ5QTN6N1RVZWR1eTNIdzhhY002UE9RQzFnZW1iVHJXem1PZ2FjMF9wa3ozMlQ0S1VXLU1WaDdRaTJyQnlqWktEQVlPOWs3ODJnOVNEWUJVTFZDb2lySkdmZGVodnVGS2hWNjZSczhfRlg0T3VkTF9SQQ?oc=5",
+      "source": "Google News / offer",
+      "issuers": [
+        "Federal Bank"
+      ],
+      "published": "2026-09-11T07:00:00+00:00",
+      "snippet": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends The Times of India",
+      "severity": "major"
     },
     {
       "uid": "3deacba7b25c",
@@ -233,18 +237,6 @@
       "severity": "critical"
     },
     {
-      "uid": "cab49c17e317",
-      "title": "What to do with Amex Platinum Travel in 2026?",
-      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
-      "source": "CreditCardz",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-04-15T02:35:39+00:00",
-      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
-      "severity": "critical"
-    },
-    {
       "uid": "ba8476c40031",
       "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
@@ -323,6 +315,18 @@
       "published": "2026-03-02T08:00:00+00:00",
       "snippet": "Why your premium credit card perks just got devalued: The big squeeze on banks Livemint",
       "severity": "critical"
+    },
+    {
+      "uid": "43da3d1eb0eb",
+      "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXF3TkI0cUlHejhzSm1iMHVyZEdLS01NTDkwX0EzWmw2dExCWWhHS1lCZ2l0TlNrWDMyQWJqQ2ZWbkZaVXpOTTdkMnVVUENTeTlJb0pNQTJnRWVQaHVZTTNiTmFqOWtKekJUX1lnVUFiblZWVDZHeVgzcGRsemN6S0hmM3ZSVTV2N01xRTJxeEk5WVJQYlV4blNoN3pxZHZOTGloLXNYZEhFVUxJT1QwLVE1Yk00ZnNVRm1SXzRVU0NnaUVzYmNDaUdPdGRKYmpRUERiNmRmWm1nakQ4OWdIMFE0UU9KSm5aQnFiRjRUT3NRVXlxd3hV0gH8AUFVX3lxTFBQX3pQQ1ZCTmFyYS1kWVJlRmZ2MzN6TXd4TW9mSTllSkcwcFZjUU5kdGJOdkJmRm9vUmNkSzVtSDRxWEI0N0dod3VzVkQtMjRSVG1GWTFkWXNyc2MwZkNGWFg3bVBURG5VYm5wQzRVTUVqMFZadlB2UDRNVklMZmZ4WlRyWlZybnE5a0JCYVRBU1FNUDNsRnZ2bFRoVTMxTWtZZWpSR3AzQWN4WkxucU9JUDBFWk1SdG9oQzB3bnJMVkRZbmdMaVhZSVplSVRWN0xnN3hnMGdEa1ZtZW9HME9kX1ZzTWlfc05ZZ1lESFltanVmTFdSS3pLbnVtMg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-02-27T08:00:00+00:00",
+      "snippet": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, co The Economic Times",
+      "severity": "major"
     },
     {
       "uid": "583699af58bf",
