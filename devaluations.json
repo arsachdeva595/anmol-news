@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:43:08.828402+00:00",
+  "generated_at": "2026-11-07T09:05:57.979695+00:00",
   "count": 30,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-06T09:42:54.576401+00:00",
+      "published": "2026-11-07T09:05:41.456952+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -201,16 +201,6 @@
       "severity": "major"
     },
     {
-      "uid": "cc8f8ccc720c",
-      "title": "Govt unveils new IIP series with revision of base year - Manorama Yearbook",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmdGYVhZSllCS2NwdUhOUXRzQlJxdTVod1laZzVUNGpKcEFyNDlZV09sV21PUzRDLXA3cWVIWUtyazV6aDVjX0NXZ0RXZlFabzVfM21IUTlETHhMa0U5NmQwTjRqMUV1Z055TnRXdFBQYVBzVE5ybmlvZ3pzZkN6OXcyR3R3cWdNVHJCbEpCZDNEczRVZWF4WlNYNVVJMWNKaEh4cmNVYlNOTXc?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-06-02T07:00:00+00:00",
-      "snippet": "Govt unveils new IIP series with revision of base year Manorama Yearbook",
-      "severity": "major"
-    },
-    {
       "uid": "51eb98d6ec3f",
       "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
@@ -347,6 +337,18 @@
       ],
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "severity": "critical"
+    },
+    {
+      "uid": "c228365c4cab",
+      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2023-06-16T07:00:00+00:00",
+      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
