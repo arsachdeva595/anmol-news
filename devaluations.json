@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T09:05:57.979695+00:00",
-  "count": 30,
+  "generated_at": "2026-11-08T09:23:34.842264+00:00",
+  "count": 28,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-07T09:05:41.456952+00:00",
+      "published": "2026-11-08T09:23:11.979877+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -102,18 +102,6 @@
       ],
       "published": "2026-08-19T07:00:00+00:00",
       "snippet": "Axis Bank credit card changes from August 28: Markup jumps 133%, reward points rules revised. Check... Moneycontrol.com",
-      "severity": "major"
-    },
-    {
-      "uid": "a91f907d7199",
-      "title": "Axis Bank to revise credit card rules from August 28, 2026: Late payment fee, dynamic currency markup, reward point rule changes and more - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPU0NxVXM3aC1jTnAwRVBSdlVST0ViMmFhanJqeTdyYXd2UXZsMVlLY0tLQTRybm9zMGxuczltZHRGX2xfNGgxeXdNN1FESzJ6ZFAzejBwbWdRdnJnOUFFZ0JzTHRIemgzOEFKdXNibjkwaUEtLS1GZlF5cUNfR1Z2U09fQjlQbWlWSk1nQy1SNS1YbXNLci1nVzZacVhJc0NVbVJXdXhEWURCcTljNGVFNjRuQlY1cVN4R0hoeDlvV2t0LVpWeG56b25hN3J2NlBEZkdvbVRBWTgyUFVCQjBUVkoyVEFyRHBnaTU4eDcwWUREbnF4d2w1VktJRE4wOE1NbnIzdk9LVWxmQS1pak9rbndFOVE5YzdNZVh4WG8tRGo0OWlRa2M0aTdRRlB0Vi0wRUN5WkVGOA?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-08-18T07:00:00+00:00",
-      "snippet": "Axis Bank to revise credit card rules from August 28, 2026: Late payment fee, dynamic currency markup, reward point rule changes and more The Economic Times",
       "severity": "major"
     },
     {
@@ -337,18 +325,6 @@
       ],
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
-      "severity": "critical"
-    },
-    {
-      "uid": "c228365c4cab",
-      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2023-06-16T07:00:00+00:00",
-      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
