@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T09:23:34.842264+00:00",
-  "count": 28,
+  "generated_at": "2026-11-09T10:09:08.919246+00:00",
+  "count": 31,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,21 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-08T09:23:11.979877+00:00",
+      "published": "2026-11-09T10:08:52.034093+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "19e167610a74",
+      "title": "Amex India Transfer Partners 2026: Full List, Ratios & Best Value",
+      "url": "https://cardmaven.in/amex-india-transfer-partners/",
+      "source": "CardMaven",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-11-08T18:42:25+00:00",
+      "snippet": "Amex India has 7 transfer partners today. See the current ratios, the partners Amex removed, and where your MR points are worth the most.",
+      "severity": "critical"
     },
     {
       "uid": "55d8b40b3b7a",
@@ -211,6 +223,18 @@
       "severity": "critical"
     },
     {
+      "uid": "7c3904ea66ef",
+      "title": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMHMyV1MwNVBvbWhaX0JQdUlFM1M1N1NDZUFuN25EQmFWRnlvdlUxQ2RWVU15RmF1Z3hKdnVYRURLTjZ6M1QtWGt2aS13eTM0eGk3NTBkbk9QUGNLbHRQZm4tSi1vdmlxRkhiRlBHdVhGVklXWDNVVzVydm54TUNpVjlHWEVET1NoaHVBLWRFS0tDQTFrN0IzUVIzY1p0Q0JncjRtcW9tVU0tVnVES3BCaDFoUjdMZi1NbWg0Yl9jdUJqNTJxS1phaG9CVk1pcEt0OVVlelBUNGpKSUxYVFBTeS1QcHlnTWhmUDg5MTVuS3VwR0MxRUw5b3JXTTFla1lZdGh4eWtuS0IwNDNsTmFiZVJaUFRVdkE3cW8wMGxqVklpSzFxLVFNdjNhR3Q1Mkt6OGJtdFJEU2Qwa21zMk05QWdB?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-04-27T07:00:00+00:00",
+      "snippet": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules The Economic Times",
+      "severity": "major"
+    },
+    {
       "uid": "cab49c17e317",
       "title": "What to do with Amex Platinum Travel in 2026?",
       "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
@@ -325,6 +349,18 @@
       ],
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "severity": "critical"
+    },
+    {
+      "uid": "c228365c4cab",
+      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2023-06-16T07:00:00+00:00",
+      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
