@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:09:08.919246+00:00",
+  "generated_at": "2026-11-10T10:16:23.287674+00:00",
   "count": 31,
   "devaluations": [
     {
@@ -10,9 +10,21 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-09T10:08:52.034093+00:00",
+      "published": "2026-11-10T10:16:07.283640+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "c6be0f993e8b",
+      "title": "On demonitisation anniversary, American Express India wipes out Membership Rewards points from customer accounts.",
+      "url": "https://livefromalounge.com/on-demonitisation-anniversary-american-express-india-wipes-out-membership-rewards-points-from-customer-accounts/",
+      "source": "LiveFromALounge",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-11-10T09:21:23+00:00",
+      "snippet": "American Express pulls off a stunt removing points from customer accounts, stating they left them behind erronously. Here is what I think. The post On demonitisation anniversary, American Express India wipes out Membership Rewards points from customer accounts. appeared first on Live From A Lounge .",
+      "severity": "critical"
     },
     {
       "uid": "19e167610a74",
@@ -349,18 +361,6 @@
       ],
       "published": "2023-11-03T07:00:00+00:00",
       "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
-      "severity": "critical"
-    },
-    {
-      "uid": "c228365c4cab",
-      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2023-06-16T07:00:00+00:00",
-      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
