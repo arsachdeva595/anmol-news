@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T10:16:23.287674+00:00",
-  "count": 31,
+  "generated_at": "2026-11-11T09:46:02.148753+00:00",
+  "count": 34,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,21 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-10T10:16:07.283640+00:00",
+      "published": "2026-11-11T09:45:46.634609+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "61615a744d32",
+      "title": "American Express reverses course on Membership Rewards points clawback",
+      "url": "https://livefromalounge.com/american-express-reverses-course-on-membership-rewards-points-clawback/",
+      "source": "LiveFromALounge",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-11-11T07:43:02+00:00",
+      "snippet": "American Express has reversed course on its controversial Membership Rewards points clawback, promising affected cardmembers that it will restore the points deducted from their accounts within a week. The decision comes barely 48 hours after the company removed millions of reward points from custome",
+      "severity": "critical"
     },
     {
       "uid": "c6be0f993e8b",
@@ -129,6 +141,18 @@
       "severity": "major"
     },
     {
+      "uid": "a91f907d7199",
+      "title": "Axis Bank to revise credit card rules from August 28, 2026: Late payment fee, dynamic currency markup, reward point rule changes and more - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPU0NxVXM3aC1jTnAwRVBSdlVST0ViMmFhanJqeTdyYXd2UXZsMVlLY0tLQTRybm9zMGxuczltZHRGX2xfNGgxeXdNN1FESzJ6ZFAzejBwbWdRdnJnOUFFZ0JzTHRIemgzOEFKdXNibjkwaUEtLS1GZlF5cUNfR1Z2U09fQjlQbWlWSk1nQy1SNS1YbXNLci1nVzZacVhJc0NVbVJXdXhEWURCcTljNGVFNjRuQlY1cVN4R0hoeDlvV2t0LVpWeG56b25hN3J2NlBEZkdvbVRBWTgyUFVCQjBUVkoyVEFyRHBnaTU4eDcwWUREbnF4d2w1VktJRE4wOE1NbnIzdk9LVWxmQS1pak9rbndFOVE5YzdNZVh4WG8tRGo0OWlRa2M0aTdRRlB0Vi0wRUN5WkVGOA?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-08-18T07:00:00+00:00",
+      "snippet": "Axis Bank to revise credit card rules from August 28, 2026: Late payment fee, dynamic currency markup, reward point rule changes and more The Economic Times",
+      "severity": "major"
+    },
+    {
       "uid": "6f32b4046ad4",
       "title": "Axis Bank credit card new rules: Currency markup, late fee and rewards to change from Aug 28 - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkswUjNEWW8tRzY2NkxPTGpQR1JGYUEtUjFlNkdmMV9oS1FaQnp5Z2tadXRBSWo0VVhxVG9iY1g0QzhSLW1wdllaQmJtU1B6dXM5YWhaVk9aZU0xR1BXX3hyVWtpSXVfSHJrdWRuRXhVQzdwSUJuTXVhZlpoWGNjd2ZPQ09wNHhKYzVmUURHQ2xqTzVxNzh0UUNIZTVuUy1aWUwtUmQ1TXRnYmdTRXpCNXFpZWlEOGtRQmxyUVpSWDN1eEtOYVBEeDI3b09EV1dXUFHSAdcBQVVfeXFMT2dmVjloVU9fbHlOOVcxUDdmM2dGeG84OXVQUHBkM24tUnoxZG82dFFPdDhPRnAyZGhiWmZuOTZGdVFMTTRrckhPLUNiclBSQWNaZy0xczNCYlljRjVnNlVKQ2FuZlYzTE9FUnNUVW9uZVl4OGdyTHdZNHprVXpYSnM3ZU53bjlYZEluZTdseDlhM21GSWo2VkY1MWxHRUxEemJpZktIRXh6SFNiaTRGYlBiM3k1YzhQbGUtbXVYWE5nM1RvQU5vaF9mZWx4WUZkSkFiNUZGQ1k?oc=5",
@@ -165,6 +189,18 @@
       "severity": "major"
     },
     {
+      "uid": "5af20fd2ff56",
+      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
+      "severity": "critical"
+    },
+    {
       "uid": "f239e00dd270",
       "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
@@ -189,18 +225,6 @@
       "severity": "major"
     },
     {
-      "uid": "5af20fd2ff56",
-      "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
-      "severity": "critical"
-    },
-    {
       "uid": "9552ff847f9f",
       "title": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWdUTWp3WXJLckl5alVOOGNkNzRMY1hkRlMxTUdmRm5FRFdpc0RnN2JnU2M3TjdLRC1SVG9mdlJNSGJKdENGdDdJUnRMWjNjX3NTdzRxX092VTY3WDc5SWVYNEs2SUd1QS04eE1CNDFFZF96MlF0Y1BHMnBlYnE3dlNYb05tT0lWM25vYXVCTlRWN2lwV3NDLUdTZTZZU3dmQWo4TWtXRWJ4VURaeFRFTWlhbVJpUVRVNXFJMnozNnhUYkNWcURDeHp1UW11MDhqb05KV3VIVExrZHNzd2FVYXV4c9IB6AFBVV95cUxQaW5nUkI4cHBZRFZkYVdnYVZaQ09UTVdIeHpEZzlRd2t2MW9QYW9BT2FpZzlKeGRoUnpSVUFKLU1Caks1RjV0UHR3WjFhTEQ5aWtIc00zYmdrbUp3Y0Y1d21yX3BUamdmdlJDNnZxb3NoNnpIcXRGOHJSeENucjVWRDY5SFpUSlN4Ym1pbTltb1Y5RzdTY0dYZGxjSUZrVG9lSzl0NXdLYXNTN1RCSXVFQ3Mxb0o0M1BzVTBkclQ4eDhsRWdFcDBHQWw4SWszeHA4V1pBV0U0YTdCNEp6T01LRzh6WU1TNmZr?oc=5",
@@ -210,6 +234,18 @@
       ],
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "HDFC Bank changes SmartBuy rewards rules, caps benefits: Rules explained Business Standard",
+      "severity": "major"
+    },
+    {
+      "uid": "316a5a06996a",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "IndusInd Bank"
+      ],
+      "published": "2026-06-05T07:00:00+00:00",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
       "severity": "major"
     },
     {
