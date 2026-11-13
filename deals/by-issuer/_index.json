@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:07:26.915Z",
+  "generated_at": "2026-11-13T09:53:40.437Z",
   "source": "deals.json",
   "issuers": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "slug": "axis-bank",
-      "count": 89
+      "count": 90
     },
     {
       "slug": "bank-of-baroda",
-      "count": 38
+      "count": 40
     },
     {
       "slug": "federal-bank",
@@ -40,7 +40,7 @@
     },
     {
       "slug": "sbi-card",
-      "count": 160
+      "count": 158
     }
   ]
 }
