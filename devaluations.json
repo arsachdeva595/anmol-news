@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T09:17:18.201701+00:00",
-  "count": 30,
+  "generated_at": "2026-11-15T09:47:35.478337+00:00",
+  "count": 34,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,31 +10,22 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-14T09:16:46.618187+00:00",
+      "published": "2026-11-15T09:47:20.025871+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
     {
-      "uid": "4ecf1675e940",
-      "title": "ICICI Bank credit card alert: 6 important changes to be introduced starting from 25 November; check affected cards",
-      "url": "https://www.livemint.com/money/personal-finance/icici-bank-credit-card-alert-6-important-changes-to-be-introduced-starting-from-25-november-check-affected-cards-11794625042136.html",
-      "source": "Mint – Credit Card",
+      "uid": "6396210fe6b9",
+      "title": "ICICI Bank Credit Card Devaluation November 2026 – Air Accident Insurance and INOX Benefits Discontinued, Fees Revised",
+      "url": "https://cardinsider.com/blog/icici-bank-credit-card-devaluation-benefits-and-fees/",
+      "source": "CardInsider",
       "issuers": [
+        "Axis Bank",
         "ICICI Bank"
       ],
-      "published": "2026-11-14T03:54:30+00:00",
-      "snippet": "ICICI Bank will introduce six credit card changes from November 25 to December 15, 2026. Check revised DCC and replacement fees, Priority Pass charges, discontinued insurance coverage and INOX benefits, along with affected card variants.",
+      "published": "2026-11-12T06:31:18+00:00",
+      "snippet": "At this point, credit card users have become accustomed to periodic devaluation notices, whether from Axis Bank, ICICI Bank, or other major issuers. Almost every credit card issuer is introducing changes to its cards from time to time, and unfortunately, most of these changes are negative in nature,",
       "severity": "critical"
-    },
-    {
-      "uid": "6948f15faa7c",
-      "title": "Credit Card Rule Changes Late 2026: 4 Checks Before Dec - Value Research",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1lMTmFrWWIzQ1NvRkxpcmpqU1lyaUdlZXRRLVhkN2c2dUY1WURoRDlYbktSWGVvRmJOd2c5OEtzNjlfNUdPbEpMWndkV3ZHXzFJRVJsRkNiZVp6dkpOWUtBeDd2MnQ4R1pCSzdvZ3QyNUZjRnctVV9jTEJXTjhaNlFEWWFlTjZYT0VoS1ZhYjNVX1hRcXZ2LWw2R241WTdIR1pQSWFB?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-11-12T11:36:53+00:00",
-      "snippet": "Credit Card Rule Changes Late 2026: 4 Checks Before Dec Value Research",
-      "severity": "major"
     },
     {
       "uid": "c6be0f993e8b",
@@ -47,6 +38,40 @@
       "published": "2026-11-10T09:21:23+00:00",
       "snippet": "American Express pulls off a stunt removing points from customer accounts, stating they left them behind erronously. Here is what I think. The post On demonitisation anniversary, American Express India wipes out Membership Rewards points from customer accounts. appeared first on Live From A Lounge .",
       "severity": "critical"
+    },
+    {
+      "uid": "19e167610a74",
+      "title": "Amex India Transfer Partners 2026: Full List, Ratios & Best Value",
+      "url": "https://cardmaven.in/amex-india-transfer-partners/",
+      "source": "CardMaven",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-11-08T18:42:25+00:00",
+      "snippet": "Amex India has 7 transfer partners today. See the current ratios, the partners Amex removed, and where your MR points are worth the most.",
+      "severity": "critical"
+    },
+    {
+      "uid": "55d8b40b3b7a",
+      "title": "Get 5% Cashback on International Spends + 0% Forex Markup With HSBC RuPay JCB Credit Cards",
+      "url": "https://cardinsider.com/blog/hsbc-rupay-jcb-credit-cards-cashback-international-spends/",
+      "source": "CardInsider",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2026-11-04T11:41:55+00:00",
+      "snippet": "HSBC has been introducing some attractive offers for its Indian credit cardholders. While its recently introduced zero forex markup offer on credit cards has now ended, the bank is back with another international spending offer, this time in association with RuPay and JCB. HSBC has introduced a limi",
+      "severity": "major"
+    },
+    {
+      "uid": "0a360adb3d64",
+      "title": "Visa Power Travel Offer 2026: Earn Up to 20% Rewards on International Spends",
+      "url": "https://cardmaven.in/visa-power-travel-offer/",
+      "source": "CardMaven",
+      "issuers": [],
+      "published": "2026-10-17T13:08:49+00:00",
+      "snippet": "International spending is usually where credit cards become expensive. Even cards with good rewards can lose much of their value to forex markup fees. Visa Power Travel changes the equation a little. It offers additional rewards on overseas spending, including a ₹10,000 bonus when you spend ₹1 lakh ",
+      "severity": "major"
     },
     {
       "uid": "0bb28e9019ee",
@@ -177,6 +202,18 @@
       "severity": "major"
     },
     {
+      "uid": "316a5a06996a",
+      "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
+      "source": "Google News / benefit",
+      "issuers": [
+        "IndusInd Bank"
+      ],
+      "published": "2026-06-05T07:00:00+00:00",
+      "snippet": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details Livemint Money",
+      "severity": "major"
+    },
+    {
       "uid": "51eb98d6ec3f",
       "title": "PhonePe SBI Select Black Credit Card devalued. Check the changes starting 1 July - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2piRk1IVENaajVWcE1YbjdtNUdyU2dXa3k0YnZiTnhMMll6NTJIbXpicXpKS3hrcDZOVDVObUhUS1RJeDlWbGJZdEpGUWhvc1p3TElick9iMWdHOVpNaGtCaE5Zck5QcXladG5DX3BZd2xXSUlFZ3hNU3Y0dTFxM21oTGlXSW9hRnJ0czNlQXVtUS12ZDBYQm5FVmYzcUtXV0dpcTBKSFc4bWtJaWVxWHNUdEFoYmNMdlN6MlU5RVZrNFctZGwtaVo0ZzVfZW1tYUhQUkhUeUlPcDRtZ0paU0QxWjJtYjU1WjBkY1ZrLTE1Zw?oc=5",
@@ -199,16 +236,16 @@
       "severity": "critical"
     },
     {
-      "uid": "7c3904ea66ef",
-      "title": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMHMyV1MwNVBvbWhaX0JQdUlFM1M1N1NDZUFuN25EQmFWRnlvdlUxQ2RWVU15RmF1Z3hKdnVYRURLTjZ6M1QtWGt2aS13eTM0eGk3NTBkbk9QUGNLbHRQZm4tSi1vdmlxRkhiRlBHdVhGVklXWDNVVzVydm54TUNpVjlHWEVET1NoaHVBLWRFS0tDQTFrN0IzUVIzY1p0Q0JncjRtcW9tVU0tVnVES3BCaDFoUjdMZi1NbWg0Yl9jdUJqNTJxS1phaG9CVk1pcEt0OVVlelBUNGpKSUxYVFBTeS1QcHlnTWhmUDg5MTVuS3VwR0MxRUw5b3JXTTFla1lZdGh4eWtuS0IwNDNsTmFiZVJaUFRVdkE3cW8wMGxqVklpSzFxLVFNdjNhR3Q1Mkt6OGJtdFJEU2Qwa21zMk05QWdB?oc=5",
-      "source": "Google News / devaluation",
+      "uid": "cab49c17e317",
+      "title": "What to do with Amex Platinum Travel in 2026?",
+      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
+      "source": "CreditCardz",
       "issuers": [
-        "HDFC"
+        "American Express"
       ],
-      "published": "2026-04-27T07:00:00+00:00",
-      "snippet": "HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules The Economic Times",
-      "severity": "major"
+      "published": "2026-04-15T02:35:39+00:00",
+      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
+      "severity": "critical"
     },
     {
       "uid": "fd3b6890bf8e",
@@ -324,6 +361,18 @@
       ],
       "published": "2024-12-19T08:00:00+00:00",
       "snippet": "Interest rates to fees: Axis Bank credit card rule changes start Friday Business Standard",
+      "severity": "major"
+    },
+    {
+      "uid": "17383bad2461",
+      "title": "Axis Magnus Credit Card changes: Reward points revision from April 20, new lounge access rules from May 1 - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX0Y1Z1VKRzZlbUM0WmJaaXF0MFMxZDNMQzdKQVZoSE5CLVpRZXZGTDBLSFlWY2p4RC1zUzl2NTV3ZUdVUkt5a0llaTFza2MteW81WmN6MldILWxZR1ZIV1dVdEVsdFRQZ3A3M2hJdkNFam5LXzY2angzWVlPWkNBS3hjWGJVUHIxT2F1Z3RjN0REZ3Y0SG5BTXotekxYRUQtTy1yYXZyS25MTVFPNHpGaGN6MDI5cFF1Sjc5dEdZbjE3RXI5T0Joa191akRzX2lrZnBmTVZiV1NjeFXSAeABQVVfeXFMUHctb0pITk9DeWM2X0NBTzZCdU1Vb1hEVjMzZkpHU2tTNWVmQ3hQN2RycExNTWlUMmdEVW5ycUgyUVVFT0RNeG9ZcWRxYkM4ME40eFYzbzZUdjlEc05ETlZyV0hqUk8yWFlRZWxVU29BZ2xPWVNrdjYwMFQ2amtXN2gyc1dsNFd0TGFZQWZZQnloZE1CUkZNMFFsWTd4SC1YdjJaSU56ekhuSFd5ZmNFTENTbG4weGpzYWhlMlBtR2dONVZrMEhTZkM1QkpkQ29HNF9UWjEtRkg2STFMMXZFUGg?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-03-20T07:00:00+00:00",
+      "snippet": "Axis Magnus Credit Card changes: Reward points revision from April 20, new lounge access rules from May 1 CNBC TV18",
       "severity": "major"
     },
     {
