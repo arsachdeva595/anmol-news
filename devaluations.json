@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:47:35.478337+00:00",
+  "generated_at": "2026-11-16T10:04:14.261379+00:00",
   "count": 34,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-15T09:47:20.025871+00:00",
+      "published": "2026-11-16T10:03:57.814516+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -74,16 +74,6 @@
       "severity": "major"
     },
     {
-      "uid": "0bb28e9019ee",
-      "title": "Google Pay Flex Credit Card Rewards Revised: Google One Members Get Higher Returns - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2JHaE4xNGZWOWxad2RfRHVnWU1hNndXcGE4M3cwcWNVNU56ci1CVzBBWmlVYk9mTHllMlduRzhoTy1rc25uVmxxMUdhVlJ5NWhiZ05ZeGVnSUNmMEt3TTc4X2dja1VuUHYtQkRfNm1TWmQ4UkZBS0RlbXdSd2p1akM5aFRTVmJqVFdDQlYyR3dRaFZnSUZCSTJDU2xLLXFHd3NmM2RoZUI3d1ludGFNQWUtd3NKOTZCclBV0gHIAUFVX3lxTE45dWVzRWtmcWI4VUJTVDh5bTNtSmhIS2xMc2FHYnhuZVFrX2hnZUstaTd3dl9KMnFfcnI5MllNeGJIQVBTc0ZHWmVxUlEwUVRNcXhneHN4R2ZtSzZ6ejdFTWNpOGtxX0hpOEpUbmxpeHVMb3V6X0FJUkpFWkw3Zi1SYjM4N21YMU1RSEdZRjhzLXA5Yno1QmFscmluTGVHWUZkWVlRNTd4a0FfNVZQaDdJWFB5b09yaXQ2LW1jXzJvSEtWbGJObW5s?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-10-14T07:00:00+00:00",
-      "snippet": "Google Pay Flex Credit Card Rewards Revised: Google One Members Get Higher Returns Analytics Insight",
-      "severity": "major"
-    },
-    {
       "uid": "a37007067418",
       "title": "Axis Atlas & Magnus Devaluation (September 2026): What   Edge Miles Users Need to Know",
       "url": "https://spendwisely.in/axis-atlas-magnus-devaluation-september-2026-what-edge-miles-users-need-to-know/",
@@ -106,16 +96,14 @@
       "severity": "critical"
     },
     {
-      "uid": "389c889d7876",
-      "title": "Axis Bank credit card rule changes: Check new charges, revised lounge access and reward rules from August 28, 2026 - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNaHR4TEZLYThuVkdreUxKeWpMNUxuZTRkQjVOb0dIeXBOYjVsM3d6M1FxaGFLUDh1Z1FIcWxCVUREZTlKMTZqeG0tY0I1eF9XZUdLWTJjZXdVQ3FYVGgydEMzd3hmRmpYWDJFOGtGYkQxbEJDLUVFZ2NfVG1rYmJWME5TOUN2Yll1MWFWQk1NR0dsb05qY0piN3lBUVQ5Z05iUFJQYkU3TVJ6OUxDZUxPSW9NWm0yQkNKZzliVzFQamJ1VVhIeUV2WkcwTGp4b2hONFo2clhYVE9ySkxPdTlpUUYwcXVUeU5XcUpoOXVGRFlYUWJmMUFFNEZiSVVoUnZXWmNxSU9EYk5uVnVOZFZmb0RmLVVpQnBYUlFXa1V3VVRnczRSWTNOOE9HQk1lY2NMM2c?oc=5",
+      "uid": "2bc2fd8d94aa",
+      "title": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQ2hCeEJXRXEtSk9admNKUUd5WlQ2NkprUEtoS2p3SndJSnN0ZGxweFJrWFA4NXg0WTVWalN3YjRkb1NCNVU2Njh1M3BNVi1yN2lFQlU5eUFiOG1hcmd4eVBSaXA?oc=5",
       "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
+      "issuers": [],
       "published": "2026-08-21T07:00:00+00:00",
-      "snippet": "Axis Bank credit card rule changes: Check new charges, revised lounge access and reward rules from August 28, 2026 The Economic Times",
-      "severity": "major"
+      "snippet": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase Live From A Lounge",
+      "severity": "critical"
     },
     {
       "uid": "c7c04d6b5852",
@@ -202,6 +190,16 @@
       "severity": "major"
     },
     {
+      "uid": "8951d125b1e7",
+      "title": "4 things cardholders should do to avoid credit card devaluation risk - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaktYRGhsQ1kzMGFheXdsNlB2cTBSSVhCUWVmNnI3ZFczYWVpUG5talpkVjJmMWdsNGpPQVNaOEZGdzFxRWgtMDVONERRcDJiUm52cTZTbTU5ZFppRTBHNTZXd3k5MDNQRTFjN2liUm5oSXdNQlJrYjU1NUxITUdFb2pQcjFYRjNEcTFiMmNzeHlVaFpwV0dUMnZhRlpScW9OMWl5QnZMZDVxb25hWXNIME44dTVOd2VBYmRoRE51Z19WdW1xYml4WEllVEx2YTJLWm82LXNubw?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-06-23T07:00:00+00:00",
+      "snippet": "4 things cardholders should do to avoid credit card devaluation risk Upstox",
+      "severity": "critical"
+    },
+    {
       "uid": "316a5a06996a",
       "title": "IndusInd Tiger Credit Card provides free airport lounge with zero spend requirement. Check details - Livemint Money",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZWZMSHdnWHVMQTRaQ09TaUZnV2lTN01kZHRXbDdpakFpaVRhU0hjQi1uNkFlUzNfcU5YVzEzQVpaMUN5ejd6TkdSVUdqMFkxRVdLOENfRHhXamhxUi1wSlNGdzZXMEk0bFFDVTZzYWtwcEVFdnJSQXNVaEdORlk3ZkctQy1yTEU4aTV2ZXJ3d1UzSlNfSjNXdzkxaExad1Fidkhpd0FJWFZYczNoM3hmWHhRZ1pldHU4eDRJNlQ5a25DUFhTMkJjbFB5MlBCWVlWb1ZjN2FjWWFPNC12cmRiSWtMeHhTcWdKcGZtbHJ6VzJhUWQ4azZ2bmNFRmlya0ZGS2VkN0dRU3BQUQ?oc=5",
@@ -251,10 +249,22 @@
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
-      "source": "Google News / devaluation",
+      "source": "Google News / offer",
       "issuers": [],
       "published": "2026-03-13T07:00:00+00:00",
       "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates CNBC TV18",
+      "severity": "major"
+    },
+    {
+      "uid": "bd3baeb9f1c8",
+      "title": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2NHVzVRSDZ6djZqQ2QyVlhjS01LQW1BN0ZxMGNNWDh5eGdDTnl6NHRXTzI2TWNJRDZqOXhrbE5MOVNRRHRGem5ubk9YX1hJOHJfdzVuZlNvS0QtOVBwT3dsWnFidEk1RTM3eWJycGVLemViYVE1RnpRNW1FU2xDZFhETTd1TFJYR1Q3a0VCRHVsWE0xUzZ1THJEMElJSXdPSXV3a2tCam02R0c1dUpWb1N4cEl6V24wVFJXMjNQSmlFVDludElFcXdhQ0h1c1B2c1BXdmJMdTJMcEZwNjY1OU0yd9IB6AFBVV95cUxQRkJBbG5VZEtVV2lVLXRGb1FWVFF0MTBzcEtUc0k4V2tlLVZjbktGbjMtOXBfWDhFSE9zYXBuNTR6RF95UG84YmtzV1R5RVZUUHVXSUhUZ2w2WC1Ec0pEenRiX1JzVzI5RlJRQk9aRWxtODd0SGMwLXV4S1lSM2xCNWtIZGhSaFZFZUhJWWJiME5Cbkh4am5ia09hdlkyc3JTajA4cDBxcXZ0SExFSkRxNTI0MkZ4MWM1cFdrUDhzTnFQamkydVN5V2hNUk1hQVJtem9IZ2Q2QWhZVldHRXN5ajAtdnpUZGxf?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-03-11T07:00:00+00:00",
+      "snippet": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised Business Standard",
       "severity": "major"
     },
     {
@@ -268,18 +278,6 @@
       "published": "2026-03-11T07:00:00+00:00",
       "snippet": "Airtel Axis Bank Credit Card new rules from April 12: Cashback caps revised, lounge access removed CNBC TV18",
       "severity": "critical"
-    },
-    {
-      "uid": "bd3baeb9f1c8",
-      "title": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2NHVzVRSDZ6djZqQ2QyVlhjS01LQW1BN0ZxMGNNWDh5eGdDTnl6NHRXTzI2TWNJRDZqOXhrbE5MOVNRRHRGem5ubk9YX1hJOHJfdzVuZlNvS0QtOVBwT3dsWnFidEk1RTM3eWJycGVLemViYVE1RnpRNW1FU2xDZFhETTd1TFJYR1Q3a0VCRHVsWE0xUzZ1THJEMElJSXdPSXV3a2tCam02R0c1dUpWb1N4cEl6V24wVFJXMjNQSmlFVDludElFcXdhQ0h1c1B2c1BXdmJMdTJMcEZwNjY1OU0yd9IB6AFBVV95cUxQRkJBbG5VZEtVV2lVLXRGb1FWVFF0MTBzcEtUc0k4V2tlLVZjbktGbjMtOXBfWDhFSE9zYXBuNTR6RF95UG84YmtzV1R5RVZUUHVXSUhUZ2w2WC1Ec0pEenRiX1JzVzI5RlJRQk9aRWxtODd0SGMwLXV4S1lSM2xCNWtIZGhSaFZFZUhJWWJiME5Cbkh4am5ia09hdlkyc3JTajA4cDBxcXZ0SExFSkRxNTI0MkZ4MWM1cFdrUDhzTnFQamkydVN5V2hNUk1hQVJtem9IZ2Q2QWhZVldHRXN5ajAtdnpUZGxf?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2026-03-11T07:00:00+00:00",
-      "snippet": "Airtel Axis Bank credit card: Lounge access ends, cashback rules revised Business Standard",
-      "severity": "major"
     },
     {
       "uid": "fe5bc2719360",
@@ -316,18 +314,6 @@
       "severity": "critical"
     },
     {
-      "uid": "73a455f7217e",
-      "title": "ICICI Bank Credit Card rule changes from January 15, 2026: Check new fees and benefits - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUZ0bldCOXFxNW9qOG00dks5azRTTWl5SWRQQUVwa1Q3UEVEYVhiblhFcGlfYzhBRzBxNEpLQ2E3QVJvUktlSWFvQkN0UThNXzRXSW9RRTlIYm0tMlY4Q18xYnhCdEFjajN4WWIzeXVhSVlMUmdlajBmM0xvUFhubmFycFAzQTVnOE9WSGVoQnBLWHVoRVA3TWl2eE9aNGdENVZweThDX25kSlZlVWRRX3ZzbmpPQkdMR1d4WmF6RGg2RzJZd1ZIcDVqMU9fYzdaTzB2eGdxZVdtZ2tMVlZMazBOWnBYUdIB6wFBVV95cUxQWUx4dFVNUENiV01YYV9yaWY4MWp6ZVUyYXQtMy1NRzIydW5vME02SjM4YjJpY2ZRemtJMENYWWszY2czbDBCSW1haFZRMmZodFpERmFaOVdiOTlUaldrNTZOT3J0RTFONHA5YmdJaHctSWtrV0xuYnd6bjhpeUZDek5VbU9BcWVYWXFjb2FGdTNzck9VQm5nZ29YdzVTOXByUUVvamowdlBSd3VJMkRXVEwxNFNtY1Z5OHdkYTJtNy1YLVF4ekJjWWpDdk5IcmRfODkzTy1lZFN2WmlJQWNUS1ZVRjNNaFB0RGZV?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "ICICI Bank"
-      ],
-      "published": "2026-01-09T08:00:00+00:00",
-      "snippet": "ICICI Bank Credit Card rule changes from January 15, 2026: Check new fees and benefits The Economic Times",
-      "severity": "major"
-    },
-    {
       "uid": "9857f803c756",
       "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
@@ -350,6 +336,18 @@
       "published": "2025-02-22T08:00:00+00:00",
       "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
       "severity": "critical"
+    },
+    {
+      "uid": "42139014420f",
+      "title": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcEp3eUxlTXNVSkpEUHluT1hOc21XbTVCVjNDOGM3cGw5R0l6dUp0NzhUZGVJc1p1OXJ4eDk0aWV3UmVMbXFhWjFKZGk3SXdneHNBMTZGZUpYVHUySjNOZGhGdVIxLTFsYVRiWG5NVFp6UzRFVnpIVmtnLWpZV3dZTHJyWGdjZm1oRHJ1Q3E1N1dIemJQdkJHUVlSa05LZWlLbEhMOUxQSTh4WXZHYlZiUDNOVVhnc1QxT3EzSzcxLXVzWVMzNmZub2l1d1czMHVqSUN2VUd2R2hVQnRERi04SlZONV93bkoxa0xLOVBLZHE1WUgwLUZxa0NMOXpZZjJFTlZiM1htWVNvbmJKbEHSAZMCQVVfeXFMTjI3NFZzRTd3aHAzQlFIMXBpOThrQWVUcURWYkZ0NDNJZUhKWGxWVEl2LVB2RHdFeDJGanlwUjVfcDJNRU1rZ1FhNU9Db2dlYU5FVDlJSnRVem9NSlVycDJEX3E4b01TZFBaYXBhdVUzNHJOYjlVRFM5VUM5YlRIUHhabi02N0ZqTVJZRmpEbTFaSlk5LTBVaXdkcnkzWEM5T3VoR1poOWRyVGRKVnZUMU1adWxucEc3SFFTSDkxa0Y2TFJCZ1pmUzdDd190Tmc0clBadTVacXc2c3oyN0U4OU82S3JrOHdVbTFyZm9lVkdYeHhQbDQwcGRRNFBrYVBRVlBaOEVZWmE5NVg4N0pwYzFwYzQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2024-12-19T08:00:00+00:00",
+      "snippet": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates Livemint",
+      "severity": "major"
     },
     {
       "uid": "9b4cdbc3f2c8",
