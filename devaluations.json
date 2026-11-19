@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T10:33:39.042080+00:00",
-  "count": 26,
+  "generated_at": "2026-11-19T10:40:04.869677+00:00",
+  "count": 30,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,9 +10,66 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-18T10:33:03.591301+00:00",
+      "published": "2026-11-19T10:39:50.490692+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
+    },
+    {
+      "uid": "2bf58560abd0",
+      "title": "Earn Up to 20% Rewards on International Spends with Your Visa Credit Card",
+      "url": "https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/",
+      "source": "CardInsider",
+      "issuers": [],
+      "published": "2026-11-17T11:45:54+00:00",
+      "snippet": "There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times. Until 30 September 2026, the offer followed a different structure, whereas from October onwards, Visa Power Travel has taken a completely different and more offline-focused approach towards rewards. Regard",
+      "severity": "major"
+    },
+    {
+      "uid": "6396210fe6b9",
+      "title": "ICICI Bank Credit Card Devaluation November 2026 – Air Accident Insurance and INOX Benefits Discontinued, Fees Revised",
+      "url": "https://cardinsider.com/blog/icici-bank-credit-card-devaluation-benefits-and-fees/",
+      "source": "CardInsider",
+      "issuers": [
+        "Axis Bank",
+        "ICICI Bank"
+      ],
+      "published": "2026-11-12T06:31:18+00:00",
+      "snippet": "At this point, credit card users have become accustomed to periodic devaluation notices, whether from Axis Bank, ICICI Bank, or other major issuers. Almost every credit card issuer is introducing changes to its cards from time to time, and unfortunately, most of these changes are negative in nature,",
+      "severity": "critical"
+    },
+    {
+      "uid": "19e167610a74",
+      "title": "Amex India Transfer Partners 2026: Full List, Ratios & Best Value",
+      "url": "https://cardmaven.in/amex-india-transfer-partners/",
+      "source": "CardMaven",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-11-08T18:42:25+00:00",
+      "snippet": "Amex India has 7 transfer partners today. See the current ratios, the partners Amex removed, and where your MR points are worth the most.",
+      "severity": "critical"
+    },
+    {
+      "uid": "0a360adb3d64",
+      "title": "Visa Power Travel Offer 2026: Earn Up to 20% Rewards on International Spends",
+      "url": "https://cardmaven.in/visa-power-travel-offer/",
+      "source": "CardMaven",
+      "issuers": [],
+      "published": "2026-10-17T13:08:49+00:00",
+      "snippet": "International spending is usually where credit cards become expensive. Even cards with good rewards can lose much of their value to forex markup fees. Visa Power Travel changes the equation a little. It offers additional rewards on overseas spending, including a ₹10,000 bonus when you spend ₹1 lakh ",
+      "severity": "major"
+    },
+    {
+      "uid": "a37007067418",
+      "title": "Axis Atlas & Magnus Devaluation (September 2026): What   Edge Miles Users Need to Know",
+      "url": "https://spendwisely.in/axis-atlas-magnus-devaluation-september-2026-what-edge-miles-users-need-to-know/",
+      "source": "SpendWisely",
+      "issuers": [
+        "Axis Bank"
+      ],
+      "published": "2026-09-24T03:34:10+00:00",
+      "snippet": "In September 2026, Axis Bank made major changes to how its credit card Edge Miles convert into airmiles and hotel points — and for Axis Atlas and Magnus for Burgundy users, this September 2026 devaluation is a heavy one. 😳  If you’ve been earning Edge Miles specifically to transfer them to airline a",
+      "severity": "critical"
     },
     {
       "uid": "3deacba7b25c",
@@ -22,6 +79,16 @@
       "issuers": [],
       "published": "2026-08-25T07:00:00+00:00",
       "snippet": "Credit card rewards get harder to earn: The major devaluations of 2026 Moneycontrol.com",
+      "severity": "critical"
+    },
+    {
+      "uid": "2bc2fd8d94aa",
+      "title": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQ2hCeEJXRXEtSk9admNKUUd5WlQ2NkprUEtoS2p3SndJSnN0ZGxweFJrWFA4NXg0WTVWalN3YjRkb1NCNVU2Njh1M3BNVi1yN2lFQlU5eUFiOG1hcmd4eVBSaXA?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-08-21T07:00:00+00:00",
+      "snippet": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase Live From A Lounge",
       "severity": "critical"
     },
     {
@@ -73,18 +140,6 @@
       "severity": "major"
     },
     {
-      "uid": "f239e00dd270",
-      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-07-01T07:00:00+00:00",
-      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? Livemint",
-      "severity": "major"
-    },
-    {
       "uid": "5af20fd2ff56",
       "title": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today - Live From A Lounge",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQME9QWUVFUlppeU9rdC12Z2pmUjRUeF8xTVhPM255T2NyNC1zblVwZlEyMW8zc01TRWFtMVd2OXZsZ3lyZ0doOGNWMW04ckV1ZmJxaGNSM21wOFdOdTRkdmNFcENqbS1HZktocy1wX3FBQ3ZZTEkyMXp2c0pwcDN6N2dzaVdFa0RMVkFmakJZdFhPOTRKWTdyWDV2MDdDYTE4emY2TW5HMnUyZ25wUjQyaDRRSFk4bl9nU3M2WU9ZNEdPbDM1NWR0SDdvc25HNDhjWXg0aktmVQ?oc=5",
@@ -95,6 +150,18 @@
       "published": "2026-07-01T07:00:00+00:00",
       "snippet": "HDFC Bank Credit Cards devalues SmartBuy Gift Vouchers accelerated rewards with new monthly cap effective today Live From A Lounge",
       "severity": "critical"
+    },
+    {
+      "uid": "f239e00dd270",
+      "title": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXA0Y00yak4tVDVZYzV0NUMyc1JDVS13UXJYQ0lZQkFKb1U0elNMR0VKMnN1Z3I1c3ZLXzVlekdMRUNCdWFsbmxPdkJUcDBNMDYwRFNvd3VTQzRjV1ZnNGoxNlA2a1ZIYWpPWER5MFUwd1pGQTM1c0pFLVVnUC1MQnlTdE52cWI3aDNWLVlOVllFeHlFR3BZN1VibG4xN3pYWTM0TUZXUlN5LUlXU1dpODN4SElSeDVtTGlzT3hkT3lqNG9hdWNIeWVfX3hDalMyOTN4WjQ3emtNV25OY05CdTZyd0lMbG5fV3hjbnV5aGJnVXhURkNN0gH8AUFVX3lxTE5mcUVjbU95eU5XS1o4TzBKYzYwNWdDVlNMUFVCbExYZHNENU1qMTNOdy1HYm1rNlJCVDJzLVlLYVg1UlRaSnFSRzB5QnlWc1ViZ05PZ3lyZ01WVklpd3h6VW0xbUx3clZCX0RmX3pNVDg4QWU0bVNDVGMxM0R5OFVqTWFreGJmTFYzLXM4LS1wUjcyVnJNU0ZaZ1A2MGNCSmtMSHdrUS1iX3J3aFdPRjNYTWtMYkFMM0I2bFUtN3htSzdHdk80THQ4Q2VLTlhxTXh0eFhBNG0wMWpidjZjOTZyMEw5bGtFX0RELVpwb0N0ckI4b2ZzTXkxMFVzaQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-07-01T07:00:00+00:00",
+      "snippet": "HDFC Bank credit card caps SmartBuy brand voucher rewards from July 1 — What changes for customers? Livemint",
+      "severity": "major"
     },
     {
       "uid": "9552ff847f9f",
@@ -138,6 +205,18 @@
       ],
       "published": "2026-05-18T07:00:00+00:00",
       "snippet": "HDFC Bank credit cards just got devalued: What Regalia Gold, Diners Privilege users should know CNBC TV18",
+      "severity": "critical"
+    },
+    {
+      "uid": "cab49c17e317",
+      "title": "What to do with Amex Platinum Travel in 2026?",
+      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
+      "source": "CreditCardz",
+      "issuers": [
+        "American Express"
+      ],
+      "published": "2026-04-15T02:35:39+00:00",
+      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
       "severity": "critical"
     },
     {
@@ -199,18 +278,6 @@
       "severity": "critical"
     },
     {
-      "uid": "27e23e04f49b",
-      "title": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDdWZnhHMzRTNTJjTWkxbmg1R0NKYWpSdF95Q1NvYzF6Uk9PUTBFdUtRV1hwUGJOdFNEeFY2Qk9idG9qRUl3UHFhQk1vbjF4V1lvQXVpNDFVUG9kSmVvcFluajIwMHZDNlhXMGR6ajZ4OVlwcDF3Y3JscktDc21IeC13YkFTeEhFZ2wxMVZRWmpiTlhodmw4Nl9aTWd4LXh3ekl6RTcyWkxZeUVPdFUwMHlvdTVVZnFKdWQwVVRHTXlSZHMxUllvWmg1bULSAdIBQVVfeXFMT2pETmJKYlB5YTlvRjJjTmk2YXBSZ21mQkNaUnZoTzgwRmVaaG82NWVQeThKRlNZN2hxSGo3Z0Z0eUVDcFAyT0JtZ1FrTVFDRUswaFJEb0lfQ0VZWmVfOWRhWG9ybkdFUkExZVhFWk5ZcEZMRTloSmgwd2F6NjJtLWh6OURjd1BGejRfQnVfSklvbzUwQ0NpWmc0LWV1N1hZUzJyQkpOVDJXNkR2ZVEwOWZVY3k2M2FzR043YXFtSmdlQWgxMnBCRjd2QTh5WVdVZ2t3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-01-15T08:00:00+00:00",
-      "snippet": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 CNBC TV18",
-      "severity": "critical"
-    },
-    {
       "uid": "9857f803c756",
       "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
@@ -220,18 +287,6 @@
       ],
       "published": "2025-05-23T07:00:00+00:00",
       "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
-      "severity": "major"
-    },
-    {
-      "uid": "4ca559ccc0f7",
-      "title": "Axis Bank Magnus for Burgundy caps Accelerated EDGE Rewards - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0lkdDdrZFhuMl9fWk5oeG9vMTNqS3ZjT3BiZk1DeDcxUW1UcXgtby1RWktmMHdkSkh3NFk2cF8zbm1jbU1UREgyR1ZMdjhWR3RJWEpoVkkxcTZhWmx3Q2dFV2tCSUxtTmQ0RXBvbFhHT245QzJFOFZjWS1NWU4taThuV1FYaHVvalA3c2MyOF9EQQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2025-05-20T07:00:00+00:00",
-      "snippet": "Axis Bank Magnus for Burgundy caps Accelerated EDGE Rewards Live From A Lounge",
       "severity": "major"
     },
     {
@@ -269,18 +324,6 @@
       "published": "2024-12-19T08:00:00+00:00",
       "snippet": "Interest rates to fees: Axis Bank credit card rule changes start Friday Business Standard",
       "severity": "major"
-    },
-    {
-      "uid": "9c0180e0b528",
-      "title": "Devaluations are normal. So, why is it hurting Axis credit card holders? - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDg5MXQyalpjVFA2Umwwb0FTN3h0SDNjTHJQZFF6R1FaT2E1eUpWc0lYZkFOWHlSazc1cnlqWU1fS0haQXJFR2tBZWZSMHNmWUgyckhQQktTX3Q2dGRUTHk4TG4yYzhEaFUwTW5ZM182eGlJWHJvbkI2b2FrcF9IaXN4d1BaSDlDQUk0WENvVlpiQTRvUXRqTW9Ta0dHVlhRd1p1UGNOanh6cXEyaHl1UHN3eWJ5OTJteTZWRWFmdkN4U0IzRl8zTDRRMGVWV2pmWVZF0gHYAUFVX3lxTE80b2llMFc0OEswTVp2YnJBNlQ4cUxxaGJBMGlENllYSkk3dkxwY1I3eGtubnViMWxiODhkQjRzWFA5cXVTd3NHNW5haXdCTU5Kb2hhanU3QVoxQVAzVk1GSTh0a2pnZGR6S3ZsbHNERzU0MmNCVVdiMTExRFE3ekhxYmllb3Z5Ql95dHEwN09UWTNxT0VQYVVBUVMzRTRVNXpaS2VvSzZFZUhmRDBTRkFnRXA3T3dQcUtxSXRoNVlxWFZaMVhEZElpTDhoVHNxRGRSSG1WczN6MA?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2024-04-22T07:00:00+00:00",
-      "snippet": "Devaluations are normal. So, why is it hurting Axis credit card holders? Livemint",
-      "severity": "critical"
     },
     {
       "uid": "17383bad2461",
