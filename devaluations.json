@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T10:20:59.582322+00:00",
-  "count": 30,
+  "generated_at": "2026-11-21T10:05:59.728748+00:00",
+  "count": 32,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-20T10:20:46.905661+00:00",
+      "published": "2026-11-21T10:05:25.677518+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -48,28 +48,6 @@
       "severity": "critical"
     },
     {
-      "uid": "19e167610a74",
-      "title": "Amex India Transfer Partners 2026: Full List, Ratios & Best Value",
-      "url": "https://cardmaven.in/amex-india-transfer-partners/",
-      "source": "CardMaven",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-11-08T18:42:25+00:00",
-      "snippet": "Amex India has 7 transfer partners today. See the current ratios, the partners Amex removed, and where your MR points are worth the most.",
-      "severity": "critical"
-    },
-    {
-      "uid": "0a360adb3d64",
-      "title": "Visa Power Travel Offer 2026: Earn Up to 20% Rewards on International Spends",
-      "url": "https://cardmaven.in/visa-power-travel-offer/",
-      "source": "CardMaven",
-      "issuers": [],
-      "published": "2026-10-17T13:08:49+00:00",
-      "snippet": "International spending is usually where credit cards become expensive. Even cards with good rewards can lose much of their value to forex markup fees. Visa Power Travel changes the equation a little. It offers additional rewards on overseas spending, including a ₹10,000 bonus when you spend ₹1 lakh ",
-      "severity": "major"
-    },
-    {
       "uid": "a37007067418",
       "title": "Axis Atlas & Magnus Devaluation (September 2026): What   Edge Miles Users Need to Know",
       "url": "https://spendwisely.in/axis-atlas-magnus-devaluation-september-2026-what-edge-miles-users-need-to-know/",
@@ -89,6 +67,16 @@
       "issuers": [],
       "published": "2026-08-25T07:00:00+00:00",
       "snippet": "Credit card rewards get harder to earn: The major devaluations of 2026 Moneycontrol.com",
+      "severity": "critical"
+    },
+    {
+      "uid": "2bc2fd8d94aa",
+      "title": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQ2hCeEJXRXEtSk9admNKUUd5WlQ2NkprUEtoS2p3SndJSnN0ZGxweFJrWFA4NXg0WTVWalN3YjRkb1NCNVU2Njh1M3BNVi1yN2lFQlU5eUFiOG1hcmd4eVBSaXA?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-08-21T07:00:00+00:00",
+      "snippet": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase Live From A Lounge",
       "severity": "critical"
     },
     {
@@ -125,6 +113,16 @@
       ],
       "published": "2026-08-10T07:00:00+00:00",
       "snippet": "American Express Platinum Travel Card gets another devaluation: INR 1.9 lakh milestone removed, INR 7 lakh milestone rewards cut, lounge access gets a spend condition Live From A Lounge",
+      "severity": "critical"
+    },
+    {
+      "uid": "b71039a7c3b4",
+      "title": "Travel credit cards: The new winners after reward devaluations - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQkJrUmJTeTJGWFlxUGtoaHZhTktfejdBVXktWG9YLWppZk5JNTBPWjdDc3FjWXNSZzVORUpvYUVfNU9udWN4Y2E5OVBuWnhHTUt0MHJvMVk0S3ZBalpiRzRlekdrZlR6QmRrUHRUQ0k1RmgwV2RZellrYmtHZ0NKUHM4NTk1TlZraDRCenlGc2FCbU5NaUF0M1ByZHBvZ2dIYjdheF8wYUpRb1lqaU5iaXBGRXI4SGhfVGdnZzlkRW16T1ItUk9oddIBzgFBVV95cUxOSlBmSnk3ZkN5Y3pqeHBQZnVpZjRpNjdoTk5PTkNFYWN4ZGJ1OGdJajNoTV9kdEZ5TDk2VzE2MHRHV3RNNXI4Zkg5UTVEdnRMVWptc19WeVlOclZxYkFOa3Zyelg1MVAxUk9jUmtjWFRVVURIOXRFalNhRVBxU3dPVGJoTzI3UHBoNHpJekdqa0dFR3dEU1MtaHV6ajd3QmM3OHNHNndEbE9xdTY5MTU2WXQ4VmtMc3ozUGRxTWhsanpVWFdjUWQ3SmFYODJTdw?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2026-08-09T07:00:00+00:00",
+      "snippet": "Travel credit cards: The new winners after reward devaluations Livemint",
       "severity": "critical"
     },
     {
@@ -222,6 +220,18 @@
       "severity": "critical"
     },
     {
+      "uid": "ba8476c40031",
+      "title": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here - Livemint Money",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTR6Q0sxSlFEV3V6TldraVRnY2NENTdtbjdmUVR1cDZMWDg2RWJkNWVFMDZuSzZ2bGMwYkFYWkRHQmNxVDN6c2oyRG5yT0drUEUxcURrYXVCZThWUG9qd2FPOGNUckhXZ3pCNThQejJiVWxmcHM4S2VWU2dMaTNNTndhcGh0aWFZNVlzUWFmR1dwMDl3WVNkRktqbEFJeG5jUUozdm9nS0xsczEwa0tONzNKcHRnaVNYS01wU05kVWZaUWhRcWxKMmRsZWlEUFc3UWx5czh4eEw0S00?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-04-07T07:00:00+00:00",
+      "snippet": "HDFC Bank Regalia Gold and Diners credit card benefits revised. Details here Livemint Money",
+      "severity": "major"
+    },
+    {
       "uid": "e1c3c58360dd",
       "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
@@ -231,6 +241,16 @@
       ],
       "published": "2026-04-06T07:00:00+00:00",
       "snippet": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards CNBC TV18",
+      "severity": "major"
+    },
+    {
+      "uid": "fd3b6890bf8e",
+      "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-03-13T07:00:00+00:00",
+      "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates CNBC TV18",
       "severity": "major"
     },
     {
