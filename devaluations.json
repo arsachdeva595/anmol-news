@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:05:59.728748+00:00",
+  "generated_at": "2026-11-22T10:10:14.097338+00:00",
   "count": 32,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-21T10:05:25.677518+00:00",
+      "published": "2026-11-22T10:10:00.165800+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -67,16 +67,6 @@
       "issuers": [],
       "published": "2026-08-25T07:00:00+00:00",
       "snippet": "Credit card rewards get harder to earn: The major devaluations of 2026 Moneycontrol.com",
-      "severity": "critical"
-    },
-    {
-      "uid": "2bc2fd8d94aa",
-      "title": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase - Live From A Lounge",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQ2hCeEJXRXEtSk9admNKUUd5WlQ2NkprUEtoS2p3SndJSnN0ZGxweFJrWFA4NXg0WTVWalN3YjRkb1NCNVU2Njh1M3BNVi1yN2lFQlU5eUFiOG1hcmd4eVBSaXA?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [],
-      "published": "2026-08-21T07:00:00+00:00",
-      "snippet": "Flying Blue Is Devaluing Its Award Tickets From September 2026, But It Is Hiding The Increase Live From A Lounge",
       "severity": "critical"
     },
     {
@@ -247,7 +237,7 @@
       "uid": "fd3b6890bf8e",
       "title": "Credit card rule changes from April: Full list of cashback, fees and rewards updates - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW1aN1ctcV82Rnl3dWVrbGN4c3B2cVlXVzBKb1oydTJadDNRcmMyZldxQkhPcjUwNnBVUkFxTGExcU9zS0YwQkhTa2xnMEhtZlp4OEV5bGtSSWpTdTJaZDBVdDI2bGd4T3lmRWFEcXEtVHptLXJlZHRMNmtQd29ycHljNmxabFl5cUFUS3JGU2VhWXZMeVhjT0xWVTJpMkZjYUx1NmRPQjk1Qjg1WHJJS25UNUZadFRjXzJ3OGd3V1ZrMkJ3RWdpN0V0a0dQckw3MzhURU5nU2NJOGJRX3I3QjRXcDZjWDDSAewBQVVfeXFMTl9jVlM3RDZOVmxxTWlEMTZidTR2X3plUE12SmRzd3I3QWdmYklrWk5sZ3kxelZKNHlSeE1GS3NPemxZSEE2S083aVNGNEQwSzFLX3pCRzNQT3lvZmczR0NxN01yNmhIalZHc2x2NzcwQ0dTaTRCb3hydW9lcnBHbk9EVGxQNzZuSG5FbGRwTmt2X2RmRlIyU21zWnU2RGNuLW1MNlFSdTZ2dnV1MkpKQVE5MkJZa1RsbXRNcDJHQkhFdkY1TnJWWVlpM3paY09yN2RuSk5lQUU2emV4Z3NsNDJnOWY4aXA3MXJmOVk?oc=5",
-      "source": "Google News / offer",
+      "source": "Google News / devaluation",
       "issuers": [],
       "published": "2026-03-13T07:00:00+00:00",
       "snippet": "Credit card rule changes from April: Full list of cashback, fees and rewards updates CNBC TV18",
@@ -300,6 +290,18 @@
       "severity": "critical"
     },
     {
+      "uid": "27e23e04f49b",
+      "title": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDdWZnhHMzRTNTJjTWkxbmg1R0NKYWpSdF95Q1NvYzF6Uk9PUTBFdUtRV1hwUGJOdFNEeFY2Qk9idG9qRUl3UHFhQk1vbjF4V1lvQXVpNDFVUG9kSmVvcFluajIwMHZDNlhXMGR6ajZ4OVlwcDF3Y3JscktDc21IeC13YkFTeEhFZ2wxMVZRWmpiTlhodmw4Nl9aTWd4LXh3ekl6RTcyWkxZeUVPdFUwMHlvdTVVZnFKdWQwVVRHTXlSZHMxUllvWmg1bULSAdIBQVVfeXFMT2pETmJKYlB5YTlvRjJjTmk2YXBSZ21mQkNaUnZoTzgwRmVaaG82NWVQeThKRlNZN2hxSGo3Z0Z0eUVDcFAyT0JtZ1FrTVFDRUswaFJEb0lfQ0VZWmVfOWRhWG9ybkdFUkExZVhFWk5ZcEZMRTloSmgwd2F6NjJtLWh6OURjd1BGejRfQnVfSklvbzUwQ0NpWmc0LWV1N1hZUzJyQkpOVDJXNkR2ZVEwOWZVY3k2M2FzR043YXFtSmdlQWgxMnBCRjd2QTh5WVdVZ2t3?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC"
+      ],
+      "published": "2026-01-15T08:00:00+00:00",
+      "snippet": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 CNBC TV18",
+      "severity": "critical"
+    },
+    {
       "uid": "9857f803c756",
       "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
@@ -324,18 +326,6 @@
       "severity": "critical"
     },
     {
-      "uid": "42139014420f",
-      "title": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcEp3eUxlTXNVSkpEUHluT1hOc21XbTVCVjNDOGM3cGw5R0l6dUp0NzhUZGVJc1p1OXJ4eDk0aWV3UmVMbXFhWjFKZGk3SXdneHNBMTZGZUpYVHUySjNOZGhGdVIxLTFsYVRiWG5NVFp6UzRFVnpIVmtnLWpZV3dZTHJyWGdjZm1oRHJ1Q3E1N1dIemJQdkJHUVlSa05LZWlLbEhMOUxQSTh4WXZHYlZiUDNOVVhnc1QxT3EzSzcxLXVzWVMzNmZub2l1d1czMHVqSUN2VUd2R2hVQnRERi04SlZONV93bkoxa0xLOVBLZHE1WUgwLUZxa0NMOXpZZjJFTlZiM1htWVNvbmJKbEHSAZMCQVVfeXFMTjI3NFZzRTd3aHAzQlFIMXBpOThrQWVUcURWYkZ0NDNJZUhKWGxWVEl2LVB2RHdFeDJGanlwUjVfcDJNRU1rZ1FhNU9Db2dlYU5FVDlJSnRVem9NSlVycDJEX3E4b01TZFBaYXBhdVUzNHJOYjlVRFM5VUM5YlRIUHhabi02N0ZqTVJZRmpEbTFaSlk5LTBVaXdkcnkzWEM5T3VoR1poOWRyVGRKVnZUMU1adWxucEc3SFFTSDkxa0Y2TFJCZ1pmUzdDd190Tmc0clBadTVacXc2c3oyN0U4OU82S3JrOHdVbTFyZm9lVkdYeHhQbDQwcGRRNFBrYVBRVlBaOEVZWmE5NVg4N0pwYzFwYzQ?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "Axis Bank"
-      ],
-      "published": "2024-12-19T08:00:00+00:00",
-      "snippet": "Axis Bank credit card rules change from December 20. From finance charges to cash payment fees, check revised rates Livemint",
-      "severity": "major"
-    },
-    {
       "uid": "9b4cdbc3f2c8",
       "title": "Interest rates to fees: Axis Bank credit card rule changes start Friday - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWN4Zjhia2xWdUZNd0tPV0I2bzYzUk9VOTRfUHZWV3VTaE10bG82VXR0OVU2ZEd2eWpKYjNwNy1aVTkyWGhZV3lYNVZoeG5Xc0pkNnBHRjl4dmxBNUZVUXpHMm56bW9WWVk2TDlIV19WMHlZTEIwUHNEOHloT0JRWnN6elh4NEJrU3VyZE9EN1dTVEE5aFZtWTRDbHRGTnZzTU5oRTBTU3ZqdUxQbFlyOWNfb2FQa2JCYVdWZmN1Yy1QZVlwaFMxNXZZWkd6Y2F4VU1uMU94VXFPSW91ay1VWG1fY9IB6AFBVV95cUxPT0txNmlrSTBHcXlmaVc2c2h4SnZMLUoxMXMxRXExcGlfSDRZVWNURldvZ05SSlgzRlhXUFo4cTFaWVJvY2xJMFVTWFRNeDVfb3FVOVg2RjhiUEI2TVVUUlZYRUlydm51MnZJZ2dTdFc1c2xOS0lqTUhDVGhxVm5vUDFmeENhd0ZGOVZKX3l5QzZZOU9lMFlxLWZEY25FY2VqcGY0MGpIWTY5U3NlVTlDeUhScHNxTDdNeFNNcWhTZ2JmZmdzdVF6YmtMQ2VCLXVneHMzbGRHZjRMUTBTUDRpOXVTQ3FVQ05H?oc=5",
@@ -358,6 +348,19 @@
       "published": "2024-03-20T07:00:00+00:00",
       "snippet": "Axis Magnus Credit Card changes: Reward points revision from April 20, new lounge access rules from May 1 CNBC TV18",
       "severity": "major"
+    },
+    {
+      "uid": "183a196b6a3b",
+      "title": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2thSzlkUjRZUUpBd2NPM0tUNmMwY0hQUEVvYjdkVFFfUWFWSFBJcGJSZkpoVmpLSXE0NHFLbHNVZWJuTGQ3Uk4yaVFBNEhpNEc0aTdfb2p1b0ZVMnc2WHdWb1dqNlM0UW11UUFsQUZHTWVEMmtaeWUzSWhIcGhqajFRcnpzT29mcTJGYWZOcnRHTURJNUk2N2RKX2pUN2tna0drWGoycDBNeWk5Nk93YWdodWEzaVJvREM1SFNmVjhXUnZ4Z0pZemZob2h1ODQ0eE5pb3YyejBONmR2cXg0R0VzMGpFUdIB6wFBVV95cUxPSGxoS2huRl8tcTdSS0ptOTFiMnN0TDV4a1JtTm1SRl9Za05DaDRPYmxXNFY5U21Kd3d0YkFmaTZuamZpTHo2N0dxSE9KVFUwLUg1cFloZmN3ajNid0p5MXhrSFdEMzU2MDdUZENLS0p6c3ZlMm5kam5hdG03d3dTNHdLYVN5dGxpS0xCVlJKLWRkUEZ5S3dwcFRwUWNubUFLR2pIMWRnY3dSeThzZzh1aTZSSWlJNURvaTJpNFYzY3ZxV2cyUnFyRDg5VVNuRWdLMWpQaWJGQVNnTURrd09ZMmxGTl9CZTFCTjg4?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HDFC",
+        "Axis Bank"
+      ],
+      "published": "2023-11-03T07:00:00+00:00",
+      "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "severity": "critical"
     },
     {
       "uid": "c228365c4cab",
