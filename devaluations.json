@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:10:14.097338+00:00",
+  "generated_at": "2026-11-23T11:05:31.227532+00:00",
   "count": 32,
   "devaluations": [
     {
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-22T10:10:00.165800+00:00",
+      "published": "2026-11-23T11:05:18.951833+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
