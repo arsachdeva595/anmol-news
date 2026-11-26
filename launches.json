@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-25T11:37:48.812857+00:00",
-  "count": 13,
+  "generated_at": "2026-11-26T11:22:03.890523+00:00",
+  "count": 16,
   "launches": [
+    {
+      "uid": "5cf057d81acd",
+      "title": "YES BANK, novio Launch Dual Mastercard-RuPay Credit Card - Elets BFSI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80Y0g3WGJxQi1oamdEZmJYcFVtRWF3Vk8zOHU1YXZXTDJIMVNnUVVfT1ZFaUg5YWo3Y2haY0ZNaENWUUlSUWppU1cxU0toVGxHMEJhNXFYTTFlQnJMNWhjOFVXVDV2TVE?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Yes Bank"
+      ],
+      "published": "2026-11-21T23:41:20+00:00",
+      "snippet": "YES BANK, novio Launch Dual Mastercard-RuPay Credit Card Elets BFSI"
+    },
+    {
+      "uid": "59fe10ad1430",
+      "title": "YES BANK and novio launch Dual Credit Card, bringing Mastercard and RuPay on a single shared credit limit - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPV2pmZTg5cU16UzM0RUdSajJrM3c0a2ViLXg3czlmNTNCYkVZTlVaQ2FjT2hPVGYwS05qSFRNY3o2aEUydWZuTTBwQVZXU3pYbE5yZ0tJT0NvLVMyYnViYy1qRlZJT0wtTk5mdThlZjVWbDdrUHNlbUlLdjRlTzBWelc3QjRORGROS2lfSFY1aTNtVExDSEhoWXRHSjU5NUJsdVZ6T0xibmdyUjZ1QmJmMkdpckxZTGpiWE96ZnpoeWh4YVExZGFxZkdyQWw4OHBIRlp0aHhGQ01ua29ncXcyczc5MkFwbWZ5bVlhRWx5VDZBQ1hRYUowZm85a0pZWVRDS01saUVPR3Jua0ZlWGlaLU54d9IBmAJBVV95cUxPUm9mZkw4SC1zVlVtbDNVT3BKSE9FdUluZkFueFY2Q1VOV0lleWJQNHMtSm4xTHFrb0ZINWxjVUpzNEQ4aFJoYXVNUUdfQTkxVS0wclNvM2ptZVJyWms4TFNxejVXdTVzZ1Y4T0E3b3R0alNXMlFXY2hneXhuTVFsQ3dCOU4tZHJBdXIwNWlzYVNfdWFTeFhsQjlsYUQ2RENfbmo4N29RZWhiYXFfUy1WYUczd2o2TXNsdXZGcE8yVTB1VlJxMS01SmcwMWJwLW01WTdlejJDOEJiWjFOVXFKcC1ockxPUzNkUTdNVFEyOERoRDBFZG0xeENjV3REWkI5Q1JVeXV5NmVjNEVnSU9rWkJKSmRnWUxK?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "Yes Bank"
+      ],
+      "published": "2026-11-21T07:30:05+00:00",
+      "snippet": "YES BANK and novio launch Dual Credit Card, bringing Mastercard and RuPay on a single shared credit limit Business Standard"
+    },
     {
       "uid": "44c1beece4e8",
       "title": "Complimentary Fastrack Vibes 4.0 Smart Eyewear on New Titan SBI Credit Card Applications",
@@ -21,6 +43,17 @@
       ],
       "published": "2026-11-17T12:00:38+00:00",
       "snippet": "Soon after the launch of the Eternal co-branded credit card, another quick-commerce credit card appears to be on its way. The Zepto Kotak Credit Card has started appearing in select Zepto app accounts, hinting at a new partnership between Zepto and Kotak Mahindra Bank. While the card is not yet list"
+    },
+    {
+      "uid": "7d9d15a3b392",
+      "title": "SBI Card partners with Air India to launch travel credit card - Whispers in the Corridors",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjEyQ3VzNzV0TC1ITDBYRDlHVXBHazdHZmVod0ZxOHgxM2ZnZzJ0WnB5Q1dmem5EM1lab1ZkT2VHdmlfRGR4bDE5dEVhY1RJT01jZDZvNGZhTXdsV2thNlBlYjJDUndfNFZ4VE1xc0VPbnFoLV9xblEyMjFBOHZBVGZvNVg3dVJlWmVsZUJYR1h0REdoS0VQTVFGbEwxOEFtUHpF?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2026-10-30T07:00:00+00:00",
+      "snippet": "SBI Card partners with Air India to launch travel credit card Whispers in the Corridors"
     },
     {
       "uid": "45d8b048d03d",
@@ -44,17 +77,6 @@
       ],
       "published": "2026-10-28T07:00:00+00:00",
       "snippet": "Air India Maharaja Club and SBI Card announce a new co-branded credit card partnership Live From A Lounge"
-    },
-    {
-      "uid": "bd82bfefe5af",
-      "title": "Paytm, AU Small Finance Bank Launch Lifetime-Free RuPay Credit Card with UPI Rewards and Family Lounge Access - Elets BFSI",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnhZZ1d0T2pYUDdXYTN4QWhmYUxmVHR4T0lWMllxN3EzRnJJb3lJSTVadDNKOHBCM29EV05pT0p0WGhNOGFhSjlyb1BuWFpTbmx6VUpKMVR3ZlRKdE9BTFV1V05uS1lraTFCelJuZW9rX0VBN3FpMW5QU21WWVdNSzNwb0VuNXRheEdzZTRfWQ?oc=5",
-      "source": "Google News / benefit",
-      "issuers": [
-        "AU Small Finance Bank"
-      ],
-      "published": "2026-10-26T07:00:00+00:00",
-      "snippet": "Paytm, AU Small Finance Bank Launch Lifetime-Free RuPay Credit Card with UPI Rewards and Family Lounge Access Elets BFSI"
     },
     {
       "uid": "f3ab3e19d564",
@@ -83,6 +105,15 @@
       "snippet": "Apple Pay launches in India with Axis Bank credit card support The New Indian Express"
     },
     {
+      "uid": "5134d5dc47c5",
+      "title": "Amazon Pay launches business credit card in India - www.insideflyer.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWd1T3VxX3FIWHlKSGo3Q2NjRURWaWtwT0FHaXZHUXU2WGk0WnZCNmFrSVFySENXamduQTIxak5UZC1ENlgyeF9HSmpFQlBJbW15aGV2aFFwTW95N2ZuWmlQSzdqeWhzSlBJNUFCakpVakRST2xEdFpNZXVTMEUxeDJNaDExOUIyVXlOQg?oc=5",
+      "source": "Google News / offer",
+      "issuers": [],
+      "published": "2026-09-11T07:00:00+00:00",
+      "snippet": "Amazon Pay launches business credit card in India www.insideflyer.com"
+    },
+    {
       "uid": "20125ca458b5",
       "title": "Amazon Pay & KMB Launch Cobranded Credit Card - https://www.fintechbiznews.com/",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX255RWVZTnc4LWFtdkd2NFBhdnhFTnJMdWVLa0l3RWVNSVVuSDloOU1jSURHRWtFTURKZVJVY0gtV0treVV1N1FHX2FZZm5RcV83NGJuQXByNWdNX0NhRm9KcWRwOXB5cmJEN0F5QXNHQzFtSVBha3Z2b3JMc09oOTNxM3ZEd2UwVm1rLWVFcFdzV1BhWXdnVGpqYlBSbDBy?oc=5",
@@ -90,24 +121,6 @@
       "issuers": [],
       "published": "2026-09-09T09:28:46+00:00",
       "snippet": "Amazon Pay & KMB Launch Cobranded Credit Card https://www.fintechbiznews.com/"
-    },
-    {
-      "uid": "9640cc218620",
-      "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWk1CSUVVNkJZWmNpSGl1dXF3LTM5dW16cENHNDVBeXRxeVlUdVdhOHlKYUl1M3FfWEF2RkZ2OTFJUExxU1phanV4SUxZSF9OQWxvLWgxbjA5cl9nYXNQd21ILXVJZGlERHloSTBtT253X0xlOXVZR1o4UmkzRjZWdl9kRmlWNEFTVnBHQWV5YUNYajUwa0tkTEN1M29TOXhTRU1WdlJkV2hBMFMwbkRxdVh2anh3X1BIR3EtSzJwU3pOLUsteGpETjcyaGFnazE2XzRjV1N4akJWSkVZOFA1MtIB5gFBVV95cUxNTVRPZ0xpd0R3NWlQUHdzZUx2TjVlSGRPQVhfc2xVaDByaXBTWFgwM3BXd1ZsV0dDTEo4R1F5S08zcVBfV0FteW54djRrblhZRVdJeGlGZDhwM1pCWTJ2ejZUOEZrUFZYcVg0c0Z4bFZxeFZGSU10cGVCWVZtay1XRVJtd0htTjdnZ3U0WDFSR3RpRkRYT0NsS1o4VEtFUTFrUk5LNUhqQ1NOcGEtaU95WGpJQUplY1Fjb3J6N2ZaOTZTOXpvR3diMWdhZHVMT001ZVBTNWhDYzdZSFFkaG1LZGwtTTVHUQ?oc=5",
-      "source": "Google News / launch",
-      "issuers": [],
-      "published": "2026-06-25T07:00:00+00:00",
-      "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card bfsi.economictimes.indiatimes.com"
-    },
-    {
-      "uid": "4631d06f04a8",
-      "title": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRtUUFWbk44enJMLTNCSXBRVVlCZHA1bjlEUmdnSm1Ua2tSZVZfREY0MWU2WFNIU005WEt1TnR1NE5oMmtmTG1xTEV2dFdxTTJxQ080STg4YXJ2b2w2UjlqS25EUEJ4dG9BZXpKOEZUTFdUc1FLR2hBZHh4b2FhVEU1aUFtQ2wyOWNHUkRjZEl5SWlLckpEVXlSMUg0c1l6Z2loTHN0RVp4TFJkQTFfSHpzLXpUUVJ5Wmg2WDhibGVYbV9wd3hXYmZPT2lpeGRjSElEVtIB2gFBVV95cUxQVnhUekU0X0xqUEtoMUwzblV4T0owNzZJV1RqM1RzM1VKck85eUtZSXVrTmpoX3c2cDllcTZOTGdCTFB4Wl83MEM3MFFQQTBFTl9CMjN3Wk9SYlByTEdpT3ZnNmRPTjFmdlU5U1Rqb0FtSl9IOVJ5UXR4ZHRMYkpTbktUQ0NacFNQUF9OODRZWVYzcWYzY3l1WFlyZW45Y2RjOUhycDNUbTdPMzZOamdXVWlLNDA4Q2xUM3ludjluWF8tNDBTUU4xVzBXTU1vemhQSmptM1hrVGltdw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [],
-      "published": "2026-06-25T07:00:00+00:00",
-      "snippet": "Build Credit, Earn Cashback: Paisabazaar and SBM Bank India Launch Paisa+ Secured Credit Card ThePrint"
     },
     {
       "uid": "826d33e538af",
@@ -139,6 +152,26 @@
       ],
       "published": "2025-09-25T07:00:00+00:00",
       "snippet": "IndiGo, SBI Card launch new co-branded credit card for customers Business Standard"
+    },
+    {
+      "uid": "2b0fe3603910",
+      "title": "Citi Launches the Citi Strata Elite Credit Card - Citigroup",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXRWQktXWTlrd2wzeHA2OFRrSnlHOXQ4TEJRSldWNEthSE5zVGFmYzhueGRJemdpZkZSN1R3bWw3MFdhZ3o1bmtJWDR4T1l6RFVGYkdObnN0NGpKQ0JBR0tGOWY4MnZLb3o4dHdNdllLcDNJLUhCcHpyYkYtVFoyeWN2cGczdTNVNHhmZWZrVHhIUjVCbG5Pa1J3bng1VVJJMGc?oc=5",
+      "source": "Google News / launch",
+      "issuers": [
+        "SBI Card"
+      ],
+      "published": "2025-07-28T07:00:00+00:00",
+      "snippet": "Citi Launches the Citi Strata Elite Credit Card Citigroup"
+    },
+    {
+      "uid": "e53efb630908",
+      "title": "How I flew Business Class to New Zealand using credit card points - Team-BHP",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjBEb3FpODNKSjFrQmVGWnp1UzJSYkRabUl4SnhuSkN1VzQ4U0tTTGxPLVZ2NDRkYVFWbVg5WTVlbUtPUzVsSzhfYUtnaGZpaDJ6WnZBd3phRUlDbndOaGJpTEdvZzNILWRBYzVYSUFOc0JaNTBvNl9BWGtxQUdFcExSbWszNGI3WlY4SlI2NHdBZHowaU1n0gGcAUFVX3lxTE9FZUozRS1QQTdXeGdueUx1RUNKc01VS1NEM3Q4RVRDVXdGbmJ2NU1pTV9FTEJIMDhoVjdVWkgwaFRTRFZ5Z1RhcElPQkxnRlM0TWxNM2lOSTFnOGNjdWxpT1pkMXR0MngzNENmU3N6UFFQWDFjd1hmWVVrU0hrNUdISThudW1IZzRVc1B0LUZ4aGpxZVRVOHhxb2d1UQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [],
+      "published": "2024-12-31T08:00:00+00:00",
+      "snippet": "How I flew Business Class to New Zealand using credit card points Team-BHP"
     }
   ]
 }
