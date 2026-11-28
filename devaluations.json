@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T11:15:46.981485+00:00",
-  "count": 33,
+  "generated_at": "2026-11-28T10:46:17.392610+00:00",
+  "count": 29,
   "devaluations": [
     {
       "uid": "8f57ecedb02c",
@@ -10,7 +10,7 @@
       "issuers": [
         "HSBC"
       ],
-      "published": "2026-11-27T11:15:32.627022+00:00",
+      "published": "2026-11-28T10:45:55.584932+00:00",
       "snippet": "Get up to 10X accelerated reward points when you spend over INR10,000.",
       "severity": "major"
     },
@@ -35,23 +35,13 @@
       "severity": "critical"
     },
     {
-      "uid": "2bf58560abd0",
-      "title": "Earn Up to 20% Rewards on International Spends with Your Visa Credit Card",
-      "url": "https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/",
-      "source": "CardInsider",
-      "issuers": [],
-      "published": "2026-11-17T11:45:54+00:00",
-      "snippet": "There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times. Until 30 September 2026, the offer followed a different structure, whereas from October onwards, Visa Power Travel has taken a completely different and more offline-focused approach towards rewards. Regard",
-      "severity": "major"
-    },
-    {
-      "uid": "c3b48a2ca010",
-      "title": "After Widespread Protests, India’s Top Court Demands Explanation for Revision of Voter Rolls - globalpost.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObURKV0xZZVM0T2ZFNzBFU3hsc041QXJMOXZmbWlHaW9YY29ZcktVcEpmRzZuXzZMT0NSRXNFYUlsaUtuQXo1TUJOX2tIcFpQc2p4WWd5M1h3TlR6Zk4tRUVVcEdTSHZZcF9sREs0dGdDcjhCUEl6Mk9felB1am8xa2pLREFwdkFLRDFPSnRsNmMxWWVtS0VyRDRid0JKdDBYelBRNEhGaXl4WHNldmlWdnJvV20tY1BaMWlvcVYxMA?oc=5",
+      "uid": "6948f15faa7c",
+      "title": "Credit Card Rule Changes Late 2026: 4 Checks Before Dec - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1lMTmFrWWIzQ1NvRkxpcmpqU1lyaUdlZXRRLVhkN2c2dUY1WURoRDlYbktSWGVvRmJOd2c5OEtzNjlfNUdPbEpMWndkV3ZHXzFJRVJsRkNiZVp6dkpOWUtBeDd2MnQ4R1pCSzdvZ3QyNUZjRnctVV9jTEJXTjhaNlFEWWFlTjZYT0VoS1ZhYjNVX1hRcXZ2LWw2R241WTdIR1pQSWFB?oc=5",
       "source": "Google News / devaluation",
       "issuers": [],
-      "published": "2026-10-06T08:02:57+00:00",
-      "snippet": "After Widespread Protests, India’s Top Court Demands Explanation for Revision of Voter Rolls globalpost.com",
+      "published": "2026-11-12T08:00:00+00:00",
+      "snippet": "Credit Card Rule Changes Late 2026: 4 Checks Before Dec Value Research",
       "severity": "major"
     },
     {
@@ -67,39 +57,15 @@
       "severity": "critical"
     },
     {
-      "uid": "44a4af8f417d",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTndDZXMtRmRZcG42LW1zODRkUnFOWEJ2U2pPcDZQSFk5czQtNGlvRHZUSkFGT3B0clZ5MUg2c1FoaTRScWpORzIwYmh6TUEtT1UtMnk0Z3dwLXd2NmtLenlkZVA5TUg3UUJxMmcyUW1QM2JleDFWZ0lMbDhkVV9zem5nc05yaE1oUzVMdkU0NXFCYzdUS0hzc3RfaG9SMVc1dmhUdFV5bS12c2tkY1VQVWJEWmVYcGRBMlFEcnJZNnJFVTU5dEtMLXBTcFVqSlQ0VHRPQXI3aGlNNEdGRERXV01VYW50U1Jwems4TtIB8gFBVV95cUxQQzg5eGpwNmEwb2pvZS1tR0RZMjRyWFdaaUlBMFFjQThQekFqVkgxYWVQTGZEeW9kYmVWeDBCSkNOTTFnb0JoYXJmNWhXVEZzTjRaamFwVVhTdTRnN2x1bFBWMEhqUEZRNHZSN1RENFNUdzhxdmtrdlExZ0ZxY1JiT0ZKekw2bjJNTGFPZ1g1eS02cVU5LUw2US1FWlM5OFk0cm1qTVE1ZnNrdF9CRlA5X3lrZUxTNjYzRUlsbmZsM2R4NnlfSEJXR2dFc0dQWWt1NWhFQXdDakhjUl9yM2RBaUxpVXp5eko3WDBpVC1rUzJaUQ?oc=5",
-      "source": "Google News / offer",
+      "uid": "ab28b6002e8b",
+      "title": "American Express card changes: 2 services to go, rewards also revised - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUtORDdqUVpSdHljMmlYTHRUSEdrQ1pnVzFfRW9QQTZJWHEtc3RxZlRmZ1JyX2t0ck9UelF3VXVsSUg5aFFscV96eDdzYW1zU2hPYm40amtQWC1wUFozM2l2SjcxVVBDSzI4R1hTMmRhNW9EcEZibEJRNWtRV3M5WHdyVjc5Q2pLT1d6aWtSTkUzMnVHc0FWRk1FUHlia0V5dVdvbFY0NktBY0EyWDd5a09zU1JkZmtoRjRtX0dIeVhlU2x2bGRNTXBvdXNmN1lhY1FZT0NiamRaU0dUbEhB0gHkAUFVX3lxTFBMbkJUVDJrN0pNRzJiNENsNklxT1B2eTNwVWpJQUtVLXFZanlicVlkdFV1N1pnUzg3eDZKOGJlOGdDbDRKNzdRQWczVW5OaGpiN2RWbmJ6RHkzNjFJTldlbnlIQ0ZIYVpCOG0xc3MxVTFLQ0t4eXNhWlBiUHU3RUY4UnZsRlJrc1VDUmcxREJ1UndvYXNZcDZodE4yUWJOWk1Ca3h0ZGRCak5tMW5qNWh5S0JYdUxTMEhweFpycFFtQnlqQkFUMTMtYjcwMmRNaFFYWm1ZbHpRV3FzYVNNaWxRWU9HUw?oc=5",
+      "source": "Google News / benefit",
       "issuers": [
-        "Federal Bank"
+        "American Express"
       ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends bfsi.economictimes.indiatimes.com",
-      "severity": "major"
-    },
-    {
-      "uid": "0d8b993ee7fc",
-      "title": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlZxWE9EVWpOaG4zR2Y0ckV1Yl9LeDVfVEZhSFBmVHNqZkdKX3RFVzNxNVVXdDM3SEl5OGxxcmhnVklSV000S1NGeFN1Zl9yODNsc2REUzlQanBjYkkwWkZBT3Z5MFQ2MTJzcFJkUURCc1Q1MXBhSXAyaktOMmozOEUzVmZWallFbUs4eG4zcjBsUVVuQ1B1aXdyQmk1ZXpJXzYyS2JWTUUycUV0VTdaLUlNN2NHUmNtQmpIeURQNld5dm1Mb1lmWGRyZ0ZzNm4zbWxCYTh4YnJxYXJhUWZZctIB5gFBVV95cUxQVTVsdnU3VlBLaHJ0dkJWTFZMQlB4aXljYWFoa0k1QXJDcmE2ZF9MVWFucElVMVJ2VDRROWVRSFZjY1Q1NmhaX3pqT0xuUDhxQ215eTNTdUllalR1TDVNQk9sUnUwYW1NeDYxYjdpSTZ6RWlzbmVVNW9QYUg3NEZHdjlsVUR1U0NEWDhpNnZlOTdjcXpsLXdYcmVVSmdQMDM5ZC0xS3FtdG42SFBpNDJYZjgzS3FCUDNvUndOVi01REpNQnk2Q1hPMzBsZmRSYmdSaEtMQjNGc2didmROQlFmNG1wTVNYZw?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-14T07:00:00+00:00",
-      "snippet": "Paisabazaar and Federal Bank Launch Paisaback RUPAY Credit Card with 7.5% Cashback on Grocery Spends ThePrint",
-      "severity": "major"
-    },
-    {
-      "uid": "33fe0ef1bc40",
-      "title": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOempWN2dZc2MxdEI5c2NqTEF6SXdReC1yTVlkam5Bd2RqOVE1R3l6NDZCYlg1MWFmS2RESDhWcVZhUGdXRmRXMnBvTzdTNE9xNVVrU1RIazJLaFZsbVpnYkZBRnkycGc3ZFpZUUF5UmVONElDUDNKS19PaGZiVHZGb21HRHZ2c0s4QS1sckY5b1p2SmVZR2NaMGpfTWVCeVBibzZBZlBFWF91UEE4OWN1QkZIaDU2NFpvSW1tWVR3ay1rdFVvd19EaUpuODJUV2R2bGFtWURJNC1hUUVLVTVWOXZNZzRFMW0zYjlmQmhMZkRkdEFfTEd5aUE4YkJaRW9FekVuUE5R0gGLAkFVX3lxTE5ZMUwxdGllQ1NiUTg4c3Z6ajhEZktoRHo2QXI5YThaZXhiVmp4RTFlUUU2X1htM1RKWjRSSllDQ29PcXJuOEllVHdudmxHX2N6RkR0ZmppZ3lMejBRWEZKUDFSMlVaRk52amU5WUx4ZnhabWJNenBGUlhhOXl3SG5EdXdfQlZvZF9tZTlqZDBJeENGVW9oenpJSkQ5QTN6N1RVZWR1eTNIdzhhY002UE9RQzFnZW1iVHJXem1PZ2FjMF9wa3ozMlQ0S1VXLU1WaDdRaTJyQnlqWktEQVlPOWs3ODJnOVNEWUJVTFZDb2lySkdmZGVodnVGS2hWNjZSczhfRlg0T3VkTF9SQQ?oc=5",
-      "source": "Google News / offer",
-      "issuers": [
-        "Federal Bank"
-      ],
-      "published": "2026-09-11T07:00:00+00:00",
-      "snippet": "Federal Bank, Paisabazaar launch Paisaback Credit Card with 7.5% cashback on grocery spends The Times of India",
+      "published": "2026-09-03T07:00:00+00:00",
+      "snippet": "American Express card changes: 2 services to go, rewards also revised Business Standard",
       "severity": "major"
     },
     {
@@ -231,18 +197,6 @@
       "severity": "critical"
     },
     {
-      "uid": "cab49c17e317",
-      "title": "What to do with Amex Platinum Travel in 2026?",
-      "url": "https://creditcardz.in/what-to-do-with-amex-platinum-travel-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-with-amex-platinum-travel-in-2026",
-      "source": "CreditCardz",
-      "issuers": [
-        "American Express"
-      ],
-      "published": "2026-04-15T02:35:39+00:00",
-      "snippet": "For years, the Amex Platinum Travel card was one of the easiest recommendations simply because it was predictable and very rewarding at ₹4L annual spend. Math was simple, spend 4lk a year in a manner that you like and earn 7%+ rewards. However, with the recent devaluation, this has now changed. Amex",
-      "severity": "critical"
-    },
-    {
       "uid": "e1c3c58360dd",
       "title": "HDFC Bank to cut rewards from May; link lounge access to spends from July on select credit cards - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlpMS1U0RnVHX3YxUlFRWW9FZW9KS2lrMHlEXzJ3WVVnQlJydEJweVhRc29QMlZCMWRjT3dGRFgxT25YRlJ4bkNEeDFvbi1DUlYtOE5FOUtYb21mRTc4Y1MwRUNHeFU3aEV5VUZ0N1VrenFnaHBtMDFHelllZVM3RlhtTmtvY0hPQ0dfdFdWd0c0NFpReFRuenFvdTNyakdVYW90UXQ4b0FKZUVabzk4UHN4dzMxdUdBbWFIb0dzanFmOUVtaWZ6cHRaS1lvWUwtbGx3TEtKQdIB3AFBVV95cUxOR3ktcFZmYUk5WnZRVGhjWDduTy13Z2lOTFZDUVowRUJXaTcyN1EtdnU3Y2pyLXF6OGNodnQ3c3ZpYlRzY0YxOEl0MWtFZkVBUjlEdHQ2c01QRW5mRVBVdUZxWll6WTZ4aE9NNXhhVll1YnlIRGQzTzMwMmpnejU1TkttRENjRWxQMUxvVU40Q3lsY0FGQnljSzBvaXF6cEU0bHBxbUhTb2xtZ0d3eU9pUXR0c2dFRGdFTWN4ZWQ3QVJpbnpabWwySjFvOG5ISWV3RzNMTkR5Ql9RNWtF?oc=5",
@@ -311,18 +265,6 @@
       "severity": "critical"
     },
     {
-      "uid": "27e23e04f49b",
-      "title": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDdWZnhHMzRTNTJjTWkxbmg1R0NKYWpSdF95Q1NvYzF6Uk9PUTBFdUtRV1hwUGJOdFNEeFY2Qk9idG9qRUl3UHFhQk1vbjF4V1lvQXVpNDFVUG9kSmVvcFluajIwMHZDNlhXMGR6ajZ4OVlwcDF3Y3JscktDc21IeC13YkFTeEhFZ2wxMVZRWmpiTlhodmw4Nl9aTWd4LXh3ekl6RTcyWkxZeUVPdFUwMHlvdTVVZnFKdWQwVVRHTXlSZHMxUllvWmg1bULSAdIBQVVfeXFMT2pETmJKYlB5YTlvRjJjTmk2YXBSZ21mQkNaUnZoTzgwRmVaaG82NWVQeThKRlNZN2hxSGo3Z0Z0eUVDcFAyT0JtZ1FrTVFDRUswaFJEb0lfQ0VZWmVfOWRhWG9ybkdFUkExZVhFWk5ZcEZMRTloSmgwd2F6NjJtLWh6OURjd1BGejRfQnVfSklvbzUwQ0NpWmc0LWV1N1hZUzJyQkpOVDJXNkR2ZVEwOWZVY3k2M2FzR043YXFtSmdlQWgxMnBCRjd2QTh5WVdVZ2t3?oc=5",
-      "source": "Google News / devaluation",
-      "issuers": [
-        "HDFC"
-      ],
-      "published": "2026-01-15T08:00:00+00:00",
-      "snippet": "HDFC Infinia credit card rewards devalued: Here's what changes from Jan 16 CNBC TV18",
-      "severity": "critical"
-    },
-    {
       "uid": "9857f803c756",
       "title": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSHoyZUcwQmFhcW84M3BnNXZmQk5PeDJIMmgwcEZSVFZyTVdxRzJRQ1otWG5EdGh0emNCb3NRWUlkRnE5bFVtckxsdkpJRGlwQXFXSWJ5TFFYSkFEbG9NUG9oemVoTU1IdjFqc0tyY2pfR3ZtTEN4M3FBUTltZDlUcF85RFRnUm1CQXdHdjQ4N3d1MWh5TkxSY21sdVU5Z0FqQWRrVktUNG92cDVCUmVMdXlkSGdHM0ZqeXIycU1HU1ZibU5WNWoyZjdhRnRITFVxaURGdHFMVjMtLTBYQ1I2RFBsQi16bzE4WnYtN3NRWXJ6WVNWSTl1NzJyMmlkd214RnlTem5Ka0pOOVHSAZACQVVfeXFMUGluWDV3OFlJdkdRUUpOTmNjNHRma1RMQkJaM0w5ZnZ6QWVUSGxoMTgxZm1EdTNMZ0liTXgwMWtlcGM4OE1CT3hrZ1MtOGRRWDJVLVRweF9QVE9mR3BJTEs0YnA0cTBvYWlqakpVM0VSTnJ0blpGaEhYekw0RmpGZ0FETzlDNDhQSVRWeUd6dWswemdaMzBYYlY2RDVpS1hodVBydUp5bXBkUExuaVJoaDhWYnBQd1d3NGw3bERGcWp5MHNIb1FlaG92OW4yc0RZczdNU0RRVW01RlhsT2NNNkhQSjlPZFp2S0o4WnQyeW9OZ3dMeFNRcEFRaEVoYzJSNlU4UDdNcERxY0dXSlNodnE?oc=5",
@@ -333,6 +275,18 @@
       "published": "2025-05-23T07:00:00+00:00",
       "snippet": "Axis Bank credit card terms revised: Magnus, Burgundy see benefit downgrades, boost for Select and... Moneycontrol.com",
       "severity": "major"
+    },
+    {
+      "uid": "122683528444",
+      "title": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXVYaHFaNVlCSnh5LUwwSFJXby1vb0pzVi1Wc2NHVVltbmRIZ01mOUhVd1VPdC1uM1hZbTFmY19nS1ZMc21ZZEQ5a3pmV3FhOW9kRk8zSlhPNTVOU2NET0VFSzhaMDlrTjVZc0RyaFBwZS1QbXE2c3VhRkhsYjBfRXFjWQ?oc=5",
+      "source": "Google News / devaluation",
+      "issuers": [
+        "HSBC"
+      ],
+      "published": "2025-02-22T08:00:00+00:00",
+      "snippet": "HSBC Premier Credit Card walks back on devaluation due to go live as of April 2025 Live From A Lounge",
+      "severity": "critical"
     },
     {
       "uid": "42139014420f",
@@ -371,16 +325,15 @@
       "severity": "major"
     },
     {
-      "uid": "183a196b6a3b",
-      "title": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2thSzlkUjRZUUpBd2NPM0tUNmMwY0hQUEVvYjdkVFFfUWFWSFBJcGJSZkpoVmpLSXE0NHFLbHNVZWJuTGQ3Uk4yaVFBNEhpNEc0aTdfb2p1b0ZVMnc2WHdWb1dqNlM0UW11UUFsQUZHTWVEMmtaeWUzSWhIcGhqajFRcnpzT29mcTJGYWZOcnRHTURJNUk2N2RKX2pUN2tna0drWGoycDBNeWk5Nk93YWdodWEzaVJvREM1SFNmVjhXUnZ4Z0pZemZob2h1ODQ0eE5pb3YyejBONmR2cXg0R0VzMGpFUdIB6wFBVV95cUxPSGxoS2huRl8tcTdSS0ptOTFiMnN0TDV4a1JtTm1SRl9Za05DaDRPYmxXNFY5U21Kd3d0YkFmaTZuamZpTHo2N0dxSE9KVFUwLUg1cFloZmN3ajNid0p5MXhrSFdEMzU2MDdUZENLS0p6c3ZlMm5kam5hdG03d3dTNHdLYVN5dGxpS0xCVlJKLWRkUEZ5S3dwcFRwUWNubUFLR2pIMWRnY3dSeThzZzh1aTZSSWlJNURvaTJpNFYzY3ZxV2cyUnFyRDg5VVNuRWdLMWpQaWJGQVNnTURrd09ZMmxGTl9CZTFCTjg4?oc=5",
+      "uid": "c228365c4cab",
+      "title": "HDFC Diners Club Privilege Credit Card set for big devaluation - Live From A Lounge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHhtaGxENGFXQkw4cHV4aU5sY24tNkh0R3F2RjZhcW4yN0RXbE9DVVU4UWx3d2p0akY5UW1Ed2poeDBNVlljM2ZFSXpLMXEzYkZMTkl4X1oyWUhDdFZ4ZFhQY3FuaUgyaWxQbHV6UnotWTkxVmFtOFV0S0V3VkxVcjdtZUlrcmpoTk44T1puejRrMTQ0d2c?oc=5",
       "source": "Google News / devaluation",
       "issuers": [
-        "HDFC",
-        "Axis Bank"
+        "HDFC"
       ],
-      "published": "2023-11-03T07:00:00+00:00",
-      "snippet": "HDFC Regalia to Axis Magnus: Why banks are devaluing popular credit cards Business Standard",
+      "published": "2023-06-16T07:00:00+00:00",
+      "snippet": "HDFC Diners Club Privilege Credit Card set for big devaluation Live From A Lounge",
       "severity": "critical"
     }
   ]
